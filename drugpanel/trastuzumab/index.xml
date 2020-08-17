@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/trastuzumab/</link>
+      <atom:link href="/mesothelioma/drugpanel/trastuzumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/trastuzumab/</link>
+    </image>
+    
+    <item>
+      <title>TRASTUZUMAB</title>
+      <link>/mesothelioma/drugpanel/trastuzumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/trastuzumab/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00072&#39; target=&#39;_blank&#39;&gt;db00072&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=trastuzumab&#34; target=&#34;_blank&#34;&gt;trastuzumab&lt;/a&gt; &lt;br&gt;
+Synonymous :rhumab her2 | trastuzumab-anns | trastuzumab-dkst | trastuzumab-dttb | trastuzumab-pkrb | trastuzumab-qyyp
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;trastuzumab&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12209878&#34; target=&#34;_blank&#34;&gt;12209878&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The effect of the anti-HER-2/neu antibody (Trastuzumab) alone, and in combination with cisplatin (CDDP) at different doses (ranging from 0.1 to 100 microg/ml), was studied on all the c-erB-2 positive cell lines. […] Trastuzumab was able to inhibit cell proliferation in a time-dependent manner, with growth inhibition also obtained at low concentrations (0.1-1 microg/ml). […] Combined treatment with Trastuzumab (10 microg/ml) and CDDP (1 microg/ml) showed synergism.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23329660&#34; target=&#34;_blank&#34;&gt;23329660&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biodistribution and single photon emission computed tomography (SPECT)/computed tomography (CT) imaging studies were performed in mice (four or five per group, depending on tumor growth) bearing subcutaneous and orthotopic MPM tumors by using HER1- and HER2-targeted indium 111 ((111)In)- and iodine 125 ((125)I)-labeled panitumumab and trastuzumab, respectively. […] At 2 days after injection, the mean (111)In-panitumumab uptake of 29.6% injected dose (ID) per gram ± 2.2 (standard error of the mean) was significantly greater than the (111)In-trastuzumab uptake of 13.6% ID/g ± 1.0 and the (125)I-panitumumab uptake of 7.4% ID/g ± 1.2 (P = .0006 and P = .0001, respectively).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26503698&#34; target=&#34;_blank&#34;&gt;26503698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It was reported that the tyrosine kinase inhibitor (TKI) lapatinib enhanced trastuzumab-mediated antibody-dependent cellular cytotoxicity (ADCC) in HER2-positive breast cancer, suggesting that this combination is a promising strategy for MPM treatment. […] The aim of the present study was to explore the possibility of a TKI combined with trastuzumab to enhance ADCC in MPM cells. […] The combined effects of TKI with trastuzumab on ADCC were evaluated using the LDH release assay. […] Additionally, MPM cells were isolated from patients and evaluated for lapatinib-induced upregulation of HER family receptors and trastuzumab- or cetuximab‑mediated ADCC. […] As expected, more trastuzumab bound to MPM cells pretreated with lapatinib than untreated cells, resulting in the enhancement of trastuzumab-mediated ADCC in MPM cells. […] In patient-derived MPM cells, both HER2 and EGFR were upregulated by lapatinib, resulting in the enhancement of both trastuzumab- and cetuximab-mediated ADCC. […] Of the three TKIs, only lapatinib enhanced trastuzumab-mediated ADCC via the upregulation of HER2 expression in MPM cells, suggesting that sequential combination of lapatinib and trastuzumab may be a promising strategy for MPM treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

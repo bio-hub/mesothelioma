@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/gefitinib/</link>
+      <atom:link href="/mesothelioma/drugpanel/gefitinib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/gefitinib/</link>
+    </image>
+    
+    <item>
+      <title>GEFITINIB</title>
+      <link>/mesothelioma/drugpanel/gefitinib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/gefitinib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00317&#39; target=&#39;_blank&#39;&gt;db00317&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gefitinib&#34; target=&#34;_blank&#34;&gt;gefitinib&lt;/a&gt; &lt;br&gt;
+Synonymous :4-(3’-chloro-4’-fluoroanilino)-7-methoxy-6-(3-morpholinopropoxy)quinazoline | gefitinib | n-(3-chloro-4-fluorophenyl)-7-methoxy-6-(3-(4-morpholinyl)propoxy)-4-quinazolinamine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gefitinib&lt;/em&gt; gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15788680&#34; target=&#34;_blank&#34;&gt;15788680&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Cancer and Leukemia Group B conducted a phase II study of gefitinib, an inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase, in patients with previously untreated malignant mesothelioma. […] Gefitinib (500 mg p.o.) was administered once a day for 21 days. […] Although 97% of patients with mesothelioma had EGFR overexpression, gefitinib was not active in malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16401712&#34; target=&#34;_blank&#34;&gt;16401712&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interesting studies further addressed the correlation between molecular tumor profiling and clinical outcome with molecularly targeted agents in NSCLC, in particular gefitinib and erlotinib. […] Still, the Southwest Oncology Group 0023 randomized trial of maintenance gefitinib after definitive chemoradiation in unresectable NSCLC failed to demonstrate an advantage for maintenance gefitinib over placebo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16989994&#34; target=&#34;_blank&#34;&gt;16989994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, the targeted agents imatinib, gefitinib, erlotinib and thalidomide have been shown to be ineffective in unselected patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18364248&#34; target=&#34;_blank&#34;&gt;18364248&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In contrast, the selective EGFR tyrosine kinase inhibitor, gefitinib, had no effect against EHMES-10 cells both in vitro and in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19708533&#34; target=&#34;_blank&#34;&gt;19708533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we compared Epidermal Growth Factor Receptor (EGFR) aberrations in malignant mesotheliomas to those in lung cancers, to determine whether gefitinib may be useful for treatment of a malignant mesothelioma. […] These results suggest that it would be rare for a patient with malignant mesothelioma to benefit from gefitinib treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20088784&#34; target=&#34;_blank&#34;&gt;20088784&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of the present study was the evaluation of the effects of Gefitinib on EGF-induced mesothelioma cell proliferation and the intracellular mechanisms involved. […] Gefitinib inhibited EGF-induced proliferation in two mesothelioma cell lines, derived from pleural effusion (IST-Mes2) or tumor biopsy (ZL55). […] The treatment with Gefitinib induced cell cycle arrest in both cell lines, while apoptosis was observed only for high concentrations and prolonged drug exposure. […] Gefitinib inhibited both EGFR and ERK1/2 activation, being maximal at drug concentrations that induce cytostatic effects, suggesting that the proapoptotic activity of Gefitinib is independent from EGFR inhibition. […] Gefitinib treatment increased EGFR Bmax, possibly through membrane stabilization of inactive receptor dimers that we show to be induced by the drug also in the absence of EGF. […] Low concentrations of Gefitinib cause mesothelioma cell cycle arrest through the blockade of EGFR activity while high concentrations induce apoptosis. […] Finally, we propose that the formation of inactive EGFR dimers may contribute to the antitumoral activity of Gefitinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20692828&#34; target=&#34;_blank&#34;&gt;20692828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In vitro cytotoxicity studies showed the STO cell line to be resistant to gefitinib and sensitive to sequential treatment with RAD001 and sorafenib; these findings were consistent with the presence of the KRAS mutation G12D in these cells although it was not detectable in the original tumour.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21124760&#34; target=&#34;_blank&#34;&gt;21124760&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also demonstrate that differential expression of ERβ influences MMe tumor cell responsiveness to the therapeutic agent: Gefitinib. […] This study describes a role for ERβ in the modulation of cell proliferation and EGFR activation and provides a rationale to facilitate the targeting of a subgroup of MMe patients who would benefit most from therapy with Gefitinib alone or in combination with Akt inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21288646&#34; target=&#34;_blank&#34;&gt;21288646&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, several agents targeting these processes, including erlotinib, gefitinib, and imatinib, have proven ineffective in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21787763&#34; target=&#34;_blank&#34;&gt;21787763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We tested the effects of the EGFR TKIs gefitinib and erlotinib and TKIs targeted to other growth factors (VEGFR and PDGFR), in comparison to standard antineoplastic agents, in two human MPM cell lines, IST-Mes2 and ZL55. […] Moreover, the treatment of IST-Mes2 with TKIs (gefitinib and imatinib mesylate) in combination with cisplatin and gemcitabine did not show additivity. […] Focusing on the molecular mechanisms underlying the antiproliferative and pro-apoptotic effects of EGFR-TKIs, we observed that gefitinib induced the formation and stabilization of inactive EGFR homodimers, even in absence of EGF, as demonstrated by EGFR B(max) and number of sites/cell. […] The analysis of downstream effectors of EGFR signaling demonstrated that EGF-induced proliferation, reverted by gefitinib, involved ERK1/2 activation, independently from Akt pathway. […] Gefitinib inhibits MPM cell growth and survival, preventing EGF-dependent activation of ERK1/2 pathway by blocking EGFR-TK phosphorylation and stabilizing inactive EGFR dimers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21970874&#34; target=&#34;_blank&#34;&gt;21970874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We treated H2052, H2452, H28 and MSTO-211H cells with carboplatin, pemetrexed and targeted compounds (gefitinib, erlotinib, sorafenib, vandetanib, enzastaurin and ZM447439) and evaluated the modulation of pivotal pathways in drug activity and cancer cell proliferation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26503698&#34; target=&#34;_blank&#34;&gt;26503698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Five MPM cell lines were used to test the effects of TKIs targeting EGFR (gefitinib, afatinib and lapatinib) on cell proliferation and the expression of the HER family receptor. […] In MPM cell lines, HER2 expression was upregulated by lapatinib, downregulated by afatinib and unaffected by gefitinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

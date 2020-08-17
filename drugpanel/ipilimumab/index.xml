@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/ipilimumab/</link>
+      <atom:link href="/mesothelioma/drugpanel/ipilimumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/ipilimumab/</link>
+    </image>
+    
+    <item>
+      <title>IPILIMUMAB</title>
+      <link>/mesothelioma/drugpanel/ipilimumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/ipilimumab/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06186&#39; target=&#39;_blank&#39;&gt;db06186&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ipilimumab&#34; target=&#34;_blank&#34;&gt;ipilimumab&lt;/a&gt; &lt;br&gt;
+Synonymous :ipilimumab
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ipilimumab&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24615668&#34; target=&#34;_blank&#34;&gt;24615668&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The monoclonal antibodies ipilimumab and tremelimumab that block CTLA-4 can stimulate immune response and thus increase the number of tumor-infiltrating lymphocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29742520&#34; target=&#34;_blank&#34;&gt;29742520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ipilimumab and nivolumab are immune-checkpoint inhibitors commonly used for melanoma. […] We describe a 74-year-old male with malignant pleural mesothelioma who presented with opsoclonus and marked truncal ataxia ∼10 weeks following immunotherapy with ipilimumab and nivolumab. […] A variant of opsoclonus-myoclonus-ataxia syndrome may occur following treatment with ipilimumab and nivolumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30660511&#34; target=&#34;_blank&#34;&gt;30660511&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we assessed the safety and efficacy of the combination of nivolumab, an anti-programmed cell death 1 antibody, plus ipilimumab, an anti-cytotoxic T-lymphocyte protein 4 antibody, in patients with previously treated and relapsed malignant pleural mesothelioma. […] Patients received intravenous nivolumab (240 mg every 2 weeks) plus intravenous ipilimumab (1 mg/kg every 6 weeks up to four times). […] In this single-centre phase 2 trial, the combination of nivolumab plus ipilimumab showed marked efficacy in patients with recurrent malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30660609&#34; target=&#34;_blank&#34;&gt;30660609&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were randomly allocated (1:1) to receive intravenous nivolumab (3 mg/kg bodyweight) every 2 weeks, or intravenous nivolumab (3 mg/kg every 2 weeks) plus intravenous ipilimumab (1 mg/kg every 6 weeks), given until progression or unacceptable toxicity. […] Between March 24 and August 25, 2016, 125 eligible patients were recruited and assigned to either nivolumab (n=63) or nivolumab plus ipilimumab (n=62). […] In the first 108 eligible patients, 12-week disease control was achieved by 24 (44%; 95% CI 31-58) of 54 patients in the nivolumab group and 27 (50%; 37-63) of 54 patients in the nivolumab plus ipilimumab group. […] Anti-PD-1 nivolumab monotherapy or nivolumab plus anti-CTLA-4 ipilimumab combination therapy both showed promising activity in relapsed patients with malignant pleural mesothelioma, without unexpected toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30762130&#34; target=&#34;_blank&#34;&gt;30762130&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The USA has included in the NCCN guidelines that pembrolizumab (in programmed death ligand 1 (PD-L1) immunohistochemistry (IHC)-positive patients) and nivolumab with or without ipilimumab (whatever the PD-L1 status is) are accepted salvage therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30788836&#34; target=&#34;_blank&#34;&gt;30788836&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed the United States Food and Drug Administration (FDA) Adverse Event Reporting System (FAERS) database for pembrolizumab, atezolizumab, nivolumab, ipilimumab, avelumab, and durvalumab 2 years prior their FDA approval until December 31, 2017, to include all cases with confirmed diagnosis/relapse of MS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31825692&#34; target=&#34;_blank&#34;&gt;31825692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several trials with monotherapy or cotherapy with nivolumab have commenced, including randomized trials of nivolumab monotherapy vs. placebo in the salvage setting, and cotherapy with nivolumab and ipilimumab vs. the platinum doublet in the frontline setting.&lt;b&gt;Expert opinion&lt;/b&gt;: Nivolumab seems like a reasonable option for unresectable, relapsed MPM despite the lack of randomized trial data.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

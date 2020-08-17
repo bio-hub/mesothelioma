@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/gold/</link>
+      <atom:link href="/mesothelioma/drugpanel/gold/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/gold/</link>
+    </image>
+    
+    <item>
+      <title>GOLD</title>
+      <link>/mesothelioma/drugpanel/gold/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/gold/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14154&#39; target=&#39;_blank&#39;&gt;db14154&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gold&#34; target=&#34;_blank&#34;&gt;gold&lt;/a&gt; &lt;br&gt;
+Synonymous :aurum metallicum | colloidal gold | gold flake | gold leaf | gold powder | gold, colloidal | gold, elemental
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gold&lt;/em&gt; gene in 41 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12057157&#34; target=&#34;_blank&#34;&gt;12057157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Doxorubicin has historically been considered the gold-standard chemotherapy, although its true response rate is likely only 15%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12215551&#34; target=&#34;_blank&#34;&gt;12215551&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to evaluate the usefulness of (18)F-FDG-CI in the assessment of malignant pleural mesothelioma using histopathology as the gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12711467&#34; target=&#34;_blank&#34;&gt;12711467&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sensitivity for pleural malignancy from the biopsy specimen was the primary endpoint, with the patient’s clinical outcome after 1 year being the diagnostic gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15511473&#34; target=&#34;_blank&#34;&gt;15511473&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleural biopsy has been proposed as the diagnostic gold standard. […] Open pleural biopsy is accurate and should be considered the gold standard diagnostic method for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17249532&#34; target=&#34;_blank&#34;&gt;17249532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current diagnostic gold standard is principally based on light microscopic examination of hematoxylin-eosin and immunohistochemical stains of large tissue sections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17382060&#34; target=&#34;_blank&#34;&gt;17382060&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Filters were allowed to dry, gold plated and scanned microscopically.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18369634&#34; target=&#34;_blank&#34;&gt;18369634&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ‘gold standard’ was follow-up examination. […] Modified RECIST criteria were identically classified as gold standards in all cases, whereas using RECIST criteria in four cases there was a mismatch (partial response vs. stable disease). […] Modified RECIST criteria were identically classified as in gold standards in 48 out of 50 patients, whereas using RECIST criteria in 6 cases there was a mismatch (partial response vs. stable disease).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18791416&#34; target=&#34;_blank&#34;&gt;18791416&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Afterward, consensus reading was performed.In 52 patients, surgery served as gold standard. […] In 2 patients, follow-up control served as gold standard as an inoperable situation with distant metastases was found.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19375046&#34; target=&#34;_blank&#34;&gt;19375046&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The optimal treatment of MPM was not clearly defined, until the publication of the multicentre, controlled and randomized phase III trial by Vogelzang et al. in 2003, which made the pemetrexed-cisplatin association the gold standard for the non-operable stages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23020727&#34; target=&#34;_blank&#34;&gt;23020727&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hematoxylin-eosin examination remains the gold standard, and the role of immunochemistry is extremely controversial; we believe that at present there is no reliable immunohistochemical marker of malignancy in this setting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23516416&#34; target=&#34;_blank&#34;&gt;23516416&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BSA was imprinted on the gold electrode with hydroxyl terminated alkane thiols, which formed a self-assembled monolayer (SAM) around BSA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23873013&#34; target=&#34;_blank&#34;&gt;23873013&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study based on the third phase of the architecture of diagnostic research was to assess the sensitivity and specificity of soluble mesothelin-related peptide (SMRP) in pleural exudative effusions (PE) compared to the histology obtained by medical thoracoscopy as the diagnostic gold standard examination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24604935&#34; target=&#34;_blank&#34;&gt;24604935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biopsy remains gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24867517&#34; target=&#34;_blank&#34;&gt;24867517&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although a right-video-assisted thoracoscopy was considered the gold standard in this clinical setting to achieve a tissue acquisition of the pleura, an EUS (as the least invasive procedure) was attempted to reach a definitive diagnosis. […] We may assume that, in selected patients, this technique could be presented as a viable option to the more invasive surgical procedure, which has been previously the gold standard for the pleural tissue acquisition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25598227&#34; target=&#34;_blank&#34;&gt;25598227&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the current practice of medicine, the gold standard for diagnosing mesothelioma is through a pleural biopsy with subsequent histologic examination of the tissue. […] Experimental comparisons also show that the new method can significantly outperform standard numerical feature-type methods in terms of agreement with the clinical diagnosis gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25966972&#34; target=&#34;_blank&#34;&gt;25966972&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A degree of disagreement exists between these two modalities, which supports thoracoscopy as the gold standard for assessment of local invasion in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25979846&#34; target=&#34;_blank&#34;&gt;25979846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current gold standard of MPM diagnosis is a combination of two positive and two negative immunohistochemical markers in the epithelioid and biphasic type, but sarcomatous type do not have specific markers, making diagnosis more difficult.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26071130&#34; target=&#34;_blank&#34;&gt;26071130&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+EBUS represents a minimally invasive alternative diagnostic technique for dry-type mesothelioma, showing thickness of the mediastinal pleura in contact with a central airway or when thoracoscopy, which remains the “gold standard” diagnostic approach, is not feasible.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27300447&#34; target=&#34;_blank&#34;&gt;27300447&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This modality is considered to be the gold standard for the evaluation of the pleural interface, characterization of complex pleural effusion, and identification of exudate and hemorrhage, as well as in the analysis of superior sulcus tumors, as it enables more accurate staging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27405014&#34; target=&#34;_blank&#34;&gt;27405014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An ultrastructural study of fresh tissue is considered to be the “gold standard.” In most cases, the first diagnostic approach is performed on pleural effusion, and in some patients, this is the only available sample for diagnosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27702935&#34; target=&#34;_blank&#34;&gt;27702935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Histopathological verification is the gold standard, and studies such as CT, positron emission tomography (PET) and thoracoscopy are very valuable tools in assisting diagnosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27835874&#34; target=&#34;_blank&#34;&gt;27835874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Histological examination of pleural lesions is the gold standard of MPM diagnosis, although it is sometimes hard to discriminate the epithelioid type of MPM from benign mesothelial hyperplasia (MH).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28676211&#34; target=&#34;_blank&#34;&gt;28676211&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) is a rare malignancy, and pemetrexed/cisplatin (PC) is the gold standard first-line regime.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28838385&#34; target=&#34;_blank&#34;&gt;28838385&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High resolution computed tomography, (HRCT), is currently considered the diagnostic gold standard to diagnose early stage malignant pleural mesothelioma and other non-malignant pleural conditions, but it is expensive and exposes the patient to radiation dose.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29462963&#34; target=&#34;_blank&#34;&gt;29462963&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Accurate diagnosis of MPM is often difficult and complex, and the gold standard diagnosis test is based on qualitative analysis of markers in pleural tissue by immunohistochemical staining.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29507800&#34; target=&#34;_blank&#34;&gt;29507800&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For such patients, chemotherapy (CT) represents the gold-standard treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29507804&#34; target=&#34;_blank&#34;&gt;29507804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Histopathological analysis of pleural tissues is the gold standard for diagnosis; however, it can be difficult to differentiate malignant from benign pleural lesions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30054348&#34; target=&#34;_blank&#34;&gt;30054348&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was no evidence to support the use of oncological therapies as an alternative to MPE drainage, and the literature supported the use of tissue biopsy as the gold standard for diagnosis and treatment planning.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30060030&#34; target=&#34;_blank&#34;&gt;30060030&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was no evidence to support the use of oncological therapies as an alternative to MPE drainage, and the literature supported the use of tissue biopsy as the gold standard for diagnosis and treatment planning.Management options for malignant pleural effusions have advanced over the past decade, with high-quality randomized trial evidence informing practice in many areas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450290&#34; target=&#34;_blank&#34;&gt;30450290&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gas chromatography-mass spectrometry (GC-MS), the gold standard of breath analysis, appears to be the method with the highest accuracy (97%) to differentiate MPM patients from at risk asbestos-exposed subjects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450291&#34; target=&#34;_blank&#34;&gt;30450291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The gold standard in treatment remains cytoreductive surgery (CRS) combined with hyperthermic intraperitoneal chemotherapy (HIPEC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30630566&#34; target=&#34;_blank&#34;&gt;30630566&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Diagnostic accuracy of a limited immuno-panel of Calretinin and Ber-EP4 for diagnosis of malignant effusions was calculated using histopathology as gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30774332&#34; target=&#34;_blank&#34;&gt;30774332&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of gold nanoparticles (GNPs) as a drug delivery system promises several advantages, including specific targeting of malignant cells, with increased intracellular drug accumulation and reduced systemic toxicity, and, in the case of MPM, direct treatment administration into the pleural space.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31838086&#34; target=&#34;_blank&#34;&gt;31838086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated TLR3 expression and sensitivity of human mesothelioma cell lines to the synthetic dsRNA Poly(I:C), alone or in combination with cisplatin, the gold standard chemotherapy in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32312091&#34; target=&#34;_blank&#34;&gt;32312091&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Histopathology, despite being the gold standard as a diagnostic tool, does not always provide a correct diagnosis for different pleural lesions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32429446&#34; target=&#34;_blank&#34;&gt;32429446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Good agreement was found between the information obtained by gold-standard diagnostic methods such as computed tomography CT and model output.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32448904&#34; target=&#34;_blank&#34;&gt;32448904&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Diagnosis: pleural biopsies remain the gold standard to confirm the diagnosis, usually obtained by thoracoscopy but occasionally via image-guided percutaneous needle biopsy in cases of pleural symphysis or poor performance status.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32451346&#34; target=&#34;_blank&#34;&gt;32451346&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Diagnosis: pleural biopsies remain the gold standard to confirm the diagnosis, usually obtained by thoracoscopy but occasionally &lt;i&gt;via&lt;/i&gt; image-guided percutaneous needle biopsy in cases of pleural symphysis or poor performance status.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32642113&#34; target=&#34;_blank&#34;&gt;32642113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracoscopy, either “medical” or “surgical”, is the gold standard to reveal the cause of pleural effusion by taking large biopsies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6206729&#34; target=&#34;_blank&#34;&gt;6206729&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The immunoultrastructural localization of keratin proteins and carcinoembryonic antigen (CEA) in mesothelioma cells was accomplished with a low-temperature embedding colloidal gold technique.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9390137&#34; target=&#34;_blank&#34;&gt;9390137&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For electron microscopic examination the cell suspensions were then incubated with gold-labeled antirabbit antibody.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

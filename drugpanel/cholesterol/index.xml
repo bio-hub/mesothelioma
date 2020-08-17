@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/cholesterol/</link>
+      <atom:link href="/mesothelioma/drugpanel/cholesterol/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/cholesterol/</link>
+    </image>
+    
+    <item>
+      <title>CHOLESTEROL</title>
+      <link>/mesothelioma/drugpanel/cholesterol/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/cholesterol/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04540&#39; target=&#39;_blank&#39;&gt;db04540&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cholesterol&#34; target=&#34;_blank&#34;&gt;cholesterol&lt;/a&gt; &lt;br&gt;
+Synonymous :(3β,14β,17α)-cholest-5-en-3-ol | cholest-5-en-3beta-ol | cholesterin
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cholesterol&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12659954&#34; target=&#34;_blank&#34;&gt;12659954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this work, the tumor suppressor gene p16 was efficiently transferred into FR cells isolated from a patient with malignant mesothelioma using cationic liposomes prepared from trimethyl aminoethane carbamoyl cholesterol (TMAEC-Chol) and triethyl aminopropane carbamoyl cholesterol (TEAPC-Chol).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24293999&#34; target=&#34;_blank&#34;&gt;24293999&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, to enhance the delivery of miR, the miRs were encapsulated in the DOTAP (N-[1-(2.3-dioleoyloxy)propyl]-N,N,N-trimethyl ammonium)/Cholesterol/DSPE (1,2-distearoyl-sn-glycero-3-phosphoethanolamine-N-[cyanur(polyethylene glycol)-2000])-PEG (polyethylene glycol)-cyanur liposomal nanoparticles (LNP) and ephrin-A1 was conjugated on the surface of LNP to target receptor EphA2 on lung cancer cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25262213&#34; target=&#34;_blank&#34;&gt;25262213&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We evaluate this hypothesis using data from the published literature regarding the airways microbiota toxins such as cholesterol-dependent cytolysins (CDCs).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25757929&#34; target=&#34;_blank&#34;&gt;25757929&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Encapsulation of PMX within liposomes was remarkably increased by the incorporation of cholesterol within liposomal membranes and by increasing the total lipid concentration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26476173&#34; target=&#34;_blank&#34;&gt;26476173&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PMX encapsulated within either cholesterol-containing (PMX/Chol CL) or cholesterol-free (PMX/Non-Chol CL) cationic liposome was intrapleurally injected into tumor-bearing mice. […] PMX encapsulated in cholesterol-free liposomes (PMX/Non-Chol CL) drastically inhibited the tumor growth in the pleural cavity, while free PMX and PMX encapsulated in cholesterol-containing liposomes (PMX/Chol CL) barely inhibited the tumor growth.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30317725&#34; target=&#34;_blank&#34;&gt;30317725&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the significant changes in triglyceride and cholesterol ester content, protein and nucleic acid structure, a lower membrane fluidity, and higher membrane order were only observed in the MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/1401/</link>
+      <atom:link href="/mesothelioma/genepanel/1401/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/1401/</link>
+    </image>
+    
+    <item>
+      <title>CRP</title>
+      <link>/mesothelioma/genepanel/1401/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1401/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;C-reactive protein&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1401&#34; target=&#34;_blank&#34;&gt;1401&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1401&#34; target=&#34;_blank&#34;&gt; 1q23.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/123260&#39; target=&#39;_blank&#39;&gt;123260&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene belongs to the pentaxin family. It is involved in several host defense related functions based on its ability to recognize foreign pathogens and damaged cells of the host and to initiate their elimination by interacting with humoral and cellular effector systems in the blood. Consequently, the level of this protein in plasma increases greatly during acute phase response to tissue injury, infection, or other inflammatory stimuli. [provided by RefSeq, Sep 2009] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CRP</title>
+      <link>/mesothelioma/genepanel/1401/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1401/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;C-reactive protein&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; CRP expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000132693
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+172.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000132693
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000132693
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000132693
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+532.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000132693
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CRP</title>
+      <link>/mesothelioma/genepanel/1401/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1401/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;C-reactive protein&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CRP gene in 14 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/10759883&#34; target=&#34;_blank&#34;&gt;10759883&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Levels of TNFalpha, interleukin-6 (IL-6), interleukin-8 (IL-8), C-reactive protein (CRP) and secretory phospholipase A2 (sPLA2) were measured using enzyme-linked immunosorbent assays (ELISAs). […] A slower and less dramatic pattern was observed for the levels of CRP and alpha1-AG. […] In serum no detectable levels of TNFalpha and no IL-8 were observed, whereas serum levels of IL-6, sPLA2 and CRP showed a clear increase after intrapleural administration of TNFalpha.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15729603&#34; target=&#34;_blank&#34;&gt;15729603&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At the first presentation, the WBC count was 8600 cells/microl and C-reactive protein (CRP) was 0.6 mg/dl. […] Seventeen months later, the WBC count had increased to 53,600 cells/microl (93% neutrophils) and CRP to 27.1 mg/dl.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20465088&#34; target=&#34;_blank&#34;&gt;20465088&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No reccurence occured when the P-CRP (pleural) and S-CRP (serum) ratio exceeded 60% during the first 48 hours after pleurodesis. […] The P-CRP/S-CRP ratio as a promising marker of talc pleurodesis effectiveness and monitoring both P-CRP and S-CRP levels is inexpensive and acceptable method for clinical practice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21755828&#34; target=&#34;_blank&#34;&gt;21755828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Procalcitonin (PCT) and C-reactive protein (CRP) measurements in pleural fluid and plasma have been proposed to facilitate differential diagnosis of pleural effusion (PE). […] CRP and PCT were measured in pleural fluid and plasma before starting treatment. […] The CRP levels in pleural fluid were higher in patients with BPE than in patients with MPE [33.1 mg/L (16.8 to 52.1) vs. […] 11.8 (5.1 to 22); p = 0.001], as were the plasma CRP levels [68.4 mg/L (26.1 to 119.1) vs. […] The AUC derived from the ROC curve analysis for plasma CRP and pleural fluid CRP were 0.667 (CI 95%: 0.551 - 0.782) and 0.752 (CI 95%: 0.653 - 0.852), respectively. […] Plasma CRP levels &amp;gt; or = 35.5 mg/L exhibited 71% sensitivity and 56% specificity in discriminating between BPE and MPE. […] Pleural fluid CRP levels &amp;gt; or = 16.7 mg/L had 75% sensitivity and 68% specificity in the diagnosis of BPE. […] CRP levels in the pleural fluid and plasma were higher in patients with BPE, particulary infectious PE. […] However, the measurement of CRP and PCT is not a useful parameter for discriminating between BPE and MPE and does not provide useful information in clinical practice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22750759&#34; target=&#34;_blank&#34;&gt;22750759&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate the prognostic and predictive relevance of pretreatment serum C-reactive protein (CRP) in malignant pleural mesothelioma (MPM) patients. […] Clinical data, including survival and pretreatment CRP levels, were retrospectively collected from 115 patients with histologically proven MPM. […] The association between CRP levels and survival was analyzed using Cox models adjusted for clinical and pathological factors. […] Median pretreatment CRP of all patients was 1.19 mg/dL (range: 0.00-22.62 mg/dL). […] Patients with elevated CRP levels (≥1 mg/dL; n = 62, 53.9%) had a significantly shorter overall survival compared with those with normal CRP (hazard ratio [HR] 2.81, 95% confidence interval [CI] 1.82-4.33; P &amp;lt; 0.001). […] In multivariate survival analyses, elevated CRP was confirmed as an independent prognostic factor in MPM (HR 2.07, 95% CI 1.23-3.46; P = 0.01). […] Most interestingly, we observed a significant interaction between CRP and treatment modality (P &amp;lt; 0.001). […] Among patients with normal CRP levels, radical tumor resection within multimodality therapy was associated with distinctly prolonged overall survival when compared with treatment protocols without surgery (HR 7.26, 95% CI 3.40-15.49; P &amp;lt; 0.001). […] In contrast among patients with elevated CRP, no survival benefit was achieved by radical surgery within multimodality approaches (HR 0.911, 95% CI 0.53-1.58; P = 0.74). […] Our results suggest that multimodality regimens including radical resection increase survival selectively in MPM patients with normal pretreatment serum CRP levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24088916&#34; target=&#34;_blank&#34;&gt;24088916&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Five months after the treatment for acute empyema, a 75-year-old woman was referred to our hospital because of marked elevation of the white blood cell (WBC) count and C-reactive protein (CRP) level, and a right pleural mass detected by chest computed tomography. […] At this time, the WBC count and CRP level had increased to 60400/microl and 18.2 mg/dl, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25059234&#34; target=&#34;_blank&#34;&gt;25059234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Systemic changes due to the inflammatory reaction (body temperature, serum leukocyte and CRP levels) were evaluated. […] Local indicators of inflammation included changes in the leukocyte cell population in the effusion and changes in the pleural CRP levels. […] The dynamics of local inflammatory changes were an early increase in the pleural CRP levels in both groups. […] The differences in the serum and pleural effusion CRP levels suggest that the surgical stress manifests itself locally in the pleural space with a lower intensity and time delay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25633038&#34; target=&#34;_blank&#34;&gt;25633038&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The prognostic power was comparable to other recently published prognostic factors (CRP, fibrinogen, neutrophil-to-leukocyte ratio (NLR) and nuclear grading score) and was recapitulated in the validation cohort (P=0.048).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25669666&#34; target=&#34;_blank&#34;&gt;25669666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following parameters were prospectively recorded: age; sex; smoking history; asbestos exposure; C-reactive protein (CRP) levels; platelet (PLT) count; Eastern Cooperative Oncology Group performance status (ECOG PS); histologic subtype; clinical stage (cStage); chemotherapy; pleural fluid volume; and persistence of lung expansion at 3 months follow-up. […] Multivariate analysis showed that non-epithelioid histology (hazard ratio [HR], 2.81; 95% CI, 1.82% to 5.09%), pleural fluid recurrence (HR 2.54; 95% CI, 1.73% to 4.40%), cStage greater than II (HR 2.36; 95% CI, 1.50% to 4.32%), ECOG PS greater than 1 (HR 2.19; 95% CI, 1.26% to 4.23%), CRP greater than 5 mg/L (HR 2.01; 95% CI, 1.18% to 4.12%), and PLT count greater than 400,000 (HR 1.76; 95% CI 1.14% to 3.92%) were independent predictors of poor prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28133237&#34; target=&#34;_blank&#34;&gt;28133237&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 23-year-old female patient with ascites, anemia, and high levels of ferritin and CRP was diagnosed with pleural mesothelioma by exploratory laparotomy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31846131&#34; target=&#34;_blank&#34;&gt;31846131&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was a significantly higher rise in CRP in the Pleurodesis Success group compared with the Pleurodesis Failure group (mean difference: 19.2, 95% CI of the difference: 6.2-32.0, P = 0.004) but no significant change in WCC. […] Change in CRP during pleurodesis is associated with successful pleurodesis but higher levels of pain are not associated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32206574&#34; target=&#34;_blank&#34;&gt;32206574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is a growing body of literature that identifies patients who clearly obtain no benefit from surgery including those with sarcomatoid or biphasic histology, nodal disease, elevated CRP, elevated platelets and advanced age.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32238865&#34; target=&#34;_blank&#34;&gt;32238865&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, the impact of C-reactive protein (CRP) and platelet count was also analysed. […] CRP and Ki-67 index were also prognostic and remained independent prognosticators after multivariate analysis. […] Interestingly, Ki-67 index and CRP influenced the prognostic power of PD-L1. […] Finally, patients receiving ICI tended to have a longer median OS and CRP - but not PD-L1 - was a significant prognosticator in this subgroup.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/9611971&#34; target=&#34;_blank&#34;&gt;9611971&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Leukocytosis in peripheral blood and a high CRP value were uncommon in benign asbestos pleurisy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CRP</title>
+      <link>/mesothelioma/genepanel/1401/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1401/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;C-reactive protein&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CRP</title>
+      <link>/mesothelioma/genepanel/1401/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1401/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;C-reactive protein&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

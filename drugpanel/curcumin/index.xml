@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/curcumin/</link>
+      <atom:link href="/mesothelioma/drugpanel/curcumin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/curcumin/</link>
+    </image>
+    
+    <item>
+      <title>CURCUMIN</title>
+      <link>/mesothelioma/drugpanel/curcumin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/curcumin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11672&#39; target=&#39;_blank&#39;&gt;db11672&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=curcumin&#34; target=&#34;_blank&#34;&gt;curcumin&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;curcumin&lt;/em&gt; gene in 5 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21594647&#34; target=&#34;_blank&#34;&gt;21594647&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Curcumin, the major component in the spice turmeric, alone or in combination with other chemotherapeutics has been under investigation for a number of cancers. […] In this study, we investigated the biological and molecular responses of MPM cells to curcumin treatments and the mechanisms involved. […] Flow-cytometric analyses coupled with western immunoblotting and gene-array analyses were conducted to determine mechanisms of curcumin-dependent growth suppression of human (H2373, H2452, H2461, and H226) and murine (AB12) MPM cells. […] Curcumin inhibited MPM cell growth in a dose- and time-dependent manner while pretreatment of MPM cells with curcumin enhanced cisplatin efficacy. […] Curcumin activated the stress-activated p38 kinase, caspases 9 and 3, caused elevated levels of proapoptotic proteins Bax, stimulated PARP cleavage, and apoptosis. […] In addition, curcumin treatments stimulated expression of novel transducers of cell growth suppression such as CARP-1, XAF1, and SULF1 proteins. […] Oral administration of curcumin inhibited growth of murine MPM cell-derived tumors in vivo in part by stimulating apoptosis. […] Thus, curcumin targets cell cycle and promotes apoptosis to suppress MPM growth in vitro and in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22388865&#34; target=&#34;_blank&#34;&gt;22388865&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Curcumin, which has a long history as a dietary spice is known to suppress the growth of multiple cancer lines, but the effects on mesothelioma cells are not well defined. […] In the present study we examined the effects of curcumin on ACC-MESO-1, which is a human derived mesothelioma cell line. […] We found that curcumin dose-dependently reduced cell viability but did not induce apoptosis. […] Curcumin administration increased LC3B-II/LC3B-I expression, and induced the formation of autophagosomes on electron microscopy. […] From these findings it was speculated that induction of autophagy was at least in part involved in the reduction of cell viability by curcumin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25028262&#34; target=&#34;_blank&#34;&gt;25028262&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The EF24, a curcumin analog, also affects several signaling pathways and kills cancer cells as a single agent or in combination with classical drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30272283&#34; target=&#34;_blank&#34;&gt;30272283&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previous studies have indicated that curcumin exerts antiproliferative and antitumor effects, and has low toxicity. […] The present study aimed to evaluate the anticancer effects of curcumin on the RN5 MPM cell line. […] The inhibitory effects of curcumin on cell viability were determined using the sulforhodamine B assay. […] In addition, cell cycle progression was analyzed by propidium iodide (PI) staining and flow cytometry, and curcumin‑induced apoptosis was measured by Annexin V/PI double staining. […] The results indicated that curcumin inhibited RN5 cell viability and induced apoptotic cell death. […] In addition the findings suggested that curcumin-induced cell apoptosis occurred via the mitochondrial pathway, and caspase‑independent and AIF-dependent pathways. […] Further analysis revealed that curcumin may act as a PI3K-Akt-mTOR signaling pathway inhibitor by downregulating PI3K, p-Akt, p-mTOR and p-p70 ribosomal protein S6 kinase. […] Furthermore, curcumin inhibited tumor angiogenesis in vivo. […] In conclusion, curcumin may be potent enough to be developed as a novel therapeutic agent for the treatment of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32155978&#34; target=&#34;_blank&#34;&gt;32155978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this review article was to describe recent findings about the anti-cancer activity of curcumin and some of its derivatives on mesotheliomas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

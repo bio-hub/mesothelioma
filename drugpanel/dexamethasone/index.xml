@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/dexamethasone/</link>
+      <atom:link href="/mesothelioma/drugpanel/dexamethasone/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/dexamethasone/</link>
+    </image>
+    
+    <item>
+      <title>DEXAMETHASONE</title>
+      <link>/mesothelioma/drugpanel/dexamethasone/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/dexamethasone/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01234&#39; target=&#39;_blank&#39;&gt;db01234&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=dexamethasone&#34; target=&#34;_blank&#34;&gt;dexamethasone&lt;/a&gt; &lt;br&gt;
+Synonymous :1-dehydro-16alpha-methyl-9alpha-fluorohydrocortisone | 1-dehydro-16α-methyl-9α-fluorohydrocortisone | 16alpha-methyl-9alpha-fluoro-1-dehydrocortisol | 16α-methyl-9α-fluoro-1-dehydrocortisol | 9alpha-fluoro-16alpha-methylprednisolone | 9α-fluoro-16α-methylprednisolone | dexametasona | dexaméthasone | dexamethasone | dexamethasonum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dexamethasone&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17092602&#34; target=&#34;_blank&#34;&gt;17092602&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vitamin B12, folic acid, and dexamethasone were administered as prophylaxis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18349397&#34; target=&#34;_blank&#34;&gt;18349397&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cycles were repeated every 21 days; all patients were supplemented with folic acid and vitamin B(12) and received dexamethasone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18640937&#34; target=&#34;_blank&#34;&gt;18640937&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received folic acid, vitamin B(12), and dexamethasone supplementation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25554663&#34; target=&#34;_blank&#34;&gt;25554663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus folate and vitamin B12 supplementation combined with dexamethasone could decrease the incidence of this side effect.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25908647&#34; target=&#34;_blank&#34;&gt;25908647&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cutaneous adverse reactions are common side effects of pemetrexed for which the manufacturer recommends 3-day premedication with dexamethasone 4 mg by mouth twice daily-(the day before, the day of, and the day after treatment). […] We report 14 cases of metastatic non-small-cell-lung-cancer patients who were premedicated with a single dose of dexamethasone 20 mg prior to pemetrexed or pemetrexed-based chemotherapy. […] These findings suggest that a single dose of dexamethasone 20 mg may be an alternative premedication regimen in patients with metastatic non small cell lung cancer receiving pemetrexed or pemetrexed-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26521826&#34; target=&#34;_blank&#34;&gt;26521826&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, rashes are more commonly associated with pemetrexed than other chemotherapies, and it is recommended that patients receive corticosteroids (8 mg/d of dexamethasone) for 3 d, including the day of pemetrexed administration (day 1). […] The average cutoff dosage of supplementary corticosteroids on day 2 and day 3 was 1.5 mg/d of dexamethasone, as calculated using the receiver operating characteristic curve, and the odds ratio was 0.33 (95% confidence interval: 0.12-0.94). […] These results suggest that ≥1.5 mg of supplementary dexamethasone on day 2 and day 3 (in addition to day 1) may be necessary for preventing pemetrexed-induced rash, but high doses of dexamethasone (e.g., 8 mg/d) are unnecessary.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26715913&#34; target=&#34;_blank&#34;&gt;26715913&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A combination of dexamethasone and recombinant human growth hormone was used successfully to ameliorate the hypoglycaemic episodes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28870611&#34; target=&#34;_blank&#34;&gt;28870611&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Overall, five dose-limiting toxicities were noted: infusion-related inflammatory symptoms and coronary ischaemia, respectively, in two patients given 5 × 10&lt;sup&gt;9&lt;/sup&gt; TargomiRs twice weekly; anaphylaxis and cardiomyopathy, respectively, in two patients given 5 × 10&lt;sup&gt;9&lt;/sup&gt; TargomiRs once weekly but who received reduced dexamethasone prophylaxis; and non-cardiac pain in one patient who received 5 × 10&lt;sup&gt;9&lt;/sup&gt; TargomiRs once weekly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30319062&#34; target=&#34;_blank&#34;&gt;30319062&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed prescribing information recommends oral dexamethasone 4 mg twice daily for three days starting the day before pemetrexed infusion to prevent cutaneous reactions. […] Patients receive intravenous dexamethasone before pemetrexed infusion at the University of New Mexico Comprehensive Cancer Center, but the oral dexamethasone recommendation is not always followed. […] The objective of this study was to determine if there is a difference between patients who received three days of oral dexamethasone starting the day before pemetrexed infusion and patients who did not by determining incidence of cutaneous reactions, delay in therapy, and therapy change due to adverse reactions. […] Twenty-nine patients did not receive three days of oral dexamethasone 4 mg twice daily and 56 patients did (34.1% vs. […] Results suggest three days of oral dexamethasone 4 mg twice daily did not significantly affect incidence rates of cutaneous reactions, delay in therapy, or therapy change in patients who received intravenous dexamethasone before pemetrexed infusion at University of New Mexico Comprehensive Cancer Center.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32714828&#34; target=&#34;_blank&#34;&gt;32714828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although high dose dexamethasone was administered and platelet count increased transiently, re-administration of dexamethasone was required to maintain normal count of platelet.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

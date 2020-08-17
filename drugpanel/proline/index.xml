@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/proline/</link>
+      <atom:link href="/mesothelioma/drugpanel/proline/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/proline/</link>
+    </image>
+    
+    <item>
+      <title>PROLINE</title>
+      <link>/mesothelioma/drugpanel/proline/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/proline/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00172&#39; target=&#39;_blank&#39;&gt;db00172&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=proline&#34; target=&#34;_blank&#34;&gt;proline&lt;/a&gt; &lt;br&gt;
+Synonymous :(-)-2-pyrrolidinecarboxylic acid | (−)-(s)-proline | (−)-2-pyrrolidinecarboxylic acid | (−)-proline | (2s)-pyrrolidine-2-carboxylic acid | (s)-2-carboxypyrrolidine | (s)-2-pyrrolidinecarboxylic acid | (s)-pyrrolidine-2-carboxylic acid | 2-pyrrolidinecarboxylic acid | l-(−)-proline | l-alpha-pyrrolidinecarboxylic acid | l-prolin | l-proline | l-pyrrolidine-2-carboxylic acid | l-α-pyrrolidinecarboxylic acid | p | prolina | proline | prolinum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;proline&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19349911&#34; target=&#34;_blank&#34;&gt;19349911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with a healthy control group, odds ratio (OR) analysis revealed an inverse relationship for the proline allele at codon 10 or 25 with pulmonary fibrosis (higher risk) and lung cancer (lower risk). […] The proline allele at codon 10 or 25 is significantly associated with a higher risk for fibrotic lung diseases (ORcrude, 1.46; 95% confidence interval [CI], 1.01-2.11; P = 0.045 and ORadjusted, 1.76; 95% CI, 1.14-2.72; P = 0.011, respectively, for codon 10; OR, 2.13; 95% CI, 1.33-3.99; P = 0.019 and ORadjusted, 2.27; 95% CI, 1.14-4.52; P = 0.02, respectively, for codon 25) when compared with patients with lung cancer. […] A significant association for the proline allele is also revealed when comparing patients with asbestosis (ORcrude, 3.01; 95% CI, 1.44-6.29; P = 0.003 and ORadjusted, 3.72; 95% CI, 1.56-8.85; P = 0.011) with patients with asbestos-induced lung cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20104527&#34; target=&#34;_blank&#34;&gt;20104527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to protein synthesis, arginine is involved in diverse aspects of tumour metabolism, including the synthesis of nitric oxide, polyamines, nucleotides, proline and glutamate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29303405&#34; target=&#34;_blank&#34;&gt;29303405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Then we analyze effects of two small molecule inhibitors PF-573228, and PF-431396, which are dual specificity inhibitors of FAK and proline rich tyrosine kinase 2 (PYK2), as well as VS-6063, another small molecule inhibitor that specifically inhibits FAK but not PYK2 for cell growth, motility and invasion of PDAC and MPM cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30685089&#34; target=&#34;_blank&#34;&gt;30685089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Collagen production by mesothelioma cells was inhibited by incubating cells in vitro with the proline analogue thiaproline (thiazolidine-4-carboxylic acid) or by oral administration of thiaproline in a murine tumor model.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

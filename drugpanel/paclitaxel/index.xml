@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/paclitaxel/</link>
+      <atom:link href="/mesothelioma/drugpanel/paclitaxel/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/paclitaxel/</link>
+    </image>
+    
+    <item>
+      <title>PACLITAXEL</title>
+      <link>/mesothelioma/drugpanel/paclitaxel/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/paclitaxel/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01229&#39; target=&#39;_blank&#39;&gt;db01229&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=paclitaxel&#34; target=&#34;_blank&#34;&gt;paclitaxel&lt;/a&gt; &lt;br&gt;
+Synonymous :5beta,20-epoxy-1,2-alpha,4,7beta,10beta,13alpha-hexahydroxytax-11-en-9-one 4,10-diacetate 2-benzoate 13-ester with (2r,3s)-n-benzoyl-3-phenylisoserine | paclitaxel | taxol a
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;paclitaxel&lt;/em&gt; gene in 22 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12892825&#34; target=&#34;_blank&#34;&gt;12892825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to examine the antiproliferative potentialities of a pool of new generation compounds (Paclitaxel, Docetaxel, Gemcitabine, Topotecan, SN-38) together with fenretinide, a synthetic derivative of retinoic acid, in comparison with the current first choice treatment cisplatin molecule, on a pool of human malignant pleural mesothelioma cell lines derived from either bioptic and pleural effusions samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16401712&#34; target=&#34;_blank&#34;&gt;16401712&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Eastern Cooperative Oncology Group 4599 phase III trial showed superior survival in patients with advanced nonsquamous NSCLC when the angiogenesis inhibitor bevacizumab was added to standard first-line chemotherapy with carboplatin and paclitaxel, compared with the same chemotherapy alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17033611&#34; target=&#34;_blank&#34;&gt;17033611&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fifty-four patients with MPM have been judged candidable to extended pleuropneumonectomy (EPP), to be followed by chemotherapy (paclitaxel+carboplatin) and radiotherapy (50 Gy).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20163019&#34; target=&#34;_blank&#34;&gt;20163019&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We diagnosed pulmonary sarcomatoid carcinoma and started chemotherapy with carboplatin and paclitaxel, but it was ineffective. […] We diagnosed pulmonary sarcomatoid carcinoma and started chemotherapy with carboplatin and paclitaxel.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23055748&#34; target=&#34;_blank&#34;&gt;23055748&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was treated with chemotherapy consisting of etoposide, paclitaxel, and pegylated liposomal doxorubicin hydrochloride.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23978876&#34; target=&#34;_blank&#34;&gt;23978876&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further, resistance to paclitaxel-induced cell death was associated with high gremlin-1 and slug expression. […] Treatment of gremlin-1-silenced mesothelioma cells with paclitaxel or pemetrexed resulted in efficient loss of cell survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24754309&#34; target=&#34;_blank&#34;&gt;24754309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The newly synthesized naftopidil analogue HUHS1015 reduced cell viability in malignant pleural mesothelioma cell lines MSTO-211H, NCI-H28, NCI-H2052, and NCI-H2452, with the potential greater than that for the anticancer drugs paclitaxel or cisplatin at concentrations higher than 30 μM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26839699&#34; target=&#34;_blank&#34;&gt;26839699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we report the first case of an MPM patient for whom the combination of nanoparticle albumin-bound paclitaxel and carboplatin (nabPC) repetitively achieved tumor regression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27127763&#34; target=&#34;_blank&#34;&gt;27127763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Involved agents included paclitaxel, docetaxel and vinorelbine; Malignancies included non-small cell lung cancer, gastric cancer, esophageal carcinoma, ovarian carcinoma, malignant pleural mesothelioma, breast cancer, and small cell lung cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27841316&#34; target=&#34;_blank&#34;&gt;27841316&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Paclitaxel distribution and concentration in different tumors were measured in a 3D model of Malignant Pleural Mesothelioma (MPM), which is known to be a very heterogeneous neoplasm, highly resistant to different drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28000726&#34; target=&#34;_blank&#34;&gt;28000726&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The method was applied to study the distribution of paclitaxel in three ovarian cancer models with different histopathological characteristics and in colon cancer (HCT116), breast cancer (MDA-MB-231) and malignant pleural mesothelioma (MPM487). […] The specificity of the method clarifies the heterogeneity of the drug distribution that is analyzed from a quantitative point of view too, highlighting how marked are the variations of paclitaxel amounts in different part of solid tumors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28153512&#34; target=&#34;_blank&#34;&gt;28153512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bone marrow mesenchymal stromal cells (BM-MSCs) were loaded with pemetrexed (PMX) and paclitaxel (PTX) according to a standardized procedure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32044093&#34; target=&#34;_blank&#34;&gt;32044093&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We evaluated the antitumor efficacy of a paclitaxel-loaded pH-responsive expansile nanoparticle (PTX-eNP) in 2 clinically relevant murine xenograft models of malignant pleural mesothelioma. […] Within each disease model, anti-tumor efficacy of PTX-eNP was compared against standard formulation paclitaxel and drug-empty nanoparticles. […] Local multidose treatment with PTX-eNPs alone in limited stage disease more than doubled survival compared with drug-empty nanoparticles (P ≤ .0001) and standard formulation paclitaxel (P = .0004). […] In the model of advanced disease, local multidose treatment with PTX-eNPs following cytoreductive surgery also prolonged survival by 126% and 69.4% compared with drug-empty nanoparticles (P = .0018) and standard formulation paclitaxel (P = .03457), respectively. […] Local delivery of paclitaxel via eNPs confers prolonged survival in a murine model of malignant pleural mesothelioma as single modality treatment for limited disease and in combination with cytoreductive surgery for advanced disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8826866&#34; target=&#34;_blank&#34;&gt;8826866&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The EORTC Lung Cancer Cooperative Group undertook a phase II study of paclitaxel in 25 chemotherapy-naive patients with malignant pleural mesothelioma. […] Paclitaxel was given intravenously at a dose of 200 mg m-2 as a 3 h infusion every 3 weeks, after standard premedication with corticosteroids and antihistamines. […] In conclusion, paclitaxel at the dose and schedule investigated in this trial had no major activity in the treatment of malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9440736&#34; target=&#34;_blank&#34;&gt;9440736&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From October 1984 to October 1993, 204 eligible adult patients with malignant pleural mesothelioma were entered into five consecutive prospective European Organization for Research and Treatment of Cancer (EORTC) phase II clinical trials designed to assess the efficacy of various anticancer drugs (mitoxantrone, epidoxorubicin, etoposide, and paclitaxel).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9469352&#34; target=&#34;_blank&#34;&gt;9469352&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine the maximum-tolerated dose (MTD) and dose-limiting toxicities of paclitaxel with concurrent thoracic irradiation in patients with malignant pleural mesothelioma and locally advanced non-small-cell lung cancer (NSCLC) using a 120-hour continuous infusion regimen. […] A secondary objective was to assess the effect of paclitaxel on the cell cycle through serial tumor biopsies. […] Paclitaxel was administered as a 120-hour (5-day) continuous infusion repeated every 3 weeks during the course of radiation therapy. […] The starting dose of paclitaxel was 90 mg/m2. […] Tumor biopsies were obtained, if possible, before and during paclitaxel treatment. […] None of the patients showed a significant block of cells in mitosis (G2/M) after paclitaxel infusion. […] The MTD of paclitaxel, when administered as a 120-hour continuous infusion with concurrent radiotherapy, was determined to be 105 mg/m2. […] Continuous infusion paclitaxel administered with large field irradiation of the lung is well tolerated and deserves continued evaluation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9486781&#34; target=&#34;_blank&#34;&gt;9486781&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The antitumor effectiveness of cisplatin, paclitaxel, and suramin as single agents and in combination was evaluated in vivo against four lines of human pleural malignant mesothelioma xenografts in athymic nude mice, including one epithelial type and three fibrosarcomatous. […] After growth of tumors occurred by day 54 or 55, mice were randomized in groups of four each to receive either cisplatin 4 mg/kg intraperitoneally weekly x5, or paclitaxel (Taxol) 12.5 mg/kg subcutaneously daily 5 days/week for 3 consecutive weeks, or suramin 60 mg/kg intraperitoneally daily x4,versus controls treated with normal saline. […] Paclitaxel showed antitumor effects similar to cisplatin, being very effective in one line, and also showed good activity in another line. […] Following the results obtained with these single agents, it was decided to evaluate the combination of cisplatin and paclitaxel, which resulted in more pronounced antitumor effect in all four cell lines. […] These results indicate that the combination of cisplatin and paclitaxel is superior to each agent alone in this model, and that it deserves to be evaluated in patients with malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

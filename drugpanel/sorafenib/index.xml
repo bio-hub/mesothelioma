@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/sorafenib/</link>
+      <atom:link href="/mesothelioma/drugpanel/sorafenib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/sorafenib/</link>
+    </image>
+    
+    <item>
+      <title>SORAFENIB</title>
+      <link>/mesothelioma/drugpanel/sorafenib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/sorafenib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00398&#39; target=&#39;_blank&#39;&gt;db00398&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sorafenib&#34; target=&#34;_blank&#34;&gt;sorafenib&lt;/a&gt; &lt;br&gt;
+Synonymous :4-(4-((((4-chloro-3-(trifluoromethyl)phenyl)amino)carbonyl)amino)phenoxy)-n-methyl-2-pyridinecarboxamide | n-(4-chloro-3-(trifluoromethyl)phenyl)-n’-(4-(2-(n-methylcarbamoyl)-4-pyridyloxy)phenyl)urea | sorafénib | sorafenib | sorafenibum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sorafenib&lt;/em&gt; gene in 7 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20038816&#34; target=&#34;_blank&#34;&gt;20038816&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We evaluate sorafenib efficacy and impact on the cellular pro-survival machinery in vitro, efficacy of sorafenib as monotherapy and in combination with the naturally occurring death receptor agonist, TRAIL using human MPM cell lines, MSTO-211H, M30, REN, H28, H2052 and H2452. […] In vitro studies of the six MPM lines demonstrated single agent sensitivity to the multikinase inhibitor sorafenib and resistance to TRAIL. […] H28 and H2452 demonstrated augmented apoptosis with the addition of TRAIL to sorafenib in vitro. […] Treated cell lines demonstrated sorafenib-induced rapid dephosphorylation of AKT followed shortly by near complete dephosphorylation of the constitutively phosphorylated ERK1/2. […] Sorafenib therapy also decreased phosphorylation of B-Raf and mTOR in several cell lines. […] Within 3 h of sorafenib treatment, a number of known pro-survival molecules were dephosphorylated and/or downregulated in expression including MCL-1(L), c-FLIP(L), survivin and cIAP(1). […] These changes and eventual cell death did not elicit significant caspase-3 activation or PARP cleavage and pretreatment with the pan-caspase inhibitor, Z-VAD-FMK, did not block sorafenib efficacy but did block the effect of TRAIL monotherapy. […] Pre-treatment with Z-VAD-FMK did not block the synergistic effect of TRAIL and sorafenib in H28. […] In summary, single agent treatment with sorafenib results in widespread inhibition of the pro-survival machinery in vitro leading to cell death via a primarily caspase-independent mechanism. […] Combining sorafenib therapy with TRAIL, may be useful in order to provide a more efficient death signal and this synergistic effect appears to be caspase-independent. […] We document single agent activity of sorafenib against MPM, unravel novel effects of sorafenib on anti-apoptotic signaling mediators, and suggest the combination of sorafenib plus TRAIL as possible therapy for clinical testing in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20692828&#34; target=&#34;_blank&#34;&gt;20692828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In vitro cytotoxicity studies showed the STO cell line to be resistant to gefitinib and sensitive to sequential treatment with RAD001 and sorafenib; these findings were consistent with the presence of the KRAS mutation G12D in these cells although it was not detectable in the original tumour.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20736856&#34; target=&#34;_blank&#34;&gt;20736856&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sorafenib is a potent inhibitor of the ras/raf/MEK pathway and also targets VEGFR and cKIT. […] We evaluated the activity of sorafenib in patients with unresectable mesothelioma. […] MM patients who had received 0 to 1 prior chemotherapy regimens were treated with sorafenib 400 mg orally twice daily continuously. […] Sorafenib has limited activity in advanced MM patients, similar to that seen with other VEGFR tyrosine kinase inhibitors. […] Additional studies of sorafenib in MM are not warranted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21970874&#34; target=&#34;_blank&#34;&gt;21970874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We treated H2052, H2452, H28 and MSTO-211H cells with carboplatin, pemetrexed and targeted compounds (gefitinib, erlotinib, sorafenib, vandetanib, enzastaurin and ZM447439) and evaluated the modulation of pivotal pathways in drug activity and cancer cell proliferation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23571475&#34; target=&#34;_blank&#34;&gt;23571475&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sorafenib inhibits tyrosine kinases, including receptors for vascular endothelial growth factor, which are implicated in mesothelioma pathogenesis by preclinical and clinical data. […] Sorafenib, at 400 mg twice daily, was assessed in a single-arm multicenter phase 2 study, using Simon’s two-stage design. […] Sorafenib is well tolerated in patients with mesothelioma after completion of platinum-containing chemotherapy. […] PFS of sorafenib compares favorably with that reported for other targeted agents, and suggests moderate activity in this disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25952930&#34; target=&#34;_blank&#34;&gt;25952930&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aimed to identify ‘druggable’ pathways in MPM and to formulate a targeted approach based on the use of commercially available molecules, such as the multikinase inhibitor sorafenib and the mTOR inhibitor everolimus. […] Sorafenib and everolimus combination was effective in mTOR and ERM blockade; exerted synergistic effects on the inhibition of MPM cell proliferation; triggered ROS production and consequent AMPK-p38 mediated-apoptosis. […] ERM and mTOR pathways are activated in MPM and ‘druggable’ by a combination of sorafenib and everolimus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28545562&#34; target=&#34;_blank&#34;&gt;28545562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three fully characterized tumorigenic cultures, named MM1, MM3, and MM4, were selected and used to assess antiproliferative effects of the multi-kinase inhibitor sorafenib. […] Western blotting was performed to reveal the modulation of protein expression and the phosphorylation status of pathways associated with sorafenib treatment. […] We analyzed the molecular mechanisms of the antiproliferative effects of sorafenib in mesothelioma TIC cultures. […] Sorafenib inhibited cell cycle progression in all cultures, but only in MM3 and MM4 cells was this effect associated with Mcl-1-dependent apoptosis. […] To investigate the mechanisms of sorafenib-mediated antiproliferative activity, TICs were treated with epidermal growth factor (EGF) or basic fibroblast growth factor (bFGF) causing, in MM3 and MM4 cells, MEK, ERK1/2, Akt, and STAT3 phosphorylation. […] These effects were abolished by sorafenib only in bFGF-treated cells, while a modest inhibition occurred after EGF stimulation, suggesting that sorafenib effects are mainly due to FGF receptor (FGFR) inhibition. […] Indeed, FGFR1 phosphorylation was inhibited by sorafenib. […] Moreover, in MM1 cells, which release high levels of bFGF and showed autocrine activation of FGFR1 and constitutive phosphorylation/activation of MEK-ERK1/2, sorafenib induced a more effective antiproliferative response, confirming that the main target of the drug is the inhibition of FGFR1 activity. […] These results suggest that, in malignant pleural mesothelioma TICs, bFGF signaling is the main target of the antiproliferative response of sorafenib, acting directly on the FGFR1 activation. […] Patients with constitutive FGFR1 activation via an autocrine loop may be more sensitive to sorafenib treatment and the analysis of this possibility warrants further clinical investigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

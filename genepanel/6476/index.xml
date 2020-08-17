@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/6476/</link>
+      <atom:link href="/mesothelioma/genepanel/6476/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/6476/</link>
+    </image>
+    
+    <item>
+      <title>SI</title>
+      <link>/mesothelioma/genepanel/6476/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/6476/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;sucrase-isomaltase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/6476&#34; target=&#34;_blank&#34;&gt;6476&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=6476&#34; target=&#34;_blank&#34;&gt; 3q26.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/609845&#39; target=&#39;_blank&#39;&gt;609845&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/222900&#39; target=&#39;_blank&#39;&gt;222900&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a sucrase-isomaltase enzyme that is expressed in the intestinal brush border. The encoded protein is synthesized as a precursor protein that is cleaved by pancreatic proteases into two enzymatic subunits sucrase and isomaltase. These two subunits heterodimerize to form the sucrose-isomaltase complex. This complex is essential for the digestion of dietary carbohydrates including starch, sucrose and isomaltose. Mutations in this gene are the cause of congenital sucrase-isomaltase deficiency.[provided by RefSeq, Apr 2010] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SI</title>
+      <link>/mesothelioma/genepanel/6476/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/6476/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;sucrase-isomaltase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; SI expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+547.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000090402
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+493.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SI</title>
+      <link>/mesothelioma/genepanel/6476/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/6476/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;sucrase-isomaltase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SI gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27764930&#34; target=&#34;_blank&#34;&gt;27764930&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+INTRODUZIONE: sebbene la relazione causale tra esposizione ad amianto e malattie neoplastiche sia ben nota, in molti Paesi il consumo del materiale è ancora rilevante e crescente. […] A causa della lunga latenza, nei Paesi dove è stato bandito (come in Italia) è oggi in corso un’epidemia di malattie correlate ad amianto. […] OBIETTIVI: descrivere i sistemi di sorveglianza dei mesoteliomi attivi nel mondo mediante un’analisi comparativa. è stata condotta una revisione bibliografica della letteratura disponibile sui sistemi di sorveglianza epidemiologica dei mesoteliomi attivi nel mondo, comparando metodi e risultati disponibili. […] RISULTATI: sistemi di ricerca dei casi incidenti e di analisi anamnestica dei soggetti ammalati sono attivi solo in Italia, Francia e Corea del Sud. […] I Paesi presso i quali sono attivi sistemi di rilevazione e controllo dei casi incidenti di mesotelioma sono quelli in cui vige il bando dell’amianto e che hanno sperimentato consumi rilevanti in passato. […] Non sono stati istituiti sistemi epidemiologici di sorveglianza in molti Paesi dove il consumo di amianto è ancora importante (inclusi Russia, Cina, India e Brasile). […] CONCLUSIONI: si conferma l’importanza dei sistemi di sorveglianza epidemiologica dei mesoteliomi per la sanità pubblica, il sostegno alle politiche di welfare e la prevenzione dei rischi. […] Lo sviluppo di progetti per tendere a una maggiore uniformità nei metodi di ricerca dei casi, di classificazione delle diagnosi e dell’esposizione e nelle tecniche di analisi dei dati potrebbe consentire una maggiore fruibilità dei dati aggregati.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29572002&#34; target=&#34;_blank&#34;&gt;29572002&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We sought to define a novel, semi-objective Magnetic Resonance Imaging (MRI) biomarker of PM, targeted to increased tumour microvessel density (MVD) and applicable to minimal pleural thickening. 60 consecutive patients with suspected PM underwent contrast-enhanced 3-T MRI then pleural biopsy. […] In 58/60, parietal pleura signal intensity (SI) was measured in multiple regions of interest (ROI) at multiple time-points, generating ROI SI/time curves and Mean SI gradient (MSIG: SI increment/time). […] The diagnostic performance of Early Contrast Enhancement (ECE; which was defined as a SI peak in at least one ROI at or before 4.5 min) was compared with subjective MRI and Computed Tomography (CT) morphology results. […] MSIG was correlated against tumour MVD (based on Factor VIII immunostain) in 31 patients with Mesothelioma. 71% (41/58) patients had PM. […] ECE sensitivity was 83% (95% CI 61-94%), specificity 83% (95% CI 68-91%), positive predictive value 68% (95% CI 47-84%), negative predictive value 92% (78-97%). […] ECE performance was similar or superior to subjective CT and MRI. […] MSIG correlated with MVD (r = 0.4258, p = .02). […] ECE is a semi-objective, perfusion-based biomarker of PM, measurable in minimal pleural thickening.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32700418&#34; target=&#34;_blank&#34;&gt;32700418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma is an extremely aggressive and incurable malignancy associated with prior exposure to asbestos fibres. […] Difficulties remain in relation to early diagnosis, notably due to impeded identification of asbestos in lung tissue. […] This study describes a novel laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS) imaging approach to identify asbestos within mesothelioma models with clinical significance. […] Human mesothelioma cells were exposed to different types of asbestos fibres and prepared on plastic slides for LA-ICP-MS analysis. […] No further sample preparation was required prior to analysis, which was performed using an NWR Image 266nm laser ablation system coupled to an Element XR sector-field ICP mass spectrometer, with a lateral resolution of 2 μm. […] Data was processed using LA-ICP-MS ImageTool v1.7 with the final graphic production made using DPlot Software. […] Four different mineral fibres were successfully identified within the mesothelioma samples based on some of the most abundant elements that make up these fibres (Si, Mg and Fe). […] Using LA-ICP-MS as an imaging tool provided information on the spatial distribution of the fibres at cellular level, which is essential in asbestos detection within tissue samples. […] Based on the metal counts generated by the different types of asbestos, different fibres can be identified based on shape, size, and elemental composition. […] Asbestos fibres detection in the lung tissues is very useful, if not necessary, to complete the pathological diagnosis of asbestos-related malignancies in medicolegal field. […] Ultimately, high-resolution, fast-speed LA-ICP-MS analysis has the potential to be integrated into clinical workflow to aid earlier detection and stratification of mesothelioma patient samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SI</title>
+      <link>/mesothelioma/genepanel/6476/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/6476/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;sucrase-isomaltase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SI</title>
+      <link>/mesothelioma/genepanel/6476/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/6476/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;sucrase-isomaltase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

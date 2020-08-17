@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/creatinine/</link>
+      <atom:link href="/mesothelioma/drugpanel/creatinine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/creatinine/</link>
+    </image>
+    
+    <item>
+      <title>CREATININE</title>
+      <link>/mesothelioma/drugpanel/creatinine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/creatinine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11846&#39; target=&#39;_blank&#39;&gt;db11846&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=creatinine&#34; target=&#34;_blank&#34;&gt;creatinine&lt;/a&gt; &lt;br&gt;
+Synonymous :creatinina
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;creatinine&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10677119&#34; target=&#34;_blank&#34;&gt;10677119&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cyfra 21-1 level was not influenced by the effusion protein concentration (r=0.29), or by renal function as measured by serum creatinine (r=0.1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16515926&#34; target=&#34;_blank&#34;&gt;16515926&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory findings showed renal insufficiency in the animals of the solution group at 1 week, with values of 98 mmol/L versus 7.7 mmol/L for urea and 410 mumol/L versus 43 mumol/L for creatinine (P = .02 and P = .01, respectively), which was confirmed by means of pathologic analysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17409823&#34; target=&#34;_blank&#34;&gt;17409823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During PMT creatinine clearance decreased from 88 (+/-21) ml/min to 77 (+/-26) ml/min (p &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20345230&#34; target=&#34;_blank&#34;&gt;20345230&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age, height, weight, body mass index (BMI), serum creatinine and glucose, estimated glomerular filtration rate (eGFR) and lung function were compared with SMRP concentrations. […] SMRP values were inversely associated with weight (Pearson r=-0.1254, p=0.0036), BMI (Pearson r=-0.1594, p=0.0002), blood glucose (Pearson r=-0.1515, p=0.0004), single-breath carbon monoxide diffusing capacity (DLco) % predicted (Pearson r=-0.1847, p&amp;lt;0.0001), eGFR (Pearson r=-0.2835, p&amp;lt;0.0001) and single-breath carbon monoxide diffusing capacity per unit alveolar volume (DLco/VA)% predicted (Pearson r=-0.1872, p&amp;lt;0.0001) but were positively associated with age (Pearson r=0.2315, p&amp;lt;0.0001) and creatinine (Pearson r=0.3833, p&amp;lt;0.0001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20445731&#34; target=&#34;_blank&#34;&gt;20445731&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory: Hemoglobin 11,9 gr/dl, WBC 6840/mm3 Bands 1 %, lymphocytes 10 %, platelets 620000/mm3, PT 12 seconds, PTT 34 seconds, glucose 158 mg/dl, BUN 20,5 mg/ dl, creatinine 1,2 mg/dl, proteins 6,1 gr/dl, albumin 2,6 gr/dl.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20815094&#34; target=&#34;_blank&#34;&gt;20815094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only patients with serum creatinine levels within the normal range were included in the study. […] At a specificity of 95% relative to individuals with benign lung or pleural disease, serum mesothelin had a sensitivity of 66% and area under the curve of 0.882, whereas urinary mesothelin corrected for urine creatinine concentration had a sensitivity of 53% and area under the curve of 0.787.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25318801&#34; target=&#34;_blank&#34;&gt;25318801&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because his serum creatinine increased, pemetrexed maintenance therapy (PMT) was adopted, and 18 cycles were successfully delivered and the patient achieved a complete response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27286996&#34; target=&#34;_blank&#34;&gt;27286996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subgroup analyses were performed on the basis of pre-treatment renal function: group A [creatinine clearance (CLcr), &amp;lt;45 mL/min]; group B (CLcr, 45-80 mL/min); and group C (CLcr, ≥80 mL/min). […] For the purpose of this analysis, the lowest documented blood cell counts and haemoglobin levels, the highest levels of serum creatinine, aspartate aminotransferase, alanine aminotransferase and CLcr from the time of initial administration up to prior to the start of second administration were considered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27993826&#34; target=&#34;_blank&#34;&gt;27993826&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blood test showed elevated C reactive protein level at 142 mg/L, lactate dehydrogenase level at 421 UI, creatinine level at 5.75 mg/dL.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31602673&#34; target=&#34;_blank&#34;&gt;31602673&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite higher cisplatin concentrations, patients with cytoprotection showed significantly lower postoperative serum creatinine levels after 1 week (P = .006) and at discharge (P = .020).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32631662&#34; target=&#34;_blank&#34;&gt;32631662&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Acute kidney injury was defined as an increase in creatinine of 26.5 μmol/L or greater within 48 hours of surgery or a 50% or greater increase over 7 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

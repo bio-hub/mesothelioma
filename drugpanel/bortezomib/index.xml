@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/bortezomib/</link>
+      <atom:link href="/mesothelioma/drugpanel/bortezomib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/bortezomib/</link>
+    </image>
+    
+    <item>
+      <title>BORTEZOMIB</title>
+      <link>/mesothelioma/drugpanel/bortezomib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/bortezomib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00188&#39; target=&#39;_blank&#39;&gt;db00188&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=bortezomib&#34; target=&#34;_blank&#34;&gt;bortezomib&lt;/a&gt; &lt;br&gt;
+Synonymous :[(1r)-3-methyl-1-({(2s)-3-phenyl-2-[(pyrazin-2-ylcarbonyl)amino]propanoyl}amino)butyl]boronic acid | bortezomib | n-[(1r)-1-(dihydroxyboryl)-3-methylbutyl]-n-(pyrazin-2-ylcarbonyl)-l-phenylalaninamide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;bortezomib&lt;/em&gt; gene in 11 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17522864&#34; target=&#34;_blank&#34;&gt;17522864&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bortezomib is an FDA-approved proteasome inhibitor that is currently under clinical investigation in multiple neoplasms but has not been studied extensively in MPM. […] In this report, we determine the biological and molecular response of cultured MPM cells to bortezomib alone and in combination with cisplatin or pemetrexed. […] We used four MPM cell lines (MS589, H28, H2052, JMN), a normal mesothelial cell line (HM3), and a lung cancer cell line (H23) in survival studies utilizing bortezomib, cisplatin, and pemetrexed alone and in combination by administering concurrently or by varying the order of administration. […] We determined the effect of bortezomib on the cell cycle, apoptosis, and on the expression of cell cycle proteins p21/WAF1 and p27/KIP1 and on apoptosis-related proteins IAP-1, IAP-2, survivin, and XIAP. […] Bortezomib was highly cytotoxic to MPM cells and induced both G(2)/M and G(1)/S cell cycle arrest. […] Bortezomib stabilized or increased protein levels of p21/WAF1 and IAP-1 and to a lesser degree p27/KIP1, IAP-2, XIAP, and survivin. […] In combination studies with cisplatin, bortezomib was generally synergistic at high concentrations and antagonistic at low concentrations. […] Bortezomib increased the cytotoxicity of cisplatin and pemetrexed in a concentration-dependent manner when administered prior to either. […] Bortezomib may improve outcome in MPM patients alone or in combination with standard chemotherapy but the order of administration is likely to be important. […] This study justifies further evaluation of bortezomib in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19909234&#34; target=&#34;_blank&#34;&gt;19909234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus the introduction of new biologic drugs like vorinostat, bortezomib, everolimus and temsirolimus, in the treatment of MPM finds a strong rationale.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19960346&#34; target=&#34;_blank&#34;&gt;19960346&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although proteasome inhibitor Velcade (Bortezomib) has been under clinical investigation for a number of cancers, limited preclinical studies with this agent have thus far been conducted in HBC and MPM malignancies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22895144&#34; target=&#34;_blank&#34;&gt;22895144&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on promising preclinical efficacy of bortezomib in mesothelioma, a single-arm phase II trial (Ireland Cooperative Oncology Research Group 05-10 study), with Simon’s two-stage design, was undertaken to assess efficacy of bortezomib monotherapy in the first-line (poor performance status) and second-line settings. […] The Bcl-2 homology domain 3-only protein Noxa has been implicated as a key inducer of apoptosis by bortezomib. […] Partial response was confirmed in one patient (4.8%) who received four cycles of bortezomib. […] Bortezomib monotherapy exhibits insufficient activity to warrant further investigation in unselected patients with mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23517112&#34; target=&#34;_blank&#34;&gt;23517112&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To develop effective new treatments, the proapoptotic effects of PIs, MG132 or Bortezomib, and TRAIL were investigated in MPM cell lines NCI-H2052, NCI-H2452 and NCI-H28, which represent three major histological types of human MPM. […] Treatment with 0.5-1 μM MG132 alone or 30 ng/mL Bortezomib alone induced a limited apoptosis in MPM cells associated with the elevated Mcl-1 protein level and hyperactive PI3K/Akt signaling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23762382&#34; target=&#34;_blank&#34;&gt;23762382&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on promising preclinical efficacy associated with the 20S proteasome inhibitor bortezomib in malignant pleural mesothelioma (MPM), two phase II clinical trials have been initiated (EORTC 08052 and ICORG 05-10). […] Functional genetic analyses were conducted to determine the key mitochondrial apoptotic regulators required for bortezomib sensitivity and to establish how their dysregulation may confer resistance. […] The multidomain proapoptotic protein BAK, but not its orthologue BAX, was found to be essential for bortezomib-induced apoptosis in MPM cell lines. […] However, MPM tissues from patients who failed to respond to bortezomib and MPM cell lines selected for resistance to bortezomib conserved BAK expression. […] In summary, the block of mitochondrial apoptosis is a limiting factor for achieving efficacy of bortezomib in MPM, and the observed loss of BAK expression or NOXA transactivation may be relevant mechanisms of resistance in the clinic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23791541&#34; target=&#34;_blank&#34;&gt;23791541&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This was a prospective phase II study of cisplatin and bortezomib (CB) in the first line treatment of malignant pleural mesothelioma (MPM) with validation of progression free survival rate at 18 weeks (PFSR-18)(1) as primary end-point. […] Chemotherapy-naïve patients with histologically proven MPM and performance status (PS) 0/1, were treated with cisplatin 75 mg/m(2) on day 1 and bortezomib 1.3mg/m(2) on days 1, 4, 8, 11 every 3 weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26982031&#34; target=&#34;_blank&#34;&gt;26982031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reduction of ASS1 expression by siRNA significantly sensitized mesothelioma spheroids to the pro-apoptotic effects of bortezomib and of cisplatin plus pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29247244&#34; target=&#34;_blank&#34;&gt;29247244&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on promising results in preclinical models, clinical trials have been performed to evaluate the efficacy of the first-in-class proteasome inhibitor bortezomib towards malignant pleural mesothelioma (MPM), an aggressive cancer arising from the mesothelium of the serous cavities following exposure to asbestos. […] Identifying the molecular bases of this primary resistance is crucial to develop novel pharmacologic strategies aimed at increasing the vulnerability of MPM to bortezomib. […] Therefore, we assessed a panel of four human MPM lines with different sensitivity to bortezomib, for functional proteasome activity and levels of free and polymerized ubiquitin. […] We found that highly sensitive MPM lines display lower proteasome activity than more bortezomib-resistant clones, suggesting that reduced proteasomal capacity might contribute to the intrinsic susceptibility of mesothelioma cells to proteasome inhibitors-induced apoptosis. […] Moreover, MPM equipped with fewer active proteasomes accumulated polyubiquitinated proteins, at the expense of free ubiquitin, a condition known as proteasome stress, which lowers the cellular apoptotic threshold and sensitizes mesothelioma cells to bortezomib-induced toxicity as shown herein. […] Taken together, our data suggest that an unfavorable load-versus-capacity balance represents a critical determinant of primary apoptotic sensitivity to bortezomib in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29921948&#34; target=&#34;_blank&#34;&gt;29921948&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bortezomib, an FDA-approved proteasome inhibitor, selectively impairs chemotherapy-resistant MPM cells by activating the PERK/eIF2α/ATF4-mediated UPR and augmenting apoptosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31576173&#34; target=&#34;_blank&#34;&gt;31576173&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bortezomib is an approved proteasome inhibitor for the treatment of certain lymphoma subtypes. […] Two clinical trials investigated bortezomib in patients with malignant pleural mesothelioma (MPM) and failed to improve outcome. […] Four mesothelial and one fibroblast cell line were treated with bortezomib and cisplatin. […] In cell lines, apoptosis was the main event with a peak after 48 hr incubation for bortezomib or cisplatin. […] Only two cell lines with comparably low proteasome activity (PSMB2 and PSMB5) responded to 50 nM and 100 nM bortezomib better than to cisplatin (MRC-5, NCI-H2052). […] Two clinical trials testing bortezomib in MPM failed, although MPM presents with high proteasome expression, which predicts bortezomib sensitivity in several tumors. […] Bortezomib induced apoptosis in MPM cell lines with low proteasome activity only. […] Bortezomib is not suitable for the treatment of MPM, and biomarker-based stratification could have improved both clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

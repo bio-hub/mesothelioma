@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/hemoglobin/</link>
+      <atom:link href="/mesothelioma/drugpanel/hemoglobin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/hemoglobin/</link>
+    </image>
+    
+    <item>
+      <title>HEMOGLOBIN</title>
+      <link>/mesothelioma/drugpanel/hemoglobin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/hemoglobin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04945&#39; target=&#39;_blank&#39;&gt;db04945&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hemoglobin&#34; target=&#34;_blank&#34;&gt;hemoglobin&lt;/a&gt; &lt;br&gt;
+Synonymous :deoxyhemoglobin | haemoglobin | human hemoglobin
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hemoglobin&lt;/em&gt; gene in 28 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14605068&#34; target=&#34;_blank&#34;&gt;14605068&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TN was identified in 39 cases (22.8%) and correlated with low hemoglobin (p = 0.01), thrombocytosis (p = 0.04), and high MVC (p = 0.02).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17289801&#34; target=&#34;_blank&#34;&gt;17289801&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No interference was seen from added bilirubin (200 mg/L), hemoglobin (500 mg/L), triglycerides (30 g/L), chemotherapeutic agents, or other tested substances.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18355497&#34; target=&#34;_blank&#34;&gt;18355497&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients undergoing induction chemotherapy had lower preoperative hemoglobin (122 +/- 16 g/L versus 134 +/- 15 g/L in the remaining patients, p = 0.02) and received more RBC transfusions (5.1 +/- 3.5 units versus 2.1 +/- 2.3 units in the remaining patients, p = 0.007).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18434338&#34; target=&#34;_blank&#34;&gt;18434338&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Common grade 3/4 toxicities were neutropenia and decreased-hemoglobin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20445731&#34; target=&#34;_blank&#34;&gt;20445731&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory: Hemoglobin 11,9 gr/dl, WBC 6840/mm3 Bands 1 %, lymphocytes 10 %, platelets 620000/mm3, PT 12 seconds, PTT 34 seconds, glucose 158 mg/dl, BUN 20,5 mg/ dl, creatinine 1,2 mg/dl, proteins 6,1 gr/dl, albumin 2,6 gr/dl.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21310625&#34; target=&#34;_blank&#34;&gt;21310625&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Relatively more 3-year survivors were younger than, or at the median age (p=0.0005), or female (p=0.0007), had epithelial tumor histology (p&amp;lt;0.0001) and/or had normal white blood cell count (p=0.0001), hemoglobin (p&amp;lt;0.0001), or platelet count (p&amp;lt;0.0001) preoperatively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22268178&#34; target=&#34;_blank&#34;&gt;22268178&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tumor volume was calculated, and Kaplan-Meier survival and Cox regression analyses were performed to compare the estimated survival functions of patient subgroups based on volume and other covariates related to outcome (sex, age, preoperative platelet count, hemoglobin concentration, WBC count, clinical and pathologic TNM category, and administration of neoadjuvant and adjuvant therapy). […] In univariate analysis, tumor volume, hemoglobin concentration, platelet count, pathologic TNM category, and administration of adjuvant chemotherapy or radiation therapy met the criteria for inclusion in the reverse stepwise regression analysis. […] In the final model, tumor volume, hemoglobin concentration, and administration of adjuvant chemotherapy or radiotherapy were identified as independently associated with overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22658812&#34; target=&#34;_blank&#34;&gt;22658812&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following variables were predictive of longer overall survival in univariate analysis: younger age, epithelial subtype, lower tumor stage, low white cell count, low platelet count, low hemoglobin level, and low NLR. […] Multivariate analysis confirmed that nonepithelial vs. epithelial subtype (hazard ratio [HR], 3.0; P &amp;lt; .001), tumor stage (HR, 1.6; P &amp;lt; .001), hemoglobin level difference ≥10 vs. &amp;lt;10 (HR, 2.0; P = .03), no chemotherapy vs. use of chemotherapy (HR, 2.4; P &amp;lt; .001), and NLR ≥3 vs. &amp;lt;3 (HR, 2.2; P &amp;lt; .01) were independently associated with prognosis. […] Apart from previously recognized factors, such as histosubtype, tumor stage, and hemoglobin level difference, NLR, an index of systemic inflammation bears prognostic significance that shows that a snapshot of immune status is able to convey important prognostic information.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23434448&#34; target=&#34;_blank&#34;&gt;23434448&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patients had epithelial histologic findings on biopsy and were characterized as having a low risk of early recurrence and death (ie, tumor volume ≤ 500 cm(3) and were either men with a hemoglobin level of ≥ 13 g/dL or were women).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24675492&#34; target=&#34;_blank&#34;&gt;24675492&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Relationships of survival of the patients with their age, gender, exposure to asbestos, smoking history, platelet, hemoglobin, leukocyte (WBC) and serum LDH values, histology, performance score and stage of disease were examined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24807157&#34; target=&#34;_blank&#34;&gt;24807157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Scenario B (no surgical staging): clinical stage, histology, sex, age, type of surgery, adjuvant treatment, WBC, hemoglobin (&amp;lt;14.6 or not), and platelets (n = 627). […] Scenario C (limited data): histology, sex, age, WBC, hemoglobin, and platelets (n = 906).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25208819&#34; target=&#34;_blank&#34;&gt;25208819&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chest pain (47.7%), dyspnea (44.8%), weight loss (49%), loss of appetite (50%), anemia (38%), leukocytosis (37.2%), thrombocytosis (26.6%) and LDH elevation (10.1%) were found with median values such as 11.8 g/dL (5-17.1) for hemoglobin, 8,800/mm3 for WBC (2,600-38,300), 382,000/mm(3) for platelets (28,000-1,504,000) and 253 IU/L for LDH (85-1,877), respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26156324&#34; target=&#34;_blank&#34;&gt;26156324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was no difference between the two groups in terms of age, gender, asbestos exposure, histology, stage, Karnofsky performance status, presence of pleurodesis, prophylactic radiotherapy, second-line chemotherapy and median hemoglobin and serum albumin levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26776867&#34; target=&#34;_blank&#34;&gt;26776867&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The group with the best survival at 18 months (86.7% alive, median survival 34.0 months, termed risk group 1) had no weight loss, a hemoglobin level greater than 153 g/L, and a serum albumin level greater than 43 g/L.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26845118&#34; target=&#34;_blank&#34;&gt;26845118&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Variables correlated with overall survival (OS) included sex, performance status (PS), asbestos exposure, tumor laterality, histology, clinical stage, initial positron emission tomography maximum standardized uptake value, hemoglobin level, platelet count, lymphocyte count, white cell and neutrophil counts, treatment type, and clinical benefit from treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26893272&#34; target=&#34;_blank&#34;&gt;26893272&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Univariate analysis showed that histologic type, performance status, response to first-line therapy, pretreatment hemoglobin levels, and plasmatic Ca125 were significant prognostic factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26903362&#34; target=&#34;_blank&#34;&gt;26903362&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the final prognostic model, log-osteopontin, EORTC clinical prognostic index, and hemoglobin remained as independently significant predictors and the entire prognostic model improved the optimism-corrected Harrell’s C-index significantly, from 0.718 (0.67-0.77) to 0.801 (0.77-0.84).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30312759&#34; target=&#34;_blank&#34;&gt;30312759&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The major pathogenic mechanisms include oxidative stress either via catalytic reactions against the asbestos surface or frustrated phagocytosis of macrophages, and specific adsorption of hemoglobin and histones by asbestos fibers in the presence of phagocytic activity of mesothelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30366103&#34; target=&#34;_blank&#34;&gt;30366103&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The group with the longest survival (median, 82.5 months) had: no weight loss, hemoglobin &amp;gt; 153 g/L and serum albumin &amp;gt; 43 g/L at time of referral to the surgical center.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30369425&#34; target=&#34;_blank&#34;&gt;30369425&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In group A, significant predictors of delay in C3 were baseline hemoglobin (mean 13.3 g/dL vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30478189&#34; target=&#34;_blank&#34;&gt;30478189&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) ≥2, disease-free interval (DFI) &amp;lt;1 year, and hemoglobin ≤110 g/L at recurrence were associated with worse prognosis. […] Patients with relapsed MPM following RT and EPP, especially those with ECOG PS ≥2, DFI &amp;lt;1 year, and hemoglobin ≤110 g/L at recurrence, have poor prognosis and low RR to first-line systemic therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7750348&#34; target=&#34;_blank&#34;&gt;7750348&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median fall in hemoglobin concentration in the first 24 h postsurgery was 1.1 g/dL (0.3-2.5 g/dL).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9515850&#34; target=&#34;_blank&#34;&gt;9515850&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Univariate analyses show that patients with poor Eastern Cooperative Oncology Group PS, chest pain, dyspnea, platelet count (PLT) &amp;gt;400,000/microL, weight loss, serum lactate dehydrogenase (LDH) level &amp;gt;500 IU/L, pleural involvement, low hemoglobin (HGB) level, high WBC count, and increasing age over 75 years have a worse prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

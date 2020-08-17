@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/taurolidine/</link>
+      <atom:link href="/mesothelioma/drugpanel/taurolidine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/taurolidine/</link>
+    </image>
+    
+    <item>
+      <title>TAUROLIDINE</title>
+      <link>/mesothelioma/drugpanel/taurolidine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/taurolidine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12473&#39; target=&#39;_blank&#39;&gt;db12473&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=taurolidine&#34; target=&#34;_blank&#34;&gt;taurolidine&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;taurolidine&lt;/em&gt; gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17350855&#34; target=&#34;_blank&#34;&gt;17350855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a second experiment, this new recurrence model was evaluated for the effect of intrapleural therapy with different agents: 4 ml of cisplatin-solution (100mg(2)/kg BW), cisplatin combined with the fibrin-based sealant Vivostat, 4 ml taurolidine 2%, repeated injection of 1 microg of the chemokine CCL-19 at the tumour site and 4 ml povidone-iodine in a dilution 1:10.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17383050&#34; target=&#34;_blank&#34;&gt;17383050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Taurolidine and povidone-iodine (PVP-I) are used in every day clinical practice, taurolidine as a broad spectrum antibiotic, and PVP-I as an antiseptic. […] Both taurolidine and PVP-I inhibited MPM cell growth after 7.5min incubation, but taurolidine was more effective at later time points and was more specific towards tumour cells than PVP-I. […] Taurolidine induced death by caspase-dependent and independent mechanisms, whereas in contrast, PVP-I induced a necrotic phenotype that was not caspase-dependent. […] Interestingly, both taurolidine and PVP-I induced the production of reactive oxygen intermediates and decreased mitochondrial membrane permeability, and cell death was inhibited by the oxygen scavenger N-acetyl cysteine. […] Taurolidine but not PVP-I treatment resulted in p53 activation in 2/3 MPM cell lines and a decrease in the protein levels of survivin, Bcl-2 and Mcl-1. […] Targeting of Bcl-xL with siRNA sensitized MPM cells to taurolidine and taurolidine treatment sensitized MPM cells to cisplatin-induced apoptosis. […] In conclusion, taurolidine and PVP-I are both cytotoxic to human MPM cells at early and late time points and induce reactive oxygen intermediate production. […] Taurolidine induces apoptosis and necrosis, activates p53 and sensitizes cells to cisplatin, whereas PVP-I inhibits cell growth via necrosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

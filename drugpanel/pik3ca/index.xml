@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/pik3ca/</link>
+      <atom:link href="/mesothelioma/drugpanel/pik3ca/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/pik3ca/</link>
+    </image>
+    
+    <item>
+      <title>PIK3CA</title>
+      <link>/mesothelioma/drugpanel/pik3ca/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/pik3ca/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14954&#39; target=&#39;_blank&#39;&gt;db14954&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=pik3ca&#34; target=&#34;_blank&#34;&gt;pik3ca&lt;/a&gt; &lt;br&gt;
+Synonymous :phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform | pik3ca
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;pik3ca&lt;/em&gt; gene in 5 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23558893&#34; target=&#34;_blank&#34;&gt;23558893&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor gene mutations were sought by means of real-time polymerase chain reaction (PCR) and direct sequencing, KRAS gene mutations by mutant-enriched PCR, and PIK3CA and BRAF gene mutations by direct sequencing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25174276&#34; target=&#34;_blank&#34;&gt;25174276&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The samples were analyzed for mutations in EGFR, KRAS, BRAF, PIK3CA, NRAS, MEK1, AKT1, PTEN, and HER2 and amplifications in EGFR, MET, PIK3CA, FGFR1, and FGFR2. […] Genetic alterations were detected in 4 patients (one KRAS mutation and 3 PIK3CA amplifications). […] Moreover, significance was maintained if the patients only harbored PIK3CA amplification. […] A total 16 genetic mutations were identified in the 9 patients’ samples (4 TP53 mutations, 3 APC mutations, 3 PIK3CA mutations, and 2 VHL mutations, etc.) by deep sequencing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25514803&#34; target=&#34;_blank&#34;&gt;25514803&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The commonest genetic variations were clustered in two main pathways: the p53/DNA repair (TP53, SMACB1, and BAP1) and phosphatidylinositol 3-kinase-AKT pathways (PDGFRA, KIT, KDR, HRAS, PIK3CA, STK11, and NF2). […] PIK3CA:c.1173A&amp;gt;G mutation, STK11:rs2075606 (T&amp;gt;C), or TP53:rs1042522 (Pro/Pro) was significantly associated with time to progressive disease (TTPD; all p values &amp;lt; 0.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25952930&#34; target=&#34;_blank&#34;&gt;25952930&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transducers of these pathways, such as PIK3CA-mTOR-AKT, MAPK, and ezrin/radixin/moesin (ERM) could therefore be exploited as possible targets for pharmacological intervention. […] EGFR, KRAS and PIK3CA).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26463840&#34; target=&#34;_blank&#34;&gt;26463840&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Driver gene mutations in BRAF, EGFR, ERBB2, HRAS, KRAS, MET, NRAS, PIK3CA, STK11, and ephrin receptor genes (EPHA1-8, 10 and EPHB1-4, 6) were studied for both LAC and MM, and in BAP1, CUL1, CDKN2A, and NF2 for MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26870271&#34; target=&#34;_blank&#34;&gt;26870271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mutations in various genes, including &lt;i&gt;EGFR&lt;/i&gt;, &lt;i&gt;KRAS&lt;/i&gt;, &lt;i&gt;HER2&lt;/i&gt;, &lt;i&gt;BRAF&lt;/i&gt;, and &lt;i&gt;PIK3CA&lt;/i&gt;, which are frequently detected in non-small cell lung cancer, were not detected in the 4 cell lines. microRNA-34b/c is a direct transcriptional target of p53 and is often silenced in MPM by promoter methylation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31443309&#34; target=&#34;_blank&#34;&gt;31443309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, the process of pathogenesis is greatly affected by activating mutations of &lt;i&gt;EGFR&lt;/i&gt;, &lt;i&gt;KRAS&lt;/i&gt;, &lt;i&gt;PIK3CA&lt;/i&gt;, &lt;i&gt;BRAF&lt;/i&gt;, &lt;i&gt;MET&lt;/i&gt;, &lt;i&gt;EML4/ALK&lt;/i&gt; and &lt;i&gt;RET&lt;/i&gt;, which correlate with an increased incidence of MPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32369821&#34; target=&#34;_blank&#34;&gt;32369821&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Illumina TruSight Tumor 15 was used to evaluate 250 amplicons from 15 genes associated with solid tumors (AKT1, GNA11, NRAS, BRAF, GNAQ, PDGFRA, EGFR, KIT, PIK3CA, ERBB2, KRAS, RET, FOXL2, MET,and TP53).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

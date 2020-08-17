@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/serine/</link>
+      <atom:link href="/mesothelioma/drugpanel/serine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/serine/</link>
+    </image>
+    
+    <item>
+      <title>SERINE</title>
+      <link>/mesothelioma/drugpanel/serine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/serine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00133&#39; target=&#39;_blank&#39;&gt;db00133&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=serine&#34; target=&#34;_blank&#34;&gt;serine&lt;/a&gt; &lt;br&gt;
+Synonymous :(s)-2-amino-3-hydroxypropanoic acid | (s)-serine | alpha-amino-beta-hydroxypropionic acid | beta-hydroxyalanine | l-serine | ser | serina | serine | serinum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;serine&lt;/em&gt; gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11923140&#34; target=&#34;_blank&#34;&gt;11923140&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A downstream target of PTEN is AKT, a serine-threonine kinase that when activated inhibits apoptosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14719068&#34; target=&#34;_blank&#34;&gt;14719068&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BRAF encodes a RAS-regulated serine/threonine kinase that mediates the pathway for cell growth and malignant transformation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15136399&#34; target=&#34;_blank&#34;&gt;15136399&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This recently characterized trypsin-like serine protease has been implicated in tumor invasion and metastasis of E-derived cancers, but has not been described until now in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15579018&#34; target=&#34;_blank&#34;&gt;15579018&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore apoptosis mechanisms in mesothelioma cells are under the control of the cholinergic system (nicotine antiapoptotic via induction of NF-kappaB complexes and phosphorilation of Bad at Serine(112), curare proapoptotic via G(0)-G(1) arrest p21(waf-1)-dependent, but p53-independent).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17168719&#34; target=&#34;_blank&#34;&gt;17168719&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, it has been recently reported that nicotine in lung adenocarcinoma A549 cells, potently induces Bad phosphorylation at serine (S)112, S136 and S155 in a mechanism involving activation of MAPKs, ERK1/2, PI3K/AKT and PKA through the linking to alpha7-receptors [9].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17976017&#34; target=&#34;_blank&#34;&gt;17976017&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The kallikrein serine proteases [tissue (hK1) and plasma (hKB1) kallikreins, and kallikrein-related peptidases (KRP/hK2-15)] and the mitogenic kinin peptides may have a role in tumourigenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18725387&#34; target=&#34;_blank&#34;&gt;18725387&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also found that the introduction of NF2 into NCI-H290 induced phosphorylation at serine 127 of YAP1, which was accompanied by reduction of nuclear localization of YAP1, whereas nuclear localization of a YAP1 S 127A mutant was not affected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19528482&#34; target=&#34;_blank&#34;&gt;19528482&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As expected, these enhancements were markedly suppressed with the addition of anti-alphavbeta3 antibody or arginine-glycine-aspartic acid serine (RGDS) peptide to the medium.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20819444&#34; target=&#34;_blank&#34;&gt;20819444&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present study investigated the presence of the serine protease, maspin, in epithelioid MMs and evaluated the diagnostic utility of maspin for the differential diagnosis between epithelioid MM and pulmonary AC with pleural involvement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22836805&#34; target=&#34;_blank&#34;&gt;22836805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we hypothesize that peritoneal mesothelioma also has an epigenetic alteration in the same genes (Kazal-type serine peptidase inhibitor domain 1 (KAZALD1), transmembrane protein 30B (TMEM30B), and mitogen-activated protein kinase 13 (MAPK13)).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24598827&#34; target=&#34;_blank&#34;&gt;24598827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CFM-4 enhanced expression of serine-phosphorylated podoplanin and cleavage of vimetin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24690739&#34; target=&#34;_blank&#34;&gt;24690739&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+DSF-Cu promoted cleavage of vimentin, as well as serine-phosphorylation and lysine-63 linked ubiquitination of podoplanin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24838635&#34; target=&#34;_blank&#34;&gt;24838635&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The expression of STAT1 phosphorylated on serine 727 (S727) was not detected in mesothelioma cell lines and was not stimulated by IFN-γ. […] STAT1 was phosphorylated on tyrosine 701 and serine 727 in MPM tissue samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26762744&#34; target=&#34;_blank&#34;&gt;26762744&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results also show that AM stimulates cell proliferation in vitro through the Raf1 proto-oncogene, serine/threonine kinase (CRAF)/ Mitogen-activated protein kinase kinase 1 (MEK)/Extracellular regulated MAPKinase (ERK) pathway.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30272283&#34; target=&#34;_blank&#34;&gt;30272283&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The translocation of apoptosis-inducing factor (AIF) was assessed by western blotting and immunofluorescence, and the expression levels of the phosphoinositide 3-kinase (PI3K)-AKT serine/threonine kinase (Akt)‑mammalian target of rapamycin (mTOR) signaling pathway proteins and mitochondria-associated proteins were evaluated by western blotting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

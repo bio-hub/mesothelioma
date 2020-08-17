@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/oxygen/</link>
+      <atom:link href="/mesothelioma/drugpanel/oxygen/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/oxygen/</link>
+    </image>
+    
+    <item>
+      <title>OXYGEN</title>
+      <link>/mesothelioma/drugpanel/oxygen/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/oxygen/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09140&#39; target=&#39;_blank&#39;&gt;db09140&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+Synonymous :dioxygen | molecular oxygen | oxigeno gaseoso | oxygen usp | pure oxygen
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 47 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11811924&#34; target=&#34;_blank&#34;&gt;11811924&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These diseases may be initiated by injury to epithelial cells and mesothelial cells by asbestos fibers through the formation of reactive oxygen intermediates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11875804&#34; target=&#34;_blank&#34;&gt;11875804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This procedure was performed with no serious effect on blood pressure, oxygen saturation, monitored ECG or BGA data, and with no serious complications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12057100&#34; target=&#34;_blank&#34;&gt;12057100&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical use of PDT requires the use of a photosensitizing agent and light of a wavelength specific to the absorption characteristics of the sensitizer in the presence of oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12151629&#34; target=&#34;_blank&#34;&gt;12151629&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In vitro models have provided evidence that asbestos fibers are genotoxic carcinogens that can directly or indirectly generate reactive oxygen- and nitrogen-derived species that cause DNA damage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1386470&#34; target=&#34;_blank&#34;&gt;1386470&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Photodynamic therapy (PDT) is an experimental form of cancer therapy which employs photoactivation of a sensitizing chemical by light of a given wavelength via the production of toxic oxygen species.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15006637&#34; target=&#34;_blank&#34;&gt;15006637&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The sequence of the damage is hypothesised to be as follows: at increasing fluoro-edenite concentrations, and/or treatment times, the increase in reactive oxygen species (ROS) production could trigger significant DNA damage in cell cultures, concomitantly with drop in cell metabolism and increase in lactic dehydrogenase release.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15559054&#34; target=&#34;_blank&#34;&gt;15559054&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reactive oxygen and nitrogen species play a key role.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17044196&#34; target=&#34;_blank&#34;&gt;17044196&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, mutagenic oxygen radicals released mainly by lung macrophages may contribute to asbestos carcinogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17290392&#34; target=&#34;_blank&#34;&gt;17290392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These findings, if replicated, contribute substantial evidence to the hypothesis that oxidative stress and cellular antireactive oxygen species systems are involved in the pathogenesis and in the natural history of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17383050&#34; target=&#34;_blank&#34;&gt;17383050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, both taurolidine and PVP-I induced the production of reactive oxygen intermediates and decreased mitochondrial membrane permeability, and cell death was inhibited by the oxygen scavenger N-acetyl cysteine. […] In conclusion, taurolidine and PVP-I are both cytotoxic to human MPM cells at early and late time points and induce reactive oxygen intermediate production.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17434931&#34; target=&#34;_blank&#34;&gt;17434931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although it has been shown that the iron associated with asbestos participates in the cell toxicity and probably MM pathogenesis via generation of reactive oxygen species (ROS), the molecular mechanisms largely remain unknown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17574045&#34; target=&#34;_blank&#34;&gt;17574045&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The goal of this study was to evaluate the roles of the mitochondria-dependent apoptotic cascade and the CDDP-generated reactive oxygen species (ROS) in mediating the supra-additive enhancement of cytotoxicity and apoptosis in combination-treated malignant pleural mesothelioma (MPM) cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18420450&#34; target=&#34;_blank&#34;&gt;18420450&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most commonly studied GSTM1 polymorphism showed for all asbestos-linked diseases an increased risk in association with the null genotype, possibly linked to its role in the conjugation of reactive oxygen species.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18709470&#34; target=&#34;_blank&#34;&gt;18709470&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The capacity of asbestos to induce mesothelioma has been linked to its ability to cause the release of TNF-alpha (that promotes mesothelial cells survival), other cytokines and growth factors, and of mutagenic oxygen radicals from exposed mesothelial cells and nearby macrophages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18775081&#34; target=&#34;_blank&#34;&gt;18775081&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Generation of reactive oxygen and nitrogen species, profibrotic cytokines and growth factors in response to asbestos is likely to play a role in the formation of a fibrinous intrapleural matrix.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19414400&#34; target=&#34;_blank&#34;&gt;19414400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This impaired metabolism of glucose, leading to the secretion of lactic acid even in the presence of oxygen, is named the Warburg effect.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19822291&#34; target=&#34;_blank&#34;&gt;19822291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A light-based treatment, PDT consists of 3 components: a nontoxic photosensitizing compound, oxygen, and visible light.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19852844&#34; target=&#34;_blank&#34;&gt;19852844&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A possible link between TUSC2 expression and exposure to asbestos was studied using asbestos-treated mesothelial cells and ROS (reactive oxygen species) scavengers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20021458&#34; target=&#34;_blank&#34;&gt;20021458&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos-induced carcinogenesis includes generation of reactive oxygen species, which induce DNA strand breaks and oxidant-induced base modifications to DNA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20049814&#34; target=&#34;_blank&#34;&gt;20049814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mechanisms of nanomaterial toxicity remain to be fully elucidated, but recent evidence suggests points of similarity with asbestos fibers, including a role for generation of reactive oxygen species, oxidative stress, and genotoxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20153664&#34; target=&#34;_blank&#34;&gt;20153664&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to evaluate the changes in pulmonary function and oxygen consumption following IC in patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20616036&#34; target=&#34;_blank&#34;&gt;20616036&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos carcinogenesis has been linked to the release of cytokines and mutagenic reactive oxygen species (ROS) from inflammatory cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20831825&#34; target=&#34;_blank&#34;&gt;20831825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dichlorodihydrofluorescein diacetate (DCFDA) fluorescence staining and flow cytometry revealed a dose- and time-dependent increase in reactive oxygen species (ROS) production by LP9/TERT-1 cells exposed to Libby six-mix.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21375472&#34; target=&#34;_blank&#34;&gt;21375472&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reactive oxygen species play an important role in asbestos toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21412769&#34; target=&#34;_blank&#34;&gt;21412769&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos induces DNA alterations mostly by inducing mesothelial cells and reactive macrophages to secrete mutagenic oxygen and nitrogen species.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22500091&#34; target=&#34;_blank&#34;&gt;22500091&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos can induce chronic inflammation in these areas due to the production of reactive oxygen/nitrogen species.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22733539&#34; target=&#34;_blank&#34;&gt;22733539&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Primary MPM cultures were developed in serum-free condition in 3% oxygen and were used to investigate the effects of smoothened (SMO) inhibitors or GLI1 silencing on cell growth and hedgehog signaling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23911347&#34; target=&#34;_blank&#34;&gt;23911347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to EGCG instability that causes H2O2 formation in culture medium, the drug was added to MMe cells in the presence of exogenous superoxide dismutase and catalase, already proved to stabilize the EGCG molecule and prevent EGCG-dependent reactive oxygen species formation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24057048&#34; target=&#34;_blank&#34;&gt;24057048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both Co-EPM and Co-ASS significantly reduced reactive oxygen/nitrogen species (ROS/RNS), and in turn nitrites, suggesting that the hexacarbonyldicobalt moiety may deliver CO within the cell, acting as a CO-releasing molecule (CO-RM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24496222&#34; target=&#34;_blank&#34;&gt;24496222&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This chemoresistance increase might be due to the continuous support of nutrients and oxygen to the perfused spheroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24790438&#34; target=&#34;_blank&#34;&gt;24790438&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human bronchial epithelial (BEAS-2B) and malignant pleural mesothelioma cells were exposed to the CNTs (1-50 μg/mL), and cell viability, permeability, uptake, total reactive oxygen species/superoxide production, and intracellular acidity were measured. […] However, total reactive oxygen species/superoxide generation did not contribute to cytotoxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24885398&#34; target=&#34;_blank&#34;&gt;24885398&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Primary MPM cultures grown in serum-free condition in 3% oxygen or MPM cell lines grown in serum-containing medium were used to investigate the modulation of GAS5 by growth arrest after inhibition of Hedgehog or PI3K/mTOR signalling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25361002&#34; target=&#34;_blank&#34;&gt;25361002&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We herein showed that PEITC-induced cytotoxicity was due to the generation of reactive oxygen species.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25499640&#34; target=&#34;_blank&#34;&gt;25499640&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Photodynamic therapy (PDT) is a form of non-ionizing radiation therapy that uses a drug, called a photosensitizer, combined with light to produce singlet oxygen ((1)O2) that can exert anti-cancer activity through apoptotic, necrotic, or autophagic tumor cell death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26004138&#34; target=&#34;_blank&#34;&gt;26004138&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+DAPE generated reactive oxygen species (ROS) followed by disruption of mitochondrial membrane potentials in NCI-H28 cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26238284&#34; target=&#34;_blank&#34;&gt;26238284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reactive oxygen species (ROS)-generating NADPH oxidase (Nox) family enzymes have been suggested to be involved in neoplastic proliferation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26588871&#34; target=&#34;_blank&#34;&gt;26588871&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+DAPE generated reactive oxygen species (ROS) and inhibited activity of thioredoxin (Trx) reductase (TrxR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26938529&#34; target=&#34;_blank&#34;&gt;26938529&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The interaction of asbestos fibers with macrophages generates harmful reactive oxygen species (ROS) and subsequent oxidative cell damage that are key processes linked to malignancy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27929427&#34; target=&#34;_blank&#34;&gt;27929427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A singlet oxygen explicit dosimetry (SOED) model has been developed for in vivo purposes. […] It involves the measurement of the key components in PDT-light fluence (rate), photosensitizer concentration, and ground-state oxygen concentration ([³&lt;i&gt;O&lt;/i&gt;₂])-to calculate the amount of reacted singlet oxygen ([¹&lt;i&gt;O&lt;/i&gt;₂]&lt;sub&gt;rx&lt;/sub&gt;), the main cytotoxic component in type II PDT. […] Experiments were performed in phantoms with the photosensitizer Photofrin and in solution using phosphorescence-based singlet oxygen luminescence dosimetry (SOLD) to validate the SOED model. […] Oxygen concentration and photosensitizer photobleaching versus time were measured during PDT, along with direct SOLD measurements of singlet oxygen and triplet state lifetime (&lt;i&gt;τ&lt;/i&gt;&lt;sub&gt;Δ&lt;/sub&gt; and &lt;i&gt;τ&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;), for various photosensitizer concentrations to determine necessary photophysical parameters. […] Using SOED modeling, we have also shown evidence that SOLD-measured [¹&lt;i&gt;O&lt;/i&gt;₂]&lt;sub&gt;rx&lt;/sub&gt; using a 523 nm pulsed laser can be used to correlate to singlet oxygen generated by a 630 nm laser during a clinical malignant pleural mesothelioma (MPM) PDT protocol by using a conversion formula.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29306869&#34; target=&#34;_blank&#34;&gt;29306869&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There are several mechanisms through which asbestos can lead to both benign and malignant disease, and they include alterations at the chromosomal level, activation of oncogenes, loss of tumor suppressor genes, alterations in cellular signal transduction pathways, generation of reactive oxygen and nitrogen species, and direct mechanical damage to cells from asbestos fibers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29507790&#34; target=&#34;_blank&#34;&gt;29507790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Systemic vascular resistance (SVR), oxygen delivery (DO&lt;sub&gt;2&lt;/sub&gt;), and oxygen extraction rate (O&lt;sub&gt;2&lt;/sub&gt;ER) were calculated using standard formulas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29932955&#34; target=&#34;_blank&#34;&gt;29932955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reactive oxygen species (ROS) (in particular, mitochondrial ROS) contribute to NRLP3 activation via a well-elucidated mechanism involving oxidation of reduced thioredoxin and association of thioredoxin-interacting protein with NLRP3.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30113886&#34; target=&#34;_blank&#34;&gt;30113886&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The remaining were in genes involved in DNA damage sensing and repair (n = 14), oxygen sensing (n = 2), endosome trafficking (n = 1), and cell growth (n = 1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30659154&#34; target=&#34;_blank&#34;&gt;30659154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These effects were accompanied by impairment of mitochondrial activity and increased production of reactive oxygen species.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31082996&#34; target=&#34;_blank&#34;&gt;31082996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, in patients with advanced nonsmall cell lung cancer a comprehensive molecular testing on pleural fluid samples, which should include at a minimum epidermal growth factor receptor/v-raf murine sarcoma viral oncogene homolog B/anaplastic lymphoma kinase/reactive oxygen species 1/programmed death-ligand 1 alterations, is highly advocated to identify patients who may benefit from targeted therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31819191&#34; target=&#34;_blank&#34;&gt;31819191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inhaled asbestos fibres accumulate in the lungs and induce the generation of reactive oxygen species (ROS) due to the presence of iron associated with the fibrous silicates and to the activation of macrophages and inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32048732&#34; target=&#34;_blank&#34;&gt;32048732&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High S&lt;sub&gt;t&lt;/sub&gt; O&lt;sub&gt;2&lt;/sub&gt; pre-PDT was significantly associated with oxygen depletion (S&lt;sub&gt;t&lt;/sub&gt; O&lt;sub&gt;2&lt;/sub&gt; ratio &amp;lt; 1), although the extent of oxygen depletion was mild (median S&lt;sub&gt;t&lt;/sub&gt; O&lt;sub&gt;2&lt;/sub&gt; ratio of 0.8). […] Mild oxygen depletion after PDT was experienced at tissue sites with high pre-PDT S&lt;sub&gt;t&lt;/sub&gt; O&lt;sub&gt;2&lt;/sub&gt; , which may suggest the presence of a treatment effect.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

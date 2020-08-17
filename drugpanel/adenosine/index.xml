@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/adenosine/</link>
+      <atom:link href="/mesothelioma/drugpanel/adenosine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/adenosine/</link>
+    </image>
+    
+    <item>
+      <title>ADENOSINE</title>
+      <link>/mesothelioma/drugpanel/adenosine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/adenosine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00640&#39; target=&#39;_blank&#39;&gt;db00640&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=adenosine&#34; target=&#34;_blank&#34;&gt;adenosine&lt;/a&gt; &lt;br&gt;
+Synonymous :(2r,3r,4s,5r)-2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol | 6-amino-9-beta-d-ribofuranosyl-9h-purine | 9-beta-d-ribofuranosidoadenine | 9-beta-d-ribofuranosyl-9h-purin-6-amine | 9-β-d-ribofuranosyl-9h-purin-6-amine | ade-rib | adenin riboside | adenine deoxyribonucleoside | adenogesic | adenosin | adenosina | adénosine | adenosine | adenosinum | ado | beta-d-adenosine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;adenosine&lt;/em&gt; gene in 25 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15607312&#34; target=&#34;_blank&#34;&gt;15607312&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To examine the diagnostic utility of pleural adenosine deaminase (PADA), pleural lactate dehydrogenase (PLDH), and several other biochemical tests in bronchogenic carcinoma and malignant mesothelioma, and to compare biochemical characteristics of their fluid with nonmalignant pleural effusions. […] We examined the following biochemical parameters in the pleural fluid and serum: adenosine deaminase, lactate dehydrogenase, glucose level, protein level, pleural fluid/serum ADA ratio (P/S ADA), P/S LDH ratio, and P/S protein ratio.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16447785&#34; target=&#34;_blank&#34;&gt;16447785&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined the usefulness of adenosine deaminase 2 (ADA2) in the diagnosis of tuberculous pleuritis. […] Pleural adenosine deaminase (ADA) was 90.4 +/- 22.4 U/l (mean +/- SD) and pleural ADA2 was 80.4 +/- 21.9 U/l in tuberculous pleuritis, both were significantly higher than those in non-tuberculous exudates (p &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17952507&#34; target=&#34;_blank&#34;&gt;17952507&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objective of this study was to investigate the relationship between pleural fluid adenosine deaminase (Pf-ADA) levels and talc pleurodesis outcomes, and to compare Pf-ADA levels to various other biochemical variables with respect to predicting talc pleurodesis outcome in patients with MPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18517012&#34; target=&#34;_blank&#34;&gt;18517012&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pleural effusion of the right thorax exhibited both elevated level of adenosine deaminase and increased numbers of lymphocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20116740&#34; target=&#34;_blank&#34;&gt;20116740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The utility of adenosine deaminase (ADA) (in the absence of empyema, ADA &amp;gt; 70 U/l is diagnostic of tuberculous pleurisy, while values of less than 40 U/l exclude this diagnosis) and interferon gamma in pleural fluid (cut off: 3.7 Ul/ml) is also discussed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20573057&#34; target=&#34;_blank&#34;&gt;20573057&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The routine pleural fluid (PF) evaluation usually includes the following: cell count and differential; tests for protein, LDH, glucose, adenosine deaminase, cytology and, if infection is a concern, pH and bacterial and mycobacterial cultures. […] If the effusion is an exudate, various PF tests have proven diagnostic utility: adenosine deaminase levels &amp;gt;35 IU/L usually indicate tuberculosis in lymphocyte-predominant PF; pH &amp;lt; 7.2 or glucose less than 60 mg/dL allow the clinician to identify complicated parapneumonic effusions; and conventional cytology may reveal malignant cells in 60% of the patients with malignant effusions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20870754&#34; target=&#34;_blank&#34;&gt;20870754&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Adenosine plays a key role in inflammatory processes and cancer, where it is involved in the regulation of cell death and proliferation. […] The primary aim of this study was to investigate the presence of adenosine receptors (ARs) in human MM pleura (MMP) and healthy mesothelial pleura (HMP). […] To shed some light on the interaction between adenosine and MM, the presence and functionality of ARs were explored in human healthy mesothelial cells (HMC) and in malignant mesothelioma cells (MMC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21860532&#34; target=&#34;_blank&#34;&gt;21860532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objective of this study was to evaluate the utility of the determination of adenosine deaminase (ADA) level in pleural fluid for the differential diagnosis between tuberculous pleural effusion (TPE) and malignant pleural effusion (MPE) in Japan, a country with intermediate incidence of tuberculosis (TB).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22394205&#34; target=&#34;_blank&#34;&gt;22394205&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed whether loss of methylthioadenosine phosphorylase (MTAP), a key enzyme in the intracellular recycling of adenosine triphosphate (ATP) often deleted in MPM, could be detected with immunohistochemistry (IHC) and used as a diagnostic marker for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22759956&#34; target=&#34;_blank&#34;&gt;22759956&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present study investigated adenosine-induced apoptosis in human malignant pleural mesothelioma cells. […] MTT assay, TUNEL staining, flow cytometry using propidium iodide and annexin V-FITC, real-time RT-PCR, Western blotting, and assay of caspase-3, -8, and -9 activities were carried out using malignant pleural mesothelioma cell lines such as NCI-H28, NCI-H2052, NCI-H2452, and MSTO-211H cells, and p53 or A(3) adenosine receptor was knocked-down by transfecting each siRNA into cells. […] Adenosine induced apoptosis in all the malignant pleural mesothelioma cells used here, independently of caspase activation. […] The adenosine effect was prevented by the adenosine transporter inhibitor dipyridamole, the adenosine kinase inhibitor ABT-702, or the A(3) adenosine receptor inhibitor MRS1191. […] Adenosine upregulated expression of the p53 mRNA and protein, that is abolished by ABT-702, but not by knocking-down A(3) adenosine receptor. […] Adenosine-induced apoptosis in NCI-H28 cells was significantly inhibited by knocking-down p53 and in part by knocking-down A(3) adenosine receptor. […] The results of the present study show that AMP converted from intracellularly transported adenosine upregulates p53 expression to induce caspase-independent apoptosis in malignant pleural mesothelioma cells and that A(3) adenosine receptor also participates partially in the apoptosis by the different mechanism.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25368701&#34; target=&#34;_blank&#34;&gt;25368701&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed and compared the concentration of hyaluronic acid and adenosine deaminase in their pleural fluid. […] Patients with tuberculous pleurisy tended to have significantly higher concentrations of hyaluronic acid and adenosine deaminase in their pleural fluid (tuberculous pleurisy patients vs. other infective pleurisy patients: hyaluronic acid (× 10(3) ng/mL); 42.9 ± 23.3 vs. […] 16.8 ± 17.9, P = 0.003, adenosine deaminase (IU/L); 89.7 ± 33.3 vs. […] Receiver operating characteristic analysis revealed no significant difference in the area under the curve of hyaluronic acid and adenosine deaminase volumes in pleural fluid, suggesting their equivalent value as major diagnostic tools for tuberculosis pleurisy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25433793&#34; target=&#34;_blank&#34;&gt;25433793&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An adenosine deaminase &amp;gt; 45 U/L and&amp;gt;50% lymphocytes is suggestive of tuberculosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25547995&#34; target=&#34;_blank&#34;&gt;25547995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present study investigated the possibility for the adenosine deaminase (ADA) inhibitor EHNA as a target of MPM treatment. […] MTT assay, TUNEL staining, monitoring of intracellular adenosine concentrations, and Western blotting were carried out in cultured human MPM cell lines without and with knocking-down ADA. […] EHNA increased intracellular adenosine concentrations in a treatment time (3-9 h)-dependent manner. […] EHNA-induced apoptosis of MPM cells was mimicked by knocking-down ADA, and the effect was neutralized by the adenosine kinase inhibitor ABT-702. […] The results of the present study show that EHNA induces apoptosis of MPM cells by increasing intracellular adenosine concentrations, to convert to AMP, and effectively prevents MPM cell proliferation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26449328&#34; target=&#34;_blank&#34;&gt;26449328&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Their precise etiological diagnosis depends on a combination of medical history, physical examination, imaging tests and pertinent pleural fluid analyses; including specific biomarkers (e.g., natriuretic peptides for heart failure, adenosine deaminase for tuberculosis, or mesothelin for mesothelioma).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26689234&#34; target=&#34;_blank&#34;&gt;26689234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mean values of hyaluronic acid, adenosine deaminase, and carcinoembryonic antigen in the pleural fluid were 39,840 ng/mL, 23.9 IU/L, and 1.8 ng/mL, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26881550&#34; target=&#34;_blank&#34;&gt;26881550&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleural fluid analysis showed lymphocytic, exudative, low adenosine deaminase with negative for Pap smear.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27222787&#34; target=&#34;_blank&#34;&gt;27222787&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Adenosine deaminase level was 34.3 U/L (admission) and 19.02 U/L (two weeks after).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28389374&#34; target=&#34;_blank&#34;&gt;28389374&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MPM cell survival in response to poly(adenosine diphosphate-ribose) polymerase (PARP) and dual phosphoinositide 3-kinase (PI3K)-mammalian target of rapamycin (mTOR) inhibitors was analyzed by in vitro assays.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28410823&#34; target=&#34;_blank&#34;&gt;28410823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleural biopsies are especially indicated in the following circumstances: a) inconclusive pleural fluid analysis and negative sputum study, if adenosine deaminase (ADA) levels are unavailable; b) suspected multi-resistant tuberculosis; c) a need for differentiating tuberculous pleurisy (if it progresses with neutrophilia) and complicated parapneumonic effusion; d) malignant pleural effusion coexisting with very high ADA levels; e) effusion coexisting with lung cancer and negative pleural cytology; f) suspected mesothelioma; and g) need for implementing re-treatment for patients with relapse after chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29524617&#34; target=&#34;_blank&#34;&gt;29524617&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, other promising targeted therapies, including pegylated adenosine deiminase (ADI-PEG20), which focuses on argininosuccinate synthase 1-deficient tumors, and tazemetostat, an enhancer of zeste 2 polycomb repressive complex 2 subunit inhibitor of BRCA1 associated protein 1 gene (BAP1)-deficient tumors, are currently being explored.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30354850&#34; target=&#34;_blank&#34;&gt;30354850&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Adenosine deaminase, interferon-γ and interleukin-27 are three valuable biomarkers for diagnosing tuberculous pleurisy, yet only the first has been firmly established in clinical practice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30921217&#34; target=&#34;_blank&#34;&gt;30921217&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study demonstrated that the pleural lactate dehydrogenase (LDH)to adenosine deaminase (ADA) ratios differed significantly between patients with CHF/CRF, MPE, TBPE, empyema, and PPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32132027&#34; target=&#34;_blank&#34;&gt;32132027&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Adenosine deaminase acting on RNA (ADAR) is an RNA-editing enzyme that converts adenosine into inosine in double-stranded RNAs potentially involved in malignant development.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32468861&#34; target=&#34;_blank&#34;&gt;32468861&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleural effusion adenosine deaminase (ADA) levels are elevated in various diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8218802&#34; target=&#34;_blank&#34;&gt;8218802&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We describe an illustrative case with development of pleural overflow and detection of high adenosine-deaminase levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

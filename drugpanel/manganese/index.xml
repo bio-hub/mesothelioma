@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/manganese/</link>
+      <atom:link href="/mesothelioma/drugpanel/manganese/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/manganese/</link>
+    </image>
+    
+    <item>
+      <title>MANGANESE</title>
+      <link>/mesothelioma/drugpanel/manganese/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/manganese/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06757&#39; target=&#39;_blank&#39;&gt;db06757&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=manganese&#34; target=&#34;_blank&#34;&gt;manganese&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;manganese&lt;/em&gt; gene in 6 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10737384&#34; target=&#34;_blank&#34;&gt;10737384&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We have found that the immunoreactivity of manganese superoxide dismutase (MnSOD), an important antioxidant enzyme, is high in mesothelioma compared to healthy pleural mesothelium.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10962437&#34; target=&#34;_blank&#34;&gt;10962437&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Manganese superoxide dismutase (MnSOD), an important anti-oxidant enzyme, has been shown to decrease proliferation of malignant cells transfected with the MnSOD gene.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11283936&#34; target=&#34;_blank&#34;&gt;11283936&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant mesothelioma is a resistant tumor with high levels of manganese superoxide dismutase, a central superoxide scavenging AOE. […] Furthermore, a coordinately high expression of both manganese-superoxide dismutase (Mn-SOD) and catalase predicted even more favorable outcome of the mesothelioma patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11849743&#34; target=&#34;_blank&#34;&gt;11849743&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Manganese superoxide dismutase (MnSOD) activity is highly elevated in the biopsies of human asbestos-associated malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15039138&#34; target=&#34;_blank&#34;&gt;15039138&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the most important free radical scavenging enzymes, mitochondrial manganese superoxide dismutase (MnSOD), has been shown to be elevated in mesothelioma (K.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17290392&#34; target=&#34;_blank&#34;&gt;17290392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The differential impact on MPM risk of polymorphic alleles of glutathione-S-transferases (GSTs) and manganese superoxide dismutase (MnSOD/SOD2) genes involved in the defence against oxidative damage has been investigated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20617513&#34; target=&#34;_blank&#34;&gt;20617513&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we report that manganese-enhanced magnetic resonance imaging (MEMRI) represents a promising approach for a more selective mesothelioma imaging by monitoring a high-level expression of manganese-superoxide dismutase (Mn-SOD), which is observed in many MM. […] We found that most human MM cells overexpressed Mn-SOD protein compared with human mesothelial cells and that NCI-H226 human MM cells highly expressed Mn-SOD and augmented Mn accumulation when loaded with manganese chloride (MnCl(2)). […] Moreover, in a more clinically relevant setting, H226 xenografted pleural tumor was markedly enhanced and readily detected by MEMRI using manganese dipyridoxyl diphosphate (MnDPDP), a clinically used contrast agent, as well as MnCl(2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20831825&#34; target=&#34;_blank&#34;&gt;20831825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because manganese superoxide dismutase (MnSOD; SOD2) was the only gene upregulated significantly (p &amp;lt; 0.05) at both 8 and 24 h, we measured SOD protein and activity, oxidative stress and glutathione (GSH) levels to better understand oxidative events after exposure to non-toxic (15×10(6) μm2/cm2) and toxic concentrations (75×10(6) μm2/cm2) of Libby six-mix.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8886804&#34; target=&#34;_blank&#34;&gt;8886804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Manganese superoxide dismutase (MnSOD), a mitochondrial superoxide radical scavenging enzyme, is low in most tumors but is known to be induced by asbestos fibers and certain cytokines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9533946&#34; target=&#34;_blank&#34;&gt;9533946&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hypothesized that manganese superoxide dismutase (MnSOD), known to be induced in rat mesothelial cells by asbestos fibers, cytokines, and hyperoxia, may also be induced in asbestos-related pleural diseases such as mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

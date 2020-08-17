@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/mitomycin/</link>
+      <atom:link href="/mesothelioma/drugpanel/mitomycin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/mitomycin/</link>
+    </image>
+    
+    <item>
+      <title>MITOMYCIN</title>
+      <link>/mesothelioma/drugpanel/mitomycin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/mitomycin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00305&#39; target=&#39;_blank&#39;&gt;db00305&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=mitomycin&#34; target=&#34;_blank&#34;&gt;mitomycin&lt;/a&gt; &lt;br&gt;
+Synonymous :7-amino-9alpha-methoxymitosane | ametycine | mitamycin | mitocin-c | mitomycin | mitomycin c | mmc
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;mitomycin&lt;/em&gt; gene in 42 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10223568&#34; target=&#34;_blank&#34;&gt;10223568&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors conducted a Phase II trial in which two drugs (etoposide and 5-fluorouracil) were added to the Cancer and Leukemia Group B cisplatin-mitomycin regimen in an effort to define a more effective chemotherapy. […] Thirty-one patients received cisplatin 60 mg/m2 on Day 1, 5-fluorouracil 600 mg on Days 1-4, folinic acid 100 mg/m2 on Days 1-4, mitomycin C 10 mg/m2 on Day 3, and etoposide 100 mg/m2 i.v. on Days 1-3, with prophylactic hematopoietic growth factors. […] Fourteen patients received cisplatin, 5-fluorouracil, folinic acid, and mitomycin C with the protocol unchanged, and oral etoposide 50 mg on Days 1-21 without growth factors (1 cycle every 28 days). […] Treatment was well tolerated and the major toxicity was hematologic: anemia in 30% of cases, neutropenia in 24%, and 2 probable cases of mitomycin-induced pneumonitis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10453867&#34; target=&#34;_blank&#34;&gt;10453867&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To investigate the therapeutic activity and toxicity of combination chemoimmunotherapy with cisplatin, mitomycin, and interferon (IFN)-alpha2a, by comparing the responses in a group of patients with diffuse malignant pleural mesothelioma (DMPM) to the responses in a control group of DMPM patients given supportive care alone. […] Drugs were administered according to the following schedule: IV cisplatin, 30 mg/m2 qd on days 1 and 2; IV mitomycin, 8 mg/m2 on day 1; and subcutaneous IFN-alpha2a, 4.5 million IU twice weekly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11319288&#34; target=&#34;_blank&#34;&gt;11319288&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The treatment consisted of mitoxantrone 10 mg/m2 intravenous (IV) or intrapleural (IPL), methotrexate 35 mg/m2 IV, and mitomycin 7 mg/m2 IV on day 1 and repeated every 3 weeks, with mitomycin in alternate cycles (MMM regimen).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11836674&#34; target=&#34;_blank&#34;&gt;11836674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We therefore plan to conduct a multicenter randomized controlled trial comparing (1) ASC alone, (2) ASC plus mitomycin vinblastine and cisplatin (MVP), and (3) ASC plus vinorelbine (N; Navelbine, Pierre Fabre Oncology, Winchester, UK).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11875694&#34; target=&#34;_blank&#34;&gt;11875694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objectives of this study were to determine the toxicity of intratumoural/intrapleural SRL172 in addition to intradermal SRL172 and standard chemotherapy (mitomycin-C, vinblastine and cisplatin) in patients with malignant mesothelioma. […] Patients received chemotherapy (mitomycin-C: 8 mg m(-2), vinblastine: 6 mg m(-2), cisplatin 50 mg m(-2)) on a 3-weekly basis for up to six courses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1297232&#34; target=&#34;_blank&#34;&gt;1297232&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twelve patients with malignant pleural mesothelioma were subjected to mitomycin C (MMC) and vindesine (VDS) chemotherapy (MMC 10 mg/m2, i.v., d 1; VDS, 3 mg/m2, i.v., d 1-8, every 4 weeks).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14760156&#34; target=&#34;_blank&#34;&gt;14760156&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Palliation as recorded by patients has been fully reported for only two regimens: mitomycin, vinblastine, and cisplatin (MVP), and vinorelbine (N).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15261446&#34; target=&#34;_blank&#34;&gt;15261446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment with cisplatin, alpha-IFN and mitomycin C was associated with moderate toxicity and an ORR of 21% and a median survival of 12 months. […] The most encouraging results obtained from trials investigating systemic chemotherapy were following treatment with cisplatin, 5-fluorouracil, mitomycin C and etoposide, where an ORR of 38% and an overall median survival rate of 16 months were achieved.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15319247&#34; target=&#34;_blank&#34;&gt;15319247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Between October 1986 and May 2002 all patients with inoperable pleural mesothelioma were considered for treatment with MVP (mitomycin C 8 mg/m2 every 6 weeks, vinblastine 6 mg/m2 every 3 weeks and cisplatin 50 mg/m2 every 3 weeks) chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15559064&#34; target=&#34;_blank&#34;&gt;15559064&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cisplatin and mitomycin have been used as agents have modest activity against mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15625372&#34; target=&#34;_blank&#34;&gt;15625372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 145 patients were treated in three phase II trials; vinorelbine (VIN; 70 patients), vinorelbine/oxaliplatin (VO; 26 patients), and irinotecan/cisplatin/mitomycin C (IPM; 49 patients).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1588364&#34; target=&#34;_blank&#34;&gt;1588364&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed pharmacokinetic studies on 12 patients who received both intrapleural cisplatin and mitomycin immediately following pleurectomy/decortication for malignant pleural mesothelioma. […] Simultaneous pleural fluid and plasma samples were collected at 15 and 30 minutes, and at 1, 2, 3, 4, and 24 hours after administration of the intrapleural chemotherapy (cisplatin 100 mg/m2 and mitomycin 8 mg/m2), and after cisplatin (total and free) and mitomycin levels were measured. […] However, the mean peak cisplatin and mitomycin levels, and their mean AUCs, were significantly higher in the pleural fluid than in the plasma. […] There was a three- to fivefold advantage (on a logarithmic scale) for pleural to plasma AUCs for both cisplatin and mitomycin. […] The mean t1/2s for cisplatin and mitomycin were significantly longer in the plasma than in the pleural fluid.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16317014&#34; target=&#34;_blank&#34;&gt;16317014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received the same platinum-based chemotherapy regimen, MVP [mitomycin C 8 mg/m2 cycles 1, 2, 4 and 6, vinblastine 6 mg/m2, maximum 10 mg, and cisplatin 50 mg/m2 (or carboplatin AUC 5)], every 3 weeks for up to six cycles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16343925&#34; target=&#34;_blank&#34;&gt;16343925&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cisplatin and mitomycin have demonstrated modest efficacy in management of distant tumor recurrence.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16542747&#34; target=&#34;_blank&#34;&gt;16542747&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a multicenter phase II trial to evaluate the impact on the activity, efficacy, symptom control and safety of using two active regimens in a sequential schedule (cisplatin/gemcitabine followed by mitoxantrone/methotrexate/mitomycin) as first-line chemotherapy for unresectable malignant pleural mesothelioma (MPM). […] A total of 54 patients received cisplatin 75 mg/m(2) on day 1 and gemcitabine 1,200 mg/m(2) on days 1 and 8, every 3 weeks for four courses (CG regimen) followed by mitoxantrone 10 mg/m(2) on day 1, methotrexate 35 mg/m(2) on day 1 and mitomycin 7 mg/m(2) on day 1, every 3 weeks with mitomycin in alternate cycles for four courses (MMM regimen).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17146783&#34; target=&#34;_blank&#34;&gt;17146783&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A Phase II open-label noncomparative study was conducted to assess the safety and efficacy of the triplet combination irinotecan, cisplatin, and mitomycin-C (IPM) chemotherapy in untreated patients and in those with previous exposure to chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17174436&#34; target=&#34;_blank&#34;&gt;17174436&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy protocols included a combination of cisplatin, mitomycin C and recombinant interferon alpha 2a (CM-In), or cisplatin, mitomycin C and ifosfamide (CMI), or cisplatin and gemcitabine (CG).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17203752&#34; target=&#34;_blank&#34;&gt;17203752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this phase I-II study was to evaluate the toxicity profile and efficacy of two different platinum-based combined regimens–cisplatin plus mitomycin-C (MMC) and cisplatin plus melphalan (L-PAM)–administered using TSP technique in patients with advanced or recurrent MPM who had refractory disease after systemic first line chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18237355&#34; target=&#34;_blank&#34;&gt;18237355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A second cost-effectiveness analysis then compared the mean costs and outcomes associated with pemetrexed/cisplatin with the most commonly used (unlicensed) regimens in the United Kingdom-mitomycin-C, vinblastine, and cisplatin (MVP); vinorelbine; and active symptom control-using trial-based data and data extrapolated from a review of the literature.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18486741&#34; target=&#34;_blank&#34;&gt;18486741&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated whether the addition of chemotherapy to ASC improved survival and quality of life. 409 patients with malignant pleural mesothelioma, from 76 centres in the UK and two in Australia, were randomly assigned to ASC alone (treatment could include steroids, analgesic drugs, bronchodilators, palliative radiotherapy [n=136]); to ASC plus MVP (four cycles of mitomycin 6 mg/m2, vinblastine 6 mg/m2, and cisplatin 50 mg/m2 every 3 weeks [n=137]); or to ASC plus vinorelbine (one injection of vinorelbine 30 mg/m2 every week for 12 weeks [n=136]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18841478&#34; target=&#34;_blank&#34;&gt;18841478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our most recently reported trial included initial laparatomy with omentectomy, resection of peritoneal implants, and placement of bilateral peritoneal Portacath; repeated courses of intraperitoneal chemotherapy with doxorubicin, cisplatin, and interferon gamma; second-look laparotomy; and intraoperative hyperthermic perfusion with mitomycin and cisplatin, followed by whole abdominal radiation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1898706&#34; target=&#34;_blank&#34;&gt;1898706&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors report a patient with inoperable MPM who achieved complete remission with combination chemotherapy of cyclophosphamide, doxorubicin, and cisplatin. 5-fluorouracil and mitomycin C (FM) induced another remission after recurrence of the tumor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1917165&#34; target=&#34;_blank&#34;&gt;1917165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After exposure to vindesine for 6 weeks, tumor colonies exhibited highly enhanced resistance to Vinca alkaloids, doxorubicin, etoposide and dacarbacine, whereas their sensitivity to mitomycin, activated cyclophosphamide or cisplatin remained unchanged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other active agents were ifosfamide (3%-24%) and mitomycin C (21%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2065276&#34; target=&#34;_blank&#34;&gt;2065276&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both mitomycin and to a lesser extent cisplatin were effective as single agents against the nude mouse xenografts, and the combination of these two drugs produced a complete response both in the patient and in the xenografts. […] The duration of clinical complete response to chemotherapy was 14 months, despite the fact that mitomycin, the most effective agent against the xenografts, was discontinued after only two cycles because the patient developed pulmonary toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21345818&#34; target=&#34;_blank&#34;&gt;21345818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Active symptom control (ASC) alone had lower symptom control rates than the combination of ASC plus MVP (mitomycin+vinblastine+cisplatin) (7% vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23151824&#34; target=&#34;_blank&#34;&gt;23151824&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transarterial chemoperfusion was performed by using mitomycin C, cisplatin, and gemcitabine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25683976&#34; target=&#34;_blank&#34;&gt;25683976&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with cisplatin and mitomycin can be administered either alone or following surgery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31424688&#34; target=&#34;_blank&#34;&gt;31424688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fifty-two MPM patients with progressive disease after systemic chemotherapy with cisplatin and pemetrexed were submitted to 112 ITP using mitomycin C (25 mg/m2) and cisplatin (70 mg/m2) between 2000 and 2017.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7518666&#34; target=&#34;_blank&#34;&gt;7518666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nine patients underwent pleurectomy and decortication followed by immediate intrapleural chemotherapy with cisplatin and mitomycin C.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7564374&#34; target=&#34;_blank&#34;&gt;7564374&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thirteen patients with biopsy-proven MPM known prior to thoracotomy were enrolled in a phase II combined modality protocol consisting of perioperative intrapleural cisplatin (100 mg/m2) and ara-C (1,200 mg) after subtotal pleurectomy, followed by systemic cisplatin (50 mg/m2/week x 8) and mitomycin-C (8 mg/m2, days 1 and 36).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8201377&#34; target=&#34;_blank&#34;&gt;8201377&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with biopsy-proven, resectable malignant pleural mesothelioma underwent pleurectomy/decortication immediately followed by intrapleural chemotherapy with cisplatin 100 mg/m2 and mitomycin 8 mg/m2. […] Systemic chemotherapy was started 3 to 5 weeks postoperatively and included cisplatin 50 mg/m2 on days 1, 8, 15, 22, 36, 43, 50, and 57, and mitomycin 8 mg/m2 on days 1 and 36. […] The 23 patients who also had systemic chemotherapy received a median of 80% and 87% of the planned total cisplatin and mitomycin doses, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8208519&#34; target=&#34;_blank&#34;&gt;8208519&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From October 1990 to September 1991, 20 consecutive patients with histologically proven malignant pleural mesothelioma (MPM), secondary to environmental exposure to asbestos or erionite, were treated with cisplatin, mitomycin C and alpha interferon (cisplatin 50 mg/m2 i.v. on day 1 of a 21-day cycle; mitomycin C 10 mg/m2 i.v. day 1 of cycles 1,3 and 5; alpha-2b-interferon 10 x 10(6) units i.m., 4 h prior to cisplatin and 10 x 10(6) units i.v. immediately prior to cisplatin day 1 of each cycle). […] We conclude that while the addition of alpha interferon to cisplatin and mitomycin C did not result in an objective response higher than previously reported with the cytotoxic agents alone, the trend towards an improvement in median survival as compared to a well-matched historical group suggests some benefit from the inclusion of interferon.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8336195&#34; target=&#34;_blank&#34;&gt;8336195&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Cancer and Leukemia Group B (CALGB) conducted a randomized phase II multicenter trial to evaluate the activity of two cisplatin-containing regimens (cisplatin and mitomycin [CM], or cisplatin and doxorubicin [CD]) in patients with malignant pleural or peritoneal mesothelioma (protocol CALGB 8435).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8378029&#34; target=&#34;_blank&#34;&gt;8378029&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After pleurectomy for mesothelioma (3/5) or adenocarcinoma (2/5), ITCH is carried out for over 60 min, either with mitomycin C (4/5) or cisplatin (1/5). […] The blood level of mitomycin C never reached the systemic toxic level.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8462328&#34; target=&#34;_blank&#34;&gt;8462328&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with single or multiple agents has thus far been disappointing, but doxorubicin and cisplatin or mitomycin and cisplatin are probably most active with response rates in measurable disease of 25%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8622005&#34; target=&#34;_blank&#34;&gt;8622005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Agents that produce response rates in 10% to 20% of patients include doxorubicin, epirubicin, mitomycin, cyclophosphamide, ifosfamide, cisplatin, and carboplatin. […] However, the combination of doxorubicin, cisplatin, bleomycin, and mitomycin demonstrated a response rate of 44% (95% confidence interval, 27% to 63%), but this remains unconfirmed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8623505&#34; target=&#34;_blank&#34;&gt;8623505&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We therefore evaluated a combined approach consisting of surgery (pleurectomy + diaphragmatic or pericardial resection), intrapleural chemotherapy with cisplatin (100 mg/m2) and cytarabine (1,000 mg/m2) for 4 h immediately after pleurectomy, and systemic chemotherapy consisting of epirubicin (60 mg/m2) and mitomycin-C (10 mg/m2) day 1 every 4 weeks for 4 cycles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8708749&#34; target=&#34;_blank&#34;&gt;8708749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were treated with mitomycin C, cisplatin, and alpha interferon after pleurectomy. […] Our schedule consisted of 10 mg/m2 mitomycin C i.v. infusion, 50 mg/m2 cisplatin i.v. infusion, 10 mil Ur-alpha interferon i.m. and 10 mil Ur-alpha interferon i.v. infusion on the first day of treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9149015&#34; target=&#34;_blank&#34;&gt;9149015&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In human mesothelioma cell lines, mitomycin (M) showed a synergic activity with P and in a recent randomized study, the combination of M and P showed slightly superior activity when compared with the PD regimen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9290688&#34; target=&#34;_blank&#34;&gt;9290688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After CS, IPHC with mitomycin (MMC) was administered by perfusion at 40.5 degrees C.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9352953&#34; target=&#34;_blank&#34;&gt;9352953&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the Cancer and Leukemia Group B study, the response rate in patients with measurable disease was 24% for cisplatin and either mitomycin C and doxorubicin, the highest response rates reported for a cooperative group study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

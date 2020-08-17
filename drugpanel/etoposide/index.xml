@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/etoposide/</link>
+      <atom:link href="/mesothelioma/drugpanel/etoposide/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/etoposide/</link>
+    </image>
+    
+    <item>
+      <title>ETOPOSIDE</title>
+      <link>/mesothelioma/drugpanel/etoposide/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/etoposide/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00773&#39; target=&#39;_blank&#39;&gt;db00773&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=etoposide&#34; target=&#34;_blank&#34;&gt;etoposide&lt;/a&gt; &lt;br&gt;
+Synonymous :(−)-etoposide | 4-demethylepipodophyllotoxin β-d-ethylideneglucoside | 4’-demethylepipodophyllotoxin 9-(4,6-o-(r)-ethylidene-beta-d-glucopyranoside) | 9-((4,6-o-ethylidine-beta-d-glucopyranosyl)oxy)-5,8,8a,9-tetrahydro-5-(4-hydroxy-3,4-dimethyloxyphenyl)furo(3’,4’’:6,7)naptho-(2,3-d)-1,3-dioxol-6(5ah)-one | etoposide | etoposido | etoposidum | trans-etoposide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;etoposide&lt;/em&gt; gene in 16 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10223568&#34; target=&#34;_blank&#34;&gt;10223568&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors conducted a Phase II trial in which two drugs (etoposide and 5-fluorouracil) were added to the Cancer and Leukemia Group B cisplatin-mitomycin regimen in an effort to define a more effective chemotherapy. […] Thirty-one patients received cisplatin 60 mg/m2 on Day 1, 5-fluorouracil 600 mg on Days 1-4, folinic acid 100 mg/m2 on Days 1-4, mitomycin C 10 mg/m2 on Day 3, and etoposide 100 mg/m2 i.v. on Days 1-3, with prophylactic hematopoietic growth factors. […] Fourteen patients received cisplatin, 5-fluorouracil, folinic acid, and mitomycin C with the protocol unchanged, and oral etoposide 50 mg on Days 1-21 without growth factors (1 cycle every 28 days).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10761473&#34; target=&#34;_blank&#34;&gt;10761473&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient received ifosfamide (5 g/m2, day 1), carboplatin (300 mg/m2, day 1), etoposide (150 mg/m2, days 2-3) combined with WBH at 41.8 degrees C (for 60 minutes).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12405438&#34; target=&#34;_blank&#34;&gt;12405438&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After decortication, chemotherapy with ICE (ifosfamide, carboplatin, etoposide) - VAC (vincristine, adriamycin, cyclophosphamide) combination was started.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12609573&#34; target=&#34;_blank&#34;&gt;12609573&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a phase II study combining 41.8 degrees C whole body hyperthermia with ICE chemotherapy, i.e. ifosfamide (5 g/m(2)), carboplatin (300 mg/m(2)) and etoposide (150 mg/m(2) on days 2 and 3), administered every 4 weeks, for patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1288739&#34; target=&#34;_blank&#34;&gt;1288739&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The drugs tested were etoposide, cisplatin, mitoxantrone, 4-epirubicin and vindesine. […] The combinations tested were etoposide+cisplatin, and etoposide+cisplatin+mitoxantrone. […] The cell lines were most sensitive to mitoxantrone, 4-epirubicin and vindesine (TC50 &amp;lt; or = 0.001 micrograms/ml), and least sensitive to etoposide and cisplatin (TC50 &amp;gt; or = 0.1 micrograms/ml) used singly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1429086&#34; target=&#34;_blank&#34;&gt;1429086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The treatment programs, which can consecutively, were: I, 20 Gy (10 x 2 Gy) to the hemithorax + CYVADIC (cyclophosphamide 500 mg/m2 d 1, vincristine 1 mg/m2 d 1 and 5, adriamycin 40 mg/m2 d 1 and dacarbazine 200 mg/m2 d 1 and 5, several cycles before and after irradiation); II, 55 Gy (25 x 2.2 Gy) to the hemithorax + 15 Gy (6 x 2.5 Gy) to the tumor + CYVADIC (2 cycles before, 1 cycle during, and 2 cycles after irradiation); III, Mitoxantrone (14 mg/m2 q 28 d, &amp;lt; or = 6 cycles) followed by 70 Gy (56 x 1.25 Gy, twice a day); IV, 4-Epirubicin (110-130 mg/m2 q 28 d, &amp;lt; or = 6 cycles) followed by 35 Gy (28 x 1.25 Gy twice a day) to the hemithorax + 36 Gy (9 x 4 Gy every 2 days) to the tumor; V, Etoposide (150 mg/m2 1, 3, 5 q 28 d) followed by 38.5 Gy (11 x 3.5 Gy) to the hemithorax.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15098157&#34; target=&#34;_blank&#34;&gt;15098157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a phase-II-study combining 41.8 degrees C whole body hyperthermia with ICE chemotherapy, i. e., ifosfamide (5 g/m (2) on day 1), carboplatin (300 mg/m (2) on day 1) and etoposide (150 mg/m (2) on days 2 and 3), administered every 4 weeks, to assess the treatment benefit for patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15261446&#34; target=&#34;_blank&#34;&gt;15261446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most encouraging results obtained from trials investigating systemic chemotherapy were following treatment with cisplatin, 5-fluorouracil, mitomycin C and etoposide, where an ORR of 38% and an overall median survival rate of 16 months were achieved.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18698027&#34; target=&#34;_blank&#34;&gt;18698027&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This enhancement of growth inhibition was achieved by converting a senescence-like growth arrest to apoptosis in response to doxorubicin, etoposide, and CPT11.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19131921&#34; target=&#34;_blank&#34;&gt;19131921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD-DST using 26 fresh specimens obtained by biopsy or surgery on MPM patients investigated in vitro responses to cisplatin (CDDP), carboplatin (CBDCA), doxorubicin (ADR), etoposide (VP-16), 5-fluoruracil (5-FU), gemcitabine (GEM), vinorelbine (VNR), irinotecan (SN-38), and docetaxel (TXT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1917165&#34; target=&#34;_blank&#34;&gt;1917165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After exposure to vindesine for 6 weeks, tumor colonies exhibited highly enhanced resistance to Vinca alkaloids, doxorubicin, etoposide and dacarbacine, whereas their sensitivity to mitomycin, activated cyclophosphamide or cisplatin remained unchanged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23055748&#34; target=&#34;_blank&#34;&gt;23055748&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was treated with chemotherapy consisting of etoposide, paclitaxel, and pegylated liposomal doxorubicin hydrochloride.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25374217&#34; target=&#34;_blank&#34;&gt;25374217&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to evaluate the efficacy of oral cyclophosphamide and etoposide for patients who underwent standard treatment for advanced MM. […] This study included 22 malignant pleural mesothelioma patients who were treated with oral cyclophosphamide and etoposide (EE).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9440736&#34; target=&#34;_blank&#34;&gt;9440736&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From October 1984 to October 1993, 204 eligible adult patients with malignant pleural mesothelioma were entered into five consecutive prospective European Organization for Research and Treatment of Cancer (EORTC) phase II clinical trials designed to assess the efficacy of various anticancer drugs (mitoxantrone, epidoxorubicin, etoposide, and paclitaxel).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9470808&#34; target=&#34;_blank&#34;&gt;9470808&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Intravenous and oral etoposide (VP 16-213) were tested in two sequential phase II trials in chemotherapy-naive patients with malignant pleural mesothelioma. […] In the first trial, etoposide was given intravenously (i.v.) at a dose of 150 mg/m2 on days 1, 3 and 5 every 3 weeks. […] In conclusion, further investigation of etoposide in malignant mesothelioma is not recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9544832&#34; target=&#34;_blank&#34;&gt;9544832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient showed a remarkable response to combined chemotherapy with an accompanying intraperitoneal injection of cisplatin and etoposide and an intravenous injection of caffeine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

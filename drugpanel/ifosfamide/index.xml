@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/ifosfamide/</link>
+      <atom:link href="/mesothelioma/drugpanel/ifosfamide/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/ifosfamide/</link>
+    </image>
+    
+    <item>
+      <title>IFOSFAMIDE</title>
+      <link>/mesothelioma/drugpanel/ifosfamide/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/ifosfamide/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01181&#39; target=&#39;_blank&#39;&gt;db01181&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ifosfamide&#34; target=&#34;_blank&#34;&gt;ifosfamide&lt;/a&gt; &lt;br&gt;
+Synonymous :3-(2-chloroethyl)-2-((2-chloroethyl)amino)tetrahydro-2h-1,3,2-oxazaphosphorine 2-oxide | ifosfamida | ifosfamide | ifosfamidum | iphosphamide | isofosfamide | isophosphamide | isosfamide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ifosfamide&lt;/em&gt; gene in 17 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10403693&#34; target=&#34;_blank&#34;&gt;10403693&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a phase II study of patients with mesothelioma, the efficacy and toxicity of ifosfamide and mesna was evaluated. […] Eligible patients received ifosfamide 3000 mg/m2 per day for 3 days as a 1-h infusion and mesna 1800 mg/m2 per day for 3 days every third week. […] In conclusion, ifosfamide did not show any substantial activity of relevance in malignant mesothelioma at the dose level investigated, in spite of considerable toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10761473&#34; target=&#34;_blank&#34;&gt;10761473&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient received ifosfamide (5 g/m2, day 1), carboplatin (300 mg/m2, day 1), etoposide (150 mg/m2, days 2-3) combined with WBH at 41.8 degrees C (for 60 minutes).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11149649&#34; target=&#34;_blank&#34;&gt;11149649&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Six months after the operation a wide local recurrence was evident and a systemic treatment with Ifosfamide and Adriamicina is still in progress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11862475&#34; target=&#34;_blank&#34;&gt;11862475&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We suggest that the effect of substances such as ifosfamide and cyclophosfamide which are in clinical use, might be enhanced by the combination of local or regional hyperthermia in order to improve the therapeutical index of these substances in the treatment of pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12324743&#34; target=&#34;_blank&#34;&gt;12324743&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies in the last 10 years have shown it to be extremely sensitive to ifosfamide-based chemotherapy, and survival of patients with synovial sarcoma has recently increased with chemotherapy, with 5-year survivals now as high as 57%.(
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12405438&#34; target=&#34;_blank&#34;&gt;12405438&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After decortication, chemotherapy with ICE (ifosfamide, carboplatin, etoposide) - VAC (vincristine, adriamycin, cyclophosphamide) combination was started.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12609573&#34; target=&#34;_blank&#34;&gt;12609573&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a phase II study combining 41.8 degrees C whole body hyperthermia with ICE chemotherapy, i.e. ifosfamide (5 g/m(2)), carboplatin (300 mg/m(2)) and etoposide (150 mg/m(2) on days 2 and 3), administered every 4 weeks, for patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12872353&#34; target=&#34;_blank&#34;&gt;12872353&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current study was conducted to assess the activity and toxicity of high-dose ifosfamide and mesna with recombinant human granulocyte-colony-stimulating factor (rhG-CSF), given in an outpatient setting, in the treatment of patients with unresectable malignant mesothelioma. […] Patients received intravenous ifosfamide at a dose of 2.8 g/m2 over 3 hours (total dose of 14 g/m2), plus mesna at a dose of 0.56 g/m2 prior to and at 4 hours and 8 hours after ifosfamide infusion daily for 5 days every 21 days. rhG-CSF at a dose of 5 microg/kg/day was administered subcutaneously on days 6-15.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1423183&#34; target=&#34;_blank&#34;&gt;1423183&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty-six patients with unresectable diffuse malignant mesothelioma were enrolled in Southwest Oncology Group (SWOG) study 8731 and treated with ifosfamide, 2 g/m2 intravenously for 4 days, and mesna 2 g/m2 intravenously for 5 days, every 3 weeks. […] Ifosfamide/mesna has modest activity in malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1487409&#34; target=&#34;_blank&#34;&gt;1487409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Forty three patients with histologically confirmed malignant mesothelioma were entered onto an Eastern Cooperative Oncology Group phase II study of ifosfamide given with mesna. […] Ifosfamide was given at 1.5 g/m2 in 200 ml of normal saline over 30 minutes by intravenous infusion on days 1 to 5 of each 21 day cycle. […] Mesna was given at 300 mg/m2 on each day of ifosfamide at 0, 4 and 8 hours.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15098157&#34; target=&#34;_blank&#34;&gt;15098157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a phase-II-study combining 41.8 degrees C whole body hyperthermia with ICE chemotherapy, i. e., ifosfamide (5 g/m (2) on day 1), carboplatin (300 mg/m (2) on day 1) and etoposide (150 mg/m (2) on days 2 and 3), administered every 4 weeks, to assess the treatment benefit for patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17174436&#34; target=&#34;_blank&#34;&gt;17174436&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy protocols included a combination of cisplatin, mitomycin C and recombinant interferon alpha 2a (CM-In), or cisplatin, mitomycin C and ifosfamide (CMI), or cisplatin and gemcitabine (CG).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other active agents were ifosfamide (3%-24%) and mitomycin C (21%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28205183&#34; target=&#34;_blank&#34;&gt;28205183&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After radiotherapy, he received adjuvant chemotherapy with ifosfamide and Adriamycin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7993844&#34; target=&#34;_blank&#34;&gt;7993844&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study investigated the feasibility and efficacy of doxorubicin dose-escalated chemotherapy in combination with ifosfamide in patients with malignant mesothelioma. […] The chemotherapy regimen consisted of doxorubicin 75 mg/m2 in combination with ifosfamide 5 gr/m2 given as a continuous 24 hour infusion, every 21 days with either rhG-CSF (5 micrograms/kg) or rhGM-CSF (250 micrograms/m2) as haematopoietic support from d3 to d14.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8622005&#34; target=&#34;_blank&#34;&gt;8622005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Agents that produce response rates in 10% to 20% of patients include doxorubicin, epirubicin, mitomycin, cyclophosphamide, ifosfamide, cisplatin, and carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9352953&#34; target=&#34;_blank&#34;&gt;9352953&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nevertheless, doxorubicin, cisplatin, and ifosfamide and perhaps other agents as well have modest activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

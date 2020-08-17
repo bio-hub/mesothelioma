@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/1956/</link>
+      <atom:link href="/mesothelioma/genepanel/1956/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/1956/</link>
+    </image>
+    
+    <item>
+      <title>EGFR</title>
+      <link>/mesothelioma/genepanel/1956/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1956/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1956&#34; target=&#34;_blank&#34;&gt;1956&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1956&#34; target=&#34;_blank&#34;&gt; 7p11.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/616069&#39; target=&#39;_blank&#39;&gt;616069&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/211980&#39; target=&#39;_blank&#39;&gt;211980&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/131550&#39; target=&#39;_blank&#39;&gt;131550&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a transmembrane glycoprotein that is a member of the protein kinase superfamily. This protein is a receptor for members of the epidermal growth factor family. EGFR is a cell surface protein that binds to epidermal growth factor, thus inducing receptor dimerization and tyrosine autophosphorylation leading to cell proliferation. Mutations in this gene are associated with lung cancer. EGFR is a component of the cytokine storm which contributes to a severe form of Coronavirus Disease 2019 (COVID-19) resulting from infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). [provided by RefSeq, Jul 2020] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EGFR</title>
+      <link>/mesothelioma/genepanel/1956/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1956/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; EGFR expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+vagina
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+23.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+100.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+21.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+100.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146648
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EGFR</title>
+      <link>/mesothelioma/genepanel/1956/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1956/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of EGFR gene in 79 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/12234991&#34; target=&#34;_blank&#34;&gt;12234991&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approximately 70% of MPMs have high levels of expression of the epidermal growth factor receptor (EGFR), and a subset of cell lines derived from MPM patients express both EGFR and transforming growth factor alpha, suggesting an autocrine role for EGFR in MPM. […] We have determined the effects of EGFR inhibition in MPM cell lines in vitro, using four MPM cell lines derived from previously untreated patients with epithelial (H2461 and H2591), sarcomatoid (H2373), and biphasic (MSTO-211H) MPM. […] All four cell lines expressed EGFR at levels comparable with the non-small cell lung carcinoma (NSCLC) cell line A549, as shown by Western blot analysis. […] This variability in growth-inhibitory effects is not related to the amount of EGFR present on MPM cells or to the degree of inhibition of EGFR phosphorylation by ZD1839.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/14976533&#34; target=&#34;_blank&#34;&gt;14976533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined 24 peritoneal and nine pleural malignant mesotheliomas with a battery of immunohistochemical markers (cytokeratin AE1/3, calretinin, c-kit/CD117, desmin, epidermal growth factor receptor (EGFR), estrogen receptors (ER), progesterone receptors (PR), MIB-1, and cleaved caspase-3) in an attempt to distinguish any differences in this tumor arising in these two distinct locations. […] The results indicate that the only marker to show a significant difference in its staining pattern between these two sites was EGFR (P=0.0004). […] In all, 92% (22/24) of peritoneal tumors demonstrated 3+ or 4+ immunoreactivity with EGFR, opposed to only 33% (3/9) pleural tumors. […] The EGFR expression is more pronounced in peritoneal tumors compared to pleural tumors. […] The increased expression of EGFR in the peritoneal lesions may be of clinical significance with the recent emergence of epidermal growth factor receptor-targeted therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15261433&#34; target=&#34;_blank&#34;&gt;15261433&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiogenesis, tumour necrosis (TN), epidermal growth factor receptor (EGFR) expression, cyclooxygenase-2 (COX-2) and matrix metalloproteinases (MMPs) have been linked with poor prognosis in some types of solid tumour and their relevance as prognostic factors in malignant mesothelioma is examined in this paper.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15756029&#34; target=&#34;_blank&#34;&gt;15756029&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approximately 70% of malignant pleural mesotheliomas (MPM) overexpress epidermal growth factor receptors (EGFR) and a subset express both EGFR and transforming growth factor alpha (TGF-alpha), suggesting an autocrine role for EGFR in MPM. […] We checked on MPM cells (10 human cell lines, 11 primary cultures obtained by human biopsies, and 7 short-term normal mesothelial cell cultures) concerning the following: (a) the relative overexpression of EGFR (Western blotting, flow cytometry, immunohistochemistry), (b) the relative expression of EGFR ligands (EGF, amphiregulin, TGF-alpha, ELISA), (c) the relative increase of the activated form of Ras (Ras-bound GTP) after EGF stimulation (Ras activation assay), (d) the efficacy of five different FTIs (HDJ2 prenylation, cell cytotoxicity, and apoptosis using ApopTag and gel ladder). […] EGFR was overexpressed in MPM cells compared with normal pleural mesothelial cells in equivalent levels as in non-small cell lung cancer cells A459. […] MPM cells constitutively expressed EGFR ligands; however, Ras activation was attenuated at high EGF concentrations (100 ng/mL).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15788680&#34; target=&#34;_blank&#34;&gt;15788680&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Cancer and Leukemia Group B conducted a phase II study of gefitinib, an inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase, in patients with previously untreated malignant mesothelioma. […] EGFR expression score by immunohistochemistry done in 28 patients was categorized as low (EGFR 1+ or 2+) or high (EGFR 3+) expression: 97% had EGFR overexpression (2+ or 3+). […] The median and 3-month failure-free survival were 3.6 months and 40% for those patients with low EGFR expression compared with 8.1 and 40% for those with high EGFR expression. […] Although 97% of patients with mesothelioma had EGFR overexpression, gefitinib was not active in malignant mesothelioma. […] EGFR expression does not correlate with failure-free survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15902599&#34; target=&#34;_blank&#34;&gt;15902599&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Experimental approaches such as hyperthermia, interferons or interleukins, and ‘small molecules’ or antibodies inhibiting the EGFR oder VEGF receptor are under clinical evaluation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15950794&#34; target=&#34;_blank&#34;&gt;15950794&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other biological prognostic factors such as EGFR, HER-2, glutathione S transferase (GST) and MDR were evaluated in 50 cases. […] Overexpression of EGFR was correlated with lack of clinical benefit and poor survival. […] GST potentiated the effect of EGFR on survival. […] The use of EGFR inhibitors may have a role in the treatment of MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15950802&#34; target=&#34;_blank&#34;&gt;15950802&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In particular, expression of EGFR and VEGF receptor hold promise to alter standards of patient care in the next few years.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16291431&#34; target=&#34;_blank&#34;&gt;16291431&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inhibitors of the epidermal growth factor receptor (EGFR) are one of many promising targeted therapies for non-small-cell lung cancer (NSCLC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16384623&#34; target=&#34;_blank&#34;&gt;16384623&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The epidermal growth factor receptor (EGFR) is overexpressed in many epithelial malignancies, against which some antitumoral drugs have been developed. […] There is a lack of information as to EGFR expression in malignant pleural mesothelioma (MPM), an aggressive and fatal cancer poorly responsive to current oncological treatments. […] Our aim was to: (a) compare EGFR immunohistochemical expression with mRNA levels measured by real time PCR; (b) assess the relationships between EGFR expression and clinico-pathological data including survival; (c) analyze the EGFR mutations. […] We developed an immunohistochemical method of EGFR evaluation based on the number of immunoreactive cells and staining intensity in 61 MPMs. […] EGFR immunoreactivity was documented in 34/61 (55.7%) cases. […] A significant correlation between EGFR protein and mRNA levels (p = 0.0077) was found, demonstrating the reliability of our quantification method of EGFR membrane expression. […] No statistical correlation between EGFR immunoreactivity and patients survival was observed. […] No EGFR mutation was documented. […] This study documents EGFR overexpression in MPM at the protein and the transcriptional levels; it proposes a reliable method for EGFR expression evaluation in MPM. […] EGFR levels are not associated with clinico-pathological features of patients, including survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16630136&#34; target=&#34;_blank&#34;&gt;16630136&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, mutations of other tumor suppressor genes, including TP53, and protooncogenes, including KRAS, NRAS, BRAF, EGFR and HER2, were not found in these cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17049671&#34; target=&#34;_blank&#34;&gt;17049671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This work evaluated expression in MM of Epidermal Growth Factor Receptor (EGFR) by immunohistochemistry in 168 tumour sections and its correlations with clinicopathological and biological factors. […] EGFR expression was correlated with survival by Kaplan-Meier and log rank analysis. […] Univariate and multivariate Cox proportional hazards models were used to compare the effects of EGFR with clinicopathological and biological prognostic factors and prognostic scoring systems. […] EGFR expression was identified in 74 cases (44%) and correlated with epithelioid cell type (p&amp;lt;0.0001), good performance status (p&amp;lt;0.0001), the absence of chest pain (p&amp;lt;0.0001) and the presence of TN (p=0.004), but not MVD or COX-2. […] EGFR expression was a good prognostic factor in univariate analysis (p=0.01). […] EGFR status was not an independent prognostic factor. […] EGFR expression in MM correlates with epithelioid histology and TN. […] EGFR may be a target for selective therapies in MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17493236&#34; target=&#34;_blank&#34;&gt;17493236&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Yet neither the spectrum of tissue expression nor the signalling pathways of OPN in MM and pulmonary adenocarcinoma have been characterized, although in vitro evidence links OPN to the epidermal growth factor receptor (EGFR) pathway. […] OPN expression was investigated immunohistochemically in 104 adenocarcinomas and 38 MM and correlated with histological features, including tumour type, grade and proliferation and with expression of activated intermediary EGFR signalling pathway molecules p65, p-AKT, p-ERK, p-STAT-3, and of metalloproteinase (MMP)-1, MMP-2 and MMP-9. […] Frequent OPN expression is typical of, but not specific for MM, whereas it appears to select adenocarcinoma cases with p65 and MMP-9 expression, suggesting a link with EGFR signalling pathways.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17557954&#34; target=&#34;_blank&#34;&gt;17557954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) expresses high levels of epidermal growth factor receptor (EGFR), and preclinical studies have identified antitumor activity of EGFR tyrosine kinase inhibitors (TKIs) in MPM. […] We conducted a phase II trial of the EGFR TKI erlotinib in previously untreated patients with MPM. […] Archived patient tumors were analyzed for immunohistochemical expression of EGFR, phospho-EGFR, human epidermal growth factor receptor 2 (HER2), phospho-extracellular signal-regulated kinase (ERK), and phosphatase and tensin homolog (PTEN) and phosphorylation of members of the phosphatidylinositol 3-kinase/Akt signaling pathway. […] EGFR was highly expressed in 75% of patient tumors, as was phospho-ERK (82%), phospho-Akt (84%), phospho-mammalian target of rapamycin (74%), and phospho-forkhead (74%). […] Single-agent erlotinib was not effective in MPM, despite high expression of EGFR. […] Activation of the ERK and phosphatidylinositol 3-kinase/Akt downstream pathways are possible resistance mechanisms to EGFR TKI.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18048409&#34; target=&#34;_blank&#34;&gt;18048409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we assessed the expression of ILK in samples of human MPM, and compared it with the expression of epidermal growth factor receptor (EGFR). […] Conversely, the percentage of positive EGFR staining was somewhat lower (75.8%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18086752&#34; target=&#34;_blank&#34;&gt;18086752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor (EGFR) was expressed stronger in LTS whereas platelet derived growth factor receptor (PDGFR) signalling was more abundant in STS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18364248&#34; target=&#34;_blank&#34;&gt;18364248&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, we investigated the therapeutic efficacy of vandetanib (ZD6474), an inhibitor of VEGFR-2, EGFR and RET tyrosine kinases, in an orthotopic model of MPM. […] In contrast, the selective EGFR tyrosine kinase inhibitor, gefitinib, had no effect against EHMES-10 cells both in vitro and in vivo. […] Our results suggest that using vandetanib to target RET-dependent tumor cell proliferation and survival and VEGFR-2-dependent tumor angiogenesis may be promising against MPM expressing RET oncogenic rearrangement and VEGF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18383846&#34; target=&#34;_blank&#34;&gt;18383846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The expression of SV40 large cell antigen and the EGFR mutation status were also analyzed. […] Neither EGFR mutations relevant to tyrosine kinase inhibitor responsiveness nor the expression of SV40 large cell antigen was detected in any of the cell lines. […] Irrespective of the expression of EGFR on FACS analysis, no EGFR mutation was detected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18392851&#34; target=&#34;_blank&#34;&gt;18392851&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor (EGFR) is overexpressed in a variety of epithelial malignancies. […] In lung cancer cases, EGFR gene mutation at the kinase domain and EGFR gene amplification are reported to be predictors of the response to EGFR tyrosine kinase inhibitors. […] In malignant pleural mesothelioma (MPM), the role of EGFR is less clear. […] We studied EGFR gene mutation, amplification and protein expression in 25 Japanese patients with MPM. […] None had previously reported EGFR mutations detected by the TaqMan PCR assay. […] Using immunohistochemistry, 8/25 (32%) cases were positive for the EGFR protein. […] These four cases expressed EGFR protein. […] In MPM, EGFR seems to play a role in a limited subset of patients. […] To identify possible candidates for EGFR tyrosine kinase in inhibitor therapy, the information on the EGFR gene status may be valuable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19318229&#34; target=&#34;_blank&#34;&gt;19318229&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+GI50 values were determined: ZD6474 and SU11248, mainly VEGFR2 inhibitors, gave the lowest GI50 across all cell lines (3.5-6.9 microM) whereas ZD1839 gave a GI50 in this range only in H28 cells. […] All cell lines were positive for EGFR, but only H226 cells were positive for VEGFR2 by Western blotting. […] ZD6474 and ZD1839 inhibited EGF-induced phosphorylation of EGFR, AKT and ERK, whereas VEGF-induced phosphorylation of VEGFR2 was completely inhibited with 0.1 microM SU11248. […] VEGFR2 was detected in tumour samples by immunohistochemistry. […] VEGFR2 tyrosine kinase inhibitors warrant further investigation in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19380521&#34; target=&#34;_blank&#34;&gt;19380521&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine whether the lack of response of MET inhibitors was due to cooperation with other RTKs, we determined activation status of MET and other RTKs, including epidermal growth factor receptor (EGFR) family of 20 MPM cell lines, and tested whether dual RTK inhibition is an effective therapeutic strategy. […] Phospho-RTK array analysis revealed that MET was simultaneously activated with other RTKs, including EGFR, ErbB2, ErbB3 and platelet-derived growth factor receptor-beta. […] Combination of MET and EGFR inhibitors triggered stronger inhibition on cell proliferation and invasion of MPM cells than that of each in vitro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19708533&#34; target=&#34;_blank&#34;&gt;19708533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we compared Epidermal Growth Factor Receptor (EGFR) aberrations in malignant mesotheliomas to those in lung cancers, to determine whether gefitinib may be useful for treatment of a malignant mesothelioma. […] In the malignant mesothelioma and lung cancer cases, we also examined the expression of EGFR by immunostaining using two kinds of anti-EGFR antibodies. […] In addition, we searched for ser473 p-Akt (p-Akt), which is activated by EGFR, and Epithelial Membrane Antigen (EMA), which is generally used as differential diagnosis marker of mesothelial cells. […] Furthermore, we examined the expressions of EGFR and EMA in benign mesothelial cells in cell blocks. […] Numerical abnormalities of the EGFR gene were examined by chromosome in situ hybridization, while the exonl9 and exon21 gene mutations of EGFR were examined using PCR-heteroduplex and PCR-RFLP methods, respectively. […] Our results showed that the EGFR protein was expressed in most of the malignant mesotheliomas in the same manner as in the lung cancer specimens. […] As for EGFR gene abnormalities, a mutation was found in 1 (20%) and gene amplification in 2 (40%) lung cancer cases, while in malignant mesothelioma cases, amplification was found in 2 cases (13%) and no mutation was detected in any. […] Moreover, in staining results with one of the antibodies, the expression of EGFR was not different between malignant mesothelioma and non-neoplastic mesothelial cells. […] We observed EGFR expression at a high frequency in both the malignant mesothelioma and lung cancer specimens. […] However, distinct differences were detected between them in regard to EGFR gene abnormalities and the expression of p-Akt.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19781955&#34; target=&#34;_blank&#34;&gt;19781955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we correlated proteins of a putative MPM-EMT axis, including periostin, epidermal growth factor receptor (EGFR), integrin beta1, phosphatase and tensin homologue (PTEN), integrin-linked kinase (ILK), p21 and p27, with clinico-pathologic parameters, in particular overall survival (OS). […] High expression of membranous EGFR and integrin beta1 as well as nuclear p27 correlated with the epithelioid and high expression of cytoplasmic tumoural and stromal periostin with the sarcomatoid histotype.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19909234&#34; target=&#34;_blank&#34;&gt;19909234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vascular endothelial growth factor (VEGF) and platelet derived growth factor (PDGF) are autocrine growth factors in MPM and epidermal growth factor receptor (EGFR) appears highly expressed in this tumour.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20088784&#34; target=&#34;_blank&#34;&gt;20088784&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Altered EGFR activity is a causal factor for human tumor development, including malignant pleural mesotheliomas. […] Cell proliferation, DNA synthesis and apoptosis were measured by MTT, thymidine incorporation and FACS analysis; EGFR, ERK1/2 and Akt expression and phosphorylation by Western blot, whereas receptor sites were analyzed by binding studies. […] EGF-dependent mesothelioma cell proliferation was mediated by EGFR and ERK1/2 phosphorylation, while Akt was not affected. […] Gefitinib inhibited both EGFR and ERK1/2 activation, being maximal at drug concentrations that induce cytostatic effects, suggesting that the proapoptotic activity of Gefitinib is independent from EGFR inhibition. […] Gefitinib treatment increased EGFR Bmax, possibly through membrane stabilization of inactive receptor dimers that we show to be induced by the drug also in the absence of EGF. […] EGFR activation of ERK1/2 represents a key pathway for pleural mesothelioma cell proliferation. […] Low concentrations of Gefitinib cause mesothelioma cell cycle arrest through the blockade of EGFR activity while high concentrations induce apoptosis. […] Finally, we propose that the formation of inactive EGFR dimers may contribute to the antitumoral activity of Gefitinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20345230&#34; target=&#34;_blank&#34;&gt;20345230&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age, height, weight, body mass index (BMI), serum creatinine and glucose, estimated glomerular filtration rate (eGFR) and lung function were compared with SMRP concentrations. […] SMRP values were inversely associated with weight (Pearson r=-0.1254, p=0.0036), BMI (Pearson r=-0.1594, p=0.0002), blood glucose (Pearson r=-0.1515, p=0.0004), single-breath carbon monoxide diffusing capacity (DLco) % predicted (Pearson r=-0.1847, p&amp;lt;0.0001), eGFR (Pearson r=-0.2835, p&amp;lt;0.0001) and single-breath carbon monoxide diffusing capacity per unit alveolar volume (DLco/VA)% predicted (Pearson r=-0.1872, p&amp;lt;0.0001) but were positively associated with age (Pearson r=0.2315, p&amp;lt;0.0001) and creatinine (Pearson r=0.3833, p&amp;lt;0.0001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20347505&#34; target=&#34;_blank&#34;&gt;20347505&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor (EGFR) is overexpressed in a variety of epithelial malignancies including lung cancer in which EGFR aberrations not only predict response to EGFR tyrosine kinase inhibitors but also indicate tumor progression. […] However in MPM, the role of EGFR is less clear. […] This study was designed to identify serum and tissue EGFR levels in patients with MPM and to evaluate the relationship between serum and tissue EGFR levels and clinicao-pathological prognostic factors and survival. […] We investigated 71 cases of MPM for EGFR expression in tissue. […] Serum EGFR was assessed in 40 out of those 71 cases and 20 healthy subjects as a control. […] Pre-treatment serum EGFR levels were measured using quantitative enzyme-linked immunosorbent assay. […] Tissue EGFR protein overexpression was assessed by immunohistochemistry and gene amplification was assessed by the chromogen in situ hybridization (CISH) technique. […] EGFR immuno-reactivity was detected in 74.6% of the cases, 37 (52.1%) cases were positive for EGFR gene amplification by CISH, 31 of them revealed moderate to high (++, +++) EGFR immuno-reactivity. […] Elevated serum EGFR &amp;gt;2.5 ng/ml (the median concentration of EGFR in MPM) was reported in 45% of the cases. […] Elevated serum and tissue EGFR is significantly associated with advanced disease stage. […] However neither EGFR overexpression in tissues nor high serum levels were associated with survival rates. […] EGFR expression is a common feature in MPM patients. […] High pre-treatment levels of serum EGFR are associated with advanced stage but not with reduced OS. […] Detailed mutational analysis of EGFR on a larger number of patients is still needed to clarify the exact role of EGFR in MPM patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20692828&#34; target=&#34;_blank&#34;&gt;20692828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our aim was to assess the activation profile of EGFR, PDGFRB and PDGFRA receptor tyrosine kinases (RTK) and their downstream effectors in a series of cryopreserved diffuse malignant peritoneal mesothelioma (DMPM) surgical specimens to discover the targets for drug inhibition. […] We found the expression/phosphorylation of EGFR and PDGFRB in most of the tumours, and PDGFRA activation in half. […] There was also evidence of EGFR and PDGFRB co-activation. […] Our results highlight the ligand-dependent activation and co-activation of EGFR and PDGFRB, as well as a connection between these activated RTKs and the downstream mTOR pathway, thus supporting the role of combined treatment with RTK and mTOR inhibitors in DMPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21124760&#34; target=&#34;_blank&#34;&gt;21124760&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We modulated ERβ expression in REN and MSTO-211H MMe cell lines and evaluated cell proliferation and EGF receptor (EGFR) activation. […] Our data indicate that ERβ knockdown in ER positive cells confers a more invasive phenotype, increases anchorage independent proliferation and elevates the constitutive activation of EGFR-coupled signal transduction pathways. […] We identify a physical interaction between ERβ, EGFR and caveolin 1 that results in an altered internalization and in a selective reduced activation of EGFR-coupled signaling, when ERβ is over-expressed. […] This study describes a role for ERβ in the modulation of cell proliferation and EGFR activation and provides a rationale to facilitate the targeting of a subgroup of MMe patients who would benefit most from therapy with Gefitinib alone or in combination with Akt inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21183281&#34; target=&#34;_blank&#34;&gt;21183281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Targeted EGFR therapy has been successful in non-small cell lung cancer using small molecule tyrosine kinase inhibitors and in colorectal cancer using monoclonal anti-EGFR antibodies. […] However, phase II clinical trials based on EGFR tyrosine kinase inhibitor therapy have so far not shown promise in mesothelioma. […] This review includes a background to targeted EGFR treatment strategies, explores putative therapy resistance mechanisms, including the role of predictive biomarkers, and describes the current status of targeted EGFR therapeutic strategies for mesothelioma patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21437912&#34; target=&#34;_blank&#34;&gt;21437912&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate epidermal growth factor receptor (EGFR) phenotypic expression and related gene status in malignant pleural mesothelioma (MPM) and to correlate the results with patients’ prognosis. […] Eighty-three cases of MPM specimens were submitted to immunohistochemical (IHC) staining to evaluate the expression of EGFR protein; positive cases were submitted to fluorescence in situ hybridization (FISH) to investigate the gene status. […] No association was recorded between EGFR IHC positive staining and age, gender, or asbestos exposure. […] When epithelial MPM patients were considered, IHC EGFR positive staining was demonstrated to be a negative prognostic factor (2-years survival rate 26 vs. 60% for IHC EGFR negative staining; P = 0.026). […] EGFR overexpression is identified by IHC in 52% of epithelial MPM and is demonstrated to be a factor negatively affecting prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21454801&#34; target=&#34;_blank&#34;&gt;21454801&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hypothesized that normal human mesothelial cells acquire resistance to asbestos-induced toxicity via induction of one or more epidermal growth factor receptor (EGFR)-linked survival pathways (phosphoinositol-3-kinase/AKT/mammalian target of rapamycin and extracellular signal-regulated kinase [ERK] 1/2) during simian virus 40 (SV40) transformation and carcinogenesis. […] Pretreatment with an EGFR phosphorylation or mitogen-activated protein kinase kinase 1/2 inhibitor abrogated asbestos-induced phosphorylated ERK (pERK) 1/2 levels in both LP9/TERT-1 and MET5A cells as well as increases in pAKT levels in MET5A cells. […] Our results suggest that EGFR phosphorylation is causally linked to pERK and pAKT activation by asbestos in normal and SV40 Tag-immortalized human mesothelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21774103&#34; target=&#34;_blank&#34;&gt;21774103&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MET and epidermal growth factor receptor (EGFR) mutations were screened by sequencing. […] MET, hepatocyte growth factor, insulin-like growth factor 1 receptor, and EGFR expression were studied by Western blotting, immunohistochemistry, enzyme-linked immunosorbent assay, and by Affymetrix expression microarrays. […] Profiling of the phosphorylation status of 42 RTKs showed prominent coactivation of MET and EGFR in 8 of 14 (57%) MM cell lines. […] MET, EGFR, and insulin-like growth factor 1 receptor were the main RTKs activated after mTOR inhibition and contributed to AKT feedback activation. […] Knockdown of MET by RNA interference inhibited not only the phosphorylation of MET but also that of EGFR. […] Conversely, stimulation with hepatocyte growth factor increased both phospho-MET and phospho-EGFR. […] The combination of PHA-665752 and the EGFR inhibitor, erlotinib, suppressed cell growth more than either agent alone in three of six cell lines tested.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21787763&#34; target=&#34;_blank&#34;&gt;21787763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Up-regulation of epidermal growth factor receptor (EGFR) plays an important role in MPM development and EGFR-tyrosine kinase inhibitors (TKIs) may represent novel therapeutic options. […] We tested the effects of the EGFR TKIs gefitinib and erlotinib and TKIs targeted to other growth factors (VEGFR and PDGFR), in comparison to standard antineoplastic agents, in two human MPM cell lines, IST-Mes2 and ZL55. […] Focusing on the molecular mechanisms underlying the antiproliferative and pro-apoptotic effects of EGFR-TKIs, we observed that gefitinib induced the formation and stabilization of inactive EGFR homodimers, even in absence of EGF, as demonstrated by EGFR B(max) and number of sites/cell. […] The analysis of downstream effectors of EGFR signaling demonstrated that EGF-induced proliferation, reverted by gefitinib, involved ERK1/2 activation, independently from Akt pathway. […] Gefitinib inhibits MPM cell growth and survival, preventing EGF-dependent activation of ERK1/2 pathway by blocking EGFR-TK phosphorylation and stabilizing inactive EGFR dimers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21970874&#34; target=&#34;_blank&#34;&gt;21970874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vandetanib significantly downregulated epidermal growth factor receptor (EGFR)/Erk/Akt phosphorylation as well as E2F-1 mRNA and TS mRNA/protein levels. […] Finally, most MPM samples displayed detectable levels of EGFR and TS, the variability of which could be used for patients’ stratification in future trials with vandetanib-pemetrexed-carboplatin combination. […] Induction of apoptosis, modulation of EGFR/Akt/Erk phosphorylation and expression of key determinants for pemetrexed and carboplatin activity contribute to this synergistic interaction, and, together with the expression of these determinants in MPM samples, warrant further clinical investigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21996088&#34; target=&#34;_blank&#34;&gt;21996088&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was significant depletion of both the total and phosphorylated client proteins–EGFR, MET, HER2 and AKT–at low drug concentrations (50-100 nM) in drug-sensitive cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22092406&#34; target=&#34;_blank&#34;&gt;22092406&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CK5/6 and epidermal growth factor receptor (EGFR) immunostaining were performed on the calretinin-positive subset.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22199264&#34; target=&#34;_blank&#34;&gt;22199264&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tumor sections were stained by immunohistochemistry for LAT1, glucose transporter 1 (GLUT1), GLUT3, hypoxia inducible factor-1α (HIF-1α), hexokinase I, vascular endothelial growth factor (VEGF), microvessel density (MVD) by determination of CD34, epidermal growth factor receptor (EGFR), phosphatase and tensin analog (PTEN), p-AKT, p-manmalian target of rapamycin (mTOR), p-S6K, p53 and BCL-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22330319&#34; target=&#34;_blank&#34;&gt;22330319&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tumour sections were stained by immunohistochemistry for glucose transporter 1 (Glut1); glucose transporter 3 (Glut3); hypoxia-inducible factor-1 alpha (HIF-1α); hexokinase I; vascular endothelial growth factor (VEGF); microvessels (CD34); epidermal growth factor receptor (EGFR); cell proliferation (Ki-67 labelling index); Akt/mTOR signalling pathway (PTEN, p-Akt, p-mTOR and p-S6K); cell cycle control (p53 and pRb); apoptosis marker (bcl-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22412050&#34; target=&#34;_blank&#34;&gt;22412050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor (EGFR) gene mutation at the kinase domain and EGFR gene amplification are reported to be predictors of the response to EGFR tyrosine kinase inhibitors in lung cancer cases. […] In malignant mesothelioma (MM), the role of EGFR is less clear. […] Thirty-eight MM specimens were submitted to EGFR mutation evaluation, and compared with the results of immunohistochemical staining and fluorescence in situ hybridization (FISH) analysis. […] DNA was extracted from paraffin blocks and PCR was performed to amplify exon regions 18-21 of the EGFR gene. […] Five EGFR missense mutations were detected in six of the 38 patients (16%); two of these mutations were novel, two were originally detected in non-small cell lung carcinoma, and one resembled a location previously noted for malignant peritoneal mesothelioma. […] As far as the authors are aware there has been no report of the EGFR mutation of MM in Japanese cases, but in this study EGFR missense mutations were detected in some cases. […] EGFR mutation results were not related to immunohistochemical and FISH analysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22449226&#34; target=&#34;_blank&#34;&gt;22449226&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An evaluation of epidermal growth factor receptor (EGFR) phenotypic expression in malignant pleural and peritoneal mesothelioma was undertaken, using immunohistochemical (IHC) and fluorescence in situ hybridization (FISH) analysis. […] Thirty-eight malignant mesothelioma (MM) specimens were subjected to IHC staining and FISH to evaluate the expression of EGFR protein and gene status. […] Our study confirmed that EGFR membranous expression is a common feature in MM, but not in benign mesothelial lesion. […] The protein overexpression of EGFR was not related to a gene copy number gain.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22590625&#34; target=&#34;_blank&#34;&gt;22590625&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, we describe here a novel mechanism of perifosine that interferes, upstream of AKT, affecting EGFR and MET phosphorylation. […] This study provides a novel mechanism of action of perifosine, directly inhibiting EGFR/MET-AKT1/3 axis, providing a rationale for a novel translational approach to the treatment of MMe.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22922885&#34; target=&#34;_blank&#34;&gt;22922885&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor (EGFR) is commonly overexpressed in malignant pleural mesothelioma (MPM). […] Cetuximab is a chimeric mouse-human antibody targeted against EGFR and induces potent antibody-dependent cellular cytotoxicity (ADCC). […] EGFR expression of MPM cells was measured by a quantitative flow cytometric analysis and immunohistochemistry. […] A logarithmic correlation was observed between the number of EGFRs on MPM cells and ADCC activity. […] Low EGFR expression on the MPM cells, which was weakly detectable by immunohistochemistry, was sufficient for maximum ADCC activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23435014&#34; target=&#34;_blank&#34;&gt;23435014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TP53, KRAS, EGFR and NF2 gene alteration analyses were performed in 100 non-small cell lung cancer (NSCLC) patients, 50 asbestos-exposed and 50 unexposed patients, matched for age, gender, histology and smoking habits. […] TP53, EGFR and KRAS mutations were found in NSCLC with no link with asbestos exposure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23558893&#34; target=&#34;_blank&#34;&gt;23558893&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As epidermal growth factor receptor (EGFR) is involved in the pathogenesis of malignant pleural mesotheliomas (MPMs), the anti-EGFR drugs may be effective in treating MPM patients. […] Mutations of the EGFR gene or its downstream effectors may cause constitutive activation leading to cell proliferation, and the inhibition of apoptosis and metastases. […] Consequently, molecular profiling is essential for select patients with MPM who may respond to anti-EGFR therapies. […] Gene mutations were identified in nine cases (12%): five KRAS, three BRAF, and one PI3KCA mutation; no EGFR gene mutations were detected. […] Mutations in EGFR downstream pathways are not rare in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23749888&#34; target=&#34;_blank&#34;&gt;23749888&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) has limited anticancer efficacy in EGFR-positive esophageal cancer (EsC) and malignant mesothelioma (MPM). […] The underlying molecular mechanism of resistance to EGFR-TKI in these types of cancer remains unclear. […] We tested sensitivity to EGFR-TKI, expression/activity of common signal transduction pathways and epithelial to mesenchymal transition (EMT) gene signatures in 14 EsC and MPM cultured cell lines in vitro. […] More than 50% EGFR-positive EsC and MPM cells were resistant to EGFR-TKI, and susceptibility to EGFR-TKI growth-inhibitory effect correlated positively with expression of E-cadherin (epithelial gene marker) and negatively with mesenchymal gene markers. […] Acquired resistance to EGFR-TKI in intrinsically sensitive cancer cells coincided with spontaneous loss of E-cadherin, while ectopic expression of E-cadherin sensitized resistant cells to EGFR-TKI. […] E-Cadherin expression appears to be not only a strong biomarker but also a functional requirement and potential therapeutic target for sensitivity to EGFR-TKI.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23846294&#34; target=&#34;_blank&#34;&gt;23846294&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunohistochemical results were similar across groups, with frequent positivity for CA125 (94%), EGFR (94%) and calretinin (93%), followed by p16 (85%), cytokeratin 5,6 (76%), D2-40 (71%) and WT-1 (47%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24148817&#34; target=&#34;_blank&#34;&gt;24148817&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Xenograft-bearing mice were treated with miR-16 mimic packaged in minicells targeted with epidermal growth factor receptor (EGFR)-specific antibodies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24233154&#34; target=&#34;_blank&#34;&gt;24233154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both malignant tumors expressed high levels of epidermal growth factor receptors (EGFR) detected by immunohistochemistry (IHC), with membranous staining on the majority of malignant cells corresponding to maximum IHC scores of 290 and 300, respectively, for the MM and the ACL. […] SKs revealed a universal membranous staining throughout the entire epithelium with no difference in EGFR expression between the two cases and two controls with no malignant history. […] By fluorescence in situ hybridization, no amplification of the EGFR gene in malignant tumors as well as in SK lesions was observed. […] Further investigations are needed to see whether tumor-associated EGFR ligands/EGFR autocrine loops in malignant cells expressing high levels of EGFR protein on the surface might play a role for the development of SKs, as well as for the growth of malignant tumors in LT.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25138167&#34; target=&#34;_blank&#34;&gt;25138167&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Regarding that also EGFR amplifications in MPM are absolute rarities, our findings may be a hint that TKI’s will not satisfy the hope for a new era in the treatment of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25174276&#34; target=&#34;_blank&#34;&gt;25174276&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The samples were analyzed for mutations in EGFR, KRAS, BRAF, PIK3CA, NRAS, MEK1, AKT1, PTEN, and HER2 and amplifications in EGFR, MET, PIK3CA, FGFR1, and FGFR2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25653542&#34; target=&#34;_blank&#34;&gt;25653542&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung adenocarcinoma is the predominant subtype and there is increasing knowledge on therapeutic molecular targets, namely EGFR, ALK, KRAS, and ROS1, among lung cancers. […] They were characterized by immunohistochemistry, growth kinetics, tests for tumorigenicity, EGFR and KRAS gene mutations, ALK gene rearrangement and OncoSeq mutation profiling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25952930&#34; target=&#34;_blank&#34;&gt;25952930&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+EGFR, KRAS and PIK3CA).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26294214&#34; target=&#34;_blank&#34;&gt;26294214&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Akt kinase interacting protein 1 (Aki1; Freud-1/CC2D1A) is a scaffold protein for the PI3K-PDK1-Akt signaling module that helps determine receptor signal selectivity for EGFR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26463840&#34; target=&#34;_blank&#34;&gt;26463840&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Driver gene mutations in BRAF, EGFR, ERBB2, HRAS, KRAS, MET, NRAS, PIK3CA, STK11, and ephrin receptor genes (EPHA1-8, 10 and EPHB1-4, 6) were studied for both LAC and MM, and in BAP1, CUL1, CDKN2A, and NF2 for MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26503698&#34; target=&#34;_blank&#34;&gt;26503698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+EGFR/HER2 are frequently expressed in MPM tissues, however, no studies have shown the clinical benefit of using EGFR/HER2-targeting drugs in patients with malignant pleural mesothelioma (MPM). […] Five MPM cell lines were used to test the effects of TKIs targeting EGFR (gefitinib, afatinib and lapatinib) on cell proliferation and the expression of the HER family receptor. […] In patient-derived MPM cells, both HER2 and EGFR were upregulated by lapatinib, resulting in the enhancement of both trastuzumab- and cetuximab-mediated ADCC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26722325&#34; target=&#34;_blank&#34;&gt;26722325&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 83 primary MPMs and 53 primary lung adenocarcinomas were analyzed to compare the CNGs of &lt;i&gt;EGFR, KRAS, MET, FGFR1&lt;/i&gt; and &lt;i&gt;SOX2&lt;/i&gt;. […] In MPM, the CNGs of &lt;i&gt;EGFR, KRAS, MET, FGFR1&lt;/i&gt; and &lt;i&gt;SOX2&lt;/i&gt; were detected in 12 (14.5%), 8 (9.6%), 5 (6.0%), 4 (4.8%) and 1 (1.2%) of the samples, respectively. […] In lung adenocarcinomas, the CNGs of &lt;i&gt;EGFR, KRAS, MET, FGFR1&lt;/i&gt; and &lt;i&gt;SOX2&lt;/i&gt; were detected in 21 (39.6%), 12 (22.6%), 5 (9.4%), 10 (18.9%) and 0 (0.0%) of the samples, respectively. […] The CNGs of &lt;i&gt;EGFR, KRAS&lt;/i&gt; and &lt;i&gt;FGFR1&lt;/i&gt; were significantly less frequent in the MPMs compared with the lung adenocarcinomas (P=0.0018, 0.048 and 0.018, respectively).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26870271&#34; target=&#34;_blank&#34;&gt;26870271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Copy number gains of &lt;i&gt;EGFR&lt;/i&gt;, &lt;i&gt;HER2&lt;/i&gt; or &lt;i&gt;MET&lt;/i&gt; were not detected in the 4 cell lines. […] Mutations in various genes, including &lt;i&gt;EGFR&lt;/i&gt;, &lt;i&gt;KRAS&lt;/i&gt;, &lt;i&gt;HER2&lt;/i&gt;, &lt;i&gt;BRAF&lt;/i&gt;, and &lt;i&gt;PIK3CA&lt;/i&gt;, which are frequently detected in non-small cell lung cancer, were not detected in the 4 cell lines. microRNA-34b/c is a direct transcriptional target of p53 and is often silenced in MPM by promoter methylation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27032653&#34; target=&#34;_blank&#34;&gt;27032653&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Serum levels of soluble mesothelin-related peptide (SMRP), thioredoxin-1 (TRX), epidermal growth factor receptor (EGFR), fibulin-3, syndecan-1 (SDC-1), and mesothelin were determined. […] Compared to the asbestos exposure group, the MPM group had significantly higher mean EGFR, TRX, SMRP, and fibulin-3 levels (p = 0.041, p = 0.023, p = 0.002, and p = 0.001, respectively), and significantly lower mean SDC-1 levels (p = 0.002).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27286996&#34; target=&#34;_blank&#34;&gt;27286996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, there are only few reports on the safety of PEM in patients with an eGFR of ≤45 mL/min.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27408810&#34; target=&#34;_blank&#34;&gt;27408810&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Trials of targeted agents such as antiangiogenic agents (VEGF, EGFR) or ribonuclease inhibitors (ranpirnase) largely failed to show efficacy in MPM Tsao et al.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28223167&#34; target=&#34;_blank&#34;&gt;28223167&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We demonstrated that mesotheliomas expressed EGFR (79.2%), ErbB4 (49.0%) and HER2 (6.3%), but lacked ErbB3.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28337371&#34; target=&#34;_blank&#34;&gt;28337371&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been reported that cellular-mesenchymal to epithelial transition factor (MET) and epidermal growth factor receptor (EGFR) were critical for MPM cell proliferation. […] Moreover, targeting MET and EGFR drugs have gained promising results on anti-tumor therapy. […] Here, a striking difference in overall survival was observed between the MET and EGFR co-expression group (median survival time = 13.5 months) and non-co-expression group (median survival time = 20.5 months). […] In conclusion, our data illustrated that crizotinib combined with afatinib may be a potentially effective strategy for treating MPM patients with over-expression of MET and EGFR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28673192&#34; target=&#34;_blank&#34;&gt;28673192&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cases with the amplification of 7p12(EGFR) tended to exhibit a worse prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28715648&#34; target=&#34;_blank&#34;&gt;28715648&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Phase I/II trials are being conducted to evaluate the efficacy of combining TUSC2-nanoparticles with erlotinib, an FDA-approved EGFR inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28870611&#34; target=&#34;_blank&#34;&gt;28870611&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TargomiRs are minicells (EnGeneIC Dream Vectors) loaded with miR-16-based mimic microRNA (miRNA) and targeted to EGFR that are designed to counteract the loss of the miR-15 and miR-16 family miRNAs, which is associated with unsuppressed tumour growth in preclinical models of malignant pleural mesothelioma. […] In this first-in-man, open-label, dose-escalation phase 1 trial at three major cancer centres in Sydney (NSW, Australia), we recruited adults (aged ≥18 years) with a confirmed diagnosis of malignant pleural mesothelioma, measurable disease, radiological signs of progression after previous chemotherapy, Eastern Cooperative Oncology Group performance status of 0 or 1, life expectancy of 3 months or more, immunohistochemical evidence of tumour EGFR expression, and adequate bone marrow, liver, and renal function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29149911&#34; target=&#34;_blank&#34;&gt;29149911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment with TargomiRs, microRNA mimics with novel sequence packaged in EGFR antibody-targeted bacterial minicells, revealed clear signs of clinical activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30226590&#34; target=&#34;_blank&#34;&gt;30226590&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, inhibition of activated epidermal growth factor (EGFR)-associated survival pathways enhance PDT efficacy. […] In the present study, these approaches were combined; FP-based PDT was used together with an EGFR-tyrosine kinase inhibitor (EGFR-TKI). […] The frequency of FOLR1 and EGFR expression in MPM was analyzed using tissue microarrays. […] The effects of EGFR-TKI were also assessed in vitro. […] The in vivo combined antitumor effect of EGFR-TKI and FP-PDT was then evaluated. […] The results revealed that FOLR1 and EGFR were expressed in 79 and 89% of MPM samples, respectively. […] Furthermore, the combination of pretreatment with EGFR-TKI and FP-PDT induced a marked improvement of treatment responses. […] In conclusion, FP-based PDT induced selective destruction of MPM cells based on FOLR1 targeting, and pretreatment with EGFR-TKI further enhanced the therapeutic response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30246568&#34; target=&#34;_blank&#34;&gt;30246568&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In advanced non-small cell lung cancer, molecular targeted therapy is the standard first-line treatment for patients with identified driver mutations; on the other hand, chemotherapy is the standard treatment for patients without EGFR mutations or ALK rearrangement or those with unknown mutation status.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30450291&#34; target=&#34;_blank&#34;&gt;30450291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First-generation tyrosine kinase inhibitors against epidermal growth factor receptor (EGFR) did not show any significant activity in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30499112&#34; target=&#34;_blank&#34;&gt;30499112&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously reported that PDT transiently activates EGFR/STAT3 in lung and ovarian cancer cells and inhibiting EGFR via erlotinib can increase PDT sensitivity. […] Additionally, we have seen higher EGFR expression associating with worse outcomes after Photofrin-mediated PDT for MPM, and the extensive desmoplastic reaction associated with MPM influences tumor phenotype and therapeutic response. […] Using these models, we confirmed that EGFR inhibition increases PDT cytotoxicity. […] Together with emerging evidence that EGFR inhibition may improve survival of lung cancer patients through immunologic and direct cell killing mechanisms, these results suggest erlotinib-enhanced PDT may significantly improve outcomes for MPM patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30501113&#34; target=&#34;_blank&#34;&gt;30501113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nimotuzumab (h-R3), an anti-EGFR (epidermal growth factor receptor) humanized antibody, is proposed as a promising agent for the treatment of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30595194&#34; target=&#34;_blank&#34;&gt;30595194&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In France, approvals have been pronounced for nivolumab and pembrolizumab (anti-PD-1 antibodies) as second-line treatments after chemotherapy in patients with advanced NSCLC, and pembrolizumab has been approved as a first-line treatment in patients with advanced NSCLC, without EGFR mutation or ALK rearrangement, with strong (≥50%) PD-L1 (Programmed Death Ligand 1) expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30916586&#34; target=&#34;_blank&#34;&gt;30916586&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor (EGFR) is known to be highly overexpressed in mesothelioma with reported EGFR overexpression between 44 to 97%. […] Given this, several anti-EGFR agents have been trialed in mesothelioma. […] In this review, we provide an overview of the current available data on anti-EGFR therapies in MM and future directions of investigation with these targeted agents in MM. […] While many anti-EGFR therapies have failed to show significant efficacy in the management of MM, the pathway is biologically active and its abrogation preclinically points toward it being a valid target. […] Toward targeting the pathway, many novel EGFR-based therapies are still being investigated. […] Current ongoing research of interest in MM include EGFR-targeted nanotechnology approach for drug delivery, antibodies targeting the extracellular EGFR and potentially anti-EGFR antibody drug conjugates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31443309&#34; target=&#34;_blank&#34;&gt;31443309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, the process of pathogenesis is greatly affected by activating mutations of &lt;i&gt;EGFR&lt;/i&gt;, &lt;i&gt;KRAS&lt;/i&gt;, &lt;i&gt;PIK3CA&lt;/i&gt;, &lt;i&gt;BRAF&lt;/i&gt;, &lt;i&gt;MET&lt;/i&gt;, &lt;i&gt;EML4/ALK&lt;/i&gt; and &lt;i&gt;RET&lt;/i&gt;, which correlate with an increased incidence of MPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31709947&#34; target=&#34;_blank&#34;&gt;31709947&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The primary end point of this study was to invastigate the relationship of progression free survival (PFS) and overall survival (OS) with the c-Met, EGFR, PTEN, PDGFR-alpha, PI3K/AKT and mTOR expression levels in the tumour tissue of pleural and peritoneal mesothelioma cases. […] The effects on OS and PFS were examined of the c-Met, EGFR, PTEN, PDGFR-alpha, PI3K/AKT and mTOR expression levels and also clinicopathological parameters and the treatments given.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31791266&#34; target=&#34;_blank&#34;&gt;31791266&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Before and after the first course of chemotherapy, we measured urinary A- and C-megalin and other markers of PTEC injury, such as N-acetyl-β-D-glucosaminidase, α&lt;sub&gt;1&lt;/sub&gt;-microglobulin, β&lt;sub&gt;2&lt;/sub&gt;-microglobulin, neutrophil gelatinase-associated lipocalin, and liver-type fatty acid-binding protein, and compared the values with the change in the estimated glomerular filtration rate (eGFR) and clinical risk factors for renal impairment. […] A negative correlation was found between baseline urinary A-megalin levels and change in eGFR (r = - 0.458, P = 0.002). […] According to Kaplan-Meier survival curves, eGFR decline was associated with the baseline urinary A-megalin quartile (P = 0.038). […] In addition, according to the hazard ratios (HRs) for eGFR decline &amp;gt; 10 mL/min/1.73 m&lt;sup&gt;2&lt;/sup&gt; calculated using a Cox proportional hazard model, the highest quartile had a significantly higher risk of eGFR decline compared with the lowest quartile (HR 7.243; 95% confidence interval 1.545-33.962). […] Other baseline urinary markers showed no correlation with eGFR decline.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32369821&#34; target=&#34;_blank&#34;&gt;32369821&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Illumina TruSight Tumor 15 was used to evaluate 250 amplicons from 15 genes associated with solid tumors (AKT1, GNA11, NRAS, BRAF, GNAQ, PDGFRA, EGFR, KIT, PIK3CA, ERBB2, KRAS, RET, FOXL2, MET,and TP53). […] The most mutated genes were TP53 and ERBB2 with 7 variants each, followed by NRAS BRAF, PI3KCA, EGFR and PDGFRA with 2 variants each.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32517259&#34; target=&#34;_blank&#34;&gt;32517259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The multi-targeted inhibition of histone deacetylase (HDAC), HER2 and TGFα receptor (epidermal growth factor receptor/EGFR) improved treatment efficacy in vitro and reduced tumor growth in two MPM mouse models. […] Finally, TGFα expression but not EGFR correlated with patient survival. &lt;i&gt;Conclusions&lt;/i&gt;: Our data show that TGFα but not its receptor EGFR is a key factor in resistance to MPM chemotherapy. […] This observation may contribute to casting light on the promising but still controversial role of EGFR signaling in MPM therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EGFR</title>
+      <link>/mesothelioma/genepanel/1956/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1956/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EGFR</title>
+      <link>/mesothelioma/genepanel/1956/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1956/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/ribose/</link>
+      <atom:link href="/mesothelioma/drugpanel/ribose/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/ribose/</link>
+    </image>
+    
+    <item>
+      <title>RIBOSE</title>
+      <link>/mesothelioma/drugpanel/ribose/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/ribose/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db15073&#39; target=&#39;_blank&#39;&gt;db15073&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ribose&#34; target=&#34;_blank&#34;&gt;ribose&lt;/a&gt; &lt;br&gt;
+Synonymous :aldehydo-d-ribose | d-ribo-2,3,4,5-tetrahydroxyvaleraldehyde | d-ribose | ribose
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribose&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18795123&#34; target=&#34;_blank&#34;&gt;18795123&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that as low as 0.5 microM MG132 caused a significant apoptosis in both cell lines as evidenced by DNA damage, cleavage of poly ADP-ribose polymerase and caspases 3, 7, and 9, and mitochondrial release of Smac/DIABLO and Cytochrome c.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20616036&#34; target=&#34;_blank&#34;&gt;20616036&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos-exposed HM activate poly(ADP-ribose) polymerase, secrete H(2)O(2), deplete ATP, and translocate high-mobility group box 1 protein (HMGB1) from the nucleus to the cytoplasm, and into the extracellular space.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21543585&#34; target=&#34;_blank&#34;&gt;21543585&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Poly(ADP-ribose) polymerase-1 (PARP1) is a nuclear zinc-finger protein with a function as a DNA damage sensor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22912669&#34; target=&#34;_blank&#34;&gt;22912669&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+WA suppression of MPM growth also involved elevated apoptosis as evidenced by activation of pro-apoptotic p38 stress activated protein kinase (SAPK) and caspase-3, elevated levels of pro-apoptotic Bax protein and cleavage of poly-(ADP-ribose)-polymerase (PARP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23155254&#34; target=&#34;_blank&#34;&gt;23155254&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The proportion of sub-G(1) phase cells was increased in miR-34b/c transfectants after irradiation. miR-34b/c inhibited expression of cyclin-D1, cyclin-dependent kinase 4/6, B-cell lymphoma-2 (BCL-2) and increased cleaved poly (ADP-ribose) polymerase (cPARP) and cleaved caspase-3 after irradiation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23301673&#34; target=&#34;_blank&#34;&gt;23301673&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos is toxic to human mesothelial cells (HMCs), that activate the nuclear enzyme poly(ADP-ribose) polymerase-1 (PARP1) to repair DNA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24690739&#34; target=&#34;_blank&#34;&gt;24690739&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+DSF-Cu exposure stimulated apoptosis in MPM cells that involved activation of stress-activated protein kinases (SAPKs) p38 and JNK1/2, caspase-3, and cleavage of poly-(ADP-ribose)-polymerase, as well as increased expression of sulfatase 1 and apoptosis transducing CARP-1/CCAR1 protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24867690&#34; target=&#34;_blank&#34;&gt;24867690&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Targeted therapy with poly(ADP ribose) polymerase inhibitors (PARPi) depends on identifying homologous recombination DNA repair (HRR)-defective cancer cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28090191&#34; target=&#34;_blank&#34;&gt;28090191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Also, ursolic acid treatment accumulated the sub-G1 population, attenuated the expression of procapase 9, cyclin D1, pAKT, p-glycogen synthase kinase 3-alpha/beta (pGSK3α/β), β-catenin and nuclear factor kappa-light-chain-enhancer of activated B cells (NFkB) and also cleaved caspase 3 and poly (ADP-ribose) polymerase (PARP) in mesothelioma cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28389374&#34; target=&#34;_blank&#34;&gt;28389374&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MPM cell survival in response to poly(adenosine diphosphate-ribose) polymerase (PARP) and dual phosphoinositide 3-kinase (PI3K)-mammalian target of rapamycin (mTOR) inhibitors was analyzed by in vitro assays.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29980753&#34; target=&#34;_blank&#34;&gt;29980753&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We demonstrate that the vascular changes induced by RAPTA-T are related, in part, to the inhibition of poly-(ADP-ribose) polymerase 1 (PARP-1) which is associated to tumor vascular stabilization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30144378&#34; target=&#34;_blank&#34;&gt;30144378&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cisplatin, but not ADP, caused caspases activation; nevertheless, poly(ADP-ribose) polymerase-1 was not only cleaved in cisplatin-treated cells but also in cells treated with ADP alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30700254&#34; target=&#34;_blank&#34;&gt;30700254&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Response to Poly (ADP-ribose)-Polymerase (PARP)-Inhibition could be demonstrated in the BAP1-mutated NCI-H2452 cells, especially when combined with cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30975761&#34; target=&#34;_blank&#34;&gt;30975761&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These patients may also benefit from other DNA repair targeted therapies such as poly-ADP ribose polymerase (PARP) inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

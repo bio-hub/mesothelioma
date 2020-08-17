@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/thalidomide/</link>
+      <atom:link href="/mesothelioma/drugpanel/thalidomide/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/thalidomide/</link>
+    </image>
+    
+    <item>
+      <title>THALIDOMIDE</title>
+      <link>/mesothelioma/drugpanel/thalidomide/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/thalidomide/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01041&#39; target=&#39;_blank&#39;&gt;db01041&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=thalidomide&#34; target=&#34;_blank&#34;&gt;thalidomide&lt;/a&gt; &lt;br&gt;
+Synonymous :(+-)-n-(2,6-dioxo-3-piperidyl)phthalimide | (+-)-thalidomide | (±)-n-(2,6-dioxo-3-piperidyl)phthalimide | (±)-thalidomide | 1,3-dioxo-2-(2,6-dioxopiperidin-3-yl)isoindoline | 2,6-dioxo-3-phthalimidopiperidine | 3-phthalimidoglutarimide | alpha-(n-phthalimido)glutarimide | alpha-n-phthalylglutaramide | n-(2,6-dioxo-3-piperidyl)phthalimide | n-phthaloylglutamimide | n-phthalyl-glutaminsaeure-imid | n-phthalylglutamic acid imide | talidomida | thalidomide | thalidomidum | α-(n-phthalimido)glutarimide | α-n-phthalylglutaramide | α-phthalimidoglutarimide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;thalidomide&lt;/em&gt; gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15628770&#34; target=&#34;_blank&#34;&gt;15628770&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The downregulation of bFGF, VEGF, and maybe some other angiogenesis stimulators, is one of the antiangiogenic mechanisms of thalidomide. […] Here we report a case of disseminated malignant mesothelioma of peritoneum responding remarkably to thalidomide, celecoxib, vinorelbine and CDDP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15829331&#34; target=&#34;_blank&#34;&gt;15829331&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to describe the experience with the anti-angiogenic agent thalidomide in the treatment of patients with a malignant pleural mesothelioma (MPM). […] Patients with a histological confirmed diagnosis of malignant mesothelioma received thalidomide orally at night. […] The major toxicity elicited by thalidomide concerned constipation (18/40 grade I and II) and two patients developed grade II neurotoxicity. […] The percentage of patients seen with prolonged disease stabilization upon thalidomide treatment warrants phase III studies in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16989994&#34; target=&#34;_blank&#34;&gt;16989994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, the targeted agents imatinib, gefitinib, erlotinib and thalidomide have been shown to be ineffective in unselected patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22223868&#34; target=&#34;_blank&#34;&gt;22223868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article describes several ongoing or recently completed phase II and III trials using novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine, bevacizumab, cediranib, and thalidomide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22936495&#34; target=&#34;_blank&#34;&gt;22936495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MPM patients from two parallel phase II studies (thalidomide alone or thalidomide with chemotherapy) were included.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23583604&#34; target=&#34;_blank&#34;&gt;23583604&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thalidomide has shown antiangiogenic activity, and we hypothesised that its use in the maintenance setting could improve outcomes. […] Patients were randomly assigned (in a 1:1 ratio, stratified by previous first-line chemotherapy, histological subtype, and recruiting hospital) to receive thalidomide 200 mg per day (including a 2 week run in of 100 mg per day) plus active supportive care or active supportive care alone until disease progression. […] Patients were required to be registered and to start treatment with thalidomide within 10 weeks after the end of the first-line chemotherapy. […] Thalidomide was given for a maximum of 1 year or until unacceptable toxicity. […] At the time of this final analysis, median follow-up was 33.1 months (IQR 22.3-66.8), and physician-reported disease progression had occurred in 104 patients in the thalidomide group and 107 in the active supportive care group; 92 patients in the thalidomide group and 93 in the active supportive care group had died. […] Median time to progression in the thalidomide group was 3·6 months (95% CI 3.2-4.1) compared with 3.5 months (2.3-4.8) in the active supportive care group (hazard ratio 0.95, 95% CI 0.73-1.20, p=0.72). 43 (39%) grade 3 or 4 adverse events were reported in the thalidomide group and 31 (28%) in the active supportive care group; neurosensory events were reported by two (2%) patients on thalidomide and none on active supportive care, cardiac events by two (2%) patients on thalidomide and three (3%) on active supportive care, and thromboembolic events by three (3%) patients on thalidomide and none on active supportive care. […] No benefit was noted in time to progression with the addition of thalidomide maintenance to first-line chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29540495&#34; target=&#34;_blank&#34;&gt;29540495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most of these treatments have been evaluated &lt;i&gt;in vitro&lt;/i&gt;, half have been evaluated &lt;i&gt;in vivo&lt;/i&gt; in animal models of MPM and only three (&lt;i&gt;i.e.&lt;/i&gt; valproate, thalidomide and zoledronic acid) have been investigated in clinical trials, with limited benefits so far.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450296&#34; target=&#34;_blank&#34;&gt;30450296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other anti-angiogenesis agents like thalidomide did not prolong (progression free) survival or response rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

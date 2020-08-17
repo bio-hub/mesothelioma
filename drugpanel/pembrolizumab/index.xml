@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/pembrolizumab/</link>
+      <atom:link href="/mesothelioma/drugpanel/pembrolizumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/pembrolizumab/</link>
+    </image>
+    
+    <item>
+      <title>PEMBROLIZUMAB</title>
+      <link>/mesothelioma/drugpanel/pembrolizumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/pembrolizumab/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09037&#39; target=&#39;_blank&#39;&gt;db09037&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=pembrolizumab&#34; target=&#34;_blank&#34;&gt;pembrolizumab&lt;/a&gt; &lt;br&gt;
+Synonymous :lambrolizumab
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;pembrolizumab&lt;/em&gt; gene in 15 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26631501&#34; target=&#34;_blank&#34;&gt;26631501&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pembrolizumab (MK-3475, lambrolizumab, Keytruda(®)) is a PD-1 inhibitor that has shown clinical activity in a variety of solid tumors and is currently approved for the second-line treatment of PD-L1-positive non-small-cell lung cancer and for unresectable/metastatic melanoma. […] This article will discuss the results of early-phase trials of pembrolizumab in thoracic malignancies as well as ongoing studies aimed to confirm clinical benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27543082&#34; target=&#34;_blank&#34;&gt;27543082&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pembrolizumab is an anti- Programmed Death 1 (PD-1) antibody approved in melanoma, non-small cell lung cancer and investigated in malignant pleural mesothelioma. […] We describe a 62-year old patient diagnosed with malignant pleural mesothelioma who experienced ten days after the second dose of third line therapy with pembrolizumab sudden onset of generalized edema including legs and eyelids and weight gain of 15 kg resulting from nephrotic syndrome and acute renal failure. […] Pembrolizumab was discontinued and prednisone, diuretics and angiotensin II receptor blocker were initiated with full recovery of symptoms and renal function. […] Pembrolizumab-associated minimal change disease (MCD) was confirmed by electron microscopy in the renal biopsy. […] We are the first to describe pembrolizumab-related minimal change disease (MCD). […] Physicians should be aware of this side effect in patients presenting with edema and weight gain and initiate prompt renal function testing, serum albumin and urinalysis followed by steroid treatment if pembrolizumab-related MCD is suspected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28291584&#34; target=&#34;_blank&#34;&gt;28291584&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed the safety and efficacy of pembrolizumab (an anti-programmed cell death receptor 1 [PD-1] antibody) in advanced solid tumours expressing programmed cell death ligand 1 (PD-L1) and report here on the interim analysis of the malignant pleural mesothelioma cohort. […] Patients received pembrolizumab (10 mg/kg every 2 weeks) for up to 2 years or until confirmed progression or unacceptable toxicity. […] As of June 20, 2016, 25 patients received pembrolizumab. 16 (64%) patients reported a treatment-related adverse event; the most common adverse event were fatigue (six [24%]), nausea (six [24%]), and arthralgia (five [20%]). […] Pembrolizumab appears to be well tolerated and might confer anti-tumour activity in patients with PD-L1-positive malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28293123&#34; target=&#34;_blank&#34;&gt;28293123&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ability of non-small-cell lung cancer (NSCLC) to evade the host immune system can be overcome by agents such as pembrolizumab (MK-3475/lambrolizumab), which is a monoclonal antibody targeting the programmed death 1 (PD-1) receptor. […] In early studies, treatment with pembrolizumab led to dramatic and durable responses in select patients (PD-L1+ tumors). […] This remarkable efficacy lead to approval of pembrolizumab in the second-line setting as response rates were almost doubled compared to standard of care (SOC) chemotherapy. […] In patients with ≥50% PD-L1+ tumors, pembrolizumab had a clear progression-free survival and overall survival benefit. […] The initial approval and subsequent studies of pembrolizumab required and utilized a companion diagnostic test, Dako’s IHC 22C3, to assess PD-L1 status of patients. […] Finally, the impact of pembrolizumab in NSCLC is growing as evidenced by the numerous, ongoing trials open for combinations with chemotherapy, chemoradiation, other immunotherapeutics, immunomodulators, tyrosine kinase inhibitors, PI3K inhibitors, MEK inhibitors, hypomethylating agents, and histone deacetylase inhibitors. […] Further studies are also evaluating pembrolizumab in small-cell lung cancer and malignant pleural mesothelioma. […] This explosion of studies truly conveys the lack of therapeutic answers for lung cancer patients and the promise of pembrolizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30142389&#34; target=&#34;_blank&#34;&gt;30142389&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On the basis of promising early results, pembrolizumab was used off-label in Switzerland and Australia. […] Pembrolizumab was the second-line treatment in 48 of 93 patients (52%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30595194&#34; target=&#34;_blank&#34;&gt;30595194&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In France, approvals have been pronounced for nivolumab and pembrolizumab (anti-PD-1 antibodies) as second-line treatments after chemotherapy in patients with advanced NSCLC, and pembrolizumab has been approved as a first-line treatment in patients with advanced NSCLC, without EGFR mutation or ALK rearrangement, with strong (≥50%) PD-L1 (Programmed Death Ligand 1) expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30762130&#34; target=&#34;_blank&#34;&gt;30762130&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The USA has included in the NCCN guidelines that pembrolizumab (in programmed death ligand 1 (PD-L1) immunohistochemistry (IHC)-positive patients) and nivolumab with or without ipilimumab (whatever the PD-L1 status is) are accepted salvage therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30788836&#34; target=&#34;_blank&#34;&gt;30788836&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed the United States Food and Drug Administration (FDA) Adverse Event Reporting System (FAERS) database for pembrolizumab, atezolizumab, nivolumab, ipilimumab, avelumab, and durvalumab 2 years prior their FDA approval until December 31, 2017, to include all cases with confirmed diagnosis/relapse of MS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30794891&#34; target=&#34;_blank&#34;&gt;30794891&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Dako PD-L1 22C3 and 28-8 pharmDx assays are approved by the US Food and Drug Administration (FDA) as companion and complementary diagnostics for the anti-PD-1 drugs pembrolizumab and nivolumab, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31812554&#34; target=&#34;_blank&#34;&gt;31812554&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pembrolizumab is approved for the treatment of advanced cancer in adults; however, no information is available on safety and efficacy in paediatric patients. […] We aimed to establish the recommended phase 2 dose of pembrolizumab and its safety and antitumour activity in advanced paediatric cancer. […] Patients with melanoma or a centrally confirmed, PD-L1-positive, relapsed or refractory solid tumour or lymphoma, and a Lansky Play/Karnofsky Performance status score of 50 or higher, received intravenous pembrolizumab at an initial dose of 2 mg/kg every 3 weeks. […] Primary endpoints were determination of dose-limiting toxicities at the maximum administered dose, safety and tolerability, and the proportion of patients with objective response to pembrolizumab for each tumour type according to the Response Evaluation Criteria in Solid Tumours version 1.1 or the International Neuroblastoma Response Criteria. […] Safety and efficacy were assessed in all treated patients who received at least one dose of pembrolizumab. […] Of 863 patients screened between March 23, 2015, and Sept 3, 2018, 796 had tumours that were evaluable for PD-L1 expression (278 [35%] were PD-L1-positive); 155 eligible patients were enrolled and 154 had at least one dose of pembrolizumab. […] No dose-limiting toxicities were reported in phase 1, and pembrolizumab plasma concentrations were consistent with those previously reported in adults; the recommended phase 2 dose was therefore established as 2 mg/kg every 3 weeks. […] Pembrolizumab was well tolerated and showed encouraging antitumour activity in paediatric patients with relapsed or refractory Hodgkin lymphoma, consistent with experience in adult patients. […] Pembrolizumab had low antitumour activity in the majority of paediatric tumour types, and responses were observed in only a few rare PD-L1-positive tumour types, suggesting that PD-L1 expression alone is not sufficient as a biomarker for the selection of paediatric patients who are likely to respond to PD-1 checkpoint inhibitors. […] Final results of KEYNOTE-051, expected by September, 2022, with the possibility for extension, will report further on the activity of pembrolizumab in Hodgkin lymphoma, microsatellite instability-high tumours, and melanoma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32088605&#34; target=&#34;_blank&#34;&gt;32088605&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because of high PDL1 expression (100 %), she was treated with the anti-PD1 agent, pembrolizumab. […] Pembrolizumab was started and after 15 days the patient’s condition had significantly improved, enabling recanalization and restoration of enteral nutrition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32154179&#34; target=&#34;_blank&#34;&gt;32154179&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, single agent pembrolizumab was not superior to chemotherapy (gemcitabine or vinorelbine) in the recent published PROMISE-Meso trial in pre-treated patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32169873&#34; target=&#34;_blank&#34;&gt;32169873&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This case represents an exceptional response to pembrolizumab in a patient with epithelioid mesothelioma with a further response on rechallenge. […] A 77-year-old woman with advanced epithelioid mesothelioma extensively pretreated with chemotherapy demonstrated a prolonged response of 45 months to 52 cycles of pembrolizumab. […] On rechallenge with pembrolizumab, further disease stability was achieved.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32249197&#34; target=&#34;_blank&#34;&gt;32249197&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies of bevacizumab and pembrolizumab in the treatment of malignant pleural mesothelioma suggest anticancer efficacy; clinical trial populations are not reflective of real-world patients. […] Eligibility for KEYNOTE-028 correlated with pembrolizumab use (P &amp;lt; .001), but not improved OS (P = .21).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32532926&#34; target=&#34;_blank&#34;&gt;32532926&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Introduction:&lt;/b&gt; Fixed-dose pembrolizumab (200 mg abs., d1, q3w) for the treatment of malignant pleural mesothelioma did not result in survival benefit in the phase 3 PROMISE-meso trial compared to 2nd-line chemotherapy. […] Here, we administered high-dose pembrolizumab (10 mg/kg, d1, q2w) considering the KEYNOTE-028 trial and assessed the prognostic value of PET metabolic response in patients with chemotherapy-resistant malignant mesothelioma of the pleura or peritoneum. &lt;b&gt;Methods:&lt;/b&gt; Data from 27 patients with baseline and follow-up &lt;sup&gt;18&lt;/sup&gt;F-FDG PET/CT imaging were analyzed. […] PD-L1 expression status was assessed and its association with outcome was investigated. &lt;b&gt;Results:&lt;/b&gt; 27 patients had &lt;sup&gt;18&lt;/sup&gt;F-FDG-PET/CT imaging at baseline and after at least 4 cycles pembrolizumab. […] Response according to PERCISTMTV predicted prolonged OS or PFS (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.01), whereas all other imaging criteria and PD-L1 expression did not. &lt;b&gt;Conclusion:&lt;/b&gt;&lt;sup&gt;18&lt;/sup&gt;F-FDG PET metabolic volume response predicts survival in patients with malignant mesothelioma receiving high-dose pembrolizumab. […] These results should prompt inclusion of PET response assessment in future phase 3 clinical trials and investigation of high-dose pembrolizumab instead of fixed-dose.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

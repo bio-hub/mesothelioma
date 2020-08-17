@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/vinorelbine/</link>
+      <atom:link href="/mesothelioma/drugpanel/vinorelbine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/vinorelbine/</link>
+    </image>
+    
+    <item>
+      <title>VINORELBINE</title>
+      <link>/mesothelioma/drugpanel/vinorelbine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/vinorelbine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00361&#39; target=&#39;_blank&#39;&gt;db00361&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=vinorelbine&#34; target=&#34;_blank&#34;&gt;vinorelbine&lt;/a&gt; &lt;br&gt;
+Synonymous :5’-noranhydrovinblastine | vinorelbin | vinorelbina | vinorelbine | vinorelbinum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;vinorelbine&lt;/em&gt; gene in 57 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11099320&#34; target=&#34;_blank&#34;&gt;11099320&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate the response rate and impact on quality of life of vinorelbine given as cycles of 30 mg/m(2) weekly for 6 weeks to patients with malignant pleural mesothelioma. […] Patients were treated with weekly injections of vinorelbine 30 mg/m(2). […] The median number of vinorelbine injections was 12 (range, 2 to 30). […] Quality-of-life analyses showed a benefit for vinorelbine therapy. […] Vinorelbine shows promise in the palliation of patients with malignant pleural mesothelioma. […] The relatively low toxicity of the drug suggests that trials of vinorelbine in combination with other agents should be feasible.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11836674&#34; target=&#34;_blank&#34;&gt;11836674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We therefore plan to conduct a multicenter randomized controlled trial comparing (1) ASC alone, (2) ASC plus mitomycin vinblastine and cisplatin (MVP), and (3) ASC plus vinorelbine (N; Navelbine, Pierre Fabre Oncology, Winchester, UK).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12023790&#34; target=&#34;_blank&#34;&gt;12023790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, a renewed interest in MPM led to clinical trials with promising preliminary results for several agents alone or in combination, including gemcitabine, raltitrexed, vinorelbine, and pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12610498&#34; target=&#34;_blank&#34;&gt;12610498&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Raltitrexed combined with oxaliplatin has also been shown to be effective, and gemcitabine-applied as a single agent or in combination with cisplatin-as well as vinorelbine appear to improve the quality of life in patients presenting with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14760156&#34; target=&#34;_blank&#34;&gt;14760156&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Palliation as recorded by patients has been fully reported for only two regimens: mitomycin, vinblastine, and cisplatin (MVP), and vinorelbine (N).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15261443&#34; target=&#34;_blank&#34;&gt;15261443&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Raltitrexed combined with oxaliplatin has also been shown to be effective, and gemcitabine–applied as a single agent or in combination with cisplatin–as well as vinorelbine appear to improve quality of life in patients presenting with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15625372&#34; target=&#34;_blank&#34;&gt;15625372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 145 patients were treated in three phase II trials; vinorelbine (VIN; 70 patients), vinorelbine/oxaliplatin (VO; 26 patients), and irinotecan/cisplatin/mitomycin C (IPM; 49 patients).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15628770&#34; target=&#34;_blank&#34;&gt;15628770&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vinorelbine has useful clinical activity against MM with a response rate of 24%. […] Here we report a case of disseminated malignant mesothelioma of peritoneum responding remarkably to thalidomide, celecoxib, vinorelbine and CDDP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15639727&#34; target=&#34;_blank&#34;&gt;15639727&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We reported a response rate of 24% with low toxicity for single agent vinorelbine. […] Here we report a phase II trial of vinorelbine with oxaliplatin (VO) in patients with untreated MPM. […] Chemotherapy consisted of vinorelbine 30 mg/m(2), days 1 and 8 of a 21-day-cycle, and oxaliplatin 130 mg/m(2), day 1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15677623&#34; target=&#34;_blank&#34;&gt;15677623&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Single-agent therapy with vinorelbine may provide useful palliation with low toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15950791&#34; target=&#34;_blank&#34;&gt;15950791&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among chemotherapeutic agents only vinorelbine, edatrexate, gemcitabine and raltitrexed have demonstrated response rates &amp;gt;20%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16006571&#34; target=&#34;_blank&#34;&gt;16006571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated the use of triplet combination chemotherapy with cisplatin (CDDP), gemcitabine (GEM) and vinorelbine (VNR) for the treatment of Japanese patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16616827&#34; target=&#34;_blank&#34;&gt;16616827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other cytotoxic agents that have shown to be active in this setting include vinorelbine and gemcitabine, either alone or combined with platinum compounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17144577&#34; target=&#34;_blank&#34;&gt;17144577&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with gemcitabine and vinorelbine could not control the progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18237355&#34; target=&#34;_blank&#34;&gt;18237355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A second cost-effectiveness analysis then compared the mean costs and outcomes associated with pemetrexed/cisplatin with the most commonly used (unlicensed) regimens in the United Kingdom-mitomycin-C, vinblastine, and cisplatin (MVP); vinorelbine; and active symptom control-using trial-based data and data extrapolated from a review of the literature.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18286536&#34; target=&#34;_blank&#34;&gt;18286536&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gemcitabine and vinorelbine have shown activity in the first-line setting. […] The objective of this study was to evaluate the activity and toxicity of the gemcitabine-vinorelbine combination in pemetrexed-pretreated patients with MPM. […] Gemcitabine 1000 mg/m(2) and vinorelbine 25 mg/m(2) were administered intravenously on Days 1 and 8 every 3 weeks. […] The gemcitabine and vinorelbine combination was moderately active and had an acceptable toxicity profile in pemetrexed-pretreated patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18374762&#34; target=&#34;_blank&#34;&gt;18374762&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Higher levels of CD8(+) tumor-infiltrating lymphocytes were observed in patients treated with cisplatin and pemetrexed than in those treated with cisplatin and vinorelbine (P = .02).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18486273&#34; target=&#34;_blank&#34;&gt;18486273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following our previous experience in the first-line setting, we conducted a phase 2 open-label non-comparative study to assess the safety and efficacy of weekly vinorelbine chemotherapy, each cycle consisting of 30 mg/m(2) for 6 weeks, in patients with previous exposure to chemotherapy. […] In 63 individuals with relapsed MPM who had not received previous vinorelbine, we observed an objective response rate of 16% and an overall survival of 9.6 months (95% confidence interval 7.3-11.8 months). […] The main grade III/IV toxicity observed was neutropenia and toxicity was similar to weekly vinorelbine when used in the first-line setting. […] Weekly vinorelbine appeared to have a reasonable response rate with an acceptable toxicity profile in the second-line treatment of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18486741&#34; target=&#34;_blank&#34;&gt;18486741&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated whether the addition of chemotherapy to ASC improved survival and quality of life. 409 patients with malignant pleural mesothelioma, from 76 centres in the UK and two in Australia, were randomly assigned to ASC alone (treatment could include steroids, analgesic drugs, bronchodilators, palliative radiotherapy [n=136]); to ASC plus MVP (four cycles of mitomycin 6 mg/m2, vinblastine 6 mg/m2, and cisplatin 50 mg/m2 every 3 weeks [n=137]); or to ASC plus vinorelbine (one injection of vinorelbine 30 mg/m2 every week for 12 weeks [n=136]). […] At the time of analysis, 393 (96%) patients had died (ASC 132 [97%], ASC plus MVP 132 [96%], ASC plus vinorelbine 129 [95%]). […] Exploratory analyses suggested a survival advantage for ASC plus vinorelbine compared with ASC alone (HR 0.80 [0.63-1.02]; p=0.08), with a median survival of 9.5 months. […] However, exploratory analyses suggested that vinorelbine merits further investigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18523361&#34; target=&#34;_blank&#34;&gt;18523361&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eighteen months later, he presented with pleural effusion of the left side and underwent first-line chemotherapy with cisplatin plus vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18542078&#34; target=&#34;_blank&#34;&gt;18542078&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim was to evaluate the activity of cisplatin and vinorelbine in previously untreated, inoperable patients having histologically verified malignant pleural mesothelioma (MPM), normal organ function, and performance status 0-2. […] Treatment was vinorelbine 25 mg m(-2) i.v. weekly and cisplatin 100 mg m(-2) i.v. every 4 weeks with hydration and standard prophylactic antiemetic treatment. […] Cisplatin and intravenous vinorelbine is a highly active regimen in MPM with a response rate and survival comparable to the most active regimens so far reported.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19131921&#34; target=&#34;_blank&#34;&gt;19131921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD-DST using 26 fresh specimens obtained by biopsy or surgery on MPM patients investigated in vitro responses to cisplatin (CDDP), carboplatin (CBDCA), doxorubicin (ADR), etoposide (VP-16), 5-fluoruracil (5-FU), gemcitabine (GEM), vinorelbine (VNR), irinotecan (SN-38), and docetaxel (TXT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19224855&#34; target=&#34;_blank&#34;&gt;19224855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy regimens included cisplatin/vinorelbine (n = 26), cisplatin/pemetrexed (n = 24), cisplatin/raltitrexed (n = 6), or cisplatin/gemcitabine (n = 4).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19450893&#34; target=&#34;_blank&#34;&gt;19450893&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using the COX-2 positive A549 lung cancer cell line as control, all cell lines were assayed using an MTT assay with non-specific COX-2 inhibitors (sulindac and flurbiprofen), specific COX-2 inhibitors (DuP-697 and NS-398), and chemotherapeutic agents (cisplatin, vinorelbine and pemetrexed).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19514499&#34; target=&#34;_blank&#34;&gt;19514499&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After 16 months, recurrence of the tumor with pleural effusion was observed, and single agent vinorelbine as second-line treatment (6 cycles) and single agent gemcitabine as third-line treatment (6 cycles) were administered sequentially.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19736192&#34; target=&#34;_blank&#34;&gt;19736192&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other active agents include raltitrexed, gemcitabine, and vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19879055&#34; target=&#34;_blank&#34;&gt;19879055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When a trial is not available or patients are not eligible for an experimental approach, single-agent vinorelbine can be a reasonable option for palliation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Detorubicin and pirarubicin have response rates (RRs) of 22%-26%, epirubicin of 5%-15%, docetaxel of 5%-23% and vinorelbine of 24%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20332689&#34; target=&#34;_blank&#34;&gt;20332689&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although vinorelbine, gemcitabine and S-1 were administered subsequently because of the re-growth of the lesions, they were enlarged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20603247&#34; target=&#34;_blank&#34;&gt;20603247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a case of relapsed malignant pleural mesothelioma in which the patient failed to respond to pemetrexed-based chemotherapy but was successfully treated with gemcitabine and vinorelbine. […] Then, 1000 mg/m(2) gemcitabine and 25 mg/m(2) vinorelbine were administered every 2 weeks. […] She was treated with 12 cycles of gemcitabine plus vinorelbine, and 8.5 months of progression-free survival was observed. […] Gemcitabine plus vinorelbine chemotherapy may be a candidate regimen for salvage chemotherapy against malignant pleural mesotheliomas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20653100&#34; target=&#34;_blank&#34;&gt;20653100&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Each specimen was tested with 3 drugs: cisplatin, gemcitabine, and vinorelbine. […] A significant proportion of tumors had extreme/intermediate drug resistance to cisplatin (27%), gemcitabine (31%), or vinorelbine (59%). […] A significant proportion of mesothelioma tumors exhibited extreme/intermediate resistance to cisplatin, gemcitabine, or vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21345818&#34; target=&#34;_blank&#34;&gt;21345818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11%, P = 0.0017) and ASC plus vinorelbine (4% vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21388071&#34; target=&#34;_blank&#34;&gt;21388071&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+She showed an impressive response to this first-line chemotherapy and, after disease progression, to further chemotherapy with gemcitabine and vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22031231&#34; target=&#34;_blank&#34;&gt;22031231&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The relationship between excision repair cross-complementation group 1 (ERCC1) expression and outcome, in patients with malignant pleural mesothelioma (MPM), treated with cisplatin/vinorelbine combination-therapy, was retrospectively evaluated in a patient population from a previously published phase II clinical trial. […] Our retrospective study in MPM patients treated with cisplatin/vinorelbine suggests that low ERCC1 expression, evaluated by IHC, may predict longer PFS, a result that warrants further validation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22190288&#34; target=&#34;_blank&#34;&gt;22190288&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The vinca alkaloid vinorelbine exhibits clinical activity; however, to date, treatment optimization has not been achieved using biomarkers. […] BRCA1 regulates sensitivity to microtubule poisons; however, its role in regulating vinorelbine-induced apoptosis in mesothelioma is unknown. […] Here we demonstrate that BRCA1 plays an essential role in mediating vinorelbine-induced apoptosis, as evidenced by (1) the strong correlation between vinorelbine sensitivity and BRCA1 expression level; (2) induction of resistance to vinorelbine by BRCA1 using siRNA oligonucleotides; (3) dramatic down-regulation of BRCA1 following selection for vinorelbine resistance; and (4) the re-activation of vinorelbine-induced apoptosis following re-expression of BRCA1 in resistant cells. […] Together, these data suggest that BRCA1 plays a critical role in mediating apoptosis by vinorelbine in mesothelioma, warranting its clinical evaluation as a predictive biomarker.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22345416&#34; target=&#34;_blank&#34;&gt;22345416&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other chemotherapeutic agents that have been used against MPM, with variable results, include gemcitabine, vinorelbine, taxanes, anthracyclines, and molecular-targeted agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22960937&#34; target=&#34;_blank&#34;&gt;22960937&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated the baseline expression and impact on outcome of predictive biomarkers ERCC1, BRCA1, and class III β-tubulin in a cohort of MPM patients treated with cisplatin-vinorelbine. […] Combined negative ERCC1 and class III β-tubulin immunostaining is associated with significantly prolonged PFS and OS in MPM patients receiving cisplatin-vinorelbine therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24023280&#34; target=&#34;_blank&#34;&gt;24023280&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cisplatin in combination with pemetrexed or raltitrexed increased survival in MPM, whereas vinorelbine and gemcitabine have led to good response rates. […] This may also apply for gemcitabine and vinorelbine, since in contrast to pemetrexed, both agents can be obtained from generic manufacturers. […] To provide a more cost-effective treatment approach for advanced MPM, further research should include randomized controlled trials comparing the recommended pemetrexed-cisplatin directly with platinum doublets with raltitrexed, gemcitabine, or vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24158772&#34; target=&#34;_blank&#34;&gt;24158772&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Between March 2008 and October 2011, 17 consecutive Japanese patients pretreated with at least one regimen of platinum plus pemetrexed chemotherapy received gemcitabine and vinorelbine. […] Combination chemotherapy using gemcitabine with vinorelbine was shown to have moderate activity in Japanese MPM patients pretreated with platinum plus pemetrexed chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24321581&#34; target=&#34;_blank&#34;&gt;24321581&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this retrospective, single-center study was to evaluate the activity and toxicity of vinorelbine administered to a consecutive series of pemetrexed-pretreated MPM patients. […] Vinorelbine 25 mg/m(2) was administered intravenously as a single agent on days 1, 8 every three weeks, either as second-line (2L) or further-line (&amp;gt;2L) therapy. […] Vinorelbine was given to 34 patients as 2L, and to 25 as &amp;gt; 2L treatment. […] No difference was observed in terms of DCR, PFS, and OS in relation to age, histology, sex, line of vinorelbine therapy, or response to FL treatment. […] Vinorelbine was moderately active in pemetrexed-pretreated MPM patients, with an acceptable toxicity profile, particularly in patients with ECOG-PS0 and FL-PFS ≥ 6 months.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24615668&#34; target=&#34;_blank&#34;&gt;24615668&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Monotherapy with pemetrexed, vinorelbine or gemcitabine may provide some survival benefit compared to treatment aiming at symptom control only.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24690410&#34; target=&#34;_blank&#34;&gt;24690410&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No drugs have been shown to improve survival as second-line therapy, yet vinorelbine and gemcitabine are prescribed based on the results of small phase II trials. […] To augment the existing limited data, we examined our institutional experience with vinorelbine and gemcitabine in patients with previously treated MPM. […] We reviewed charts of patients with MPM treated with vinorelbine and/or gemcitabine as second- or third-line therapy between 2003 and 2010. […] Sixty patients were identified: 33 treated with vinorelbine, 15 gemcitabine, and 12 both agents. […] Median progression free survival was 1.7 months for vinorelbine and 1.6 months for gemcitabine. […] Response to second- or third-line vinorelbine or gemcitabine is rare.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25572813&#34; target=&#34;_blank&#34;&gt;25572813&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were unresectable, PS 0-2, and had previously received a first-line platinum-based regimen and either vinorelbine or pemetrexed as second line. […] Second-line treatment was vinorelbine in 42 cases and pemetrexed in one patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25979846&#34; target=&#34;_blank&#34;&gt;25979846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Putative predictive markers for pemetrexed-platinum are tumor TS and TYMS, for vinorelbine the ERCC1, beta-tubuline class III and BRCA1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26366804&#34; target=&#34;_blank&#34;&gt;26366804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a clinical trial, gemcitabine and/or vinorelbine-based regimens could be considered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26526504&#34; target=&#34;_blank&#34;&gt;26526504&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vinorelbine has shown activity in MPM patients as neoadjuvant therapy, first-line treatment, and in the second and third-line setting. […] Vinflunine is a derivative of vinorelbine that has been studied in MPM as first-line agent. […] While the role of vinca alkaloids in the first-line treatment of MPM seems marginal, treatment with vinorelbine remains a reasonable option for pemetrexed-pretreated patients in clinical practice, based on an acceptable rate of stable disease, confirmed by several trials. […] Ongoing studies on predictive biomarkers for vinorelbine will hopefully be able to individualize treatment, increasing response rates and survival outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26637889&#34; target=&#34;_blank&#34;&gt;26637889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A possible predictive impact of ribonucleotide-reductase subunit-1 (RRM1) on vinorelbine efficacy in non-small cell lung cancer (NSCLC) has been previously reported. […] Seventy-one patients with MPM receiving first-line chemotherapy with cisplatin-vinorelbine (CiV group, n=54) or carboplatin-pemetrexed (CaP group, n=17) were included. […] Our findings suggest a possible role of RRM1 in predicting efficacy of cisplatin-vinorelbine in MPM, supporting previous findings in NSCLC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27094927&#34; target=&#34;_blank&#34;&gt;27094927&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metronomic oral vinorelbine is effective in metastatic NSCLC and malignant pleural mesothelioma, but all the studies published thus far were based upon a variety of empirical and possibly suboptimal schedules, with inconsistent results. […] This phase Ia/Ib trial was designed to confirm safety (phase Ia) and evaluate efficacy (phase Ib) of a new metronomic oral vinorelbine schedule. […] Our mathematical PK-PD model suggested an alternative weekly D1, D2 and D4 schedule (named Vinorelbine Theoretical Protocol) with a respective dose of 60, 30 and 60 mg. […] Depending on the phase Ia results and after a favourable decision from a consultative committee, the extension phase (phase Ib) will be an efficacy study including 20 patients who will receive the Optimal Vinorelbine Theoretical Protocol.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27127763&#34; target=&#34;_blank&#34;&gt;27127763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Involved agents included paclitaxel, docetaxel and vinorelbine; Malignancies included non-small cell lung cancer, gastric cancer, esophageal carcinoma, ovarian carcinoma, malignant pleural mesothelioma, breast cancer, and small cell lung cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29147606&#34; target=&#34;_blank&#34;&gt;29147606&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesothelioma cell lines (H2461, One 58, EM-MESO) were cultured with or without vinorelbine or pemetrexed. […] A significant increase in PD-L1 expression was observed in all 3 MM cell lines (p &amp;lt; 0.003 each) following exposure to vinorelbine but not to pemetrexed. &lt;b&gt;Conclusion&lt;/b&gt;: Overall there is good agreement in PD-L1 expression between paired MM lesions; however, the 19-31% of cases with discordant PD-L1 expression, and the dynamics of PD-L1 expression may limit its use as a predictive biomarker for therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29361614&#34; target=&#34;_blank&#34;&gt;29361614&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anetumab ravtansine, mesothelin-directed antibody drug conjugate, was evaluated in a randomized trial to compare to vinorelbine in patients with MPM who have high mesothelin expression and have progressed on CDDP/PEM-based first-line chemotherapy. […] However, anetumab ravtansine was not superior to vinorelbine in primary endpoint of PFS(4.3 months vs 4.5 months).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29507803&#34; target=&#34;_blank&#34;&gt;29507803&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Phase II trials demonstrate a modest efficacy of vinorelbine monotherapy with a response rate ranging between 0% and 18% and a tolerable toxicity profile.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29753703&#34; target=&#34;_blank&#34;&gt;29753703&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Best investigator choice was decided before random assignment and could be single-agent gemcitabine (1000-1250 mg/m&lt;sup&gt;2&lt;/sup&gt; intravenously), vinorelbine (25 mg/m&lt;sup&gt;2&lt;/sup&gt; intravenously or 60 mg/m&lt;sup&gt;2&lt;/sup&gt; orally), doxorubicin (60-75 mg/m&lt;sup&gt;2&lt;/sup&gt; intravenously), or best supportive care only.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30101018&#34; target=&#34;_blank&#34;&gt;30101018&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemoradiotherapy with vinorelbine and 60 Gy/20 fr radiotherapy was performed, and a partial response was obtained, suggesting that the radiotherapy used to treat the carcinoma of the lung may have also helped control the disease activity of the pre-existing mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30157247&#34; target=&#34;_blank&#34;&gt;30157247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BAMLET showed similar cytotoxicity to cisplatin-resistant, pemetrexed-resistant, vinorelbine-resistant, and parental rat mesothelioma cells, indicating the BAMLET anti-cancer mechanism may be different to drugs currently used to treat mesothelioma. […] Cisplatin, pemetrexed, gemcitabine, vinorelbine, and BAMLET, did not demonstrate a therapeutic window for mesothelioma compared with immortalised non-cancer mesothelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32154179&#34; target=&#34;_blank&#34;&gt;32154179&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, single agent pembrolizumab was not superior to chemotherapy (gemcitabine or vinorelbine) in the recent published PROMISE-Meso trial in pre-treated patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9063523&#34; target=&#34;_blank&#34;&gt;9063523&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 55-year-old male suffering from malignant mesothelioma and pretreated with intracavitary chemotherapy and radiotherapy was submitted to systemic chemotherapy including lomustine, carboplatin, vinorelbine, fluorouracil and folates after diagnosis of bilateral cerebral deposits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/iodine/</link>
+      <atom:link href="/mesothelioma/drugpanel/iodine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/iodine/</link>
+    </image>
+    
+    <item>
+      <title>IODINE</title>
+      <link>/mesothelioma/drugpanel/iodine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/iodine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db05382&#39; target=&#39;_blank&#39;&gt;db05382&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=iodine&#34; target=&#34;_blank&#34;&gt;iodine&lt;/a&gt; &lt;br&gt;
+Synonymous :diiodine | i2 | iodo | jod | molecular iodine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;iodine&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17350855&#34; target=&#34;_blank&#34;&gt;17350855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a second experiment, this new recurrence model was evaluated for the effect of intrapleural therapy with different agents: 4 ml of cisplatin-solution (100mg(2)/kg BW), cisplatin combined with the fibrin-based sealant Vivostat, 4 ml taurolidine 2%, repeated injection of 1 microg of the chemokine CCL-19 at the tumour site and 4 ml povidone-iodine in a dilution 1:10.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17383050&#34; target=&#34;_blank&#34;&gt;17383050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Taurolidine and povidone-iodine (PVP-I) are used in every day clinical practice, taurolidine as a broad spectrum antibiotic, and PVP-I as an antiseptic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21876457&#34; target=&#34;_blank&#34;&gt;21876457&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated the effects of pleurectomy/decortication (P/D), hyperthermic pleural lavage with povidone-iodine and adjuvant chemotherapy in patients with malignant pleural mesothelioma. […] In our experience, P/D combined with hyperthermic pleural lavage with povidone-iodine and adjuvant chemotherapy is a well-tolerated multimodality treatment associated with low morbidity and mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22425923&#34; target=&#34;_blank&#34;&gt;22425923&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To compare the outcomes of two different multimodality regimens involving neoadjuvant chemotherapy, extrapleural pneumonectomy (EPP) and adjuvant radiotherapy versus pleurectomy/decortication (P/D), hyperthermic pleural lavage with povidone-iodine, and adjuvant chemotherapy in patients with malignant pleural mesothelioma. […] In our experience, P/D, hyperthermic pleural lavage with povidone-iodine, and adjuvant chemotherapy were superior to neoadjuvant chemotherapy, EPP, and adjuvant radiotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23329660&#34; target=&#34;_blank&#34;&gt;23329660&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biodistribution and single photon emission computed tomography (SPECT)/computed tomography (CT) imaging studies were performed in mice (four or five per group, depending on tumor growth) bearing subcutaneous and orthotopic MPM tumors by using HER1- and HER2-targeted indium 111 ((111)In)- and iodine 125 ((125)I)-labeled panitumumab and trastuzumab, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23890748&#34; target=&#34;_blank&#34;&gt;23890748&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this work was to examine the ability of an oncolytic vaccinia virus expressing the human sodium iodine transporter (hNIS) to provide real time monitoring of viral therapy and effective treatment of malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23963351&#34; target=&#34;_blank&#34;&gt;23963351&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to evaluate the patterns of disease progression in patients treated with pleurectomy/decortication (P/D), hyperthermic pleural lavage with povidone-iodine, prophylactic radiotherapy and adjuvant chemotherapy, using F-fluorodeoxyglucose (18F-FDG) PET/computed tomography (PET/CT). […] After P/D with hyperthermic pleural lavage with povidone-iodine, prophylactic radiotherapy and adjuvant chemotherapy, the most frequent site of recurrence is the pleural cavity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24394552&#34; target=&#34;_blank&#34;&gt;24394552&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Povidone-iodine (PVP-I) or Betadine, owing to its antineoplastic activity, is also used as an adjuvant during intra-abdominal or intrathoracic surgery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25726878&#34; target=&#34;_blank&#34;&gt;25726878&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We evaluated the long-term results of pleurectomy/decortication (P/D), hyperthermic pleural lavage with povidone-iodine, prophylactic chest wall radiotherapy (21 Gy), and systemic chemotherapy in patients with malignant pleural mesothelioma. […] P/D, hyperthermic pleural lavage with povidone-iodine, prophylactic chest wall radiotherapy, and systemic chemotherapy is a safe and well-tolerated multimodality therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28713674&#34; target=&#34;_blank&#34;&gt;28713674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Novel intraoperative adjunctive therapies including heated intraoperative chemotherapy (HIOC), heated intraoperative povidone-iodine (PVP-I), and photodynamic therapy (PDT) target micrometastatic disease and aim to improve local control.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

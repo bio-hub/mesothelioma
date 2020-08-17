@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/urokinase/</link>
+      <atom:link href="/mesothelioma/drugpanel/urokinase/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/urokinase/</link>
+    </image>
+    
+    <item>
+      <title>UROKINASE</title>
+      <link>/mesothelioma/drugpanel/urokinase/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/urokinase/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00013&#39; target=&#39;_blank&#39;&gt;db00013&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=urokinase&#34; target=&#34;_blank&#34;&gt;urokinase&lt;/a&gt; &lt;br&gt;
+Synonymous :kinase (enzyme-activating), uro-urokinase | tcuk | tissue culture urokinase | two-chain urokinase | urochinasi | urokinase | urokinasum | uroquinasa
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;urokinase&lt;/em&gt; gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10544967&#34; target=&#34;_blank&#34;&gt;10544967&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The urokinase-type plasminogen activator (uPA) interacts with its receptor (uPAR) to promote proteolysis as well as cell proliferation and migration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19635932&#34; target=&#34;_blank&#34;&gt;19635932&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The urokinase plasminogen activator receptor (uPAR) is associated with increased virulence of many solid neoplasms, but its role in the pathogenesis of MPM is currently unclear.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19855086&#34; target=&#34;_blank&#34;&gt;19855086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The plasminogen activator inhibitor type-1 (PAI-1) effectively blocks the activities of free and receptor-bound urokinase-type plasminogen activator.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22314292&#34; target=&#34;_blank&#34;&gt;22314292&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) is highly intractable and readily spreads throughout the surface of the pleural cavity, and these cells have been shown to express urokinase-type plasminogen activator receptor (uPAR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25742001&#34; target=&#34;_blank&#34;&gt;25742001&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tissue-plasminogen activator (n = 52), urokinase (n = 12), and streptokinase (n = 2) were used.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31719986&#34; target=&#34;_blank&#34;&gt;31719986&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We reported the first case of intrapleural urokinase directly under medical thoracoscopy for the diagnosis of malignant pleural mesothelioma with severe multiloculated pleural effusions in 2019. […] This is the second report regarding the efficacy of intrapleural urokinase directly under medical thoracoscopy for the diagnosis of multiloculated pleural effusions. […] Urokinase-induced intrapleural fibrinolysis, which removed the fibrous septa, consequently improved the field of view under endoscopy within only 10 min.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7485395&#34; target=&#34;_blank&#34;&gt;7485395&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Little fibrin was distributed within the tumor, but tissue factor and tissue factor pathway inhibitor, urokinase, urokinase receptor, and plasminogen activator inhibitors 1 and 2 were all detected in either epithelioid or sarcomatous areas of MM. […] Fibrinolytic activity of MS-1 is mainly due to urokinase and is responsive to cytokine stimulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8897701&#34; target=&#34;_blank&#34;&gt;8897701&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The two major fibrinolytic activators, urokinase-type plasminogen activator (u-PA) and tissue-type plasminogen activator (t-PA) may play role in tumor spread and metastasis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9609725&#34; target=&#34;_blank&#34;&gt;9609725&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The urokinase receptor (uPAR) influences several biological functions relevant to lung injury and repair, including proteolysis, cell migration, and adhesion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9705217&#34; target=&#34;_blank&#34;&gt;9705217&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human pleural malignant mesothelioma (MS-1) or mesothelial (MeT5A) cells express the multifunctional urokinase receptor (uPAR) which influences neoplastic propagation via contributions to cellular proteolysis, migration, and mitogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

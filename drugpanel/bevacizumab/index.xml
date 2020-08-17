@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/bevacizumab/</link>
+      <atom:link href="/mesothelioma/drugpanel/bevacizumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/bevacizumab/</link>
+    </image>
+    
+    <item>
+      <title>BEVACIZUMAB</title>
+      <link>/mesothelioma/drugpanel/bevacizumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/bevacizumab/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00112&#39; target=&#39;_blank&#39;&gt;db00112&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=bevacizumab&#34; target=&#34;_blank&#34;&gt;bevacizumab&lt;/a&gt; &lt;br&gt;
+Synonymous :anti-vegf humanized monoclonal antibody | anti-vegf monoclonal antibody | bevacizumab | bevacizumab-awwb | rhumab-vegf
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;bevacizumab&lt;/em&gt; gene in 51 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16401712&#34; target=&#34;_blank&#34;&gt;16401712&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Eastern Cooperative Oncology Group 4599 phase III trial showed superior survival in patients with advanced nonsquamous NSCLC when the angiogenesis inhibitor bevacizumab was added to standard first-line chemotherapy with carboplatin and paclitaxel, compared with the same chemotherapy alone. […] Careful patient selection is mandatory to avoid fatal bleeding following bevacizumab administration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17908988&#34; target=&#34;_blank&#34;&gt;17908988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined the therapeutic efficacy of the antihuman VEGF neutralizing antibody, bevacizumab, in combination with pemetrexed against two different human MPM cells, EHMES-10 and MSTO-211H, orthotopically inoculated into severe combined immunodeficient mice. […] Bevacizumab inhibited a VEGF-induced proliferation of the human endothelial cells in a dose-dependent manner, but it had no effect on the proliferation of the two MPM cell lines in vitro. […] Treatment with bevacizumab effectively inhibited the production of thoracic tumors and dramatically prevented the production of pleural effusion by the EHMES-10 cells but not the MSTO-211H cells. […] Treatment with bevacizumab reduced the number of enlarged tumor-associated vessels and proliferating tumor cells. […] Moreover, treatment with bevacizumab in combination with pemetrexed more effectively suppressed the formation of the pleural effusion and prolonged the survival compared with the control and monotherapy in the EHMES-10 cell-bearing severe combined immunodeficient mice. […] These results suggest that the combined use of bevacizumab and pemetrexed may therefore be promising for controlling the progression of MPM highly expressing VEGF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18235409&#34; target=&#34;_blank&#34;&gt;18235409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antiangiogenic agents such as bevacizumab (Avastatin) may be of interest but need to be tested in phase 3 trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18543326&#34; target=&#34;_blank&#34;&gt;18543326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase 2, multicenter, open-label study of erlotinib plus bevacizumab in patients with malignant pleural mesothelioma who had previously received 1 prior chemotherapy regimen. […] Eligible patients with mesothelioma who had previously received 1 chemotherapy regimen were treated with erlotinib 150 mg per os daily and bevacizumab 15 mg/kg administered intravenously on Day 1 of a 21-day cycle. […] Twenty-four eligible patients initiated therapy with erlotinib and bevacizumab between February 2004 and October 2006. […] The combination of erlotinib and bevacizumab was tolerated reasonably well, but there was no evidence of radiographic response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19909234&#34; target=&#34;_blank&#34;&gt;19909234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tyrosine kinase inhibitors (TKIs) targeting growth factors like vandetanib, dasatinib, and angiogenesis inhibitors like bevacizumab, are among the most promising agents under evaluation in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19934291&#34; target=&#34;_blank&#34;&gt;19934291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We reported previously that the anti-vascular endothelial growth factor (VEGF) antibody, bevacizumab, effectively inhibited the progression of VEGF-high-producing (but not VEGF-low-producing) MPM cells in orthotopic implantation models, indicating the need for novel therapeutic strategies to improve the poor prognosis of this disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21553148&#34; target=&#34;_blank&#34;&gt;21553148&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A preliminary analysis of a phase II/III trial suggests that addition of bevacizumab to pemetrexed and cisplatin first-line treatment significantly improves disease control (CR + PR + SD) in the bevacizumab arm (73.5%) compared with treatment with pemetrexed and cisplatin without bevacizumab (43.2%) (P = 0.010). […] Another phase II trial did not observe any significant clinical benefit of adding of bevacizumab to gemcitabine and cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22152931&#34; target=&#34;_blank&#34;&gt;22152931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, bevacizumab is the only drug that has demonstrated an impact on overall survival in first line treatment for stage IV non-squamous NSCLC, but VEGFR-TKI such as cediranib, aflibercept, vandetanib, pazopanib have shown encouraging results in phase II or III clinical trials. […] In extensive-disease SCLC and inoperable MM, bevacizumab is the most studied molecule, but again, clinical trials are still ongoing. […] In conclusion, bevacizumab is the most studied anti-angiogenic agent in thoracic oncology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22223868&#34; target=&#34;_blank&#34;&gt;22223868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article describes several ongoing or recently completed phase II and III trials using novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine, bevacizumab, cediranib, and thalidomide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22519641&#34; target=&#34;_blank&#34;&gt;22519641&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies regarding anti-angiogenic treatments in MPM with bevacizumab, tyrosine-kinase inhibitors (TKIs) and other agents were critically analyzed, with an overview of ongoing trials and future perspectives, including research on biomarkers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22665541&#34; target=&#34;_blank&#34;&gt;22665541&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We added the anti-VEGF antibody bevacizumab to gemcitabine/cisplatin in a multicenter, double-blind, placebo-controlled randomized phase II trial in patients with previously untreated, unresectable MM. […] Patients received gemcitabine 1,250 mg/m(2) on days 1 and 8 every 21 days, cisplatin 75 mg/m(2) every 21 days, and bevacizumab 15 mg/kg or placebo every 21 days for six cycles, and then bevacizumab or placebo every 21 days until progression. […] Median PFS time was 6.9 months for the bevacizumab arm and 6.0 months for the placebo arm (P = .88). […] Median overall survival (OS) times were 15.6 and 14.7 months in the bevacizumab and placebo arms, respectively (P = .91). […] Partial response rates were similar (24.5% for bevacizumab v 21.8% for placebo; P = .74). […] The addition of bevacizumab to gemcitabine/cisplatin in this trial did not significantly improve PFS or OS in patients with advanced MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22770372&#34; target=&#34;_blank&#34;&gt;22770372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bevacizumab is a recombinant humanized monoclonal antibody that blocks the binding of VEGF to its receptor. […] We evaluated the addition of bevacizumab to cisplatin and pemetrexed as first-line treatment in patients with advanced, unresectable MM. […] Previously untreated MM patients with advanced, unresectable disease received cisplatin (75 mg/m(2)), pemetrexed (500 mg/m(2)), and bevacizumab (15 mg/kg) intravenously every 21 days for a maximum of 6 cycles. […] Patients with responsive or stable disease received bevacizumab (15 mg/kg) intravenously every 21 days until progression or intolerance. […] This trial evaluating the addition of bevacizumab to cisplatin and pemetrexed in patients with previously untreated, advanced MM failed to meet the primary endpoint of a 33% improvement in the progression-free survival rate at 6 months compared with historical controls treated with cisplatin and pemetrexed alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23721559&#34; target=&#34;_blank&#34;&gt;23721559&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combination of sEphB4-HSA and the anti-VEGF antibody (Bevacizumab) was superior to each agent alone and led to complete tumor regression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23860535&#34; target=&#34;_blank&#34;&gt;23860535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this open label phase II study (NCT00407459) was to assess the activity of the vascular endothelial growth factor (VEGF) inhibitor bevacizumab combined with pemetrexed and carboplatin in patients with previously untreated, unresectable malignant pleural mesothelioma (MPM). […] Eligible patients received pemetrexed 500 mg m(-2), carboplatin area under the plasma concentration-time curve (AUC) 5 mg ml(-1) per minute and bevacizumab 15 mg kg(-1), administered intravenously every 21 days for six cycles, followed by maintenance bevacizumab. […] However, due to the limitation of a non-randomised phase II design, further data are needed before drawing any definite conclusion on the role of bevacizumab in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24225007&#34; target=&#34;_blank&#34;&gt;24225007&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Final results of the large phase 3 clinical trial “MAPS” sponsored by French collaborative Intergroup (IFCT) evaluating the effect of bevacizumab addition to pemetrexed-cisplatin doublet will be released in early 2015, since 445 patients have been included by November 2013.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25818740&#34; target=&#34;_blank&#34;&gt;25818740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of the present study was to evaluate the efficacy and safety of pemetrexed chemotherapy combined with intrapleural injection of pemetrexed and bevacizumab in the treatment of malignant pleural mesothelioma (MPM)-mediated malignant pleural effusion, and analyze the objective response rate (ORR), the median progression-free survival (PFS) and the median overall survival (OS). […] We analyzed the clinical data of 23 MPM patients with pleural effusion who were treated with a combination chemotherapy of pemetrexed at 500 mg/m 2 , on day 1 plus cisplatin (DDP) at 20 mg/m 2 on day 1-5 of each 21 days cycle, and concurrently, intrapleural injection of pemetrexed 0.5 g and bevacizumab 300 mg was administered on day 3 or day 4 after complete effusion drainage. […] The combination of pemetrexed chemotherapy with intrapleural injection of pemetrexed and bevacizumab is efficacious and safe for MPM pleural effusion, and results of the present study demonstrate some improvement in the PFS and OS. […] The expression of VEGF in the pleural effusion and serum plays a guiding role in monitoring the efficacy of bevacizumab in the treatment of malignant pleural effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26308799&#34; target=&#34;_blank&#34;&gt;26308799&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increasing knowledge on the molecular characteristics of mesothelioma has led to the development of novel potential therapeutic strategies, including: molecular targeted approaches, that is the inhibition of vascular endothelial growth factor with bevacizumab; immunotherapy with chimeric monoclonal antibody, immunotoxin, antibody drug conjugate, vaccine and viruses; inhibition of asbestos-induced inflammation, that is aspirin inhibition of HMGB1 activity may decrease or delay mesothelioma onset and/or growth.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26635184&#34; target=&#34;_blank&#34;&gt;26635184&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bevacizumab exerts anti-angiogenic effects in cancer patients by inhibiting vascular endothelial growth factor (VEGF). […] Here we show that bone marrow-derived fibrocyte-like cells, defined as alpha-1 type I collagen-positive and CXCR4-positive cells, contribute to the acquired resistance to bevacizumab. […] In mouse models of malignant pleural mesothelioma and lung cancer, fibrocyte-like cells mediate the resistance to bevacizumab as the main producer of fibroblast growth factor 2. […] In clinical specimens of lung cancer, the number of fibrocyte-like cells is significantly increased in bevacizumab-treated tumours, and correlates with the number of treatment cycles, as well as CD31-positive vessels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26680633&#34; target=&#34;_blank&#34;&gt;26680633&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since angiogenesis plays a key role in MPE development, the potential role of bevacizumab and other anti-angiogenic therapies have been explored in this review. […] No relevant phase III trials have specifically analysed the benefit from adding bevacizumab to platinum-based chemotherapy in lung cancer-related MPE. […] Being approved for the first-line treatment of non-squamous advanced NSCLC, the addition of bevacizumab should be considered for patients presenting with MPE. […] In MM, the addition of bevacizumab to platinum-based chemotherapy did not meet primary endpoints in two phase II trials. […] However, the beneficial results on OS reported in comparison with historical cohorts and the statistically significant benefit on PFS and OS observed in the phase III MAPS trial foretell an eventual role for the combination of platinum/pemetrexed/bevacizumab as front-line systemic therapy for pleural MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26719230&#34; target=&#34;_blank&#34;&gt;26719230&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to assess the effect on survival of bevacizumab when added to the present standard of care, cisplatin plus pemetrexed, as first-line treatment of advanced malignant pleural mesothelioma. […] We randomly allocated patients (1:1; minimisation method used [random factor of 0·8]; patients stratified by histology [epithelioid vs sarcomatoid or mixed histology subtypes], performance status score [0-1 vs 2], study centre, or smoking status [never smokers vs smokers]) to receive intravenously 500 mg/m(2) pemetrexed plus 75 mg/m(2) cisplatin with (PCB) or without (PC) 15 mg/kg bevacizumab in 21 day cycles for up to six cycles, until progression or toxic effects. […] Addition of bevacizumab to pemetrexed plus cisplatin significantly improved OS in malignant pleural mesothelioma at the cost of expected manageable toxic effects, therefore it should be considered as a suitable treatment for the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26873306&#34; target=&#34;_blank&#34;&gt;26873306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with cisplatin and pemetrexed is considered the standard of care, though the addition of bevacizumab to the platinum doublet may be the new standard of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27057918&#34; target=&#34;_blank&#34;&gt;27057918&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We treated this patient with PMT after first-line cisplatin-based bevacizumab-containing chemotherapy and residual tumor disappeared after 6 course of PMT. […] A perfect response and a long progression-free survival (PFS) were reached with tumor mass disappearing and 14 months duration of PFS.This case suggests that adding bevacizumab to standard first-line chemotherapy is feasible and that PMT could be promising and useful for treating advanced MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27407123&#34; target=&#34;_blank&#34;&gt;27407123&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The NCCN panel also now recommends bevacizumab/cisplatin/pemetrexed as a first-line therapy option for patients with unresectable MPM who are candidates for bevacizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27408810&#34; target=&#34;_blank&#34;&gt;27408810&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A recent study, however, showed that cisplatin/pemetrexed + bevacizumab (a recombinant humanized monoclonal antibody that inhibit VEGF) treatment has a survival benefit of 2.7 months Zalcman et al.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27696931&#34; target=&#34;_blank&#34;&gt;27696931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Expert commentary: The addition of bevacizumab to cisplatin/pemetrexed chemotherapy is currently a therapeutic option with a proven 2.7 month overall survival benefit in fit patients less than 75.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28031827&#34; target=&#34;_blank&#34;&gt;28031827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, a diagnosis of epithelioid hemangioendothelioma (EHE) was made, and chemotherapy with carboplatin, pemetrexed, and bevacizumab was initiated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28210162&#34; target=&#34;_blank&#34;&gt;28210162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Encouraging recent reports suggest that there may be a benefit to the addition of bevacizumab to standard chemotherapy as well as with the use of immune checkpoint inhibitors in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28435296&#34; target=&#34;_blank&#34;&gt;28435296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bevacizumab is a monoclonal antibody that binds VEGF and blocks its interaction with the VEGF receptor. […] Recent studies have shown benefit with the addition of bevacizumab to the combination of cisplatin and pemetrexed in MPM. […] This review discusses the rationale behind the use of bevacizumab in MPM, as well as summarizes the pharmacology, efficacy, safety, and toxicity of bevacizumab across multiple trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28676211&#34; target=&#34;_blank&#34;&gt;28676211&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study evaluated the cost-effectiveness of the addition of bevacizumab to PC (with maintenance bevacizumab) for unresectable MPM based on a phase III trial that showed a survival benefit compared with chemotherapy alone. […] To estimate the incremental cost-effectiveness ratio (ICER) of the incorporation of bevacizumab, a Markov model based on the MAPS trial, including the disease states of progression-free survival, progressive disease and death, was used. […] The addition of bevacizumab to PC was estimated to increase the cost by $81446.69, with a gain of 0.112 QALYs, resulting in an ICER of $727202.589 per QALY. […] The cost of bevacizumab had the most important impact on the ICER. […] The combination of bevacizumab with PC chemotherapy is not a cost-effective treatment option for MPM in China. […] Given its positive clinical value and extremely low incidence of MPM, an appropriate price discount, assistance programs and medical insurance should be considered to make bevacizumab more affordable for this rare patient population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28679291&#34; target=&#34;_blank&#34;&gt;28679291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Expert opinion: The approach of applying existing treatments from other cancers does not show significant benefit, with the most promising outcome being an increase in survival of 2.7 months following combination of chemotherapy with bevacizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28690011&#34; target=&#34;_blank&#34;&gt;28690011&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the benefit of combining bevacizumab with standard therapy shown in the Mesothelioma Avastin Cisplatin Pemetrexed Study (MAPS), vascular endothelial growth factor (VEGF) pathway inhibition has gained renewed interest as a treatment approach.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29086616&#34; target=&#34;_blank&#34;&gt;29086616&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bevacizumab, a monoclonal anti-VEGF antibody, was a rational approach to be tested in MPM. […] Based on the results of the Phase III IFCT-0701 mesothelioma avastin cisplatin pemetrexed study, cisplatin-pemetrexed-bevacizumab is now the accepted standard in France. […] This review summarized the efficacy and safety data of bevacizumab in the treatment of patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29361614&#34; target=&#34;_blank&#34;&gt;29361614&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The addition of vascular endothelial growth factor(VEGF) inhibitor bevacizumab to the standard CDDP/PEM provides a 2.7-month survival benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29415822&#34; target=&#34;_blank&#34;&gt;29415822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The standard treatment of MPM, relying on first-line chemotherapy by combined cisplatin-pemetrexed is often poorly effective, even if combination with bevacizumab anti-VEGF antibodies has slightly improved the results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29479845&#34; target=&#34;_blank&#34;&gt;29479845&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only 1% underwent curative surgical procedure; 65% received at least one chemotherapy cycle, 72% of them with at least one pemetrexed and/or bevacizumab administration. […] The mean cost per patient was 27,624 ± 17,263 euros (31% representing pemetrexed and bevacizumab costs).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29508763&#34; target=&#34;_blank&#34;&gt;29508763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The addition of bevacizumab (an anti-VEGF antibody) combined with cisplatin plus pemetrexed has shown some promise.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29553973&#34; target=&#34;_blank&#34;&gt;29553973&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A randomized trial of first-line chemotherapy with and without bevacizumab in unresectable MPM is the only randomized trial of a new treatment regimen to demonstrate a survival benefit since cisplatin with pemetrexed became the standard of care for unresectable MPM in 2003. […] Unfortunately, in unresectable MPM, first-line chemotherapy alone or in combination with bevacizumab has demonstrated only limited improvements in overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29724868&#34; target=&#34;_blank&#34;&gt;29724868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Importantly, unlike bevacizumab, nintedanib demonstrated significant &lt;i&gt;in vivo&lt;/i&gt; antivascular and antitumor potential independently of baseline VEGF-A levels.&lt;b&gt;Conclusions:&lt;/b&gt; Nintedanib exerts significant antitumor activity in MPM both &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; These data provide preclinical support for the concept of LUME-Meso trials evaluating nintedanib in patients with unresectable MPM. &lt;i&gt;Clin Cancer Res; 24(15); 3729-40. &lt;/i&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30129116&#34; target=&#34;_blank&#34;&gt;30129116&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anti-angiogenesis agents such as bevacizumab and nintedanib appear promising as adjuncts to first-line chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450291&#34; target=&#34;_blank&#34;&gt;30450291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In contrast, nintedanib, an angiokinase inhibitor, improved progression-free survival and bevacizumab, a humanized anti-VEGF antibody increased overall survival in patients with MPM, when administered in combination with cisplatin and pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450296&#34; target=&#34;_blank&#34;&gt;30450296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the anti-angiogenesis agents, only bevacizumab and nintedanib have shown activity with platinum-pemetrexed doublet therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30512336&#34; target=&#34;_blank&#34;&gt;30512336&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As mesothelioma cells are known to secrete high amounts of VEGF, the monoclonal antibody targeting VEGF, bevacizumab (Avastin), in association with pemetrexed- cisplatin has been shown, in 448 patients, to improve overall survival (to nearly 19 months), and progression-free survival in the randomized phase 3 trial, Mesothelioma Avastin Pemetrexed Study (MAPS), sponsored by the French Intergroup (IFCT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30679948&#34; target=&#34;_blank&#34;&gt;30679948&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, the addition of an antiangiogenic drug, bevacizumab, to first-line chemotherapy has been shown to improve overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30739911&#34; target=&#34;_blank&#34;&gt;30739911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Mesothelioma Avastin Cisplatin Pemetrexed Study (MAPS/NCT00651456) phase 3 trial demonstrated the superiority of bevacizumab plus pemetrexed-cisplatin triplet over chemotherapy alone in 448 malignant pleural mesothelioma (MPM) patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31175096&#34; target=&#34;_blank&#34;&gt;31175096&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The IFCT-GFPC-0701 MAPS phase III trial highlighted significant improvement in overall survival from adding bevacizumab to the standard first-line chemotherapy regimen [cisplatin plus pemetrexed (PC)] in advanced malignant pleural mesothelioma (MPM). […] We report that adding bevacizumab to cisplatin and pemetrexed (PCB) significantly improved QFS for the peripheral neuropathy dimension, with a median QFS of 12.09 months [95% confidence interval (CI), 9.59-13.67] in the PCB arm versus 7.59 months (95% CI, 6.57-8.61) in the PC arm [HR (PCB vs. […] This study demonstrated that adding bevacizumab to standard chemotherapy in patients with advanced MPM had no negative impact on HRQoL.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31280996&#34; target=&#34;_blank&#34;&gt;31280996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review examines the scientific rationale for targeting angiogenesis in the treatment of unresectable MPM and analyzes recent clinical results with antiangiogenic agents in development (bevacizumab, nintedanib, and cediranib) for the management of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31367541&#34; target=&#34;_blank&#34;&gt;31367541&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Adjuvant bevacizumab generates an additional 2 months survival benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31424688&#34; target=&#34;_blank&#34;&gt;31424688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the last ITP, 14 patients received further therapies, including targeted therapy with cetuximab or bevacizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31833271&#34; target=&#34;_blank&#34;&gt;31833271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The addition of bevacizumab, an antiangiogenic drug, shows an improvement in median survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32154179&#34; target=&#34;_blank&#34;&gt;32154179&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The only registered systemic treatment for malignant pleural mesothelioma (MPM) is platinum based chemotherapy combined with pemetrexed, with or without bevacizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32249197&#34; target=&#34;_blank&#34;&gt;32249197&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies of bevacizumab and pembrolizumab in the treatment of malignant pleural mesothelioma suggest anticancer efficacy; clinical trial populations are not reflective of real-world patients. […] MAPS eligibility did not correlate with use of bevacizumab (P = .30) or improved OS (P = .87).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

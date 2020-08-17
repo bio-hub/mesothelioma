@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/nintedanib/</link>
+      <atom:link href="/mesothelioma/drugpanel/nintedanib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/nintedanib/</link>
+    </image>
+    
+    <item>
+      <title>NINTEDANIB</title>
+      <link>/mesothelioma/drugpanel/nintedanib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/nintedanib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09079&#39; target=&#39;_blank&#39;&gt;db09079&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=nintedanib&#34; target=&#34;_blank&#34;&gt;nintedanib&lt;/a&gt; &lt;br&gt;
+Synonymous :methyl (3z)-3-[(4-{methyl[(4-methylpiperazin-1-yl)acetyl]amino}anilino)(phenyl)methylidene]-2-oxo-2,3-dihydro-1h-indole-6-carboxylate | nintedanib
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nintedanib&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28690011&#34; target=&#34;_blank&#34;&gt;28690011&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nintedanib is an oral angiokinase inhibitor targeting multiple signaling pathways implicated in the pathogenesis of MPM, including the VEGF receptor. […] The phase III part of the international, phase II/III LUME-Meso study is evaluating the efficacy and safety of nintedanib plus pemetrexed/cisplatin in patients with unresectable epithelioid MPM. […] The phase III part plans to enroll 450 chemotherapy-naive patients, who will be randomized to receive pemetrexed/cisplatin on day 1 and nintedanib or placebo on days 2 to 21, for a maximum of 6 cycles. […] Patients without disease progression who are eligible to continue study treatment will receive maintenance treatment with nintedanib or placebo until disease progression or undue toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28892431&#34; target=&#34;_blank&#34;&gt;28892431&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Purpose LUME-Meso is a phase II/III randomized, double-blind trial designed to assess efficacy and safety of nintedanib plus chemotherapy as first-line treatment of malignant pleural mesothelioma (MPM). […] Patients and Methods Chemotherapy-naïve patients with unresectable, nonsarcomatoid MPM (Eastern Cooperative Oncology Group performance status 0 to 1), stratified by histology (epithelioid or biphasic), were randomly assigned in a 1:1 ratio to up to six cycles of pemetrexed and cisplatin plus nintedanib (200 mg twice daily) or placebo followed by nintedanib plus placebo monotherapy until progression. […] The median number of pemetrexed and cisplatin cycles was six; the median treatment duration for nintedanib was 7.8 months and 5.3 months for placebo. […] Primary PFS favored nintedanib (hazard ratio [HR], 0.56; 95% CI, 0.34 to 0.91; P = .017), which was confirmed in updated PFS analyses (HR, 0.54; 95% CI, 0.33 to 0.87; P = .010). […] A trend toward improved overall survival also favored nintedanib (HR, 0.77; 95% CI, 0.46 to 1.29; P = .319). […] Benefit was evident in epithelioid histology, with a median overall survival gain of 5.4 months (HR, 0.70; 95% CI, 0.40 to 1.21; P = .197; median [nintedanib v placebo], 20.6 months v 15.2 months) and median PFS gain of 4.0 months (HR, 0.49; 95% CI, 0.30 to 0.82; P = .006; median [nintedanib v placebo], 9.7 v 5.7 months). […] Neutropenia was the most frequent grade ≥ 3 adverse event (AE; nintedanib 43.2% v placebo 12.2%); rates of febrile neutropenia were low (4.5% in nintedanib group v 0% in placebo group). […] AEs leading to discontinuation were reported in 6.8% of those receiving nintedanib versus 17.1% of those in the placebo group. […] Conclusion Addition of nintedanib to pemetrexed plus cisplatin resulted in PFS improvement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29361614&#34; target=&#34;_blank&#34;&gt;29361614&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Triple angiokinase inhibitor nintedanib, inhibiting the VEGFR, PDGFR, and FGFR, plus standard chemotherapy demonstrated a significant improvement in median PFS of 3.7 months in the overall study population, and a greater median PFS benefit of 4.0 months in epithelioid MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29724868&#34; target=&#34;_blank&#34;&gt;29724868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The angiokinase inhibitor nintedanib has shown promising activity in the LUME-Meso phase II MPM trial and thus is currently being evaluated in the confirmatory LUME-Meso phase III trial. […] However, the anti-MPM potential of nintedanib has not been studied in the preclinical setting.&lt;b&gt;Experimental Design:&lt;/b&gt; We have examined the antineoplastic activity of nintedanib in various &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; models of human MPM.&lt;b&gt;Results:&lt;/b&gt; Nintedanib’s target receptors were (co)expressed in all the 20 investigated human MPM cell lines. […] Nintedanib inhibited MPM cell growth in both short- and long-term viability assays. […] Reduced MPM cell proliferation and migration and the inhibition of Erk1/2 phosphorylation were also observed upon nintedanib treatment &lt;i&gt;in vitro&lt;/i&gt; Additive effects on cell viability were detected when nintedanib was combined with cisplatin, a drug routinely used for systemic MPM therapy. […] In an orthotopic mouse model of human MPM, survival of animals receiving nintedanib &lt;i&gt;per os&lt;/i&gt; showed a favorable trend, but no significant benefit. […] Nintedanib significantly reduced tumor burden and vascularization and prolonged the survival of mice when it was administered intraperitoneally. […] Importantly, unlike bevacizumab, nintedanib demonstrated significant &lt;i&gt;in vivo&lt;/i&gt; antivascular and antitumor potential independently of baseline VEGF-A levels.&lt;b&gt;Conclusions:&lt;/b&gt; Nintedanib exerts significant antitumor activity in MPM both &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; These data provide preclinical support for the concept of LUME-Meso trials evaluating nintedanib in patients with unresectable MPM. &lt;i&gt;Clin Cancer Res; 24(15); 3729-40. &lt;/i&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30129116&#34; target=&#34;_blank&#34;&gt;30129116&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anti-angiogenesis agents such as bevacizumab and nintedanib appear promising as adjuncts to first-line chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30349716&#34; target=&#34;_blank&#34;&gt;30349716&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This case details how a patient treated with nintedanib during the LUME-Meso study was rechallenged with nintedanib. […] The findings highlight the benefit of nintedanib rechallenge and the potential use of continuous anti-angiogenic therapy in MPM treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450291&#34; target=&#34;_blank&#34;&gt;30450291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In contrast, nintedanib, an angiokinase inhibitor, improved progression-free survival and bevacizumab, a humanized anti-VEGF antibody increased overall survival in patients with MPM, when administered in combination with cisplatin and pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450296&#34; target=&#34;_blank&#34;&gt;30450296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the anti-angiogenesis agents, only bevacizumab and nintedanib have shown activity with platinum-pemetrexed doublet therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31103412&#34; target=&#34;_blank&#34;&gt;31103412&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nintedanib targets VEGF receptors 1-3, PDGF receptors α and β, FGF receptors 1-3, and Src and Abl kinases, which are all implicated in malignant pleural mesothelioma pathogenesis. […] Here, we report the final results of the phase 3 part of the LUME-Meso trial, which aimed to investigate the efficacy and safety of pemetrexed plus cisplatin combined with nintedanib or placebo in unresectable malignant pleural mesothelioma. […] Chemotherapy-naive adults (aged ≥18 years) with unresectable epithelioid malignant pleural mesothelioma and ECOG performance status 0-1 were randomly assigned 1:1 via an independently verified random number-generating system to receive up to six 21-day cycles of pemetrexed (500 mg/m&lt;sup&gt;2&lt;/sup&gt;) plus cisplatin (75 mg/m&lt;sup&gt;2&lt;/sup&gt;) on day 1, then nintedanib (200 mg twice daily) or matched placebo on days 2-21. […] Patients without disease progression after six cycles received nintedanib or placebo maintenance on days 1-21 of each cycle. […] Between April 14, 2016, and Jan 5, 2018, 541 patients were screened and 458 were randomly assigned to either the nintedanib group (n=229) or the placebo group (n=229). […] Median treatment duration was 5·3 months (IQR 2·8-7·3) in the nintedanib group and 5·1 months (2·7-7·8) in the placebo group. […] After 250 events, progression-free survival was not different between the nintedanib group (median 6·8 months [95% CI 6·1-7·0]) and the placebo group (7·0 months [6·7-7·2]; HR 1·01 [95% CI 0·79-1·30], p=0·91). […] The most frequently reported grade 3 or worse adverse event in both treatment groups was neutropenia (73 [32%] in the nintedanib group vs 54 [24%] in the placebo group). […] Serious adverse events were reported in 99 (44%) patients in the nintedanib group and 89 (39%) patients in the placebo group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31280996&#34; target=&#34;_blank&#34;&gt;31280996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review examines the scientific rationale for targeting angiogenesis in the treatment of unresectable MPM and analyzes recent clinical results with antiangiogenic agents in development (bevacizumab, nintedanib, and cediranib) for the management of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

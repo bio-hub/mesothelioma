@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/1029/</link>
+      <atom:link href="/mesothelioma/genepanel/1029/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/1029/</link>
+    </image>
+    
+    <item>
+      <title>CDKN2A</title>
+      <link>/mesothelioma/genepanel/1029/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1029/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;cyclin dependent kinase inhibitor 2A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1029&#34; target=&#34;_blank&#34;&gt;1029&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1029&#34; target=&#34;_blank&#34;&gt; 9p21.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/606719&#39; target=&#39;_blank&#39;&gt;606719&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/600160&#39; target=&#39;_blank&#39;&gt;600160&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/155755&#39; target=&#39;_blank&#39;&gt;155755&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/155601&#39; target=&#39;_blank&#39;&gt;155601&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene generates several transcript variants which differ in their first exons. At least three alternatively spliced variants encoding distinct proteins have been reported, two of which encode structurally related isoforms known to function as inhibitors of CDK4 kinase. The remaining transcript includes an alternate first exon located 20 Kb upstream of the remainder of the gene; this transcript contains an alternate open reading frame (ARF) that specifies a protein which is structurally unrelated to the products of the other variants. This ARF product functions as a stabilizer of the tumor suppressor protein p53 as it can interact with, and sequester, the E3 ubiquitin-protein ligase MDM2, a protein responsible for the degradation of p53. In spite of the structural and functional differences, the CDK inhibitor isoforms and the ARF product encoded by this gene, through the regulatory roles of CDK4 and p53 in cell cycle G1 progression, share a common functionality in cell cycle G1 control. This gene is frequently mutated or deleted in a wide variety of tumors, and is known to be an important tumor suppressor gene. [provided by RefSeq, Sep 2012] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CDKN2A</title>
+      <link>/mesothelioma/genepanel/1029/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1029/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;cyclin dependent kinase inhibitor 2A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; CDKN2A expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+oral mucosa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000147889
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CDKN2A</title>
+      <link>/mesothelioma/genepanel/1029/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1029/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;cyclin dependent kinase inhibitor 2A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CDKN2A gene in 76 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/10395284&#34; target=&#34;_blank&#34;&gt;10395284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, TSGs within two of these regions, i.e., p16/CDKN2A-p14ARF at 9p21 and NF2 at 22q12, are frequently altered in MMs. […] Homozygous deletion appears to be the major mechanism affecting p16/CDKN2A-p14ARF, whereas inactivating mutations coupled with allelic loss occur at the NF2 locus. […] The frequent occurrence of homozygous deletions of p16/CDKN2A-p14ARF and the ability of SV40 Tag to bind TSG products suggest that perturbations of both Rb- and p53-dependent growth-regulatory pathways are critically involved in the pathogenesis of MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/11211478&#34; target=&#34;_blank&#34;&gt;11211478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Positional candidate gene approaches have identified TSGs within two of these regions, i.e., CDKN2A at 9p21 and NF2 at 22q12, which are frequently altered in MMs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/12589646&#34; target=&#34;_blank&#34;&gt;12589646&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Homozygous deletion of CDKN2A is frequent in mesothelioma (present in &amp;gt; 70% of tumors). […] Therefore, detection of CDKN2A deletion by fluorescence in situ hybridization (FISH) was evaluated as an ancillary test in the cytologic diagnosis of malignant mesothelioma. […] Dual-color FISH for CDKN2A and chromosome 9 centromere was performed on cytolyt-fixed Thinprep slides from 6 cytologically suspicious and 7 cytologically positive effusions (all with histologically confirmed mesothelioma) and in 19 cytologically benign effusions (14 pleural effusions, 3 pericardial effusions, and 2 abdominal fluid specimens). […] Specimens containing &amp;gt; or = 15 nuclei that lacked signals for CDKN2A but showed at least 1 signal for chromosome 9 centromere were considered positive. […] In samples with negative cytology, the nuclei of at least 100 mesothelial cells were evaluated; whereas, in specimens with positive or suspicious cytology, counting nuclei was done only if &amp;lt; 15% of nuclei showed homozygous loss of CDKN2A. […] All 19 cytologically negative specimens were negative for CDKN2A deletion. […] The detection of homozygous CDKN2A deletion by FISH would have been helpful in confirming a diagnosis of mesothelioma over reactive mesothelial cells in 12 of 13 samples with positive or suspicious cytology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15691231&#34; target=&#34;_blank&#34;&gt;15691231&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genetic alterations in the tumour suppressor genes, P16/CDKN2A and neurofibromatosis 2 (NF2), are found both in human MPM and in asbestos-exposed Nf2-deficient mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15950811&#34; target=&#34;_blank&#34;&gt;15950811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Homozygous deletion of P16/CDKN2A is found in approximately 75% of mesotheliomas amd may be the most common genetic alteration in this cancer. […] In terms of prognosis, P16/CDKN2A loss is associated with more aggressive clinical behavior in mesotheliomas. […] The homozygous co-deletion of MTAP, encoding the enzyme methylthioadenosine phosphorylase, in approximately 90% of mesotheliomas with P16/CDKN2A loss has potential therapeutic applications because MTAP-deficient tumors may be responsive to inhibitors of de novo AMP synthesis. […] Finally, global gene expression profiling using Affymetrix U133A chips finds few gene expression correlates of P16/CDKN2A deletion in pleural mesothelioma, consistent with its non-transcriptional mode of direct action through regulation of cell cycle-related kinase signaling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16920675&#34; target=&#34;_blank&#34;&gt;16920675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human malignant mesotheliomas frequently show hypermethylation or deletions at the Cdkn2a/Arf and Cdkn2b gene loci and deletions or mutations at the NF2 gene locus. […] Similar to human malignant mesotheliomas, tumors from Nf2 (+/-) mice showed frequent homozygous deletions of the Cdkn2a/Arf locus and adjacent Cdkn2b tumor suppressor gene.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18160781&#34; target=&#34;_blank&#34;&gt;18160781&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene copy number losses predominated over gains, and the most frequent region of loss was 9p21.3 (17/26 cases), the locus of CDKN2A and CDKN2B, both known to be commonly lost in MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18310086&#34; target=&#34;_blank&#34;&gt;18310086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Promoter hypermethylation of APC, CCND2, CDKN2A, CDKN2B, HPPBP1 and RASSF1 were assessed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18958493&#34; target=&#34;_blank&#34;&gt;18958493&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Homozygous deletion of p16/CDKN2A is the most common genetic abnormality in malignant mesotheliomas. […] The aim of this study was to determine prognostic significance of p16/CDKN2A loss in malignant pleural mesotheliomas (MPM) as defined by immunohistochemistry and fluorescence in situ hybridization (FISH). […] Female gender, positive p16 immunoexpression, and lack of p16/CDKN2A deletion significantly predicted the survival for the LS group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18973227&#34; target=&#34;_blank&#34;&gt;18973227&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Deletions in 9p21.3 encompassing CDKN2A/ARF and CDKN2B were characterized as specific for the short-term recurrence group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19536878&#34; target=&#34;_blank&#34;&gt;19536878&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In 27 cases, FISH for deletions of 9p21 (CDKN2A gene) and 22q was also performed because the karyotype was normal or unsuccessful.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20591913&#34; target=&#34;_blank&#34;&gt;20591913&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To develop a fluorescence in-situ hybridisation (FISH) assay for detecting p16/CDKN2A deletion on paraffin tissue sections for use as an ancillary test to distinguish reactive from malignant mesothelial proliferations. […] Dual-colour FISH for p16/CDKN2A and chromosome 9 (CEP-9) was performed on 11 benign mesothelial proliferations and 54 malignant pleural mesothelioma (MPM) cases to establish cut-off values for p16/CDKN2A deletion. […] Cut-off values for p16/CDKN2A deletion were calculated based on FISH signalling patterns obtained from the benign controls (mean percent nuclei plus three standard deviations). […] Hemizygous deletion was defined as &amp;gt;44% of nuclei showing the hemizygous (one p16/CDKN2A, two CEP-9 signals) or &amp;gt;15% of nuclei showing the monosomy (one p16/CDKN2A, one CEP-9 signal) deletion patterns. […] None of the benign cases showed a homozygous deletion pattern (no p16/CDKN2A, at least one CEP-9 signal). […] P16/CDKN2A deletion was detected in 61% (33/54) of MPM cases. […] Among the equivocal biopsies, four showed homozygous and one showed hemizygous p16/CDKN2A deletion. […] Age over 60 years, asbestos exposure and p16/CDKN2A deletion were associated with a worse prognosis. […] FISH for p16/CDKN2A deletion is a useful test for confirming the diagnosis of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21281820&#34; target=&#34;_blank&#34;&gt;21281820&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alteration of the 9p21 human region, often by biallelic deletion, was the most frequent alteration in both species, in agreement with the CDKN2A/CDKN2B locus deletion in human disease and murine models.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21642991&#34; target=&#34;_blank&#34;&gt;21642991&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesotheliomas (MPMs) often show CDKN2A and NF2 inactivation, but other highly recurrent mutations have not been described.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23313295&#34; target=&#34;_blank&#34;&gt;23313295&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This paper presents a data mining and bioinformatics approach towards the evaluation of the gene expression profile of AQP1 in malignant pleural mesothelioma and of AQP1 associated markers in the context of mesothelioma disease phenotype, CDKN2A gene deletion, sex and asbestos exposure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23450849&#34; target=&#34;_blank&#34;&gt;23450849&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Homozygous deletion of the 9p21 locus, the site of the cyclin-dependent kinase inhibitor 2A/p16 (CDKN2A/p16) gene, frequently occurs in MPM but has never been reported in RMCs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23677068&#34; target=&#34;_blank&#34;&gt;23677068&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The cyclin-dependent kinase inhibitor 2A/alternative reading frame (CDKN2A/ARF), neurofibromatosis type 2 (NF2) and BRCA1-associated protein-1 (BAP1) genes are the most frequently mutated tumor suppressor genes detected in MM cells; the alterations of the latter two are relatively characteristic of MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23814259&#34; target=&#34;_blank&#34;&gt;23814259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At present, no tissue or serum marker (including the molecular detection of p16/CDKN2A) has been proved to have sufficient specificity, consistency and reproducibility that it can replace evidence of invasion as the decisive marker for diagnosis when there is any uncertainty concerning a diagnosis of epithelioid mesothelioma and in the case of atypical fibrous lesions of the pleura (especially collagen-rich lesions, namely fibrous pleuritis vs desmoplastic mesothelioma), in which even the assessment of invasion can be problematical as illustrated in part 2 of this review.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23975423&#34; target=&#34;_blank&#34;&gt;23975423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TERT promoter mutations were more frequent in MPM with sarcomatoid histologic subtype (P&amp;lt;0.01), and they were frequently associated with CDKN2A gene inactivation (P=0.03).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24371224&#34; target=&#34;_blank&#34;&gt;24371224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant mesothelioma is a highly aggressive, asbestos-related cancer frequently marked by mutations of both NF2 and CDKN2A. […] Ascites from some Nf2(+/-);Cdkn2a(+/-) mice exhibited large tumor spheroids, and tail vein injections of malignant mesothelioma cells established from these mice, but not from Nf2(+/-) or wild-type mice, produced numerous tumors in the lung, suggesting increased metastatic potential of tumor cells from Nf2(+/-);Cdkn2a(+/-) mice. […] Intraperitoneal injections of malignant mesothelioma cells derived from Nf2(+/-);Cdkn2a(+/-) mice into severe combined immunodeficient mice produced tumors that penetrated the diaphragm and pleural cavity and harbored increased cancer stem cells (CSC). […] Malignant mesothelioma cells from Nf2(+/-);Cdkn2a(+/-) mice stained positively for CSC markers and formed CSC spheroids in vitro more efficiently than counterparts from wild-type mice. […] Moreover, tumor cells from Nf2(+/-);Cdkn2a(+/-) mice showed elevated c-Met expression/activation, which was partly dependent on p53-mediated regulation of miR-34a and required for tumor migration/invasiveness and maintenance of the CSC population. […] Collectively, these studies demonstrate in vivo that inactivation of Nf2 and Cdkn2a cooperate to drive the development of highly aggressive malignant mesotheliomas characterized by enhanced tumor spreading capability and the presence of a CSC population associated with p53/miR-34a-dependent activation of c-Met. […] These findings suggest that cooperativity between losses of Nf2 and Cdkn2a plays a fundamental role in driving the highly aggressive tumorigenic phenotype considered to be a hallmark of malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24443521&#34; target=&#34;_blank&#34;&gt;24443521&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene mutations were determined in BAP1, CDKN2A, CDKN2B, NF2, and TP53.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25488749&#34; target=&#34;_blank&#34;&gt;25488749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Integrative analysis of mutations and somatic copy-number alterations revealed frequent genetic alterations in BAP1, NF2, CDKN2A, and CUL1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25889843&#34; target=&#34;_blank&#34;&gt;25889843&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previously, pleural MMs have been genetically characterized by the loss of BAP1 (40-60%) as well as loss of NF2 (75%) and CDKN2A (60%). […] Chromosome band 3p21 encoding BAP1 is the most recurrently deleted region (5/9), while, in contrast to pleural MM, NF2 and CDKN2A are not affected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25952750&#34; target=&#34;_blank&#34;&gt;25952750&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mutations of BAP1 and CDKN2A were each detected in four tumors. […] Both early passage cell cultures and mouse xenograft tumors harbored BAP1 mutations and CDKN2A deletions identical to those found in the corresponding primary patient tumors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25972325&#34; target=&#34;_blank&#34;&gt;25972325&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Detection of the homozygous deletion of p16/CDKN2A (p16) by fluorescence in situ hybridization (FISH) is an effective adjunct in the diagnosis of malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26291840&#34; target=&#34;_blank&#34;&gt;26291840&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Homozygous deletion (HD) of p16 (CDKN2A), detected by FISH, is a good marker of malignancy and is useful to differentiate between these cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26364129&#34; target=&#34;_blank&#34;&gt;26364129&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sequence analysis of other potentially relevant genes, including TP53, CDKN2A, and BARD1, also revealed no mutation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26463840&#34; target=&#34;_blank&#34;&gt;26463840&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Driver gene mutations in BRAF, EGFR, ERBB2, HRAS, KRAS, MET, NRAS, PIK3CA, STK11, and ephrin receptor genes (EPHA1-8, 10 and EPHB1-4, 6) were studied for both LAC and MM, and in BAP1, CUL1, CDKN2A, and NF2 for MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26493618&#34; target=&#34;_blank&#34;&gt;26493618&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The molecular pathogenesis of peritoneal mesothelioma remains relatively unknown, but extrapolation of findings from their pleural counterpart would suggest frequent alterations in CDKN2A, NF2, and BAP1. […] Homozygous deletions in CDKN2A portend a worse overall survival in peritoneal mesothelioma. […] Dual-color fluorescence in situ hybridization using CDKN2A and NF2 locus-specific probes and BAP1 immunohistochemistry identified homozygous CDKN2A deletions (n=25, 29%), hemizygous NF2 loss (n=30, 35%), and/or loss of BAP1 protein expression (n=49, 57%) in 68 of 86 (79%) peritoneal mesotheliomas. […] Homozygous CDKN2A deletions or hemizygous NF2 loss correlated with shorter progression-free survival (P&amp;lt;0.02) and poor overall survival (P&amp;lt;0.03). […] Patients harboring both homozygous CDKN2A deletions and hemizygous NF2 loss had a 2-year progression-free survival rate of 9% with a median of 6 months (P&amp;lt;0.01) and overall survival rate of 18% with a median of 8 months (P&amp;lt;0.01). […] By multivariate analysis, combined homozygous CDKN2A deletions and hemizygous NF2 loss was a negative prognostic factor for both progression-free survival and overall survival, independent of patient age, peritoneal cancer index, completeness of cytoreduction, and extent of invasion. […] In summary, homozygous deletions in CDKN2A and hemizygous loss of NF2 as detected by fluorescence in situ hybridization would confer a poor clinical outcome and may guide future treatment decisions for patients with peritoneal mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26554828&#34; target=&#34;_blank&#34;&gt;26554828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chromosome 22q loss was more frequently associated with the epithelioid than that nonepitheliod histology (P = 0.037), whereas CDKN2A deletions occurred more frequently in nonepithelioid subtypes among men (P = 0.021) and were correlated with shorter overall survival for the entire cohort (P = 0.002) and for men (P = 0.012).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26853494&#34; target=&#34;_blank&#34;&gt;26853494&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Losses in 3p (BAP1 gene), 9p (CDKN2A) and 22q (NF2) were seen in tumors from both tumor sites, although CDKN2A and NF2 losses were seen at a higher rate in pleural disease (p&amp;lt;0.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26900815&#34; target=&#34;_blank&#34;&gt;26900815&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Deletion of p16 (CDKN2A) by fluorescence in situ hybridization (FISH) testing appears to be a reliable marker of malignancy in mesothelial proliferations, and more recently it has been reported that, in this setting, loss of BAP1 by immunohistochemistry is only seen in malignant mesotheliomas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26918730&#34; target=&#34;_blank&#34;&gt;26918730&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MDM2 and P14/ARF (CDKN2A) are upstream regulators of TP53 and may contribute to its inactivation. […] Significantly deregulated miRNAs were identified before a KEGG-pathway analysis was performed. 17 miRNAs regulating TP53, 18 miRNAs regulating MDM2, and 11 miRNAs directly regulating CDKN2A are significantly downregulated in MDM2-expressing mesotheliomas. […] TP53 is downregulated in MDM2-negative tumours through miRNAs with a miSVR prediction score of 11.67, RB1 with a prediction score of 8.02, MDM2 with a prediction score of 4.50 and CDKN2A with a prediction score of 1.27.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27121152&#34; target=&#34;_blank&#34;&gt;27121152&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Loss of BAP1 by immunohistochemistry (IHC) and CDKN2A(p16) deletion by fluorescence in situ hybridization (FISH) have been proposed to distinguish malignant mesothelioma (MM) from atypical reactive mesothelial proliferations (ARMP) in effusions but it is uncertain whether both tests are needed routinely. […] Paraffin embedded blocks from 67 effusions (32 MM, 35 ARMP) were evaluated with BAP1 IHC. 38 of them (17 MM, 21 ARMP) were also analyzed with CDKN2A (p16) FISH. […] Criteria for MM were absence of BAP1 nuclear staining in &amp;gt;50% of atypical mesothelial cells in the presence of a positive internal control, and/or CDKN2A(p16) homozygous or hemizygous deletion pattern in &amp;gt;15% or &amp;gt;41.5% of atypical mesothelial cells, respectively. […] BAP1 IHC and CDKN2A(p16) FISH yield similar sensitivities for MM in paired samples but FISH has a higher specificity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27282309&#34; target=&#34;_blank&#34;&gt;27282309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first studies reporting on the genomic background of MPM identified recurrent somatic mutations in a number of tumor suppressor genes (i.e., cyclin-dependent kinase inhibitor 2A gene [CDKN2A], neurofibromin 2 (merlin) gene [NF2], and BRCA1 associated protein 1 gene [BAP1]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27507853&#34; target=&#34;_blank&#34;&gt;27507853&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common aberrations were in BAP1 (BRCA1-associated protein 1; 47.6% [20/42]), NF2 (38.1% [16/42]), and CDKN2A/B (loss) (35.7% [15/42]). […] BAP1 alterations and CDKN2A/B loss were associated with pleural mesothelioma (OR 3.4, P = 0.059 [BAP1] [trend]; OR 5.8, P = 0.01 [CDKN2A/B]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27565933&#34; target=&#34;_blank&#34;&gt;27565933&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Homozygous deletion (homo-d) of the p16 (CDKN2A) gene, as determined by fluorescence in situ hybridization (FISH), helps differentiate malignant pleural mesothelioma (MPM) from reactive mesothelial hyperplasia (RMH).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27698933&#34; target=&#34;_blank&#34;&gt;27698933&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All statistical analyses were calculated with the R i386 statistical programming environment. &lt;i&gt;CDC25A&lt;/i&gt; and &lt;i&gt;PARP1&lt;/i&gt; gene expression were correlated with lymph node spread, &lt;i&gt;BRCA1&lt;/i&gt; and &lt;i&gt;TP73&lt;/i&gt; expression levels with higher IMIG stage. &lt;i&gt;NTHL1&lt;/i&gt; and &lt;i&gt;XRCC3&lt;/i&gt; expression was associated with TNM stage. &lt;i&gt;CHECK1&lt;/i&gt; as well as &lt;i&gt;XRCC2&lt;/i&gt; expression levels were correlated with tumour progression in the overall cohort of patients. &lt;i&gt;CDKN2A&lt;/i&gt; and &lt;i&gt;MLH1&lt;/i&gt; gene expression influenced overall survival in this collective. […] In the adjuvant treated cohort only, &lt;i&gt;CDKN2A&lt;/i&gt;, &lt;i&gt;CHEK1&lt;/i&gt; as well as &lt;i&gt;ERCC1&lt;/i&gt; were significantly associated with overall survival. […] In particular, &lt;i&gt;CHEK1&lt;/i&gt;, &lt;i&gt;XRCC2&lt;/i&gt; and &lt;i&gt;TP73&lt;/i&gt; are strongly associated with tumour progression. &lt;i&gt;ERCC1, MLH1&lt;/i&gt;, &lt;i&gt;CDKN2A&lt;/i&gt; and most promising &lt;i&gt;CHEK1&lt;/i&gt; are prognostic markers for OS in MPM. &lt;i&gt;TP73&lt;/i&gt;, &lt;i&gt;CDKN2A&lt;/i&gt;, &lt;i&gt;CHEK1&lt;/i&gt; and &lt;i&gt;ERCC1&lt;/i&gt; seem to be also predictive markers in adjuvant treated MPMs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27771374&#34; target=&#34;_blank&#34;&gt;27771374&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BRCA-associated protein 1 (BAP1) immunohistochemistry (IHC) and CDKN2A (p16) fluorescence in situ hybridization (FISH) have shown clinical utility in confirming the diagnosis of malignant pleural mesothelioma (MPM), but the role for using these 2 markers to guide clinical management is not yet clear. […] We performed CDKN2A FISH on a previously published tissue microarray on which we had performed BAP1 IHC, revealing combined BAP1/p16 status for 93 MPM cases. […] As expected, BAP1 IHC in combination with CDKN2A FISH resulted in high sensitivity (84%) and specificity (100%) for MPM, and p16 loss was an independent predictor of poor survival (hazard ratio, 2.2553; P = .0135). […] Although multivariate analysis demonstrated that BAP1 IHC is not an independent predictor of prognosis, when viewed in combination with homozygous CDKN2A deletion, risk stratification was evident. […] More specifically, patients with CDKN2A disomy and loss of BAP1 expression had improved outcomes compared with those with CDKN2A disomy and retained BAP1 expression (hazard ratio, 0.2286; P = .0017), and this finding was notably evident among epithelioid cases. […] We conclude that BAP1 IHC provides prognostic information within the context of CDKN2A FISH that may have clinical utility beyond diagnosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28038708&#34; target=&#34;_blank&#34;&gt;28038708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to analyze p16/CDKN2A deletions in mesotheliomas by fluorescence in situ hybridization (FISH) and BAP1 immunohistochemistry to evaluate their potential role in the diagnosis of biphasic mesothelioma. […] The proportion of biphasic mesotheliomas with homozygous deletions of p16/CDKN2A in total was 96.6% (28/29). […] Homozygous deletion of p16/CDKN2A was observed in 18 (94.7%) of 19 biphasic mesotheliomas with 100% concordance of the p16/CDKN2A deletion status between the epithelioid and sarcomatoid components in each case. […] Homozygous deletion of the p16/CDKN2A was observed in 7 (77.8%) of 9 epithelioid mesotheliomas but not in fibrous stroma. […] Homozygous deletion of p16/CDKN2A is common in biphasic mesotheliomas, and the analysis of only one component of mesothelioma is sufficient to show that the tumor is malignant. […] However, compared with histology alone, FISH analysis of the p16/CDKN2A status and BAP1 immunohistochemistry in the spindled mesothelium provide a more objective means to differentiate between biphasic mesothelioma and epithelioid mesothelioma with atypical stromal cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28377727&#34; target=&#34;_blank&#34;&gt;28377727&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subsequently, we evaluated the effect of tumor histology, asbestos exposure, &lt;i&gt;CDKN2A&lt;/i&gt; deletion status, and gender on the gene expression level of the claudin interactome. […] Moreover, &lt;i&gt;CLDN-15&lt;/i&gt; is significantly under-expressed in the cohort of patients with previous history of asbestos exposure. &lt;i&gt;CLDN-15&lt;/i&gt; was also found significantly underexpressed in patients lacking the &lt;i&gt;CDKN2A&lt;/i&gt; gene.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28577549&#34; target=&#34;_blank&#34;&gt;28577549&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Consistent with human MM tumours, we identified homozygous loss of the tumour suppressor Cdkn2a in 14/15 tumours.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28704762&#34; target=&#34;_blank&#34;&gt;28704762&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most frequently inactivated tumor suppressor gene in MPM is CDKN2A/ARF, encoding for the cell cycle inhibitors p16&lt;sup&gt;INK4a&lt;/sup&gt; and p14&lt;sup&gt;ARF&lt;/sup&gt;, deleted in about 70% of MPM cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28884745&#34; target=&#34;_blank&#34;&gt;28884745&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined demographic and clinical characteristics, histologic type, growth patterns, mitotic index, and nuclear grade on hematoxylin and eosin-stained slides, BAP1 protein expression by immunohistochemistry, and CDKN2A and NF2 deletions by fluorescence in situ hybridization. […] CDKN2A deletion was less prevalent in young patients (P=0.01), loss of BAP1 protein expression less frequent in young patients (P=0.06), and NF2 deletion rates similar between groups (P&amp;gt;0.05 each). […] Young patients with pleural mesothelioma have an equal sex distribution and are more likely to have a history of mantle radiation, family history of breast cancer, and lower rates of CDKN2A deletion than older patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29076876&#34; target=&#34;_blank&#34;&gt;29076876&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, loss of BRCA1-associated protein 1 (BAP1) expression and/or homozygous deletion of CDKN2A were identified in some MM, but not in reactive mesothelial proliferations. […] We studied 34 cases of atypical mesothelial proliferation from our institutional files (1993 to 2016) for BAP1 expression, deletion of CDKN2A, and clinical outcome. […] CDKN2A studies by fluorescence in situ hybridization (performed in 31 cases) found no homozygous deletion of that gene in any case. […] Homozygous deletion of CDKN2A in mesothelial cell proliferations did not prove to be useful to predict MM in cases of atypical mesothelial proliferation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29112861&#34; target=&#34;_blank&#34;&gt;29112861&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although disruption of the CDKN2A (INK4A/ARF) locus has been reported in end-stage disease, information is lacking on the status of this key tumor suppressor gene in pleural lesions preceding mesothelioma. […] We show that hypermethylation of p16/Ink4a and p19/Arf in CNT- and asbestos-induced inflammatory lesions precedes mesothelioma; this results in silencing of Cdkn2a (Ink4a/Arf) and loss of p16 and p19 protein, consistent with epigenetic alterations playing a gatekeeper role in cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29342862&#34; target=&#34;_blank&#34;&gt;29342862&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The MPM genomic landscape is dominated by inactivating mutations in several tumor suppressor genes; such as &lt;i&gt;CDKN2A&lt;/i&gt;; &lt;i&gt;BAP1&lt;/i&gt; and &lt;i&gt;NF2&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29350783&#34; target=&#34;_blank&#34;&gt;29350783&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, these cells had lost BRCA1-associated protein 1 (BAP1) and showed loss of cyclin-dependent kinase inhibitor 2 (CDKN2A) (p16) by fluorescence in-situ hybridisation (FISH). […] There was CDKN2A deletion, but no deletion of NF2 by FISH.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29371938&#34; target=&#34;_blank&#34;&gt;29371938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Besides the well-known MPM-associated genes, &lt;i&gt;CDKN2A, NF2&lt;/i&gt; and &lt;i&gt;BAP1&lt;/i&gt;, other interesting cancer-associated genes were listed as frequently involved in a copy number loss (e.g. &lt;i&gt;EP300, SETD2&lt;/i&gt; and &lt;i&gt;PBRM1&lt;/i&gt;). […] A statistically significant association between overall survival and the presence of copy number loss in the &lt;i&gt;CDKN2A&lt;/i&gt;-containing region was observed in the TCGA-set.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29565815&#34; target=&#34;_blank&#34;&gt;29565815&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several key genetic alterations are associated with the development and progression of MM including mutations of the &lt;i&gt;CDKN2A/ARF&lt;/i&gt;, &lt;i&gt;NF2&lt;/i&gt;, and &lt;i&gt;BAP1&lt;/i&gt; tumor-suppressor genes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29656754&#34; target=&#34;_blank&#34;&gt;29656754&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identified BAP1, CDKN2A and NF2 alterations in the cells from MM pleural effusions at a higher frequency than what is typically seen in MM tumours from surgical series.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29904909&#34; target=&#34;_blank&#34;&gt;29904909&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most frequently altered genes in human MM are cyclin-dependent kinase inhibitor 2A (CDKN2A), which encodes components of the p53 (p14ARF) and RB (p16INK4A) pathways, BRCA1-associated protein 1 (BAP1), and neurofibromatosis 2 (NF2). […] Additionally, the mining of an online dataset (The Cancer Genome Atlas) revealed codeletions of PTEN and TP53 and/or CDKN2A/p14ARF in ~25% of human MMs, indicating that cooperative losses of these genes contribute to the development of a significant proportion of these aggressive neoplasms and suggesting key target pathways for therapeutic intervention.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30113886&#34; target=&#34;_blank&#34;&gt;30113886&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The odds of carrying a mutation in BAP1 (OR, 1,658; 95% CI, 199 to 76,224; P &amp;lt; .001), BRCA2 (OR, 5; 95% CI, 1.0 to 14.7; P = .03), CDKN2A (OR, 53; 95% CI, 6 to 249; P &amp;lt; .001), TMEM127 (OR, 88; 95% CI, 1.7 to 1,105; P = .01), VHL (OR, 51; 95% CI, 1.1 to 453; P = .02), and WT1 (OR, 20; 95% CI, 0.5 to 135; P = .049) were significantly higher in MM cases than in a noncancer control population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30268487&#34; target=&#34;_blank&#34;&gt;30268487&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A new immunohistochemical marker, methylthioadenosine phosphorylase, was shown to correlate well with CDKN2A FISH and is cheaper and faster to run.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30301262&#34; target=&#34;_blank&#34;&gt;30301262&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Changes in &lt;i&gt;CDKN2A&lt;/i&gt; and &lt;i&gt;BAP1&lt;/i&gt; genomic expression were confirmed in MPM samples in the current study using Fluorescence In situ Hybridization (FISH) analysis or copy number variation (CNV) analysis with digital droplet PCR (ddPCR). […] Genomic deletions of &lt;i&gt;BAP1&lt;/i&gt; and &lt;i&gt;CDKN2A&lt;/i&gt;, however, showed consistent levels between the two.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30315275&#34; target=&#34;_blank&#34;&gt;30315275&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sequential use of BAP1 immunohistochemistry and CDKN2A fluorescence in situ hybridization is specific for diagnosis of mesothelioma, but fluorescence in situ hybridization is both costly and time-consuming. […] In challenging mesothelial lesions, immunohistochemical studies showing either extensive 5-hmC loss or BAP1 loss indicate a diagnosis of mesothelioma, precluding the need for CDKN2A fluorescence in situ hybridization in a considerable number of cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30338612&#34; target=&#34;_blank&#34;&gt;30338612&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other genes that may predispose to mesothelioma are CDKN2A and DNA repair genes. […] We aimed to search for germline variants in BAP1 among 25 new Italian probands with suspected BAP1-TPDS, summarize the prevalence of these variants in 39 Italian patients with familial MPM and other tumors recruited over a 5-year period, and compare cumulative asbestos exposure in 14 patients with MPM and pathogenic germline variants in BAP1, CDKN2A, or DNA repair genes with that of 67 patients without germline variants in 94 cancer-predisposing genes. […] Patients with pathogenic germline variants in BAP1, CDKN2A, or DNA repair genes showed lower cumulative asbestos exposure than patients without germline variants in 94 cancer-predisposing genes (P = .00002).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30402386&#34; target=&#34;_blank&#34;&gt;30402386&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to concern for MPM, ancillary testing was obtained - loss of BRCA1 associated protein (BAP-1) and &lt;i&gt;CDKN2A/p16&lt;/i&gt; gene deletion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31138176&#34; target=&#34;_blank&#34;&gt;31138176&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Deletion of the CDKN2A locus is centrally involved in the development of several malignancies. […] However, the status of CDKN2A and the expression of the corresponding protein, p16, in relation to MPM patient’s asbestos exposure is poorly known. […] We studied DNA copy numbers for CDKN2A using fluorescence in situ hybridization (FISH) and p16 expression by immunohistochemistry (IHC) in 92 MPM patients, 75 of which with known asbestos exposure status. […] We found that an abnormal copy number of CDKN2A in MPM tumor cells associated with a high pulmonary asbestos fiber count (p = 0.044, Fisher’s Exact test, two-tailed). […] We found two instances where the gene locus CDKN2A or its corresponding protein expression, is associated with high asbestos exposure levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31151962&#34; target=&#34;_blank&#34;&gt;31151962&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mutations/deletions of &lt;i&gt;BAP1, CDKN2A&lt;/i&gt;, and &lt;i&gt;NF2&lt;/i&gt; are the most frequent genetic lesions in human malignant mesothelioma. […] While homozygous CKO of &lt;i&gt;Bap1, Cdkn2a&lt;/i&gt;, or &lt;i&gt;Nf2&lt;/i&gt; alone gave rise to few or no malignant mesotheliomas, inactivation of &lt;i&gt;Bap1&lt;/i&gt; cooperated with loss of either &lt;i&gt;Nf2&lt;/i&gt; or &lt;i&gt;Cdkn2a&lt;/i&gt; to drive development of malignant mesothelioma in approximately 20% of double-CKO mice, and a high incidence (22/26, 85%) of malignant mesotheliomas was observed in &lt;i&gt;Bap1;Nf2;Cdkn2a&lt;/i&gt; (triple)-CKO mice. […] Adenoviral-Cre treatment of normal mesothelial cells from &lt;i&gt;Bap1;Nf2;Cdkn2a&lt;/i&gt; CKO mice, but not from mice with knockout of one or any two of these genes, resulted in robust spheroid formation &lt;i&gt;in vitro&lt;/i&gt;, suggesting that mesothelial cells from &lt;i&gt;Bap1;Nf2;Cdkn2a&lt;/i&gt; mice have stem cell-like potential. […] These data demonstrate that somatic inactivation of &lt;i&gt;Bap1, Nf2&lt;/i&gt;, and &lt;i&gt;Cdkn2a&lt;/i&gt; results in rapid, aggressive malignant mesotheliomas, and that deletion of &lt;i&gt;Bap1&lt;/i&gt; contributes to tumor development, in part, by loss of PRC2-mediated repression of tumorigenic target genes and by acquisition of stem cell potential, suggesting a potential avenue for therapeutic intervention. […] SIGNIFICANCE: Combinatorial deletions of &lt;i&gt;Bap1, Nf2&lt;/i&gt;, and &lt;i&gt;Cdkn2a&lt;/i&gt; result in aggressive mesotheliomas, with &lt;i&gt;Bap1&lt;/i&gt; loss contributing to tumorigenesis by circumventing PRC2-mediated repression of oncogenic target genes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31169558&#34; target=&#34;_blank&#34;&gt;31169558&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Identification of BRCA1-associated protein 1 (BAP1) and cyclin-dependent kinase inhibitor 2A (CDKN2A) gene mutations in MPM have led to the development of new ancillary tests that can streamline the diagnostic pathway. […] The use of BAP1 immunostaining and CDKN2A/p16 fluorescence in-situ hybridization are particularly useful in distinguishing benign from malignant mesothelial proliferations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31231127&#34; target=&#34;_blank&#34;&gt;31231127&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current diagnostic algorithm proceeds from BAP1 immunohistochemistry to CDKN2A fluorescence in situ hybridization. […] While MTAP immunohistochemistry has recently shown promise as a surrogate for CDKN2A fluorescence in situ hybridization, it has been examined in only a few single-institution studies. […] CDKN2A fluorescence in situ hybridization data were available for a subset of cases, and a subset of cases was subjected in MTAP immunohistochemistry in multiple laboratories to assess interlaboratory reproducibility. […] MTAP loss by immunohistochemistry was 78% sensitive and 96% specific for CDKN2A homozygous deletion. […] MTAP immunohistochemistry is a reliable surrogate for CDKN2A fluorescence in situ hybridization in diagnosis of malignant mesothelioma. […] Rare cases with immunohistochemical MTAP loss may retain normal CDKN2A copy number, and the MTAP staining results should be correlated with clinicopathologic findings and other ancillary studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31371807&#34; target=&#34;_blank&#34;&gt;31371807&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genomic characterization identified several subgroups: (1) BAP1 mutations with deletions of CDKN2A and NF2 in two tumors; (2) TRAF7 mutations in two tumors, including one harboring trisomies of chromosomes 3, 5, 7, and X; and (3) genomic near-haploidization, characterized by extensive loss of heterozygosity sparing chromosomes 5 and 7.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31375770&#34; target=&#34;_blank&#34;&gt;31375770&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CDKN2A was deleted by FISH in one of eight cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31495751&#34; target=&#34;_blank&#34;&gt;31495751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BAP1 and MTAP immunohistochemistry and CDKN2A fluorescence in situ hybridization are very useful adjunctive techniques for separating benign from malignant mesothelial proliferations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31667596&#34; target=&#34;_blank&#34;&gt;31667596&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, these mesothelial cells exhibited a loss of methylthioadenosine phosphorylase (MTAP) by immunohistochemistry and homozygous deletion of CDKN2A (p16) by FISH, leading to the diagnosis of MIS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31945495&#34; target=&#34;_blank&#34;&gt;31945495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These HDs occur together with the HDs of the tumor suppressor gene CDKN2A also located in the 9p21.3 chromosome region. […] Our study emphasizes the link between HDs of IFN-I encoding genes and the CDKN2A gene in MPM and sensitivity to MV oncolytic immunotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32036091&#34; target=&#34;_blank&#34;&gt;32036091&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, BRCA1-associated protein 1 (BAP1) and CDKN2A (p16), evaluated by immunohistochemistry and fluorescent in situ hybridization, respectively, are the most valuable markers to discriminate MPM and MH.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32165206&#34; target=&#34;_blank&#34;&gt;32165206&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We evaluated BAP1 expression and CDKN2A (p16) homozygous deletion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32206567&#34; target=&#34;_blank&#34;&gt;32206567&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BAP1 loss, &lt;i&gt;CDKN2A&lt;/i&gt; homozygous deletion, and MTAP loss are highly specific markers of malignancy in a mesothelial lesion, and they attain acceptable diagnostic sensitivity when applied as a diagnostic panel.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32448904&#34; target=&#34;_blank&#34;&gt;32448904&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pathology: standard staining procedures are insufficient in ∼10% of cases, justifying the use of specific markers, including BAP-1 and CDKN2A (p16) for the separation of atypical mesothelial proliferation from MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32451346&#34; target=&#34;_blank&#34;&gt;32451346&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pathology: standard staining procedures are insufficient in ∼10% of cases, justifying the use of specific markers, including &lt;i&gt;BAP-1&lt;/i&gt; and &lt;i&gt;CDKN2A&lt;/i&gt; (&lt;i&gt;p16&lt;/i&gt;) for the separation of atypical mesothelial proliferation from MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32526924&#34; target=&#34;_blank&#34;&gt;32526924&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We evaluated histotype, nuclear grade, mitotic count, necrosis, inflammation, desmoplastic reaction, Ki67 percentage, WT-1 expression, p16 protein by immunohistochemistry and CDKN2A deletion by FISH. […] Our results showed that epithelioid histotype, nuclear grade 2, mitotic count ≤5 x mm&lt;sup&gt;2&lt;/sup&gt;, absence of desmoplasia and p16/CDKN2A deletion, low Ki67 value, and high WT-1 expression were correlated with the most prolonged survival (&lt;i&gt;p&lt;/i&gt; = 0.0001). […] Moreover, p16 loss in immunohistochemistry reflected CDKN2A deletion detected with FISH, and both were correlated with the worst survival (&lt;i&gt;p&lt;/i&gt; = 0.0001). […] At multivariate analysis, Ki67 value, WT-1 expression and p16/CDKN2A deletion emerged as independent prognostic factors (&lt;i&gt;p&lt;/i&gt; = 0.01, &lt;i&gt;p&lt;/i&gt; = 0.0001 and &lt;i&gt;p&lt;/i&gt; = 0.01, respectively).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32581053&#34; target=&#34;_blank&#34;&gt;32581053&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Particularly, high expression of &lt;i&gt;IL34&lt;/i&gt; was observed in MPM cells with an alteration of &lt;i&gt;CDKN2A&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32678499&#34; target=&#34;_blank&#34;&gt;32678499&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this retrospective study was to determine whether testing for BAP1 and CDKN2A/p16 status in effusion specimens preceding the tissue diagnosis of mesothelioma would improve diagnostic accuracy and allow an earlier diagnosis of malignancy. […] Overall, loss of BAP1 and/or CDKN2A/p16 homozygous deletion would change the diagnostic interpretation in 37 of 60 (62%) (P = .07) effusion specimens, particularly in pleural effusions (32 of 48 samples) (P = .002).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32708306&#34; target=&#34;_blank&#34;&gt;32708306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the most frequent genetic alteration in MPM patients is &lt;i&gt;CDKN2A/ARF&lt;/i&gt; loss, leading to aberrant activation of the Rb pathway.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CDKN2A</title>
+      <link>/mesothelioma/genepanel/1029/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1029/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;cyclin dependent kinase inhibitor 2A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CDKN2A</title>
+      <link>/mesothelioma/genepanel/1029/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/1029/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;cyclin dependent kinase inhibitor 2A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

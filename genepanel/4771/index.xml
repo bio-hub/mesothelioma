@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/4771/</link>
+      <atom:link href="/mesothelioma/genepanel/4771/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/4771/</link>
+    </image>
+    
+    <item>
+      <title>NF2</title>
+      <link>/mesothelioma/genepanel/4771/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4771/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;neurofibromin 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/4771&#34; target=&#34;_blank&#34;&gt;4771&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=4771&#34; target=&#34;_blank&#34;&gt; 22q12.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/607379&#39; target=&#39;_blank&#39;&gt;607379&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/607174&#39; target=&#39;_blank&#39;&gt;607174&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/162091&#39; target=&#39;_blank&#39;&gt;162091&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/101000&#39; target=&#39;_blank&#39;&gt;101000&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a protein that is similar to some members of the ERM (ezrin, radixin, moesin) family of proteins that are thought to link cytoskeletal components with proteins in the cell membrane. This gene product has been shown to interact with cell-surface proteins, proteins involved in cytoskeletal dynamics and proteins involved in regulating ion transport. This gene is expressed at high levels during embryonic development; in adults, significant expression is found in Schwann cells, meningeal cells, lens and nerve. Mutations in this gene are associated with neurofibromatosis type II which is characterized by nervous system and skin tumors and ocular abnormalities. Two predominant isoforms and a number of minor isoforms are produced by alternatively spliced transcripts. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NF2</title>
+      <link>/mesothelioma/genepanel/4771/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4771/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;neurofibromin 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; NF2 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+nasopharynx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+oral mucosa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+vagina
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000186575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NF2</title>
+      <link>/mesothelioma/genepanel/4771/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4771/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;neurofibromin 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of NF2 gene in 62 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/10395284&#34; target=&#34;_blank&#34;&gt;10395284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, TSGs within two of these regions, i.e., p16/CDKN2A-p14ARF at 9p21 and NF2 at 22q12, are frequently altered in MMs. […] Homozygous deletion appears to be the major mechanism affecting p16/CDKN2A-p14ARF, whereas inactivating mutations coupled with allelic loss occur at the NF2 locus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/11211478&#34; target=&#34;_blank&#34;&gt;11211478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Positional candidate gene approaches have identified TSGs within two of these regions, i.e., CDKN2A at 9p21 and NF2 at 22q12, which are frequently altered in MMs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/11836664&#34; target=&#34;_blank&#34;&gt;11836664&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos appears to increase SV40-mediated transformation of human mesothelial cells in vitro, suggesting that asbestos and SV40 may be cocarcinogens. p53 mutations are rarely found in mesothelioma; p16, p14ARF, and NF2 mutations/losses are frequent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/12168054&#34; target=&#34;_blank&#34;&gt;12168054&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined allele loss at three known tumour suppressor gene regions (22q/NF2 gene, 9p/p16 gene, and 3p/FHIT gene) and at two other frequently deleted areas (14q and 6q) in MM. […] To study if LOH of the NF2 gene is a consistent feature in MM, we performed a more detailed analysis of chromosome 22q that included a NF2 marker (NF2CA3). […] In particular, 100% of the cultured MM cells exhibited LOH at the NF2 gene region. […] In conclusion, our present LOH data indicate that MM cells exhibit allele losses at multiple tumour suppressor gene sites concurrently, involving NF2 gene preferentially.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15691231&#34; target=&#34;_blank&#34;&gt;15691231&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genetic alterations in the tumour suppressor genes, P16/CDKN2A and neurofibromatosis 2 (NF2), are found both in human MPM and in asbestos-exposed Nf2-deficient mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16054941&#34; target=&#34;_blank&#34;&gt;16054941&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesothelioma has an unusual molecular pathology with loss of tumour suppressor genes being the predominant pattern of lesions, especially the P16INK4A, and P14ARF, and NF2 genes, rather than the more common p53 and Rb tumour suppressor genes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16341811&#34; target=&#34;_blank&#34;&gt;16341811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neurofibromatosis 2 (NF2) is caused by inactivating mutations of the NF2 tumor suppressor gene. […] Somatic NF2 mutations also occur in a high proportion of human primary malignant mesotheliomas. […] We report an elderly man with NF2, malignant mesothelioma, and a constitutional NF2 missense mutation. […] The long latent period for mesothelioma in this patient (61 years) raises the possibility that the type of mutant NF2 allele could affect mesothelioma tumorigenesis or progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16630136&#34; target=&#34;_blank&#34;&gt;16630136&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mutation and expression analyses demonstrated that the tumor suppressor gene NF2, which is known to be one of the most frequently mutated in MPM, is mutated in ACC-MESO-1. […] We also analyzed genetic alterations of six other MPM cell lines and confirmed frequent mutations of NF2 and p16INK4A/p14ARF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/16920675&#34; target=&#34;_blank&#34;&gt;16920675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human malignant mesotheliomas frequently show hypermethylation or deletions at the Cdkn2a/Arf and Cdkn2b gene loci and deletions or mutations at the NF2 gene locus. […] Heterozygous Nf2 (+/-) mice exposed to crocidolite asbestos fibers exhibited accelerated development of malignant mesotheliomas compared to wild-type littermates. […] Loss of the wild-type Nf2 allele, leading to biallelic inactivation, was observed in nine mesothelioma cell lines derived from Nf2 (+/-) mice. […] Similar to human malignant mesotheliomas, tumors from Nf2 (+/-) mice showed frequent homozygous deletions of the Cdkn2a/Arf locus and adjacent Cdkn2b tumor suppressor gene.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17272307&#34; target=&#34;_blank&#34;&gt;17272307&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a previous study, mesotheliomas were found in hemizygous Nf2 (Nf2(+/-)) mice exposed to asbestos fibres, and showed similar alterations in genes at the Ink4 locus and in Trp53 as described in HMM. […] Here we found that Nf2(+/-) mice developed mesotheliomas after intra-peritoneal inoculation of a RCF sample (RCF1). […] Early passages of 12 mesothelioma cell cultures from ascites developed in RCF1-exposed Nf2(+/-) mice demonstrated frequent inactivation by deletion of genes at the Ink4 locus, and low rate of Trp53 point and insertion mutations. […] Nf2 gene was inactivated in all cultures. […] In most cases, co-inactivation of genes at the Ink4 locus and Nf2 was found and, at a lower rate, of Trp53 and Nf2. […] They suggest that nf2 mutation is complementary of p15(Ink4b), p16(Ink4a) and p19(Arf) or p53 mutations and show similar profile of gene alterations resulting from exposure to ceramic or asbestos fibres in Nf2(+/-) mice, also consistent with the one found in HMM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17723954&#34; target=&#34;_blank&#34;&gt;17723954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+But, some studies suggest that family genetic factors are involved in the development of mesothelioma: (genetically transmitted mesotheliomas in Turkish families in Cappadoce, family clustering of cancers including mesotheliomas, inhibition of tumor suppressor genes (INK4A, p53, Nf2…), a small proportion of mesothelioma among asbestosis exposed workers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18235409&#34; target=&#34;_blank&#34;&gt;18235409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The molecular carcinogenesis of MPM is incompletely understood but alterations to genes NF2, c-met, WT1 RASSF and p16 have been described.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18328429&#34; target=&#34;_blank&#34;&gt;18328429&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant mesothelioma is a devastating disease that has been associated with loss of Neurofibromatosis type 2 (NF2) and genetic lesions affecting RB and P53 pathways. […] Mesothelioma developed at high incidence in Nf2;Ink4a/Arf and Nf2;p53 conditional knockout mice with median survival times of approximately 30 and 20 weeks, respectively. […] Conditional Nf2;Ink4a/Arf mice showed increased pleural invasion compared to conditional Nf2;p53 mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18725387&#34; target=&#34;_blank&#34;&gt;18725387&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed the involvement of YAP1 in MPM proliferation, as well as its functional and physical interaction with Merlin encoded by the neurofibromatosis type 2 (NF2) tumor suppressor gene, which is frequently mutated in MPMs. […] YAP1-RNA interference suppressed growth of a mesothelioma cell line NCI-H290 with NF2 homozygous deletion, probably through cell-cycle arrest and apoptosis induction, whereas YAP1 transfection promoted the growth of MeT-5A, an immortalized mesothelial cell line. […] We also found that the introduction of NF2 into NCI-H290 induced phosphorylation at serine 127 of YAP1, which was accompanied by reduction of nuclear localization of YAP1, whereas nuclear localization of a YAP1 S 127A mutant was not affected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21615608&#34; target=&#34;_blank&#34;&gt;21615608&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the most frequently mutated genes detected in MM cells is the neurofibromatosis type 2 (NF2) tumor suppressor gene which is located at chromosome 22q12. […] The NF2 gene encodes Merlin, an ERM (Ezrin/Radixin/Moesin) protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21642991&#34; target=&#34;_blank&#34;&gt;21642991&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesotheliomas (MPMs) often show CDKN2A and NF2 inactivation, but other highly recurrent mutations have not been described.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21774103&#34; target=&#34;_blank&#34;&gt;21774103&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To identify new therapeutic approaches in malignant mesothelioma (MM), we examined the expression and activation of receptor tyrosine kinases (RTKs) and the effects of specific RTK inhibitors and the mammalian target of rapamycin (mTOR) inhibitor rapamycin; the latter being of special interest in MM given the recent linkage between NF2 loss and mTOR activation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22372904&#34; target=&#34;_blank&#34;&gt;22372904&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular changes in MPM consist in altered expression and in activation or inactivation of critical genes in oncogenesis, especially tumor suppressor genes at the INK4 and NF2 loci.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22825583&#34; target=&#34;_blank&#34;&gt;22825583&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent work has focused on the frequent somatic inactivation of two tumor suppressor genes in MPM-NF2 (Neurofibromatosis type 2) and the recently identified BAP1 (BRCA associated protein 1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22918238&#34; target=&#34;_blank&#34;&gt;22918238&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our recent studies suggest that normal mesothelial and MM cell growth is promoted by TGFβ, and that TGFβ signaling together with intrinsic disturbances in neurofibromatosis type 2 (NF2) and Hippo signaling cascades in MM cells converges upon further expression of connective tissue growth factor (CTGF).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23036697&#34; target=&#34;_blank&#34;&gt;23036697&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A molecular analysis of single nucleotide polymorphisms (SNPs), which were located in the neurofibromatosis type 2 (NF2) gene, a tumor suppressor gene assigned to chromosome 22q12.3, revealed the loss of heterozygosity (LOH) of the NF2 gene. […] Furthermore, SNP analyses determined that LOH was observed in the IL17RA (22q11.1), CHECK2 (22q12.1), and SHANK3 (22q13.3) genes, thus suggesting that NF2 loss occurred through 22q deletions or monosomy 22. […] The LOH of the NF2 gene was observed in an early stage of WDPMP, thus indicating that LOH of the NF2 gene is an early molecular alteration, and NF2 loss is a molecular mechanism associated not only with malignant pleural mesothelioma, but also with WDPMP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23435014&#34; target=&#34;_blank&#34;&gt;23435014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TP53, KRAS, EGFR and NF2 gene alteration analyses were performed in 100 non-small cell lung cancer (NSCLC) patients, 50 asbestos-exposed and 50 unexposed patients, matched for age, gender, histology and smoking habits. […] NF2 was only altered in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23677068&#34; target=&#34;_blank&#34;&gt;23677068&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The cyclin-dependent kinase inhibitor 2A/alternative reading frame (CDKN2A/ARF), neurofibromatosis type 2 (NF2) and BRCA1-associated protein-1 (BAP1) genes are the most frequently mutated tumor suppressor genes detected in MM cells; the alterations of the latter two are relatively characteristic of MM. […] Merlin, which is encoded by NF2, regulates multiple cell signaling cascades including the Hippo and mammalian target of rapamycin pathways, which regulate cell proliferation and growth.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24371224&#34; target=&#34;_blank&#34;&gt;24371224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant mesothelioma is a highly aggressive, asbestos-related cancer frequently marked by mutations of both NF2 and CDKN2A. […] We demonstrate that germline knockout of one allele of each of these genes causes accelerated onset and progression of asbestos-induced malignant mesothelioma compared with asbestos-exposed Nf2(+/-) or wild-type mice. […] Ascites from some Nf2(+/-);Cdkn2a(+/-) mice exhibited large tumor spheroids, and tail vein injections of malignant mesothelioma cells established from these mice, but not from Nf2(+/-) or wild-type mice, produced numerous tumors in the lung, suggesting increased metastatic potential of tumor cells from Nf2(+/-);Cdkn2a(+/-) mice. […] Intraperitoneal injections of malignant mesothelioma cells derived from Nf2(+/-);Cdkn2a(+/-) mice into severe combined immunodeficient mice produced tumors that penetrated the diaphragm and pleural cavity and harbored increased cancer stem cells (CSC). […] Malignant mesothelioma cells from Nf2(+/-);Cdkn2a(+/-) mice stained positively for CSC markers and formed CSC spheroids in vitro more efficiently than counterparts from wild-type mice. […] Moreover, tumor cells from Nf2(+/-);Cdkn2a(+/-) mice showed elevated c-Met expression/activation, which was partly dependent on p53-mediated regulation of miR-34a and required for tumor migration/invasiveness and maintenance of the CSC population. […] Collectively, these studies demonstrate in vivo that inactivation of Nf2 and Cdkn2a cooperate to drive the development of highly aggressive malignant mesotheliomas characterized by enhanced tumor spreading capability and the presence of a CSC population associated with p53/miR-34a-dependent activation of c-Met. […] These findings suggest that cooperativity between losses of Nf2 and Cdkn2a plays a fundamental role in driving the highly aggressive tumorigenic phenotype considered to be a hallmark of malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24443521&#34; target=&#34;_blank&#34;&gt;24443521&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene mutations were determined in BAP1, CDKN2A, CDKN2B, NF2, and TP53.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24848258&#34; target=&#34;_blank&#34;&gt;24848258&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a diverse panel of cancer cell lines, we found that the cells most sensitive to focal adhesion kinase (FAK) inhibition lack expression of the neurofibromatosis type 2 (NF2) tumor suppressor gene product, Merlin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25488749&#34; target=&#34;_blank&#34;&gt;25488749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Integrative analysis of mutations and somatic copy-number alterations revealed frequent genetic alterations in BAP1, NF2, CDKN2A, and CUL1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25514803&#34; target=&#34;_blank&#34;&gt;25514803&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A series of 123 formalin-fixed, paraffin-embedded tissue samples with clinical annotations were retrospectively tested with a commercial library kit (Ion AmpliSeq Cancer Hotspot Panel v.2, Life Technologies, Grand Island, NY) to investigate 50 genes plus other two, BRCA1-associated protein-1 (BAP-1) and neurofibromatosis-2 (NF2), frequently altered in MPM. […] Immunohistochemistry staining for BAP1 and NF2 proteins was also performed. […] The commonest genetic variations were clustered in two main pathways: the p53/DNA repair (TP53, SMACB1, and BAP1) and phosphatidylinositol 3-kinase-AKT pathways (PDGFRA, KIT, KDR, HRAS, PIK3CA, STK11, and NF2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25806284&#34; target=&#34;_blank&#34;&gt;25806284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) is molecularly characterized by loss of function or mutations in the neurofibromin 2 (NF2) and the cyclin-dependent kinase inhibitor 2 genes. […] NF2 activates a cascade of kinases, called Hippo pathway, which downregulates Yes associated protein (YAP) function as transcription co-activator for TEA domain transcription factors (TEAD). […] In the absence of functional NF2, the expression of genes essential for cell cycling such as survivin is increased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25823924&#34; target=&#34;_blank&#34;&gt;25823924&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that NF2 (frequently deleted in MPM) inhibited Snail-mediated p53 suppression and was stabilized by RKIP. […] These results indicate that MPM can be induced by reduction of RKIP/NF2, which suppresses p53 through Snail.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25889843&#34; target=&#34;_blank&#34;&gt;25889843&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previously, pleural MMs have been genetically characterized by the loss of BAP1 (40-60%) as well as loss of NF2 (75%) and CDKN2A (60%). […] Chromosome band 3p21 encoding BAP1 is the most recurrently deleted region (5/9), while, in contrast to pleural MM, NF2 and CDKN2A are not affected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26048082&#34; target=&#34;_blank&#34;&gt;26048082&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Various genetic alterations like changes in INK4 locus, NF2, BAP1 but also epigenetic changes are present in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26463840&#34; target=&#34;_blank&#34;&gt;26463840&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Driver gene mutations in BRAF, EGFR, ERBB2, HRAS, KRAS, MET, NRAS, PIK3CA, STK11, and ephrin receptor genes (EPHA1-8, 10 and EPHB1-4, 6) were studied for both LAC and MM, and in BAP1, CUL1, CDKN2A, and NF2 for MM. […] In asbestos-exposed MM patients, previously non-described NF2 frameshift mutation (one) and BAP1 mutations (four) were detected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26493618&#34; target=&#34;_blank&#34;&gt;26493618&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The molecular pathogenesis of peritoneal mesothelioma remains relatively unknown, but extrapolation of findings from their pleural counterpart would suggest frequent alterations in CDKN2A, NF2, and BAP1. […] However, the prevalence and prognostic significance of NF2 and BAP1 abnormalities has not been studied. […] Dual-color fluorescence in situ hybridization using CDKN2A and NF2 locus-specific probes and BAP1 immunohistochemistry identified homozygous CDKN2A deletions (n=25, 29%), hemizygous NF2 loss (n=30, 35%), and/or loss of BAP1 protein expression (n=49, 57%) in 68 of 86 (79%) peritoneal mesotheliomas. […] Homozygous CDKN2A deletions or hemizygous NF2 loss correlated with shorter progression-free survival (P&amp;lt;0.02) and poor overall survival (P&amp;lt;0.03). […] Patients harboring both homozygous CDKN2A deletions and hemizygous NF2 loss had a 2-year progression-free survival rate of 9% with a median of 6 months (P&amp;lt;0.01) and overall survival rate of 18% with a median of 8 months (P&amp;lt;0.01). […] By multivariate analysis, combined homozygous CDKN2A deletions and hemizygous NF2 loss was a negative prognostic factor for both progression-free survival and overall survival, independent of patient age, peritoneal cancer index, completeness of cytoreduction, and extent of invasion. […] In summary, homozygous deletions in CDKN2A and hemizygous loss of NF2 as detected by fluorescence in situ hybridization would confer a poor clinical outcome and may guide future treatment decisions for patients with peritoneal mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26853494&#34; target=&#34;_blank&#34;&gt;26853494&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Losses in 3p (BAP1 gene), 9p (CDKN2A) and 22q (NF2) were seen in tumors from both tumor sites, although CDKN2A and NF2 losses were seen at a higher rate in pleural disease (p&amp;lt;0.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26928227&#34; target=&#34;_blank&#34;&gt;26928227&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through exome analysis, we found BAP1, NF2, TP53, SETD2, DDX3X, ULK2, RYR2, CFAP45, SETDB1 and DDX51 to be significantly mutated (q-score ≥ 0.8) in MPMs. […] TRAF7 alterations occurred primarily in the WD40 domain and were, except in one case, mutually exclusive with NF2 alterations. […] We found recurrent gene fusions and splice alterations to be frequent mechanisms for inactivation of NF2, BAP1 and SETD2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27127140&#34; target=&#34;_blank&#34;&gt;27127140&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The families of BAP1 (36%), CDKNA2A/B (27%) and NF2 (27%) represented the most frequently mutated genes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27282309&#34; target=&#34;_blank&#34;&gt;27282309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first studies reporting on the genomic background of MPM identified recurrent somatic mutations in a number of tumor suppressor genes (i.e., cyclin-dependent kinase inhibitor 2A gene [CDKN2A], neurofibromin 2 (merlin) gene [NF2], and BRCA1 associated protein 1 gene [BAP1]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27378628&#34; target=&#34;_blank&#34;&gt;27378628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alterations of the tumor suppressor Neurofibromatosis type II (NF2) have been reported in about 40% of Malignant pleural mesothelioma (MPM) patients. […] NF2 (Merlin) deficiency leads to alterations of the Hippo pathway; resulting in activation of the oncogenic Yes Associated Protein-1 (YAP1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27507853&#34; target=&#34;_blank&#34;&gt;27507853&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common aberrations were in BAP1 (BRCA1-associated protein 1; 47.6% [20/42]), NF2 (38.1% [16/42]), and CDKN2A/B (loss) (35.7% [15/42]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27813512&#34; target=&#34;_blank&#34;&gt;27813512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additional recurrently mutated genes in this cohort of malignant peritoneal mesotheliomas included NF2 (3/13), SETD2 (2/13), and DDX3X (2/13).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28003305&#34; target=&#34;_blank&#34;&gt;28003305&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genetic data coupled with transcriptomic data allowed the identification of a new MPM molecular subgroup, C2&lt;sup&gt;LN&lt;/sup&gt;, characterized by a co-occurring mutation in the &lt;i&gt;LATS2&lt;/i&gt; and &lt;i&gt;NF2&lt;/i&gt; genes in the same MPM. […] Coinactivation of &lt;i&gt;LATS2&lt;/i&gt; and &lt;i&gt;NF2&lt;/i&gt; leads to loss of cell contact inhibition between MPM cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28468780&#34; target=&#34;_blank&#34;&gt;28468780&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inactivation of &lt;i&gt;NF2&lt;/i&gt;/Merlin causes the autosomal-dominant cancer predisposition syndrome familial neurofibromatosis type 2 (NF2) and contributes to the development of malignant pleural mesothelioma (MPM). […] To develop a targeted therapy for &lt;i&gt;NF2&lt;/i&gt;-mutant tumors, we have exploited the recent realization that Merlin loss drives tumorigenesis by activating the E3 ubiquitin ligase CRL4&lt;sup&gt;DCAF1&lt;/sup&gt;, thereby inhibiting the Hippo pathway component Lats. […] Here, we show that MLN4924, a NEDD8-activating enzyme (NAE) inhibitor, suppresses CRL4&lt;sup&gt;DCAF1&lt;/sup&gt; and attenuates activation of YAP in &lt;i&gt;NF2&lt;/i&gt;-mutant tumor cells. […] Further analysis revealed that depletion of DCAF1 or treatment with MLN4924 does not affect mTOR hyperactivation in &lt;i&gt;NF2&lt;/i&gt;-mutant tumor cells, suggesting that loss of Merlin activates mTOR independently of CRL4&lt;sup&gt;DCAF1&lt;/sup&gt; Intriguingly, combining MLN4924 with the mTOR/PI3K inhibitor GDC-0980 suppresses the growth of &lt;i&gt;NF2&lt;/i&gt;-mutant tumor cells &lt;i&gt;in vitro&lt;/i&gt; as well as in mouse and patient-derived xenografts. […] These results provide preclinical rationale for the use of NAE inhibitors in combination with mTOR/PI3K inhibitors in &lt;i&gt;NF2&lt;/i&gt;-mutant tumors. &lt;i&gt;Mol Cancer Ther; 16(8); 1693-704. &lt;/i&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28577549&#34; target=&#34;_blank&#34;&gt;28577549&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were no chromosomal losses in either the Bap1 or Nf2 regions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28713678&#34; target=&#34;_blank&#34;&gt;28713678&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Hippo stem cell pathway regulates cell contact inhibition with tumor suppressor genes such as &lt;i&gt;NF2&lt;/i&gt; (&lt;i&gt;Neurofibromatosis 2&lt;/i&gt;) upstream controlling &lt;i&gt;YAP&lt;/i&gt; (&lt;i&gt;Yes-associated protein 1&lt;/i&gt;) oncogenes. […] NF2 is mutated in 40-50% of all MPM and downstream YAP is constitutively active in greater than 70% of MPM, making the downstream YAP/TEAD (transcriptional enhancer associate domain) complex the ultimate target.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28884745&#34; target=&#34;_blank&#34;&gt;28884745&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined demographic and clinical characteristics, histologic type, growth patterns, mitotic index, and nuclear grade on hematoxylin and eosin-stained slides, BAP1 protein expression by immunohistochemistry, and CDKN2A and NF2 deletions by fluorescence in situ hybridization. […] CDKN2A deletion was less prevalent in young patients (P=0.01), loss of BAP1 protein expression less frequent in young patients (P=0.06), and NF2 deletion rates similar between groups (P&amp;gt;0.05 each).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28910456&#34; target=&#34;_blank&#34;&gt;28910456&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, loss of chromosomal region 9p or 22q or genetic alterations in BAP1, SETD2, or NF2 typically present in peritoneal mesothelioma were absent in the ALK-rearranged cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29342862&#34; target=&#34;_blank&#34;&gt;29342862&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The MPM genomic landscape is dominated by inactivating mutations in several tumor suppressor genes; such as &lt;i&gt;CDKN2A&lt;/i&gt;; &lt;i&gt;BAP1&lt;/i&gt; and &lt;i&gt;NF2&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29350783&#34; target=&#34;_blank&#34;&gt;29350783&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NF2 was not deleted by FISH but 28% of the mesothelial cells showed hyperploidy. […] There was CDKN2A deletion, but no deletion of NF2 by FISH.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29371938&#34; target=&#34;_blank&#34;&gt;29371938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Besides the well-known MPM-associated genes, &lt;i&gt;CDKN2A, NF2&lt;/i&gt; and &lt;i&gt;BAP1&lt;/i&gt;, other interesting cancer-associated genes were listed as frequently involved in a copy number loss (e.g. &lt;i&gt;EP300, SETD2&lt;/i&gt; and &lt;i&gt;PBRM1&lt;/i&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29565815&#34; target=&#34;_blank&#34;&gt;29565815&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several key genetic alterations are associated with the development and progression of MM including mutations of the &lt;i&gt;CDKN2A/ARF&lt;/i&gt;, &lt;i&gt;NF2&lt;/i&gt;, and &lt;i&gt;BAP1&lt;/i&gt; tumor-suppressor genes. […] The &lt;i&gt;NF2&lt;/i&gt; gene encodes merlin, a protein that regulates multiple cell-signaling cascades including the Hippo pathway.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29656754&#34; target=&#34;_blank&#34;&gt;29656754&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identified BAP1, CDKN2A and NF2 alterations in the cells from MM pleural effusions at a higher frequency than what is typically seen in MM tumours from surgical series.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29904909&#34; target=&#34;_blank&#34;&gt;29904909&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most frequently altered genes in human MM are cyclin-dependent kinase inhibitor 2A (CDKN2A), which encodes components of the p53 (p14ARF) and RB (p16INK4A) pathways, BRCA1-associated protein 1 (BAP1), and neurofibromatosis 2 (NF2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30417500&#34; target=&#34;_blank&#34;&gt;30417500&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NF2 is a tumor suppressor gene and is frequently mutated in MPM. […] Using a CRISPR/Cas9 system, we generated an NF2-knockout human mesothelial cell line, MeT-5A (NF2-KO). […] In NF2-KO cell clones, cell growth, clonogenic activity, migration activity, and invasion activity significantly increased compared with those in NF2-WT cell clones. […] Complementary DNA microarray analysis clearly revealed the differences in global gene expression profile between NF2-WT and NF2-KO cell clones. […] Quantitative PCR analysis and western blot analysis showed that the upregulation of fibroblast growth factor receptor 2 (FGFR2) was concomitant with the increases in phosphorylation levels of JNK, c-Jun, and retinoblastoma (Rb) in NF2-KO cell clones. […] These increases were all abrogated by the exogenous expression of NF2 in the NF2-KO clone. […] In addition, the disruption of FGFR2 in the NF2-KO cell clone suppressed cell proliferation as well as the phosphorylation levels of JNK, c-Jun, and Rb. […] Notably, FGFR2 was found to be highly expressed in NF2-negative human mesothelioma tissues (11/12 cases, 91.7%) but less expressed in NF2-positive tissues. […] Collectively, these findings suggest that NF2 deficiency might play a role in the tumorigenesis of human mesothelium through mediating FGFR2 expression; FGFR2 would be a candidate molecule to develop therapeutic and diagnostic strategies for targeting MPM with NF2 loss.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30512336&#34; target=&#34;_blank&#34;&gt;30512336&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular carcinogenesis of MPM is incompletely understood, but involves NF2, WT1 RASSF1, p16 gene alterations and the more recently described BAP-1. […] La carcinogenèse moléculaire implique les gènes NF2, WT1, RASSF1, p16 et BAP- 1, qui régulent l’apoptose, l’invasion et la motilité cellulaire, le contrôle de la division cellulaire et de la réparation de l’ADN.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30539198&#34; target=&#34;_blank&#34;&gt;30539198&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In all 12 MPM cell lines, IC&lt;sub&gt;50&lt;/sub&gt; exceeded 5 μM and loss of NF2 did not correlate with sensitivity. […] KEY MESSAGES: Response to FAK inhibition in MPM is independent of NF2 expression or histotype.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31151962&#34; target=&#34;_blank&#34;&gt;31151962&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mutations/deletions of &lt;i&gt;BAP1, CDKN2A&lt;/i&gt;, and &lt;i&gt;NF2&lt;/i&gt; are the most frequent genetic lesions in human malignant mesothelioma. […] While homozygous CKO of &lt;i&gt;Bap1, Cdkn2a&lt;/i&gt;, or &lt;i&gt;Nf2&lt;/i&gt; alone gave rise to few or no malignant mesotheliomas, inactivation of &lt;i&gt;Bap1&lt;/i&gt; cooperated with loss of either &lt;i&gt;Nf2&lt;/i&gt; or &lt;i&gt;Cdkn2a&lt;/i&gt; to drive development of malignant mesothelioma in approximately 20% of double-CKO mice, and a high incidence (22/26, 85%) of malignant mesotheliomas was observed in &lt;i&gt;Bap1;Nf2;Cdkn2a&lt;/i&gt; (triple)-CKO mice. […] Adenoviral-Cre treatment of normal mesothelial cells from &lt;i&gt;Bap1;Nf2;Cdkn2a&lt;/i&gt; CKO mice, but not from mice with knockout of one or any two of these genes, resulted in robust spheroid formation &lt;i&gt;in vitro&lt;/i&gt;, suggesting that mesothelial cells from &lt;i&gt;Bap1;Nf2;Cdkn2a&lt;/i&gt; mice have stem cell-like potential. […] These data demonstrate that somatic inactivation of &lt;i&gt;Bap1, Nf2&lt;/i&gt;, and &lt;i&gt;Cdkn2a&lt;/i&gt; results in rapid, aggressive malignant mesotheliomas, and that deletion of &lt;i&gt;Bap1&lt;/i&gt; contributes to tumor development, in part, by loss of PRC2-mediated repression of tumorigenic target genes and by acquisition of stem cell potential, suggesting a potential avenue for therapeutic intervention. […] SIGNIFICANCE: Combinatorial deletions of &lt;i&gt;Bap1, Nf2&lt;/i&gt;, and &lt;i&gt;Cdkn2a&lt;/i&gt; result in aggressive mesotheliomas, with &lt;i&gt;Bap1&lt;/i&gt; loss contributing to tumorigenesis by circumventing PRC2-mediated repression of oncogenic target genes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31231129&#34; target=&#34;_blank&#34;&gt;31231129&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neurofibromatosis type 2 (NF2) gene, a tumor suppressor gene located on chromosome 22q12.2, is frequently abnormal in mesothelioma. […] However, the application of FISH detection of NF2 gene deletion (NF2 FISH) in differentiation of malignant pleural mesothelioma from reactive mesothelial hyperplasia has not been fully evaluated. […] In this study, we investigated whether NF2 FISH, either alone or in a combination with other diagnostic assays (9p21 FISH, MTAP immunohistochemistry, and BAP1 immunohistochemistry), is effective for distinguishing malignant pleural mesothelioma from reactive mesothelial hyperplasia. […] We used FISH to examine deletion status of NF2 and 9p21 and immunohistochemistry to examine expression of MTAP and BAP1 in malignant pleural mesothelioma and in reactive mesothelial hyperplasia. […] Hemizygous NF2 loss (chromosome 22 monosomy or hemizygous deletion) was detected in 25 of 47 (53.2%) mesothelioma cases. […] None of the mesothelioma cases showed homozygous NF2 deletion. […] Hemizygous NF2 loss showed 53.2% sensitivity and 100% specificity in differentiating malignant pleural mesothelioma from reactive mesothelial hyperplasia. […] A combination of NF2 FISH, 9p21 FISH, and BAP1 immunohistochemistry yielded greater sensitivity (100%) than that detected for either diagnostic assay alone (53.2% for NF2 FISH, 78.7% for 9p21 FISH, 70.2% for MTAP immunohistochemistry, or 57.4% for BAP1 immunohistochemistry). […] Thus, NF2 FISH in combination with other diagnostic assays is effective for distinguishing malignant pleural mesothelioma from reactive mesothelial hyperplasia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31371807&#34; target=&#34;_blank&#34;&gt;31371807&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genomic characterization identified several subgroups: (1) BAP1 mutations with deletions of CDKN2A and NF2 in two tumors; (2) TRAF7 mutations in two tumors, including one harboring trisomies of chromosomes 3, 5, 7, and X; and (3) genomic near-haploidization, characterized by extensive loss of heterozygosity sparing chromosomes 5 and 7.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31567203&#34; target=&#34;_blank&#34;&gt;31567203&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neurofibromatosis type 2 (NF2), an inherited disorder associated with multiple inherited schwannomas, meningiomas and ependymomas is caused by an autosomal dominant, likely loss of function germline mutation of the NF2 gene. […] Interestingly, biallelic NF2 gene inactivation is one of the most common mutations associated with the development of malignant mesothelioma (MM), a highly fatal malignancy that arises in the pleura and less frequently in the pericardium, peritoneum, and tunica vaginalis. […] It has been proposed that NF2 patients could potentially be at increased risk of developing MM. […] However, patients with inherited NF2 rarely develop MM. […] In our patient diagnosed with NF2 at age 25 who developed an aggressive peritoneal MM 15 years later, we identified a germline NF2 mutation and somatic mutations including BAP1. […] Of clinical relevance, our case supports a germline NF2 mutation may not necessarily be more susceptible to develop mesothelioma without a “second hit” mutation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32083805&#34; target=&#34;_blank&#34;&gt;32083805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mutations in TERT promoter, NF2, and LATS2 were more frequent in nonepithelioid MPM and positively associated with the S.score. […] BAP1, NF2, TERT promoter, TP53, and SETD2 mutations were enriched in some molecular subtypes. […] NF2 mutation rate was higher in asbestos unexposed patient. […] TERT promoter, NF2, and TP53 mutations were associated with a poorer overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/7479897&#34; target=&#34;_blank&#34;&gt;7479897&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The neurofibromatosis type 2 gene (NF2) is a tumor suppressor gene assigned to chromosome 22q which plays an important role in the development of familial and spontaneous tumors of neuroectodermal origin. […] Although MMs have a different histogenic derivation, the frequent abnormalities of chromosome 22 warranted an investigation of the NF2 gene in these tumors. […] Both cDNAs from 15 MM cell lines and genomic DNAs from 7 matched primary tumors were analyzed for mutations within the NF2 coding region. […] NF2 mutations predicting either interstitial in-frame deletions or truncation of the NF2-encoded protein (merlin) were detected in eight cell lines (53%), six of which were confirmed in primary tumor DNAs. […] In two samples that showed NF2 gene transcript alterations, no genomic DNA mutations were detected, suggesting that aberrant splicing may constitute an additional mechanism for merlin inactivation. […] These findings implicate NF2 in the oncogenesis of primary MMs and provide evidence that this gene can be involved in the development of tumors other than nervous system neoplasms characteristic of the NF2 disorder. […] In addition, unlike NF2-related tumors, MM derives from the mesoderm; malignancies of this origin have not previously been associated with frequent alterations of the NF2 gene.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NF2</title>
+      <link>/mesothelioma/genepanel/4771/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4771/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;neurofibromin 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NF2</title>
+      <link>/mesothelioma/genepanel/4771/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4771/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;neurofibromin 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

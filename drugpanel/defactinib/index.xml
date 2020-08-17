@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/defactinib/</link>
+      <atom:link href="/mesothelioma/drugpanel/defactinib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/defactinib/</link>
+    </image>
+    
+    <item>
+      <title>DEFACTINIB</title>
+      <link>/mesothelioma/drugpanel/defactinib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/defactinib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12282&#39; target=&#39;_blank&#39;&gt;db12282&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=defactinib&#34; target=&#34;_blank&#34;&gt;defactinib&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;defactinib&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30527180&#34; target=&#34;_blank&#34;&gt;30527180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three inhibitors were more efficient than cisplatin, the drug used as first-line chemotherapy in patients with MPM: verteporfin, a putative YAP inhibitor, defactinib, a FAK inhibitor and NSC668394, an Ezrin inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30785827&#34; target=&#34;_blank&#34;&gt;30785827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On this basis, we designed a randomized, phase II trial to investigate whether defactinib as maintenance therapy after standard first-line chemotherapy could improve progression-free survival (PFS) in patients with malignant pleural mesothelioma (MPM). […] Patients were stratified for merlin and then randomly assigned (in a 1:1 fashion) to receive either oral defactinib or placebo until disease progression, unacceptable toxicity, or withdrawal occurred. […] Three hundred forty-four patients were randomly assigned to receive either defactinib (n = 173) or placebo (n = 171). […] The median PFS was 4.1 months (95% CI, 2.9 to 5.6 months) for defactinib versus 4.0 months (95% CI, 2.9 to 4.2 months) for placebo. […] The median OS was 12.7 months (95% CI, 9.1 to 21 months) for defactinib versus 13.6 months (95% CI, 9.6 to 21.2 months) for placebo (hazard ratio, 1.0; 95% CI, 0.7 to 1.4). […] Although shorter survival for both defactinib- and placebo-treated patients was observed, in the patients who had merlin-low MPM compared with the patients who had merlin-high MPM, there were no statistical differences in response rate, PFS, OS, or QoL between the treatment groups. […] Neither PFS nor OS was improved by defactinib after first-line chemotherapy in patients with merlin-low MPM. […] Defactinib cannot be recommended as maintenance therapy for advanced MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

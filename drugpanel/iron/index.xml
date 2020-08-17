@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/iron/</link>
+      <atom:link href="/mesothelioma/drugpanel/iron/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/iron/</link>
+    </image>
+    
+    <item>
+      <title>IRON</title>
+      <link>/mesothelioma/drugpanel/iron/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/iron/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01592&#39; target=&#39;_blank&#39;&gt;db01592&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=iron&#34; target=&#34;_blank&#34;&gt;iron&lt;/a&gt; &lt;br&gt;
+Synonymous :carbonyl iron | eisen | electrolytic iron | fe | fer | ferrum | ferrum metallicum | hierro | iron powder | iron, carbonyl | iron, electrolytic | iron, elemental | iron, reduced | reduced iron
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;iron&lt;/em&gt; gene in 29 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11676187&#34; target=&#34;_blank&#34;&gt;11676187&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Exposure occurred in sectors works where asbestos was not used as raw material, such as construction, iron and steel and metal working.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12596421&#34; target=&#34;_blank&#34;&gt;12596421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Occupational asbestos exposure occurred in maritime activities (shipyards, dock work, merchant and regular Navy), the building industry, railway carriage construction and maintenance, rail transport, textile industries (mainly rag sorting), electricity production, asbestos cement manufacture, chemical, iron and steel industries and in glass manufacturing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12852202&#34; target=&#34;_blank&#34;&gt;12852202&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment with 1,3-dimethyl-2-thiourea (DMTU), a hydroxyl radical scavenger, or deferoxamine (DFX), an iron chelator, was performed to confirm hydroxyl radical production and study the role of iron.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14617514&#34; target=&#34;_blank&#34;&gt;14617514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Western blot and in vitro kinase assays showed increases in dual phosphorylation and actual activity of p38 after exposure to fibrous and nonfibrous (milled) crocidolite; in contrast, polystyrene beads and iron (III) oxide had no such effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17382060&#34; target=&#34;_blank&#34;&gt;17382060&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No fibers detected in regions, where the pipe distribution system was poly venyl pipe system or changed from A/C pipe to cast iron pipe system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17434931&#34; target=&#34;_blank&#34;&gt;17434931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although it has been shown that the iron associated with asbestos participates in the cell toxicity and probably MM pathogenesis via generation of reactive oxygen species (ROS), the molecular mechanisms largely remain unknown. […] Here, we demonstrate that ferritin heavy chain (FHC), a core subunit of iron-binding protein ferritin, works as an anti-apoptotic protein against toxic asbestos and oxidative stress in human mesothelial cells and MM cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/175652&#34; target=&#34;_blank&#34;&gt;175652&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tissues were stained with hematoxylin and eosin, PAS with and without diastase treatment (DPAS), mucicarmine, alcian blue, toluidine blue, and colloidal iron with and without digestion by testicular hyaluronidase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21701088&#34; target=&#34;_blank&#34;&gt;21701088&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review, we summarize the cutting edge results of our 5-year project funded by a MEXT grant, in which local iron deposition and the characteristics of mesothelial cells are the key issues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2193875&#34; target=&#34;_blank&#34;&gt;2193875&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to provide comparative data on histologic, histochemical, and immunohistochemical features of these neoplasms, we analyzed 51 ultrastructurally categorized MEPMs and 52 PALs with the periodic acid-Schiff-diastase (PAS-D), mucicarmine, and colloidal iron stains, and a panel of immunohistologic reagents. […] Reactivity with PAS-D and mucicarmine stains was strictly confined to PAL, and hyaluronidase-sensitive colloidal iron-positivity was restricted to MEPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2217155&#34; target=&#34;_blank&#34;&gt;2217155&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fourteen control cases of men over 50 without known asbestos exposure or asbestos-related disease had no AB in LN sections even after staining for iron. […] Among fourteen patients with parietal pleural plaques and an elevated lung asbestos body content, AB were observed in iron-stained LN sections in only two cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22272019&#34; target=&#34;_blank&#34;&gt;22272019&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Histopathologically, small flattened or cuboidal tumor cells proliferated with stroma, formed almost normal papillary structures and reacted positively to colloidal iron stain and immunohistochemical staining for mesothelin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22500091&#34; target=&#34;_blank&#34;&gt;22500091&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos is a mineral silicate containing iron, magnesium, and calcium with a core of SiO(2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22966348&#34; target=&#34;_blank&#34;&gt;22966348&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following Berlin blue staining, positive spots were observed around the TISMO fibers, indicative of iron. […] The present study showed that only fiber-shaped TISMO induced severe reactions of the mesothelium in the pleura, and these involved iron accumulation derived from endogenous sources.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23732197&#34; target=&#34;_blank&#34;&gt;23732197&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the ban in Argentina dates from 2003, there are numerous industries where work continues with this mineral, including iron and steel industries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24257681&#34; target=&#34;_blank&#34;&gt;24257681&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several lines of recent evidence suggest that the major pathology associated with asbestos-induced MM is local iron overload, associated with asbestos exposure. […] Preclinical studies to prevent MM after asbestos exposure with iron reduction are in progress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2437407&#34; target=&#34;_blank&#34;&gt;2437407&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a battery of histochemical stains, including periodic acid Schiff (PAS) with and without diastase, mucicarmine, colloidal iron (Coll Fe) with and without hyaluronidase, and immunohistochemical stains for keratin and carcinoembryonic antigen (CEA) on 12 pleural mesothelioma specimens obtained from 11 patients, five primary pulmonary adenocarcinomas, and one metastatic adenocarcinoma each to pleura and pericardium.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26211743&#34; target=&#34;_blank&#34;&gt;26211743&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Evidence suggests that the major pathology associated with asbestos-induced mesothelioma is local iron overload. […] In the present study, we induced iron-induced mesothelioma in rats based on previous reports. […] In conclusion, TBXAS1 gene expression was downregulated in rats with iron-induced mesothelioma. […] The relationship between iron overload and TBXAS1 downregulation should be pursued further.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26818092&#34; target=&#34;_blank&#34;&gt;26818092&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite the widely recognized role of iron (Fe) in cellular asbestos-induced pulmonary toxicity, the role of the related gene polymorphisms in the etiology of MPM has apparently not been evaluated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29265930&#34; target=&#34;_blank&#34;&gt;29265930&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mechanisms underlying AB formation are complex, involving inflammatory responses and iron (Fe) metabolism. […] The aim of this study was to disclose the possible role of genetic variants of genes encoding inflammasome and iron metabolism proteins in the ability to form ABs in a population of 81 individuals from North East Italy, who died after having developed malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30312759&#34; target=&#34;_blank&#34;&gt;30312759&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genetic alterations found in human and rat mesothelioma notably contain changes found in other excess iron-induced carcinogenesis models. […] Phlebotomy and iron chelation therapies have been successful in the prevention of mesothelioma in rats.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30446780&#34; target=&#34;_blank&#34;&gt;30446780&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Identification of grade I asbestosis (minimal asbestosis) requires directed histological examinations with up to 400-fold magnification, additional iron staining and possibly in connection with a lung dust analysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31388672&#34; target=&#34;_blank&#34;&gt;31388672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The variety known as crocidolite (blue asbestos) owns the highest pathogenic potential, due to the dimensions of its fibers as well as to its content of iron. […] On the other hand, hydroxyl radical can as well originate after thiol-dependent reduction of iron, a process capable of starting its redox cycling. […] Previous studies showed that glutathione (GSH) is one such thiols, and that cellular gamma-glutamyltransferase (GGT) can efficiently potentiate GSH-dependent iron redox cycling and consequent oxidative stress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31755376&#34; target=&#34;_blank&#34;&gt;31755376&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since inflammation and disruption of iron (Fe) homeostasis are hallmarks of asbestos exposure affecting the pulmonary tissue, this study aimed at investigating the association between Fe-metabolism and inflammasome gene variants and susceptibility to develop LC or MPM, by comparing an asbestos-exposed population affected by LC with an “asbestos-resistant exposed population”.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31819191&#34; target=&#34;_blank&#34;&gt;31819191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inhaled asbestos fibres accumulate in the lungs and induce the generation of reactive oxygen species (ROS) due to the presence of iron associated with the fibrous silicates and to the activation of macrophages and inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3836085&#34; target=&#34;_blank&#34;&gt;3836085&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The cytology smears were prepared with both Papanicolaou and iron stains.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6346786&#34; target=&#34;_blank&#34;&gt;6346786&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The tumor showed both intracytoplasmic and intercellular positive materials with colloidal iron, alcian blue (pH 2.5), and toluidine blue stains, which entirely disappeared after streptomyces hyaluronidase digestion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6588749&#34; target=&#34;_blank&#34;&gt;6588749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sixteen unequivocal, diffuse malignant mesotheliomas ( DMM ) of pleura and eight diffuse pleural tumors simulating DMM , all from autopsied cases, were studied with hematoxylin and eosin, mucicarmine, diastase-periodic acid-Schiff ( DPAS ), colloidal iron, carcinoembryonic antigen, and keratin immunoperoxidase stains.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7415839&#34; target=&#34;_blank&#34;&gt;7415839&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Atypical cells showed a positive colloidal iron staining test and positive hyaluronidase digestion test.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8135583&#34; target=&#34;_blank&#34;&gt;8135583&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most reliable histochemical technique is the iron stain which labels macrophages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

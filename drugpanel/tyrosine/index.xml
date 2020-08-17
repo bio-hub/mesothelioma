@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/tyrosine/</link>
+      <atom:link href="/mesothelioma/drugpanel/tyrosine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/tyrosine/</link>
+    </image>
+    
+    <item>
+      <title>TYROSINE</title>
+      <link>/mesothelioma/drugpanel/tyrosine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/tyrosine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00135&#39; target=&#39;_blank&#39;&gt;db00135&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tyrosine&#34; target=&#34;_blank&#34;&gt;tyrosine&lt;/a&gt; &lt;br&gt;
+Synonymous :(−)-α-amino-p-hydroxyhydrocinnamic acid | (2s)-2-amino-3-(4-hydroxyphenyl)propanoic acid | (s)-(-)-tyrosine | (s)-2-amino-3-(p-hydroxyphenyl)propionic acid | (s)-3-(p-hydroxyphenyl)alanine | (s)-alpha-amino-4-hydroxybenzenepropanoic acid | (s)-tyrosine | (s)-α-amino-4-hydroxybenzenepropanoic acid | 4-hydroxy-l-phenylalanine | l-tyrosin | l-tyrosine | tirosina | tyr | tyrosine | tyrosinum | y
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tyrosine&lt;/em&gt; gene in 86 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10487612&#34; target=&#34;_blank&#34;&gt;10487612&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The percentages of tumours with higher expression compared to the mean values of normal pleural tissues were 31.5% (17/54) for VEGF, 66.7% (36/54) for VEGF-C, 20.4% (11/54) for fms-like tyrosine kinase (flt)-1, 42.6% (23/54) for kinase insert domain-containing recepter (KDR) and 59.3% (32/54) for flt-4.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10849094&#34; target=&#34;_blank&#34;&gt;10849094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To assess the immunoreactivity of malignant mesotheliomas for N- and E-cadherins, hepatocyte growth factor/scatter factor (HGF/SF) and the tyrosine kinase receptors, met and erbB-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11276005&#34; target=&#34;_blank&#34;&gt;11276005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, MM cells expressed the tyrosine kinase-related VEGF receptors Flt-1 and KDR. […] These results indicate that VEGF, via activation of its tyrosine kinase receptors, may be a key regulator of MM growth.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14596692&#34; target=&#34;_blank&#34;&gt;14596692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, the biologic and genetic studies of mesothelioma have identified several receptor tyrosine kinases that are aberrantly expressed in these tumors. […] Orally available small molecule inhibitors of several receptor tyrosine kinases have been developed and are now being evaluated in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15086281&#34; target=&#34;_blank&#34;&gt;15086281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The development of successful chemotherapeutic agents directed against the Kit receptor tyrosine kinase protein has generated intense interest in the Kit (CD117) immunoreactivity of various neoplasms. […] The paucity of Kit staining in malignant mesothelioma suggests these tumors are unlikely to respond to currently available tyrosine kinase inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15474666&#34; target=&#34;_blank&#34;&gt;15474666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Expression could be further increased by addition of the tyrosine kinase inhibitor genistein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15756029&#34; target=&#34;_blank&#34;&gt;15756029&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is known that the potential clinical use of farnesyltransferase inhibitors (FTI) could be expanded to include cancers harboring activated receptor tyrosine kinases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15788680&#34; target=&#34;_blank&#34;&gt;15788680&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Cancer and Leukemia Group B conducted a phase II study of gefitinib, an inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase, in patients with previously untreated malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15867774&#34; target=&#34;_blank&#34;&gt;15867774&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study is to evaluate the ability of the epidermal growth factor receptor tyrosine kinase inhibitor PD153035 to abrogate the expression of prometastasis phenotypes in malignant pleural mesothelioma cells in vitro. […] Epidermal growth factor receptor tyrosine kinase inhibitor PD153035 significantly inhibited motility and invasion in malignant pleural mesothelioma cells in vitro, regardless of their epidermal growth factor receptor expression levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16299245&#34; target=&#34;_blank&#34;&gt;16299245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To investigate a potential therapeutic role for the Met receptor in MPM, we examined the effects of PHA-665752, a specific small-molecule inhibitor of the Met receptor tyrosine kinase, in a panel of 10 MPM cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16397249&#34; target=&#34;_blank&#34;&gt;16397249&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+c-Met receptor tyrosine kinase (RTK) has not been extensively studied in malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17311837&#34; target=&#34;_blank&#34;&gt;17311837&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Imatinib mesylate is a selective inhibitor of tyrosine kinases such as bcr-abl, c-Kit, c-Fms and platelet derived growth factor receptor beta (PDGFRbeta).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17557954&#34; target=&#34;_blank&#34;&gt;17557954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) expresses high levels of epidermal growth factor receptor (EGFR), and preclinical studies have identified antitumor activity of EGFR tyrosine kinase inhibitors (TKIs) in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17620427&#34; target=&#34;_blank&#34;&gt;17620427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One potential therapeutic target, the non-receptor tyrosine kinase c-Src, causes changes in proliferation, motility, invasion, survival, and angiogenesis in cancer cells and may be a valid therapeutic target in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17659810&#34; target=&#34;_blank&#34;&gt;17659810&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Statistically significantly increased methylation in MM versus non-tumor lung samples was found for estrogen receptor 1 (ESR1; p = 0.0002), solute carrier family 6 member 20 (SLC6A20; p = 0.0022) and spleen tyrosine kinase (SYK; p=0.0003).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17710208&#34; target=&#34;_blank&#34;&gt;17710208&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sunitinib (SU11248) is an orally bioavailable inhibitor that affects the receptor tyrosine kinases involved in tumour proliferation and angiogenesis, including vascular endothelial growth factor (VEGF) receptors 1, 2, 3, and platelet-derived growth factor receptors alpha (PDGFRA) and beta (PDGFRB).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18086752&#34; target=&#34;_blank&#34;&gt;18086752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Expression of TIE2/Tek, a receptor for tyrosine kinases involved in angiogenesis, was differentially regulated via PDGFR and thus is more important in STS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18364248&#34; target=&#34;_blank&#34;&gt;18364248&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, we investigated the therapeutic efficacy of vandetanib (ZD6474), an inhibitor of VEGFR-2, EGFR and RET tyrosine kinases, in an orthotopic model of MPM. […] In contrast, the selective EGFR tyrosine kinase inhibitor, gefitinib, had no effect against EHMES-10 cells both in vitro and in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18383846&#34; target=&#34;_blank&#34;&gt;18383846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neither EGFR mutations relevant to tyrosine kinase inhibitor responsiveness nor the expression of SV40 large cell antigen was detected in any of the cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18392851&#34; target=&#34;_blank&#34;&gt;18392851&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In lung cancer cases, EGFR gene mutation at the kinase domain and EGFR gene amplification are reported to be predictors of the response to EGFR tyrosine kinase inhibitors. […] To identify possible candidates for EGFR tyrosine kinase in inhibitor therapy, the information on the EGFR gene status may be valuable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18672314&#34; target=&#34;_blank&#34;&gt;18672314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The receptor tyrosine kinase MET has been studied of a large variety of human cancers, including lung and mesothelioma. […] These drugs function at a variety of steps within the HGF-MET pathway, including MET expression at the RNA or protein level, the ligand-receptor interaction, and tyrosine kinase function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19176370&#34; target=&#34;_blank&#34;&gt;19176370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, the same response is also controlled by the tyrosine kinase receptors of vascular endothelial growth factor (VEGF) through a nuclear factor-kappaB (NF-kappaB)-dependent pathway. […] Moreover, the presence of Sema6D promotes the tyrosine phosphorylation of VEGF-R2 in a plexin-A1-dependent manner.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19318229&#34; target=&#34;_blank&#34;&gt;19318229&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This preclinical study investigates the effect of five tyrosine kinase inhibitors (PTK787, ZD6474, ZD1839, SU6668 and SU11248) on the growth of three mesothelioma cell lines (NCI H226, NCI H28 and MSTO 211H), the presence of growth factor receptors and inhibition of their downstream signalling pathways. […] VEGFR2 tyrosine kinase inhibitors warrant further investigation in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19374545&#34; target=&#34;_blank&#34;&gt;19374545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ongoing investigations are defining the role of postoperative radiotherapy and the clinical activity of tyrosine kinase inhibitors targeting VEGFR2, histone deacetylase inhibitors and proteosome inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19380521&#34; target=&#34;_blank&#34;&gt;19380521&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although expression and activation of receptor tyrosine kinases (RTKs), including MET, have been reported in most MPM, specific RTK inhibitors showed less than the expected response in MPM cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19909234&#34; target=&#34;_blank&#34;&gt;19909234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tyrosine kinase inhibitors (TKIs) targeting growth factors like vandetanib, dasatinib, and angiogenesis inhibitors like bevacizumab, are among the most promising agents under evaluation in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19934291&#34; target=&#34;_blank&#34;&gt;19934291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, we focused on the multi-tyrosine kinase inhibitor E7080 and assessed its therapeutic efficacy against MPM cells with different proangiogenic cytokine production profiles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20104519&#34; target=&#34;_blank&#34;&gt;20104519&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Analysis of Met receptor tyrosine phosphorylation, proliferation, apoptosis and blood vessels in the tumor tissues indicated that the inhibitory effect of NK4 expression might be primarily caused by the inhibition of tumor angiogenesis. […] In all the 7 mesothelioma lines, HGF stimulated Met tyrosine phosphorylation, and this was associated with enhanced cell migration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20347505&#34; target=&#34;_blank&#34;&gt;20347505&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A variety of receptor tyrosine kinases have been identified to play a central role in various aspects of tumorigenesis. […] Epidermal growth factor receptor (EGFR) is overexpressed in a variety of epithelial malignancies including lung cancer in which EGFR aberrations not only predict response to EGFR tyrosine kinase inhibitors but also indicate tumor progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20692828&#34; target=&#34;_blank&#34;&gt;20692828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our aim was to assess the activation profile of EGFR, PDGFRB and PDGFRA receptor tyrosine kinases (RTK) and their downstream effectors in a series of cryopreserved diffuse malignant peritoneal mesothelioma (DMPM) surgical specimens to discover the targets for drug inhibition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20736856&#34; target=&#34;_blank&#34;&gt;20736856&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sorafenib has limited activity in advanced MM patients, similar to that seen with other VEGFR tyrosine kinase inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21183281&#34; target=&#34;_blank&#34;&gt;21183281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Targeted EGFR therapy has been successful in non-small cell lung cancer using small molecule tyrosine kinase inhibitors and in colorectal cancer using monoclonal anti-EGFR antibodies. […] However, phase II clinical trials based on EGFR tyrosine kinase inhibitor therapy have so far not shown promise in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21226671&#34; target=&#34;_blank&#34;&gt;21226671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dasatinib (BMS-354825, Sprycel®) is an oral, multitargeted inhibitor of receptor tyrosine kinases (RTKs), including BCR-ABL fusion protein, stem cell factor receptor (c-KIT), platelet-derived growth factor receptor (PDGFR), and Src family kinases (SFKs).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21263312&#34; target=&#34;_blank&#34;&gt;21263312&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although tyrosine kinase inhibitors directed against the epidermal growth factor and the platelet-derived growth factor receptors did not show significant clinical activity in phase II studies, some other targeted therapies seemed promising, notably histone deacetylase inhibitors and antiangiogenic agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21553148&#34; target=&#34;_blank&#34;&gt;21553148&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The tyrosine kinase inhibitor sunitinib induced partial response in 10% and stable disease in 66% of MPM patients as second-line treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21620489&#34; target=&#34;_blank&#34;&gt;21620489&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Detailed knowledge of molecular mechanisms of signal transduction and neoangiogenesis in hMPM should aid in the design and screening of other promising compounds such as more efficacious receptor tyrosine kinase inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21774103&#34; target=&#34;_blank&#34;&gt;21774103&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To identify new therapeutic approaches in malignant mesothelioma (MM), we examined the expression and activation of receptor tyrosine kinases (RTKs) and the effects of specific RTK inhibitors and the mammalian target of rapamycin (mTOR) inhibitor rapamycin; the latter being of special interest in MM given the recent linkage between NF2 loss and mTOR activation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21787763&#34; target=&#34;_blank&#34;&gt;21787763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Up-regulation of epidermal growth factor receptor (EGFR) plays an important role in MPM development and EGFR-tyrosine kinase inhibitors (TKIs) may represent novel therapeutic options.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21964533&#34; target=&#34;_blank&#34;&gt;21964533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase II study of the oral pan-VEGF receptor tyrosine kinase inhibitor, cediranib, in patients with MPM after platinum-based systemic chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22005473&#34; target=&#34;_blank&#34;&gt;22005473&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This open-labeled phase II trial evaluated single-agent sunitinib, an inhibitor of multiple receptor tyrosine kinases including the vascular endothelial growth factor receptors, given at 50 mg daily orally for 4 weeks followed by a 2-week rest, in patients with advanced MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22246193&#34; target=&#34;_blank&#34;&gt;22246193&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By regulating cell functions such as growth, survival, motility/migration, and invasion, the c-mesenchymal-epithelial transition (c-MET) receptor tyrosine kinase/hepatocyte growth factor (HGF) axis accounts for a critical pathway in malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22289125&#34; target=&#34;_blank&#34;&gt;22289125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among them, several receptors tyrosine kinase show altered activity in subsets of hMPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22372904&#34; target=&#34;_blank&#34;&gt;22372904&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Activation of membrane receptor tyrosine kinases and deregulation of signaling pathways related to differentiation, survival, proliferation, apoptosis, cell cycle control, metabolism, migration, and invasion have been demonstrated. […] So far, targeted clinical approaches focusing on receptor tyrosine kinases have had limited success.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22412050&#34; target=&#34;_blank&#34;&gt;22412050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor (EGFR) gene mutation at the kinase domain and EGFR gene amplification are reported to be predictors of the response to EGFR tyrosine kinase inhibitors in lung cancer cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22519641&#34; target=&#34;_blank&#34;&gt;22519641&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies regarding anti-angiogenic treatments in MPM with bevacizumab, tyrosine-kinase inhibitors (TKIs) and other agents were critically analyzed, with an overview of ongoing trials and future perspectives, including research on biomarkers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22574723&#34; target=&#34;_blank&#34;&gt;22574723&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, the preclinical therapeutic activity of the multiple tyrosine kinase inhibitor, SU6668, against MPM was examined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22622048&#34; target=&#34;_blank&#34;&gt;22622048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, clinical trials of tyrosine kinase inhibitors in mesothelioma have been disappointing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22895142&#34; target=&#34;_blank&#34;&gt;22895142&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The multitargeted tyrosine kinase inhibitor sunitinib malate targets several pathways overexpressed in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23361052&#34; target=&#34;_blank&#34;&gt;23361052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent preclinical studies identified Axl, a tyrosine kinase receptor implicated in tumour progression and epithelial-to-mesenchymal transition, as a putative therapeutic target in malignant pleural mesothelioma (MPM), an invariably fatal malignancy with limited treatment options.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23571475&#34; target=&#34;_blank&#34;&gt;23571475&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sorafenib inhibits tyrosine kinases, including receptors for vascular endothelial growth factor, which are implicated in mesothelioma pathogenesis by preclinical and clinical data.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23677068&#34; target=&#34;_blank&#34;&gt;23677068&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Meanwhile, although frequent expression and functional activations of oncogene products such as receptor tyrosine kinases are observed in MM cells, activating mutations of these genes are rare.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23749888&#34; target=&#34;_blank&#34;&gt;23749888&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) has limited anticancer efficacy in EGFR-positive esophageal cancer (EsC) and malignant mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24107614&#34; target=&#34;_blank&#34;&gt;24107614&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Activities of protein phosphatase 1 (PP1), protein phosphatase 2A (PP2A), and protein tyrosine phosphatase 1B (PTP1B) were assayed under the cell-free conditions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24293999&#34; target=&#34;_blank&#34;&gt;24293999&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+EphA2 (ephrin type-A receptor 2) tyrosine kinase is overexpressed in most cancer cells, including MPM and non-small-cell lung cancer (NSCLC) cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24692707&#34; target=&#34;_blank&#34;&gt;24692707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Activities of protein phosphatases (PPs) such as PP1, PP2A, and protein tyrosine phosphatase 1B (PTP1B) were assayed under cell-free conditions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24838635&#34; target=&#34;_blank&#34;&gt;24838635&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The expression of STAT1 phosphorylated on tyrosine 701 (Y701) was increased by interferon-gamma (IFN-γ) treatment, whereas SOCS1 was not expressed. […] STAT1 was phosphorylated on tyrosine 701 and serine 727 in MPM tissue samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24966347&#34; target=&#34;_blank&#34;&gt;24966347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a panel of pleural mesothelioma cell lines, FGFR1 and FGF2 were coexpressed in three of seven cell lines and were significantly associated with sensitivity to the FGFR-active tyrosine kinase inhibitor (TKI), ponatinib, both in vitro and in vivo using orthotopically propagated xenografts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25138167&#34; target=&#34;_blank&#34;&gt;25138167&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fibroblast growth factor 1 (FGFR1) may be an interesting target for selective tyrosine kinases inhibitors (TKI) in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26240051&#34; target=&#34;_blank&#34;&gt;26240051&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preclinical and clinical studies exploring the efficacy of drugs targeting tyrosine kinases, angiogenesis and histone deacetylases, did not fulfil the expected clinical benefits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26323315&#34; target=&#34;_blank&#34;&gt;26323315&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dasatinib, an inhibitor of multi-tyrosine kinases including SFK, abolished anoikis resistance in suspension cultures, indicating that SFK activated by spheroid formation are responsible for anoikis resistance.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26414866&#34; target=&#34;_blank&#34;&gt;26414866&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transmembrane tyrosine-kinase Ephrin receptors promote tumor progression and/or metastasis of several malignancies including leukemia, follicular lymphoma, glioma, malignant pleural mesothelioma, papillary thyroid carcinoma, sarcomas and ovarian, breast, bladder and non-small cell lung cancers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26503698&#34; target=&#34;_blank&#34;&gt;26503698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It was reported that the tyrosine kinase inhibitor (TKI) lapatinib enhanced trastuzumab-mediated antibody-dependent cellular cytotoxicity (ADCC) in HER2-positive breast cancer, suggesting that this combination is a promising strategy for MPM treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26845191&#34; target=&#34;_blank&#34;&gt;26845191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study reports on clinical and translational parameters in patients treated with the small molecule tyrosine kinase inhibitor axitinib and chemotherapy. […] Gene expression of platelet-derived growth factor receptor beta, fms-related tyrosine kinase 1, and fms-related tyrosine kinase 4 even correlated with outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26853494&#34; target=&#34;_blank&#34;&gt;26853494&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Overall, regions of copy number gain were more common in peritoneal MM, whereas losses were more common in pleural MM, with regions of loss containing known tumor suppressor genes and regions of gain encompassing genes encoding receptor tyrosine kinase pathway members.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27068941&#34; target=&#34;_blank&#34;&gt;27068941&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increasing evidence suggests that aberrant receptor tyrosine kinase (RTK)-directed signalling plays a key role in the pathogenesis of this cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27391433&#34; target=&#34;_blank&#34;&gt;27391433&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In MPM, experimental data report activation of the c-SRC tyrosine kinase suggesting it as a potential target to be further investigated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27402216&#34; target=&#34;_blank&#34;&gt;27402216&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+c-Met is a receptor tyrosine kinase shown to be overexpressed in malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27623107&#34; target=&#34;_blank&#34;&gt;27623107&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Receptor tyrosine kinases (RTKs) such as MET and its downstream target PI3K are overexpressed and activated in a majority of MPMs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28213002&#34; target=&#34;_blank&#34;&gt;28213002&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dovitinib inhibits multiple tyrosine receptor kinases, predominantly the vascular endothelial growth factor receptors (VEGFR), but also FGFRs, and could be active in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28293123&#34; target=&#34;_blank&#34;&gt;28293123&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, the impact of pembrolizumab in NSCLC is growing as evidenced by the numerous, ongoing trials open for combinations with chemotherapy, chemoradiation, other immunotherapeutics, immunomodulators, tyrosine kinase inhibitors, PI3K inhibitors, MEK inhibitors, hypomethylating agents, and histone deacetylase inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28713675&#34; target=&#34;_blank&#34;&gt;28713675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review focuses on efforts to develop improved systemic therapy for the treatment of malignant pleural mesothelioma (MPM) including cytotoxic systemic therapy, a variety of tyrosine kinase inhibitors and their downstream effector pathways, pharmacologic targeting of the epigenome, novel approaches to target proteins expressed on mesothelioma cells (such as mesothelin), arginine depletion therapy, and the emerging role of immunotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28715648&#34; target=&#34;_blank&#34;&gt;28715648&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TUSC2 elicits its anti-tumor effects through regulating G1 cell cycle progression, apoptosis, calcium homeostasis, gene expression, and the activity of various protein tyrosine kinases and Ser/Thr kinases, albeit the precise mechanisms that TUSC2 utilizes to regulate these cellular processes and signaling molecules are still elusive.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29023728&#34; target=&#34;_blank&#34;&gt;29023728&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we present the 3D visualization of the tyrosine kinase inhibitor (TKI), imatinib, in a xenograft model of resistant malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29303405&#34; target=&#34;_blank&#34;&gt;29303405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The non-receptor cytoplasmic tyrosine kinase, Focal Adhesion Kinase (FAK) is known to play a key role in a variety of normal and cancer cellular functions such as survival, proliferation, migration and invasion. […] Then we analyze effects of two small molecule inhibitors PF-573228, and PF-431396, which are dual specificity inhibitors of FAK and proline rich tyrosine kinase 2 (PYK2), as well as VS-6063, another small molecule inhibitor that specifically inhibits FAK but not PYK2 for cell growth, motility and invasion of PDAC and MPM cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29313814&#34; target=&#34;_blank&#34;&gt;29313814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, our study demonstrated that PDGFR subtypes (platelet-derived growth factor receptor alpha and PDGFRB) may have differential roles in prognosis and resistance to antiangiogenic tyrosine kinase inhibitors and are important potential therapeutic targets that require further investigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29845703&#34; target=&#34;_blank&#34;&gt;29845703&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Ror-family of receptor tyrosine kinases, Ror1 and Ror2, is expressed in various types of tumor cells at higher levels and affects their aggressiveness.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30109162&#34; target=&#34;_blank&#34;&gt;30109162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further workup with PET-CT and cytotoxic chemotherapy combined with immunotherapy or tyrosine kinase inhibitors was recommended by oncology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30226590&#34; target=&#34;_blank&#34;&gt;30226590&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, these approaches were combined; FP-based PDT was used together with an EGFR-tyrosine kinase inhibitor (EGFR-TKI).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30311833&#34; target=&#34;_blank&#34;&gt;30311833&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The receptor tyrosine kinase MET is frequently involved in malignant transformation and inhibiting its activity in MET-dependent cancers is associated with improved clinical outcomes. […] Here, we report that inhibiting MET activity with the tyrosine kinase inhibitor MGCD516 attenuates viability, migration, and invasion of non-small cell lung cancer (NSCLC) and malignant pleural mesothelioma (MPM) cell lines &lt;i&gt;in vitro&lt;/i&gt;, and significantly retards tumor growth &lt;i&gt;in vivo&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450291&#34; target=&#34;_blank&#34;&gt;30450291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First-generation tyrosine kinase inhibitors against epidermal growth factor receptor (EGFR) did not show any significant activity in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30539198&#34; target=&#34;_blank&#34;&gt;30539198&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No tyrosine kinase inhibitors are approved for malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30863365&#34; target=&#34;_blank&#34;&gt;30863365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MST1R (RON) is a trans-membrane receptor tyrosine kinase (RTK), which is part of the c-MET proto-oncogene family.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31484920&#34; target=&#34;_blank&#34;&gt;31484920&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is an established fact that most of the solid tumors have overexpression of EPHA2 receptor tyrosine kinase. […] It functions in inhibiting cancer survival and migration via a ligand and tyrosine kinase dependent signaling (Y772).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31783178&#34; target=&#34;_blank&#34;&gt;31783178&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Presence of this translocation should be assessed by FISH and these patients could potentially benefit from tyrosine kinase inhibitors targeting ALK.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31901768&#34; target=&#34;_blank&#34;&gt;31901768&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In line with the strong preclinical rationale for targeting fibroblast growth factor receptor (FGFR) signalling in malignant mesothelioma, we conducted a phase II study assessing the efficacy of AZD4547, an oral tyrosine multi-kinase FGFR 1-3 inhibitor, as a second or third-line treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9310181&#34; target=&#34;_blank&#34;&gt;9310181&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The stimulatory mechanisms of both growth factors was examined by using the specific protein tyrosine kinase inhibitor genistein. […] It is suggested that most, if not all, of the stimulatory effects on the hyaluronan and PGs synthesis are mediated via protein tyrosine kinase activity elicited by receptor-ligand complexes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/4507/</link>
+      <atom:link href="/mesothelioma/genepanel/4507/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/4507/</link>
+    </image>
+    
+    <item>
+      <title>MTAP</title>
+      <link>/mesothelioma/genepanel/4507/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4507/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;methylthioadenosine phosphorylase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/4507&#34; target=&#34;_blank&#34;&gt;4507&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=4507&#34; target=&#34;_blank&#34;&gt; 9p21.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/156540&#39; target=&#39;_blank&#39;&gt;156540&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/112250&#39; target=&#39;_blank&#39;&gt;112250&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes an enzyme that plays a major role in polyamine metabolism and is important for the salvage of both adenine and methionine. The encoded enzyme is deficient in many cancers because this gene and the tumor suppressor p16 gene are co-deleted. Multiple alternatively spliced transcript variants have been described for this gene, but their full-length natures remain unknown. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MTAP</title>
+      <link>/mesothelioma/genepanel/4507/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4507/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;methylthioadenosine phosphorylase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; MTAP expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000099810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MTAP</title>
+      <link>/mesothelioma/genepanel/4507/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4507/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;methylthioadenosine phosphorylase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MTAP gene in 14 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/15950811&#34; target=&#34;_blank&#34;&gt;15950811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The homozygous co-deletion of MTAP, encoding the enzyme methylthioadenosine phosphorylase, in approximately 90% of mesotheliomas with P16/CDKN2A loss has potential therapeutic applications because MTAP-deficient tumors may be responsive to inhibitors of de novo AMP synthesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22394205&#34; target=&#34;_blank&#34;&gt;22394205&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed whether loss of methylthioadenosine phosphorylase (MTAP), a key enzyme in the intracellular recycling of adenosine triphosphate (ATP) often deleted in MPM, could be detected with immunohistochemistry (IHC) and used as a diagnostic marker for MPM. […] We used IHC to detect MTAP in a cohort of 99 MPMs and 39 reactive mesothelial proliferations (RP) (reactive mesothelial hyperplasia n = 33, reactive pleural fibrosis n = 6). […] MTAP staining was assessed by an H score. […] Cases with H scores below this reference point were considered to have decreased MTAP expression. […] We found that 64 of 99 (65%) of the investigated MPMs had decreased MTAP expression, while this was only true for nine of 39 (23%) of the RPs (P = 0.001). […] We further evaluated MTAP expression in a cohort of coagulated pleural effusions from 14 patients with MPM and 20 patients with RP by using a double-staining technique with Wilms tumour 1 (WT1) as a mesothelial marker. […] In these samples, decreased MTAP expression diagnosed MPM with a sensitivity of 71% and a specificity of 90%. […] Decreased MTAP expression could potentially be useful in combination with other markers in the diagnosis of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28213009&#34; target=&#34;_blank&#34;&gt;28213009&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined the expression of the 9p21.3-related proteins (p14, p15, p16, and methylthioadenosine phosphorylase (MTAP)) and BAP1 using IHC in 51 MPM and 25 RMH cases, and assessed their correlation with HD of p16 detected by FISH. […] Among the 9p21.3-related proteins, MTAP IHC findings showed best concordance with 9p21 FISH results (kappa coefficient of 0.69) and a specificity of 100%. […] We also examined the combinations of MTAP IHC with the other products. […] The loss of p16 and MTAP had better concordance (kappa coefficient of 0.71), although lower specificity (85%). […] For differentiating MPM from RMH, only MTAP showed 100% specificity among the 9p21.3-related proteins, as did BAP1 IHC and 9p21 FISH. […] Among BAP1 combinations, only that of BAP1 with MTAP showed 100% specificity. […] A combination of MTAP or BAP1 loss detected by IHC can likely detect MPM with good sensitivity and 100% specificity, and serve as useful ancillary IHC for discriminating MPM from RMH.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29053210&#34; target=&#34;_blank&#34;&gt;29053210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors previously described that IHC expression of the protein product of the methylthioadenosine phosphorylase (MTAP) gene, which is localized in the 9p21 chromosomal region, was correlated with the deletion status of 9p21 FISH in MPM tissues. […] In the current study, the authors investigated whether a combination of MTAP and BAP1 IHC could distinguish MPM from reactive mesothelial cells (RMC) in cell blocks obtained from pleural effusions. […] The authors examined IHC expression of MTAP and BAP1 in cell blocks obtained from pleural effusions of 45 cases of MPM and 21 cases of reactive mesothelial hyperplasia. […] Furthermore, IHC expression of MTAP was compared with the deletion status of 9p21 FISH. […] MTAP and BAP1 IHC differentiated MPM from RMC with 100% specificity for both and sensitivities of 42.2% and 60.0%, respectively. […] The combination of MTAP and BAP1 IHC yielded a sensitivity of 77.8%, which was higher than that of BAP1 IHC alone or 9p21 FISH alone (62.2%). […] Moreover, a high degree of concordance was observed between the results of MTAP IHC and 9p21 FISH in cell blocks. […] A combination of MTAP and BAP1 IHC in cell blocks from pleural effusions appears to be a reliable and useful method for differentiating MPM cells from RMC and can be used in the routine diagnosis of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30123503&#34; target=&#34;_blank&#34;&gt;30123503&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We here assessed through immunohistochemistry, FISH and methylation specific PCR, the expression of 5-hydroxymethylcytosine (5- hmC) - an epigenetic marker and an important regulator of embryonic development and carcinogenesis - and the methylation status of the promoter of the MTAP gene - encoding for an enzyme involved in the rescue process of methionine and adenine - in two relevant series of FF-PE MPM samples derived from MPM thoracoscopic biopsies. […] Among MPM featuring epithelial lineage, none showed methylation of MTAP promoter. […] MTAP promoter methylation level cannot be considered a suitable biomarker of epithelial MPM arousal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30429020&#34; target=&#34;_blank&#34;&gt;30429020&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We have previously reported that immunohistochemical expression of the protein product of the methylthioadenosine phosphorylase (MTAP) gene, which is localized in the 9p21 chromosomal region, is correlated with the deletion status of 9p21 FISH in MPM tissues. […] In this study, we investigated whether a combination of MTAP and BAP1 IHC could distinguish sarcomatoid MPM from fibrous pleuritis. […] We examined IHC expressions of MTAP and BAP1 and 9p21 FISH in sarcomatoid/desmoplastic (n = 18) and biphasic MPM (n = 12) and in fibrous pleuritis (n = 17). […] In addition, we compared the IHC expression of MTAP with the deletion status of 9p21 FISH. […] MTAP IHC and BAP1 IHC showed 80% and 36.7% sensitivity, respectively, and both showed 100% specificity in differentiating MPM from fibrous pleuritis. […] A combination of MTAP and BAP1 IHC yielded greater sensitivity (90%) than that detected for MTAP IHC alone or BAP1 IHC alone. […] Moreover, a high degree of concordance was observed between the results of MTAP IHC and HD of 9p21 FISH (κ = 0.63). […] With an accurate interpretation of results, combined MTAP and BAP1 IHC is a reliable and effective method for distinguishing sarcomatoid MPM from fibrous pleuritis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30885343&#34; target=&#34;_blank&#34;&gt;30885343&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We have previously reported that detecting the loss of methylthioadenosine phosphorylase (MTAP) using IHC is a surrogate assay for 9p21 FISH. […] In the current study, we investigated whether EZH2 IHC assay, alone or in combination with BAP1 and MTAP IHC, is useful for distinguishing MPM from RMH. […] We examined IHC expression of EZH2, BAP1, and MTAP, and 9p21 FISH in MPM (n = 38) and RMH (n = 29) and analyzed the sensitivity and specificity of each detection assay for distinguishing MPM from RMH. […] EZH2, BAP1, and MTAP IHC, and 9p21 FISH were characterized by a 100% specificity each and 44.7%, 52.6%, 47.4%, and 65.8% sensitivities, respectively. […] Using IHC alone (EZH2, BAP1, and MTAP IHC) also yielded a good sensitivity of 86.9%; this level is high enough for routine diagnostics. […] There were no statistically significant associations between expression of EZH2 and that of other markers (BAP1 and MTAP IHC) or 9p21 HD. […] In conclusion, adding a high expression level of EZH2 to a combination of BAP1 and MTAP loss, all detected by IHC, demonstrated useful for discriminating MPM from RMH.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31231127&#34; target=&#34;_blank&#34;&gt;31231127&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While MTAP immunohistochemistry has recently shown promise as a surrogate for CDKN2A fluorescence in situ hybridization, it has been examined in only a few single-institution studies. […] Furthermore, there are no published reports on interobserver agreement or interlaboratory reproducibility for MTAP immunohistochemistry. […] We performed MTAP immunohistochemistry on 20 benign mesothelial lesions and 99 malignant mesotheliomas from five mesothelioma centers in four countries, and each MTAP stain was independently interpreted by four pathologists. […] CDKN2A fluorescence in situ hybridization data were available for a subset of cases, and a subset of cases was subjected in MTAP immunohistochemistry in multiple laboratories to assess interlaboratory reproducibility. […] Interobserver agreement in MTAP immunostain interpretation was excellent for all mesothelial lesions (kappa: 0.85) and for malignant mesothelioma cases only (kappa: 0.82). […] MTAP loss by immunohistochemistry was 78% sensitive and 96% specific for CDKN2A homozygous deletion. […] MTAP immunohistochemistry is a reliable surrogate for CDKN2A fluorescence in situ hybridization in diagnosis of malignant mesothelioma. […] Interobserver agreement is excellent for interpretation of MTAP staining, and protocols performed in different laboratories yield concordant MTAP staining results. […] Rare cases with immunohistochemical MTAP loss may retain normal CDKN2A copy number, and the MTAP staining results should be correlated with clinicopathologic findings and other ancillary studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31231129&#34; target=&#34;_blank&#34;&gt;31231129&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These include detection of homozygous deletion of the 9p21 locus by fluorescence in situ hybridization (FISH) (9p21 FISH), loss of expression of BAP1 as detected by immunohistochemistry, and loss of expression of methylthioadenosine phosphorylase (MTAP) as detected by immunohistochemistry. […] In this study, we investigated whether NF2 FISH, either alone or in a combination with other diagnostic assays (9p21 FISH, MTAP immunohistochemistry, and BAP1 immunohistochemistry), is effective for distinguishing malignant pleural mesothelioma from reactive mesothelial hyperplasia. […] We used FISH to examine deletion status of NF2 and 9p21 and immunohistochemistry to examine expression of MTAP and BAP1 in malignant pleural mesothelioma and in reactive mesothelial hyperplasia. […] A combination of NF2 FISH, 9p21 FISH, and BAP1 immunohistochemistry yielded greater sensitivity (100%) than that detected for either diagnostic assay alone (53.2% for NF2 FISH, 78.7% for 9p21 FISH, 70.2% for MTAP immunohistochemistry, or 57.4% for BAP1 immunohistochemistry).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31495751&#34; target=&#34;_blank&#34;&gt;31495751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BAP1 and MTAP immunohistochemistry and CDKN2A fluorescence in situ hybridization are very useful adjunctive techniques for separating benign from malignant mesothelial proliferations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31667596&#34; target=&#34;_blank&#34;&gt;31667596&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, these mesothelial cells exhibited a loss of methylthioadenosine phosphorylase (MTAP) by immunohistochemistry and homozygous deletion of CDKN2A (p16) by FISH, leading to the diagnosis of MIS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31819191&#34; target=&#34;_blank&#34;&gt;31819191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A subset of MPM tumours show loss of the methyladenosine phosphorylase (MTAP) locus, resulting in profound alterations in polyamine metabolism, ATP and methionine salvage pathways, as well as changes in epigenetic control of gene expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32206567&#34; target=&#34;_blank&#34;&gt;32206567&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BAP1 loss, &lt;i&gt;CDKN2A&lt;/i&gt; homozygous deletion, and MTAP loss are highly specific markers of malignancy in a mesothelial lesion, and they attain acceptable diagnostic sensitivity when applied as a diagnostic panel.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32542810&#34; target=&#34;_blank&#34;&gt;32542810&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+BRCA1-associated protein 1 (BAP1) or methylthioadenosine phosphorylase (MTAP) immunohistochemistry (IHC) or 9p21 fluorescence in situ hybridization (FISH) are useful for the diagnosis of malignant pleural mesothelioma (MPM). […] However, the effect of these assays on the diagnostic yield of effusion cytology in MPM cases with suspicious cytomorphology or the diagnostic challenges in BAP1 or MTAP IHC have not been fully elucidated. […] Two cohorts of cytologic preparations obtained from pleural effusions were examined: MPM cases in cohort 1 were used to evaluate whether BAP1 or MTAP IHC or 9p21 FISH increase the diagnostic yield of effusion cytology; cohort 2 included cases suspicious for MPM, to which BAP1 or MTAP IHC was applied to clarify the challenges in the clinical assessment of these assays. […] In cohort 2 (n = 139), 21.7% of BAP1 immunocytochemistry in smears and 10.6% of BAP1 IHC and 9.4% of MTAP IHC in cell blocks, were identified to be challenging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MTAP</title>
+      <link>/mesothelioma/genepanel/4507/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4507/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;methylthioadenosine phosphorylase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MTAP</title>
+      <link>/mesothelioma/genepanel/4507/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/4507/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;methylthioadenosine phosphorylase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

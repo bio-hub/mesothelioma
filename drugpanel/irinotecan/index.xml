@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/irinotecan/</link>
+      <atom:link href="/mesothelioma/drugpanel/irinotecan/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/irinotecan/</link>
+    </image>
+    
+    <item>
+      <title>IRINOTECAN</title>
+      <link>/mesothelioma/drugpanel/irinotecan/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/irinotecan/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00762&#39; target=&#39;_blank&#39;&gt;db00762&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=irinotecan&#34; target=&#34;_blank&#34;&gt;irinotecan&lt;/a&gt; &lt;br&gt;
+Synonymous :(+)-irinotecan | irinotecan | irinotecan lactone | irinotecanum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;irinotecan&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10357408&#34; target=&#34;_blank&#34;&gt;10357408&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to assess the efficacy and toxicity of a combination of cisplatin and irinotecan (CPT-11) in the treatment of patients with malignant pleural mesothelioma and to characterize the pharmacokinetic profiles of CPT-11 and its active metabolite, 7-ethyl-10-hydroxycamptothecin (SN-38).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10898540&#34; target=&#34;_blank&#34;&gt;10898540&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We chose to treat malignant pleural mesothelioma with a combination of docetaxel and irinotecan (CPT-11), because there have been preliminary reports that CPT-11 is active against mesothelioma, and docetaxel and CPT-11 were the most active agents in our in vitro experiments in human mesothelioma cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15625372&#34; target=&#34;_blank&#34;&gt;15625372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 145 patients were treated in three phase II trials; vinorelbine (VIN; 70 patients), vinorelbine/oxaliplatin (VO; 26 patients), and irinotecan/cisplatin/mitomycin C (IPM; 49 patients).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15893012&#34; target=&#34;_blank&#34;&gt;15893012&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Cancer and Leukemia Group B (CALGB) conducted a multi-center phase II trial to evaluate the activity of irinotecan in malignant mesothelioma (CALGB protocol 9733). […] Twenty-eight patients accrued between January 1998 and January 1999 received irinotecan 125 mg/m2 by intravenous infusion over 90 min weekly for 4 weeks, every 6 weeks. […] Single-agent irinotecan in this dose and schedule has considerable toxicity in patients with malignant mesothelioma and has no anti-tumor activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17146783&#34; target=&#34;_blank&#34;&gt;17146783&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A Phase II open-label noncomparative study was conducted to assess the safety and efficacy of the triplet combination irinotecan, cisplatin, and mitomycin-C (IPM) chemotherapy in untreated patients and in those with previous exposure to chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18063861&#34; target=&#34;_blank&#34;&gt;18063861&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In phase II studies exploring this multitargeted antifolate in advanced gastrointestinal tumors, pemetrexed showed an interesting degree of clinical activity, encouraging further trials evaluating the synergism with other drugs such as oxaliplatin, irinotecan and gemcitabine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19131921&#34; target=&#34;_blank&#34;&gt;19131921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD-DST using 26 fresh specimens obtained by biopsy or surgery on MPM patients investigated in vitro responses to cisplatin (CDDP), carboplatin (CBDCA), doxorubicin (ADR), etoposide (VP-16), 5-fluoruracil (5-FU), gemcitabine (GEM), vinorelbine (VNR), irinotecan (SN-38), and docetaxel (TXT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23272646&#34; target=&#34;_blank&#34;&gt;23272646&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our patient refused any invasive therapies including surgery and radiotherapy, and was therefore treated with hyperthermia and systemic chemotherapy with agents such as cisplatin and irinotecan.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24633033&#34; target=&#34;_blank&#34;&gt;24633033&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He received combined chemotherapy consisting of cisplatin and irinotecan hydrochloride, which resulted in a complete response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32475823&#34; target=&#34;_blank&#34;&gt;32475823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Irinotecan is a novel anticancer drug that has worked wonders in combination with other anticancer drugs. […] Irinotecan has been found a better salvage therapy in patients who are resistant to 5-fluorouracil. […] Irinotecan is generally associated with gastrointestinal side effects including nausea, vomiting and diarrhoea, while cardiovascular toxicity (5%) has been reported mainly as vasodilatation and possible bradycardia with no known incidence. […] A case was reported in 1998 by Miya &lt;i&gt;et al&lt;/i&gt; of a 65-year-old man with bradycardia which was managed with atropine without modifications in the dosage of irinotecan or in the rate of infusion. […] We report a case of a patient with small round cell cancer who presented with sinus pause bradycardia after infusion with irinotecan.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

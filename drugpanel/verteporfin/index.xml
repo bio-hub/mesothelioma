@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/verteporfin/</link>
+      <atom:link href="/mesothelioma/drugpanel/verteporfin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/verteporfin/</link>
+    </image>
+    
+    <item>
+      <title>VERTEPORFIN</title>
+      <link>/mesothelioma/drugpanel/verteporfin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/verteporfin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00460&#39; target=&#39;_blank&#39;&gt;db00460&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=verteporfin&#34; target=&#34;_blank&#34;&gt;verteporfin&lt;/a&gt; &lt;br&gt;
+Synonymous :verteporfin | verteporfina | vertéporfine | verteporfinum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;verteporfin&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16785733&#34; target=&#34;_blank&#34;&gt;16785733&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Efficacy and tumour selectivity of photodynamic therapy with two clinically approved sensitizers (mTHPC, verteporfin) were assessed for focal intracavitary photodynamic therapy (PDT) in rodents with malignant pleural mesothelioma (MPM) at recommended drug-light conditions and at escalating sensitizer dosages. […] Animals were intravenously sensitized either with mTHPC (0.1 mg/kg, n = 3; 0.2 mg/kg, n = 3) followed after 4 days by illumination with 20 J/cm(2) at 652 nm, or with verteporfin (0.6 mg/kg, n = 3; 1.2 mg/kg, n = 3) followed after 20 min by illumination with 100 J/cm(2) at 689 nm. […] Mediastinal organs were spared for both sensitizers but verteporfin resulted in a higher extent of tumour necrosis (80%) than mTHPC (50%). […] Drug dose escalation revealed a higher extent of PDT-related tumour necrosis for both sensitizers (mTHPC 55%, verteporfin 88%), however, verteporfin-PDT was associated with a higher toxicity than mTHPC-PDT.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25806284&#34; target=&#34;_blank&#34;&gt;25806284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+New therapeutic strategies aimed at interfering with YAP activity include inhibition of hedgehog pathway, which downregulates the YAP protein, verteporfin, which inhibits the assembly of a functional YAP-TEAD transcription factor, and interference with thrombin and lysophosphatidic acid (LPA) receptors downstream signalling, since upon agonist binding they activate YAP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28003305&#34; target=&#34;_blank&#34;&gt;28003305&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cell proliferation, viability, apoptosis, mobility, and invasion were determined after siRNA knockdown or YAP (verteporfin), mTOR (rapamycin), and mTOR/PI3K/AKT (PF-04691502) inhibitor treatment.&lt;b&gt;Results:&lt;/b&gt; The &lt;i&gt;LATS2&lt;/i&gt; gene was altered in 11% of MPM by point mutations and large exon deletions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28470935&#34; target=&#34;_blank&#34;&gt;28470935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The same three cell lines (IC&lt;sub&gt;50&lt;/sub&gt; s &amp;lt; 1 μM) were more sensitive than LP9 (IC&lt;sub&gt;50&lt;/sub&gt; = 3.5 μM) to the YAP/TEAD inhibitor verteporfin. […] We also found that verteporfin significantly reduced YAP protein level, mRNA levels of YAP downstream genes and GTIIC reporter activity in the same three cell lines, indicating inhibition of YAP signaling by verteporfin. […] Verteporfin also impaired invasion and tumoursphere formation ability of H2052 and H290.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30527180&#34; target=&#34;_blank&#34;&gt;30527180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Effects on apoptosis, cell proliferation and viability on MPM growing in multicellular spheroid were also assessed for verteporfin. […] Three inhibitors were more efficient than cisplatin, the drug used as first-line chemotherapy in patients with MPM: verteporfin, a putative YAP inhibitor, defactinib, a FAK inhibitor and NSC668394, an Ezrin inhibitor. […] Verteporfin, the most efficient inhibitor, induced cell proliferation arrest and cell death, and is effective on 3D spheroid multicellular model. […] Verteporfin sensitivity was YAP-independent and related to molecular classification of the tumors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

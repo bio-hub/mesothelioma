@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/amatuximab/</link>
+      <atom:link href="/mesothelioma/drugpanel/amatuximab/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/amatuximab/</link>
+    </image>
+    
+    <item>
+      <title>AMATUXIMAB</title>
+      <link>/mesothelioma/drugpanel/amatuximab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/amatuximab/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12845&#39; target=&#39;_blank&#39;&gt;db12845&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=amatuximab&#34; target=&#34;_blank&#34;&gt;amatuximab&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;amatuximab&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25231400&#34; target=&#34;_blank&#34;&gt;25231400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Amatuximab is a chimeric monoclonal antibody to mesothelin, a cell surface glycoprotein highly expressed in malignant pleural mesothelioma (MPM). […] On the basis of its synergy with chemotherapy in preclinical studies, we evaluated the antitumor activity of amatuximab plus pemetrexed and cisplatin in patients with unresectable MPM. […] In a single-arm phase II study, amatuximab (5 mg/kg) was administered on days 1 and 8 with pemetrexed (500 mg/m(2)) and cisplatin (75 mg/m(2)) on day 1 of 21-day cycles for up to six cycles. […] Patients with response or stable disease received amatuximab maintenance until disease progression. […] Median of five cycles (range, 1-6) of combination treatment was administered, and 56 (63%) patients received amatuximab maintenance. […] Eleven patients (12.4%) had amatuximab-related hypersensitivity reactions. […] Amatuximab with pemetrexed and cisplatin was well tolerated with objective tumor response or stable disease rate of 90% by independent radiologic review. […] Although PFS was not significantly different from historical controls, the median OS was 14.8 months with a third of patients alive and 5 continuing to receive amatuximab at the time of analysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26898299&#34; target=&#34;_blank&#34;&gt;26898299&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To characterize amatuximab pharmacokinetics (PK) and the relationship of amatuximab exposure with response in patients with unresectable malignant pleural mesothelioma (MPM) receiving amatuximab with pemetrexed and cisplatin. […] A nonlinear mixed effects PK model was built using data from all of the amatuximab studies conducted to date. […] Patients received amatuximab alone or in combination with chemotherapy. […] Exposure-response analyses explored relationships between amatuximab exposure and overall survival (OS), progression-free survival (PFS) and safety. […] Alternative amatuximab dosing regimens were explored with simulations using population PK and parametric survival models. […] Amatuximab PK was best described by a two-compartment model with parallel linear and nonlinear elimination pathways. […] Exposure-response analyses demonstrated that the amatuximab exposure (C min) showed a significant effect on OS (log-rank test, P = 0.0202). […] For patients with amatuximab C min above the median (38.2 μg/mL), the median OS was 583 days (90 % CI 418 -NE). […] The amatuximab exposure showed similar significant effect on PFS. […] In patients with MPM, higher amatuximab exposure in combination with chemotherapy was shown to be associated with longer OS, supporting evaluation of more frequent dosing in future trials to achieve higher exposure and subsequently longer OS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29361614&#34; target=&#34;_blank&#34;&gt;29361614&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Amatuximab, a chimeric anti-mesothelin antibody, in combination with CDDP/PEM, is currently being tested in randomized, double-blind, placebo-controlled phase II study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29652548&#34; target=&#34;_blank&#34;&gt;29652548&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Amatuximab is a mAb targeting mesothelin whose mechanism of action utilizes in part antibody-dependent cellular cytotoxicity (ADCC). […] To determine if CA125 has immunosuppressive effects on amatuximab ADCC and associated clinical outcomes, post hoc subgroup analysis of patients from a Phase 2 study with primary diagnosed stage III/IV unresectable mesothelioma treated with amatuximab plus cisplatin and pemetrexed were conducted. […] In vitro studies found that CA125 was able to bind amatuximab and perturb ADCC activity via decreased Fc-γ-receptor engagement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

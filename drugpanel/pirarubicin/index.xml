@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/pirarubicin/</link>
+      <atom:link href="/mesothelioma/drugpanel/pirarubicin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/pirarubicin/</link>
+    </image>
+    
+    <item>
+      <title>PIRARUBICIN</title>
+      <link>/mesothelioma/drugpanel/pirarubicin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/pirarubicin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11616&#39; target=&#39;_blank&#39;&gt;db11616&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=pirarubicin&#34; target=&#34;_blank&#34;&gt;pirarubicin&lt;/a&gt; &lt;br&gt;
+Synonymous :adriamycin, tetrahydropyranyl | theprubicin | thp-adm | thp-doxorubicin
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;pirarubicin&lt;/em&gt; gene in 6 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Detorubicin and pirarubicin have response rates (RRs) of 22%-26%, epirubicin of 5%-15%, docetaxel of 5%-23% and vinorelbine of 24%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2250368&#34; target=&#34;_blank&#34;&gt;2250368&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After partial remission was achieved, the dosage was changed to 50 mg of cisplatin and 50 mg of pirarubicin on a five-week cycle. […] The authors thus have concluded that a combined therapy of doxorubicin and cisplatin is effective for treating a malignant mesothelioma, and that pirarubicin is superior to doxorubicin with reference to side effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2386894&#34; target=&#34;_blank&#34;&gt;2386894&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thirty-five non-pretreated patients (29 male, six female) with malignant pleural mesothelioma, median age of 68.5 years (range, 29 to 78 years) and a median performance status of 80% (range, 60% to 100%) were treated with 70 mg/m2 Pirarubicin. […] Five patients achieved minor response, and a further 14 patients were stable under treatment with Pirarubicin. […] Pirarubicin is an active drug in the treatment of pleural mesothelioma with fewer severe side effects than doxorubicin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2917312&#34; target=&#34;_blank&#34;&gt;2917312&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eight patients with diffuse malignant mesothelioma of the pleura or peritoneum, previously untreated with chemotherapy, were treated with a new anthracycline 4’-0-tetrahydropyranyladriamycin (pirarubicin). […] Pirarubicin was given intravenously at the rate of 5 mg per minute, at doses ranging from 35 to 70 mg/m2 once every 21 days. […] Pirarubicin is active in malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

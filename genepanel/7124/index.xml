@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/7124/</link>
+      <atom:link href="/mesothelioma/genepanel/7124/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/7124/</link>
+    </image>
+    
+    <item>
+      <title>TNF</title>
+      <link>/mesothelioma/genepanel/7124/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7124/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7124&#34; target=&#34;_blank&#34;&gt;7124&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7124&#34; target=&#34;_blank&#34;&gt; 6p21.33&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/611162&#39; target=&#39;_blank&#39;&gt;611162&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/600807&#39; target=&#39;_blank&#39;&gt;600807&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/191160&#39; target=&#39;_blank&#39;&gt;191160&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/157300&#39; target=&#39;_blank&#39;&gt;157300&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a multifunctional proinflammatory cytokine that belongs to the tumor necrosis factor (TNF) superfamily. This cytokine is mainly secreted by macrophages. It can bind to, and thus functions through its receptors TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. This cytokine is involved in the regulation of a wide spectrum of biological processes including cell proliferation, differentiation, apoptosis, lipid metabolism, and coagulation. This cytokine has been implicated in a variety of diseases, including autoimmune diseases, insulin resistance, and cancer. Knockout studies in mice also suggested the neuroprotective function of this cytokine. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/mesothelioma/genepanel/7124/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7124/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; TNF expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000232810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000232810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/mesothelioma/genepanel/7124/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7124/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TNF gene in 21 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/10232419&#34; target=&#34;_blank&#34;&gt;10232419&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pf-HYA values were correlated with values for Pf-tumour necrosis factor (TNF)-alpha and Pf-interleukin (IL)-1beta, as determined by radioimmunoassay. […] Pf-HYA correlated positively with Pf-TNF-alpha (r=0.62) and Pf-IL-1beta (r=0.52).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/10232421&#34; target=&#34;_blank&#34;&gt;10232421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transforming growth factor (TGF)-beta2 and interleukin (IL)-6 were constitutively secreted, while tumour necrosis factor (TNF)-alpha was secreted only in response to lipopolysaccharide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/10544967&#34; target=&#34;_blank&#34;&gt;10544967&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Selected mediators, including TGF-beta, TNF-alpha, LPS and PMA, uniformly enhanced uPAR expression in each of the tumor cell lines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/12929752&#34; target=&#34;_blank&#34;&gt;12929752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Levels of interferon-gamma (IFN-gamma), tumor necrosis factor-alpha (TNF-alpha), interleukin (IL)-1beta, IL-6, IL-8, IL-10 and IL-12 were assayed before Foscan administration; after anesthetic induction, surgical resection and light delivery; in postoperative recovery and the day after the surgery. […] IFN-gamma, TNF-alpha and IL-12 showed no elevation, but IL-1beta, IL-6, IL-8 and IL-10 levels were elevated after surgery and PDT.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/1581074&#34; target=&#34;_blank&#34;&gt;1581074&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate the feasibility of tumor necrosis factor-alpha (TNF-alpha) treatment of lung cancer patients, we chose the malignant cells contained in their pleural effusions as a first convenient target. […] We found, however, that a TNF-alpha inhibitor (TNF-alpha I) activity was present in both patient sera and pleural fluids. […] We therefore compared the TNF-alpha I activity present in patients with benign or malignant pleural effusions using a bioassay of TNF-alpha inhibition and partially characterized it. […] A high TNF-alpha I activity characterizes cancer patients with sera levels twice as high as the control level measured for blood bank donors (2.54 +/- 1.28 versus 1.19 +/- 0.38) and with even higher levels in pleural fluids (3.75 +/- 1.83). […] In contrast, patients with benign pleural effusions present similar levels of TNF-alpha I activity, at about the control level, in both their sera and pleural fluids (1.37 +/- 0.98 versus 1.16 +/- 0.85). […] A high TNF-alpha I activity is consistently found in cancer patients but is only released in vitro by leukocytes. […] It is most likely related to recently purified TNF-alpha inhibitors that, as soluble shed fragments of TNF receptors, may function as traps for TNF molecules. […] This study suggests that tumors may evade TNF cytotoxic action by modulating systemic levels of TNF and implies a reassessment of TNF therapy in cancer patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17044196&#34; target=&#34;_blank&#34;&gt;17044196&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent results revealed that asbestos carcinogenesis in humans and in rodents is linked to the activation of the AP-1 pathway, which induces cell division, and to the secretion of TNF-alpha (and the expression of its receptor) by mesothelial cells and by nearby macrophages exposed to asbestos. […] In mesothelial cells, TNF-alpha signaling through NF-kappaB activation prevents apoptosis and cell death, allowing mesothelial cells to survive the genetic damage induced by asbestos and divide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17253597&#34; target=&#34;_blank&#34;&gt;17253597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, potential regulatory mechanisms of IAP genes in MPM were investigated and it was found that tumour necrosis factor-alpha (TNF-alpha) can increase mRNA and protein levels of IAP-1, IAP-2, and XIAP, but not livin or survivin in MPM cell lines (n=4). […] It was also found that IAP gene expression levels are increased concomitantly with translocation to the nucleus of the TNF-responsive transcription factor NF-kappaB. […] Co-incubation of MPM cells with TNF-alpha and pyrrolidine dithiocarbamate (PDTC), an NF-kappaB inhibitor, prevented TNF-mediated up-regulation of IAP gene expression levels. […] In survival studies, TNF-alpha was not toxic to MPM cells at any concentration examined. […] However, MPM cells exposed to TNF-alpha were twice as resistant to cisplatin in dose response survival assays compared with unstimulated controls and were found to have a significantly greater fraction of surviving cells at multiple cisplatin concentrations (p&amp;lt;0.0087). […] Finally, it was found that levels of circulating TNF-alpha were statistically significantly (p=0.031) (median 312.5 pg/ml) higher in MPM patients (n=6) prior to surgical tumour debulking compared with those after surgery (median 0 pg/ml). […] These results when combined with previous observations by our laboratory and others strongly suggest that IAPs act synergistically with TNF family members to promote survival of MPM tumour cells after exposure to cisplatin and possibly other chemotherapeutic drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18709470&#34; target=&#34;_blank&#34;&gt;18709470&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The capacity of asbestos to induce mesothelioma has been linked to its ability to cause the release of TNF-alpha (that promotes mesothelial cells survival), other cytokines and growth factors, and of mutagenic oxygen radicals from exposed mesothelial cells and nearby macrophages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20616036&#34; target=&#34;_blank&#34;&gt;20616036&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The release of HMGB1 induces macrophages to secrete TNF-alpha, which protects HM from asbestos-induced cell death and triggers a chronic inflammatory response; both favor HM transformation. […] TNF-alpha was coexpressed in the same areas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21287572&#34; target=&#34;_blank&#34;&gt;21287572&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Promising approaches to achieve this goal are based on the use of Asn-Gly-Arg (NGR)-containing peptides as ligands for drug delivery and of NGR-TNF, a peptide-tumor necrosis factor-α fusion protein that selectively alters drug penetration barriers and that is currently tested in a randomized Phase III trial in patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21412769&#34; target=&#34;_blank&#34;&gt;21412769&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, asbestos carcinogenesis is linked to the chronic inflammatory process caused by the deposition of a sufficient number of asbestos fibers and the consequent release of pro-inflammatory molecules, especially HMGB-1, the master switch that starts the inflammatory process, and TNF-alpha by macrophages and mesothelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21726997&#34; target=&#34;_blank&#34;&gt;21726997&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We showed that pemetrexed induced apoptosis via up-regulation of Death Receptor 5 (DR5), an important death receptor for tumour necrosis factor (TNF)-related apoptosis inducing ligand (TRAIL).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23192659&#34; target=&#34;_blank&#34;&gt;23192659&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, they rapidly released large amounts of IFN-γ and TNF-α after stimulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24922007&#34; target=&#34;_blank&#34;&gt;24922007&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tumor necrosis factor-related, apoptosis-inducing ligand (TRAIL) is a member of the TNF family, which induces cancer cell death through extrinsic apoptotic pathway, while sparing normal cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25301502&#34; target=&#34;_blank&#34;&gt;25301502&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Naftopidil upregulated the expression of tumor necrosis factor-α (TNF-α) mRNA in these cells. […] The results of the present study indicate that naftopidil induces apoptosis of NCI-H2052 cells by upregulating the expression of TNF-α and stimulating the secretion of FasL, a ligand for the death receptor Fas, both to activate caspase-8 and the effector caspase-3, leading to the suppression of NCI-H2052 cell proliferation in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25503125&#34; target=&#34;_blank&#34;&gt;25503125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Importantly, this apoptotic signal is further strengthened by the addition of TNF-related apoptosis-inducing ligand (TRAIL).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/26407584&#34; target=&#34;_blank&#34;&gt;26407584&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with malignant pleural effusion expressed higher levels of IFN-α1, IFN-β1, TNF-α, IL-4 and IL-6, and suppression of TGFβ-1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31639216&#34; target=&#34;_blank&#34;&gt;31639216&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD70 and CD27 belong to the tumour necrosis factor (TNF) and the TNF receptor (TNFR) superfamily, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32574520&#34; target=&#34;_blank&#34;&gt;32574520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results indicated that IL-1β, secreted by macrophages stimulated by MWCNTs, may significantly enhance the release of inflammatory cytokines, such as IL-8, TNF-α, and IL-6, from mesothelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/8528743&#34; target=&#34;_blank&#34;&gt;8528743&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also compared the serum levels of the cytokines interleukin (IL) 1 beta, 2 and 6, tumor necrosis factor-alpha (TNF alpha) and soluble IL-2 receptor (sIL-2R) with those present in neoplastic effusions of the same patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/8725724&#34; target=&#34;_blank&#34;&gt;8725724&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+125I-fibrinogen bound specifically and saturably to either cell line, and specific fibrinogen binding increased upon stimulation of these cells with proinflammatory agents such as phorbol myristate (PMA), lipopolysaccharide (LPS) or tumor necrosis factor (TNF-alpha).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/mesothelioma/genepanel/7124/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7124/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/mesothelioma/genepanel/7124/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7124/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

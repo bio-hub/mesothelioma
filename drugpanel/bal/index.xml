@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/bal/</link>
+      <atom:link href="/mesothelioma/drugpanel/bal/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/bal/</link>
+    </image>
+    
+    <item>
+      <title>BAL</title>
+      <link>/mesothelioma/drugpanel/bal/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/bal/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=bal&#34; target=&#34;_blank&#34;&gt;bal&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;bal&lt;/em&gt; gene in 11 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11796462&#34; target=&#34;_blank&#34;&gt;11796462&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A previous study of the two groups with BAL revealed higher proportional lymphocytosis among subjects with calcifications. […] We suggested that BAL lymphocytosis may be somehow correlated with “protection” against neoplasia. […] The present report is a study of the liquid phase of BAL in the two groups. […] BAL specimens of 43 Metsovites (13 subjects with PCs and 30 subjects without PCs) and two control groups were examined. […] This difference leads the first group to the formation of PCs, BAL fluid lymphocytosis, and relative “protection” against malignancy, and the second group to no calcifications, no lymphocytosis, but also no protection against malignancy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1456576&#34; target=&#34;_blank&#34;&gt;1456576&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to evaluate the lung response to the fiber, bronchoalveolar lavage (BAL) was performed in 25 Metsovites; 14 with PCs, three with PCs and neoplasia, five without PCs, and three without PCs but with established neoplasia. […] Twelve Metsovites had lymphocytic alveolitis (BAL lymphocytes &amp;gt; 15%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1801838&#34; target=&#34;_blank&#34;&gt;1801838&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The concentration and size distribution of bronchoalveolar lavage (BAL) asbestos fibers (AF) longer than 2 microns was determined by analytical transmission electron microscopy (TEM). […] Occupational asbestos exposure was reflected by increased asbestos fiber concentration in the BAL samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19105609&#34; target=&#34;_blank&#34;&gt;19105609&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They also have lymphocytic alveolitis, and differences in bronchoalveolar lavage (BAL) proteins, compared with those without pleural calcifications (PC(-)). […] To further evaluate this, a proteomic analysis of BAL proteins was performed. […] Proteomic analysis (2D-electrophoresis/Mass Spectrometry) of BAL in Metsovites nonoccupationally exposed to asbestos revealed increased albumin fragments, alpha1-antitrypsin, S100-A9 and HSP27, suggesting ongoing inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29020669&#34; target=&#34;_blank&#34;&gt;29020669&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chest computed tomography (CT) and bronchoalveolar lavage (BAL) were used to evaluate residual asbestos exposure in younger Metsovites through the identification of pleural calcifications and asbestos bodies, respectively. […] In order to be able to compare our BAL findings, we sought historical controls among BAL studies performed in Metsovites with known exposure to “luto,” in the 1980s-1990s, mainly to evaluate alveolitis. […] All 8 BAL studies were negative for asbestos bodies. “Luto” use seems to have been the only source of considerable asbestos exposure in Metsovo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7181238&#34; target=&#34;_blank&#34;&gt;7181238&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos bodies (AB) were counted in bronchoalveolar lavage (BAL) fluid from 62 patients with suspected asbestos related diseases, 2 patients with known exposure to asbestos but without related disease, and 40 control subjects. […] BAL fluid contained AB in all patients with obvious exposure (28 of 28), including the 2 without related disease, in most patients with suspected exposure (26 of 28), as well as in 5 of 8 patients without known exposure but with suspicion of asbestos related disease (mesothelioma or pleural plaques). […] In conclusion, the finding of AB in BAL fluid correlates with the occupational risk and can disclose unknown exposure better than a questionnaire, but a positive lavage is not a proof of disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

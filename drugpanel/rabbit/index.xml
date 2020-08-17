@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/rabbit/</link>
+      <atom:link href="/mesothelioma/drugpanel/rabbit/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/rabbit/</link>
+    </image>
+    
+    <item>
+      <title>RABBIT</title>
+      <link>/mesothelioma/drugpanel/rabbit/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/rabbit/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10415&#39; target=&#39;_blank&#39;&gt;db10415&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=rabbit&#34; target=&#34;_blank&#34;&gt;rabbit&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rabbit&lt;/em&gt; gene in 7 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15722797&#34; target=&#34;_blank&#34;&gt;15722797&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One hundred eighteen adenocarcinomas and 111 diffuse malignant mesotheliomas-70 epithelial, 22 sarcomatous, and 19 biphasic-were immunostained with calretinin antibodies from Zymed (polyclonal rabbit, prediluted, PAD:DC8) and DAKO(monoclonal mouse, 1:100, clone DAK Calret 1) using manufacturer-recommended procedures.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22032542&#34; target=&#34;_blank&#34;&gt;22032542&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Rabbit polyclonal c-FLIP by Abcam and the IntraStain kit by Dako performed best. c-FLIP expression was detected in tumour cells in all 69 effusions (expression range 21-100%, median = 80%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2422942&#34; target=&#34;_blank&#34;&gt;2422942&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By using conventional rabbit antiserum, the authors detected CEA in the majority of adenocarcinomas (96%), but also in two cases of mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2428981&#34; target=&#34;_blank&#34;&gt;2428981&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Auto-antibodies stained all the layers of a normal human epidermis whereas an immune serum, prepared by injecting a rabbit with pure human keratin proteins, stained more efficiently the outer layers of the human skin; pre-immune rabbit serum did not stain human skin at all.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26281863&#34; target=&#34;_blank&#34;&gt;26281863&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We carried out a comparison of the widely used mouse monoclonal TTF-1 antibody based on the 8G7G3/1 clone versus the more recently introduced rabbit monoclonal antibody (MAb) based on the SP141 clone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3041546&#34; target=&#34;_blank&#34;&gt;3041546&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A panel of 13 mouse monoclonal antibodies (mAb) and 1 rabbit polyclonal antibody was tested for reactivity with tumor cells in 26 effusions obtained from patients with carcinoma of ovary, breast, or mesothelioma, using an immunoperoxidase staining reaction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9609725&#34; target=&#34;_blank&#34;&gt;9609725&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We first identified and characterized the uPAR mRNABP in rabbit tissues using gel mobility shift, ultraviolet (UV) cross-linking, and RNase protection assays and detected it in liver, heart, brain, spleen, colon, and lung. […] Phorbol 12-myristate 13-acetate, lipopolysaccharide, transforming growth factor-beta, tumor necrosis factor-alpha, or cycloheximide induced uPAR and uPAR mRNA expression in cultured rabbit pleural mesothelial cells and lung fibroblasts and concurrently reduced the uPAR mRNA-uPAR mRNABP interaction. […] A uPAR mRNABP physicochemically and functionally similar to that of human malignant mesothelioma is constitutively expressed in the rabbit lung and other nonneoplastic tissues. […] In rabbit lung fibroblasts and mesothelial cells, expression of uPAR involves posttranscriptional regulation whereby the uPAR mRNABP appears to interact with a specific coding region cis-element to decrease the stability of uPAR mRNA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

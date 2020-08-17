@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/eosin/</link>
+      <atom:link href="/mesothelioma/drugpanel/eosin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/eosin/</link>
+    </image>
+    
+    <item>
+      <title>EOSIN</title>
+      <link>/mesothelioma/drugpanel/eosin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/eosin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db13706&#39; target=&#39;_blank&#39;&gt;db13706&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=eosin&#34; target=&#34;_blank&#34;&gt;eosin&lt;/a&gt; &lt;br&gt;
+Synonymous :acid red 87 | eosine yellowish
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;eosin&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10649525&#34; target=&#34;_blank&#34;&gt;10649525&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our objective was to determine the applicability of cell transfer and cell block methods using Mount Quick (Daido Sangyo, Saitama, Japan) mounting medium (MQ) for hematoxylin-eosin (H&amp;amp;E) and immunohistochemical staining of several limited amounts of biological materials in slide preparations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11735699&#34; target=&#34;_blank&#34;&gt;11735699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a case of pleural involvement by adenocarcinoma, mimicking in the hematoxylin-eosin stain an epithelioid mesothelioma, correctly identified only after immunohistochemical and electron microscopic examinations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1418272&#34; target=&#34;_blank&#34;&gt;1418272&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CEA examination was performed on Papanicolaou-stained smears and hematoxylin-and-eosin-stained cell blocks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14605068&#34; target=&#34;_blank&#34;&gt;14605068&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TN was graded in 171 routine formalin-fixed, paraffin-embedded hematoxylin-eosin-stained tumor sections by two independent observers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1577967&#34; target=&#34;_blank&#34;&gt;1577967&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sections were cut at 5 microns and stained with haemotoxylin and eosin and with CAM 5.2 (Dakopatts).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16304288&#34; target=&#34;_blank&#34;&gt;16304288&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The routinely processed formalin-fixed, paraffin-embedded, hematoxylin-eosin-stained tumor sections that had been used for the original diagnostic purposes were retrieved. […] Hematoxylin-eosin sections were selected for VEGF immunostaining, TN, and mitotic count.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16330935&#34; target=&#34;_blank&#34;&gt;16330935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hematoxylin and eosin-stained sections were reviewed, and selected sections from each case were then examined using an immunohistochemical panel of eight antibodies: calretinin (Zymed, 1:200), epithelial membrane antigen (EMA) (DAKO, 1:50), thrombomodulin (DAKO 1:5), CK7 (DAKO, 1:100), CK5-CK6 (DAKO, 1:10), BerEp4 (DAKO, 1:25), carcinoembryonic antigen (CEA) (DAKO, 1:10), and CK20 (DAKO, 1:100).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17044191&#34; target=&#34;_blank&#34;&gt;17044191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tissue sections of 4 microm were stained with hematoxylin and eosin and the immunoperoxidase method visualized by the biotin-streptavidin-peroxidase system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17049671&#34; target=&#34;_blank&#34;&gt;17049671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hematoxylin and eosin stained sections were examined for intratumoural necrosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17249532&#34; target=&#34;_blank&#34;&gt;17249532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current diagnostic gold standard is principally based on light microscopic examination of hematoxylin-eosin and immunohistochemical stains of large tissue sections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/175652&#34; target=&#34;_blank&#34;&gt;175652&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Microscopic examination of the hematoxylin and eosin-stained tissues is often inconclusive. […] Tissues were stained with hematoxylin and eosin, PAS with and without diastase treatment (DPAS), mucicarmine, alcian blue, toluidine blue, and colloidal iron with and without digestion by testicular hyaluronidase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19160697&#34; target=&#34;_blank&#34;&gt;19160697&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A generalized algorithm was developed that permits the evaluation of diagnosis-associated image features obtained from hematoxylin-eosin-stained histopathologic slides.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21302609&#34; target=&#34;_blank&#34;&gt;21302609&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One 5 microm thick paraffin section from each patient’s tissue block was stained with hematoxylin and eosin for histological typing and one for immunohistochemical detection of Simian virus 40 small t antigen using a monoclonal antibody against Simian virus 40 (Pab280).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21358344&#34; target=&#34;_blank&#34;&gt;21358344&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hematoxylin and eosin-stained slides of 232 patients with epithelioid DMPM (14 stage I, 54 stage II, 130 stage III, and 34 stage IV) from a single institution were reviewed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21697793&#34; target=&#34;_blank&#34;&gt;21697793&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The intraoperative observation of a frozen section typed the tumor as carcinoid; however, hematoxylin-eosin staining and immunohistological findings provided the definitive diagnosis of diffused, malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21769693&#34; target=&#34;_blank&#34;&gt;21769693&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aims to determine whether a semi-quantitative assessment of inflammatory response in tumor and stroma on routine hematoxylin and eosin-stained (H&amp;amp;E) slides can predict survival in patients with epithelioid malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23020727&#34; target=&#34;_blank&#34;&gt;23020727&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hematoxylin-eosin examination remains the gold standard, and the role of immunochemistry is extremely controversial; we believe that at present there is no reliable immunohistochemical marker of malignancy in this setting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24868221&#34; target=&#34;_blank&#34;&gt;24868221&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We reviewed hematoxylin and eosin and immunohistochemical slides of pleural mesothelioma and evaluated their pathological and clinical features.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26384258&#34; target=&#34;_blank&#34;&gt;26384258&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Correct MM diagnosis is baseline; guidelines agree on the importance of the tumor gross appearance and of the hematoxylin-eosin-based histology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27175358&#34; target=&#34;_blank&#34;&gt;27175358&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An incisional biopsy of the conjunctival lesion was performed, stained with haematoxylin and eosin and exposed to immunohistochemistry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28884745&#34; target=&#34;_blank&#34;&gt;28884745&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined demographic and clinical characteristics, histologic type, growth patterns, mitotic index, and nuclear grade on hematoxylin and eosin-stained slides, BAP1 protein expression by immunohistochemistry, and CDKN2A and NF2 deletions by fluorescence in situ hybridization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29100432&#34; target=&#34;_blank&#34;&gt;29100432&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All available hematoxylin and eosin-stained slides from patients who were diagnosed with MPM (1989-2010) were reviewed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29509030&#34; target=&#34;_blank&#34;&gt;29509030&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interobserver agreement in histologic pattern classification should be high. - To assess interobserver and intraobserver reproducibility in histologic differentiation between the main types of MPMs, and in further subtyping of epithelioid-type mesothelioma. - One representative hematoxylin-eosin-stained slide was selected from the archive for each of 200 patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30714674&#34; target=&#34;_blank&#34;&gt;30714674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To improve the detection and specificity of single-cell segmentation in hematoxylin-stained images (which can be utilized for recently reported 12-biomarker chromogenic sequential multiplex IHC), we adapted a segmentation algorithm previously developed for hematoxlin and eosin-stained images, where morphological features are extracted based on Gabor-filtering, followed by stacking of image pixels into n-dimensional feature space and unsupervised clustering of individual pixels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31667596&#34; target=&#34;_blank&#34;&gt;31667596&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Video-assisted thoracoscopic surgery with pleural biopsy of the right side revealed a single layer of atypical mesothelial cells without invasive lesions by hematoxylin and eosin staining.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6588749&#34; target=&#34;_blank&#34;&gt;6588749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sixteen unequivocal, diffuse malignant mesotheliomas ( DMM ) of pleura and eight diffuse pleural tumors simulating DMM , all from autopsied cases, were studied with hematoxylin and eosin, mucicarmine, diastase-periodic acid-Schiff ( DPAS ), colloidal iron, carcinoembryonic antigen, and keratin immunoperoxidase stains.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8063283&#34; target=&#34;_blank&#34;&gt;8063283&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the first round the assessments were made on haematoxylin and eosin (H &amp;amp; E) stained sections; in the second, on H &amp;amp; E sections plus sections stained with histochemical mucin stains; and in the final round, the diagnoses were made on H &amp;amp; E sections and sections stained with a panel of antibodies against various antigens (cytokeratin, EMA, CEA, Ber-EP4, B72.3, Leu-M1, vimentin and S-100 protein) said to be of value in the differential diagnosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8492966&#34; target=&#34;_blank&#34;&gt;8492966&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bichromic (hematoxylin-eosin) and trichromic (Heidenhain-azan) stainings have been routinely employed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9496827&#34; target=&#34;_blank&#34;&gt;9496827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sections from 41 cases of malignant mesothelioma were histologically subtyped on hematoxylin and eosin sections and stained immunohistochemically for the proliferation marker MIB 1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

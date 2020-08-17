@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/imatinib/</link>
+      <atom:link href="/mesothelioma/drugpanel/imatinib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/imatinib/</link>
+    </image>
+    
+    <item>
+      <title>IMATINIB</title>
+      <link>/mesothelioma/drugpanel/imatinib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/imatinib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00619&#39; target=&#39;_blank&#39;&gt;db00619&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=imatinib&#34; target=&#34;_blank&#34;&gt;imatinib&lt;/a&gt; &lt;br&gt;
+Synonymous :imatinib | imatinibum | α-(4-methyl-1-piperazinyl)-3’-((4-(3-pyridyl)-2-pyrimidinyl)amino)-p-toluidide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;imatinib&lt;/em&gt; gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15951053&#34; target=&#34;_blank&#34;&gt;15951053&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty-five patients with histologically proven malignant mesothelioma participated in a trial of imatinib mesylate (Glivec) with a starting dose of 400 mg per day taken orally, up to a maximal dose of 800 mg. […] We conclude that further investigation with monotherapy imatinib in mesothelioma is not warranted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16989994&#34; target=&#34;_blank&#34;&gt;16989994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, the targeted agents imatinib, gefitinib, erlotinib and thalidomide have been shown to be ineffective in unselected patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17311837&#34; target=&#34;_blank&#34;&gt;17311837&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Imatinib mesylate is a selective inhibitor of tyrosine kinases such as bcr-abl, c-Kit, c-Fms and platelet derived growth factor receptor beta (PDGFRbeta). […] PDGFRbeta is often overexpressed in mesothelioma cells and is a therapeutic target for imatinib in some solid tumours. […] A study was undertaken to assess whether imatinib alone or combined with chemotherapeutic agents may be effective for treating mesothelioma. […] Cultures from mesothelioma MMP, REN and ISTMES2 cell lines were treated with imatinib alone or in combination with a chemotherapeutic agent. […] Imatinib induced cytotoxicity and apoptosis selectively on PDGFRbeta positive mesothelioma cells via blockade of receptor phosphorylation and interference with the Akt pathway. […] Of the chemotherapeutic agents tested in combination with imatinib, a synergistic effect was obtained with gemcitabine and pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21226671&#34; target=&#34;_blank&#34;&gt;21226671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several early- and late-phase clinical trials for chronic myelogeneous leukaemia (CML) have demonstrated the direct inhibition of BCR-ABL fusion protein and SFKs, which led to dasatinib approval by the Food and Drug Administration (FDA) and the European Union for the treatment of imatinib-resistant or -intolerant CML, and Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21288646&#34; target=&#34;_blank&#34;&gt;21288646&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, several agents targeting these processes, including erlotinib, gefitinib, and imatinib, have proven ineffective in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21763682&#34; target=&#34;_blank&#34;&gt;21763682&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the orthotopic model, tumor formation by MSTO-211H and Y-Meso-14 cells was significantly inhibited by TSU-68, an inhibitor of FGF, VEGF, and PDGF receptors; imatinib, an inhibitor of PDGF receptors; and NK4, an antagonist of HGF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21787763&#34; target=&#34;_blank&#34;&gt;21787763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, the treatment of IST-Mes2 with TKIs (gefitinib and imatinib mesylate) in combination with cisplatin and gemcitabine did not show additivity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24492162&#34; target=&#34;_blank&#34;&gt;24492162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase I trial of cisplatin/pemetrexed/imatinib mesylate, an oral platelet-derived growth factor receptor (PDGFR) inhibitor, in chemonaive patients with malignant pleural mesothelioma (MPM). […] The MTD was established at dose level 3 (imatinib 600 mg) with a dose-limiting toxicity (DLT) of nausea and vomiting. […] The cisplatin/pemetrexed/imatinib mesylate combination had clinical benefit in some patients with MPM but was not well tolerated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28435517&#34; target=&#34;_blank&#34;&gt;28435517&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The approaches employed included the use of gene silencing and the administration of small molecules, such as crenolanib and imatinib (PDGFR inhibitors) on MPM cell lines (IstMes2, Mero-14, Mero-25). […] Imatinib showed the least effective activity on the phenotype.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29023728&#34; target=&#34;_blank&#34;&gt;29023728&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we present the 3D visualization of the tyrosine kinase inhibitor (TKI), imatinib, in a xenograft model of resistant malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32102735&#34; target=&#34;_blank&#34;&gt;32102735&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In pre-clinical models, the combination of gemcitabine (GEM) and imatinib mesylate (IM), compared with GEM alone, led to a further tumor growth inhibition and improved survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32369821&#34; target=&#34;_blank&#34;&gt;32369821&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, 2 variants observed in the PDGFRA gene are classic imatinib-sensitive therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

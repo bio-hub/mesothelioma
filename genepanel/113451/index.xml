@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/113451/</link>
+      <atom:link href="/mesothelioma/genepanel/113451/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/113451/</link>
+    </image>
+    
+    <item>
+      <title>AZIN2</title>
+      <link>/mesothelioma/genepanel/113451/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/113451/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;antizyme inhibitor 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/113451&#34; target=&#34;_blank&#34;&gt;113451&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=113451&#34; target=&#34;_blank&#34;&gt; 1p35.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/608353&#39; target=&#39;_blank&#39;&gt;608353&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene belongs to the antizyme inhibitor family, which plays a role in cell growth and proliferation by maintaining polyamine homeostasis within the cell. Antizyme inhibitors are homologs of ornithine decarboxylase (ODC, the key enzyme in polyamine biosynthesis) that have lost the ability to decarboxylase ornithine; however, retain the ability to bind to antizymes. Antizymes negatively regulate intracellular polyamine levels by binding to ODC and targeting it for degradation, as well as by inhibiting polyamine uptake. Antizyme inhibitors function as positive regulators of polyamine levels by sequestering antizymes and neutralizing their effect. This gene encodes antizyme inhibitor 2, the second member of this gene family. Like antizyme inhibitor 1, antizyme inhibitor 2 interacts with all 3 antizymes and stimulates ODC activity and polyamine uptake. However, unlike antizyme inhibitor 1, which is ubiquitously expressed and localized in the nucleus and cytoplasm, antizyme inhibitor 2 is predominantly expressed in the brain and testis and localized in the endoplasmic reticulum-golgi intermediate compartment. Recent studies indicate that antizyme inhibitor 2 is also expressed in specific cell types in ovaries, adrenal glands and pancreas, and in mast cells. The exact function of this gene is not known, however, available data suggest its role in cell growth, spermiogenesis, vesicular trafficking and secretion. Accumulation of antizyme inhibitor 2 has also been observed in brains of patients with Alzheimer’s disease. There has been confusion in literature and databases over the nomenclature of this gene, stemming from an earlier report that a human cDNA clone (identical to ODCp/AZIN2) had arginine decarboxylase (ADC) activity (&lt;a href=&#34;PMID:14738999&#34; class=&#34;uri&#34;&gt;PMID:14738999&lt;/a&gt;). Subsequent studies in human and mouse showed that antizyme inhibitor 2 was devoid of arginine decarboxylase activity (&lt;a href=&#34;PMID:19956990&#34; class=&#34;uri&#34;&gt;PMID:19956990&lt;/a&gt;). Alternatively spliced transcript variants have been described for this gene. [provided by RefSeq, Sep 2014] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AZIN2</title>
+      <link>/mesothelioma/genepanel/113451/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/113451/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;antizyme inhibitor 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; AZIN2 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AZIN2</title>
+      <link>/mesothelioma/genepanel/113451/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/113451/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;antizyme inhibitor 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of AZIN2 gene in 11 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/17044191&#34; target=&#34;_blank&#34;&gt;17044191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Distinguishing metastatic squamous cell carcinoma (SCC) from malignant mesothelioma (MM) and adenocarcinoma (ADC) in pleural effusions may be particularly challenging by routine cytologic stains. […] We explored the utility of using a panel of six antibodies to differentiate SCC from MM and ADC. 33 cases of pleural cytologic preparations retrieved from our archives consisted of 9 cases of SCC, 12 cases of epithelial MM, and 12 cases of adenocarcinoma of lung. […] ADC was positive for CAM 5.2 (100%), CEA (83%), and Ber-EP4 (83%), and negative for calretinin (100%), K903 (92%) and CK 5/6 (92%). […] Positive staining for K903, CK 5/6, and CAM 5.2 separated SCC and MM from ADC. […] Positive staining for calretinin separated MM from SCC and ADC. […] Positive staining for glycoproteins and predominantly negative staining for CK 5/6, K903 and calretinin separated ADC from SCC and MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18064689&#34; target=&#34;_blank&#34;&gt;18064689&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To distinguish carcinoma, either adenocarcinoma (ADC) or squamous cell carcinoma (SCC), and malignant mesothelioma (MM) in effusion can be a diagnostic challenge based on morphology alone. […] This study evaluates the utility of WT-1, p63, MOC31, mesothelin, and cytokeratin (K903 and CK5/6) immunostains in effusions when ADC and SCC of the lung are in the differential diagnosis with MM. […] A cohort of 43 effusions consisting of lung ADC (N = 10), SCC (N = 15), and MM (N = 18, mostly (16) pleural based), was subjected to immunostains using the above mentioned antibodies. […] WT-1 was positive in 100% MM, 0% ADC, and 0% SCC cases while p63 was positive in 0% MM, 30% ADC, and 80% SCC cases. […] Stain for MOC31 was positive in 100% ADC, 67% SCC, and 35% MM cases. […] Similarly, mesothelin antibody stained 100% ADC, 60% SCC, and 47% MM cases. […] Antibodies for K903 and CK5/6 stained 100% SCC cases but fewer ADC cases (40 and 10%, respectively). […] Used as part of an immunostain panel, cytokeratin markers (CK5/6 and K903) are useful in differentiating SCC from ADC when MM is already excluded, and MOC31 might have limited value in differentiating ADC from MM. […] A negative stain with MOC31 can exclude lung ADC. […] Mesothelin, on the other hand, is not useful in the differential diagnosis of ADC, SCC, and MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20651171&#34; target=&#34;_blank&#34;&gt;20651171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to prospectively assess, in the evaluation of patients with suspected malignant pleural mesothelioma (MPM), apparent diffusion coefficient (ADC) values derived from diffusion-weighted images obtained with a free-breathing single-shot spin-echo echo-planar imaging sequence and to correlate the ADC values with the three histologic subtypes of MPM. […] Sixty-two patients with a known pleural abnormality and clinical findings suggestive of MPM underwent diffusion-weighted 3-T MRI and ADC calculation. […] ADC values were correlated with the histologic subtypes of MPM. […] Because of image distortion, the diffusion-weighted images and ADC maps were not satisfactory for assessment in seven cases. […] The ADC values of MPM were 1.31 +/- 0.15 x 10(-3) mm(2)/s for the epithelioid, 1.01 +/- 0.11 x 10(-3) mm(2)/s for the biphasic, and 0.99 +/- 0.07 x 10(-3) mm(2)/s for the sarcomatoid subtypes of MPM. […] The ADC of the epithelioid subtype was statistically significantly higher than that of the sarcomatoid subtype (p &amp;lt; 0.05). […] The ADC in the two cases of benign plaque was 0.85 +/- 0.17 x 10(-3) mm(2)/s. […] The ADC values of epithelioid mesothelioma are higher than those of sarcomatoid mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25453845&#34; target=&#34;_blank&#34;&gt;25453845&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined CK19 expression in specimens from a total of 801 surgically resected samples of primary lung adenocarcinoma (ADC), squamous cell carcinoma (SQC), large-cell carcinoma (LCC), pleomorphic carcinoma (PC), large cell neuroendocrine carcinoma (LCNEC), small cell carcinoma (SCC), and carcinoid tumor (CT) as well as pleural malignant mesothelioma and lung metastatic deposits from breast cancer using tissue microarrays (TMAs) and whole sections. […] CK19 expression was detected in 94.6% of ADCs, 93.6% of SQCs, 54.5% of LCCs, 54.8% of PCs, 77.4% of LCNECs, 31.8% of SCCs, 34.0% of CTs, and 92.9% of malignant mesotheliomas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27232931&#34; target=&#34;_blank&#34;&gt;27232931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aims to compare staging results of (18)F-FDG PET/computed tomography (CT) and integrated PET/magnetic resonance (MR) in malignant pleural mesothelioma (MPM) patients and to investigate a potential apparent diffusion coefficient (ADC)/SUV correlation. […] SUV and ADC were assessed in therapy-naive pleural lesions. […] An inverse correlation was observed between SUVmean and ADCmin (r=-0.63, P=.002). […] The inverse correlation ADC/SUV indicates that future research on multiparametric therapy response evaluation may be warranted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/27302493&#34; target=&#34;_blank&#34;&gt;27302493&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate the correlation between apparent diffusion coefficient (ADC) values and histopathological features in a cohort of patients with suspected malignant pleural disease. […] The ADC values were calculated, and a statistical analysis was performed. […] The average ADC value in non-neoplastic pleural disease (NNPD) resulted in 1.84 ± 0.37 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt; s&lt;sup&gt;-1&lt;/sup&gt;, whereas we obtained an average value of 0.96 ± 0.19 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt; s&lt;sup&gt;-1&lt;/sup&gt; in epitheliod, of 0.76 ± 0.33 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt; s&lt;sup&gt;-1&lt;/sup&gt; in biphasic and of 0.67 ± 0.2 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt; s&lt;sup&gt;-1&lt;/sup&gt; in sarcomatoid pleural mesotheliomas. […] We observed a statistically significant difference between NNPD, epitheliod and sarcomatoid subtypes of MPM regarding ADC values. […] Our study confirmed previous data regarding distribution of ADC values in pleural disease using a respiratory-triggered diffusion-weighted technique that allowed us to minimize motion artefacts and to reduct acquisition time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28449331&#34; target=&#34;_blank&#34;&gt;28449331&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the majority of malignant pleural effusions are due to lung adenocarcinoma (AdC). […] The purpose of the current study was to assess the reliability of miRNAs as diagnostic markers to differentiate epithelioid malignant mesothelioma (MM) from lung AdC. […] These were analyzed by quantitative polymerase chain reaction on histologic (41 MM cases and 40 lung AdC cases) and cytological (26 MM cases and 27 lung AdC cases) specimens and the diagnostic performances were assessed. miR-130a, miR-193a, miR-675, miR-141, miR-205, and miR-375 were found to be the best distinguishing markers. […] Of these, only miR-130a was significantly overexpressed in MM compared with lung AdC (P =.029 in histologic and P =.014 in cytological samples). miR-130a demonstrated a sensitivity of 77%, a specificity of 67%, a positive predictive value of 69%, a negative predictive value of 75%, and an accuracy of 72% in identifying MM. […] The diagnostic performances of miR-130a expression analysis and IHC appear to be similar. miR-130a quantification could be used reliably as second-level diagnostic tool to differentiate MM from lung AdC in pleural effusion cytology, mainly in those cases with ambiguous or negative IHC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29959059&#34; target=&#34;_blank&#34;&gt;29959059&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antibody drug conjugates (ADCs) are gaining interest as a therapeutic strategy in mesothelioma. […] Trophoblast glycoprotein (5T4) is an oncofetal protein overexpressed in mesothelioma with low expression in normal tissue and therefore a good candidate for ADC treatment. […] Here, we evaluated and manipulated 5T4 as a suitable antigen for ADC targeted therapy in patients with mesothelioma. […] The cytotoxicity of three different 5T4-targeting ADCs was tested on (primary) mesothelioma cells. […] Both free antibody and ADCs targeting 5T4 were internalized and entered lysosomal compartments. […] Cytotoxicity experiments showed that cell lines with a high expression for 5T4 were sensitive to two of three ADCs. […] Lack of efficacy for the third ADC could be restored by neutralizing lysosomal compartments with chloroquine. […] The 5T4 antigen is expressed in mesothelioma and 5T4-based ADCs are internalized in lysosomes. […] Two of three ADCs were capable of killing the mesothelioma cells; the third ADC required additional lysosomal neutralization for its effect. […] 5T4-based ADCs would be a selective strategy for the treatment of mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30324544&#34; target=&#34;_blank&#34;&gt;30324544&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Applying the ADC at a dose of 10 mg/kg twice weekly induced complete tumor regression in 88% of animals within 6 weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31212757&#34; target=&#34;_blank&#34;&gt;31212757&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The apparent diffusion coefficient (ADC) of the pleural diseases was 1.22 ± 0.25 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt;/s in the MPMs, 1.31 ± 0.49 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt;/s in the pleural disseminations, 2.01 ± 0.45 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt;/s in the empyemas and 3.76 ± 0.62 × 10&lt;sup&gt;-3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt;/s in the pleural effusions. […] The ADC of the MPMs and the pleural disseminations were significantly lower than the ADC of the empyemas and the pleural effusions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/9013837&#34; target=&#34;_blank&#34;&gt;9013837&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Localization patterns were compared with those known to occur in pulmonary and other adenocarcinomas (PADC, ADC). […] Reactions for alpha3, found in all tumors, were strongest in EMM, ecBMM, and PADC. […] Our findings indicate that EMM and ecBMM parallel PADC and most ADC in their expression of alpha6 beta4, underscoring that this laminin integrin receptor is intimately associated with these neoplastic epithelial phenotypes. […] Notably, all malignant mesotheliomas (MM), including those with distinct glandular structures, expressed the alpha5 beta1 fibronectin receptor, thus paralleling most sarcomas and differing from PADC and most other ADC. […] We conclude that irrespective of architectural and cytologic variants, transformed mesothelial cells possess an integrin repertory that differs significantly from that of most ADC, including those of the lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AZIN2</title>
+      <link>/mesothelioma/genepanel/113451/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/113451/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;antizyme inhibitor 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AZIN2</title>
+      <link>/mesothelioma/genepanel/113451/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/113451/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;antizyme inhibitor 2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

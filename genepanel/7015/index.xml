@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/7015/</link>
+      <atom:link href="/mesothelioma/genepanel/7015/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/7015/</link>
+    </image>
+    
+    <item>
+      <title>TERT</title>
+      <link>/mesothelioma/genepanel/7015/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7015/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;telomerase reverse transcriptase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7015&#34; target=&#34;_blank&#34;&gt;7015&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7015&#34; target=&#34;_blank&#34;&gt; 5p15.33&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/615134&#39; target=&#39;_blank&#39;&gt;615134&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/614742&#39; target=&#39;_blank&#39;&gt;614742&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/613989&#39; target=&#39;_blank&#39;&gt;613989&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/609135&#39; target=&#39;_blank&#39;&gt;609135&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/601626&#39; target=&#39;_blank&#39;&gt;601626&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/187270&#39; target=&#39;_blank&#39;&gt;187270&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/178500&#39; target=&#39;_blank&#39;&gt;178500&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/127550&#39; target=&#39;_blank&#39;&gt;127550&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;Telomerase is a ribonucleoprotein polymerase that maintains telomere ends by addition of the telomere repeat TTAGGG. The enzyme consists of a protein component with reverse transcriptase activity, encoded by this gene, and an RNA component which serves as a template for the telomere repeat. Telomerase expression plays a role in cellular senescence, as it is normally repressed in postnatal somatic cells resulting in progressive shortening of telomeres. Deregulation of telomerase expression in somatic cells may be involved in oncogenesis. Studies in mouse suggest that telomerase also participates in chromosomal repair, since de novo synthesis of telomere repeats may occur at double-stranded breaks. Alternatively spliced variants encoding different isoforms of telomerase reverse transcriptase have been identified; the full-length sequence of some variants has not been determined. Alternative splicing at this locus is thought to be one mechanism of regulation of telomerase activity. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TERT</title>
+      <link>/mesothelioma/genepanel/7015/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7015/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;telomerase reverse transcriptase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; TERT expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TERT</title>
+      <link>/mesothelioma/genepanel/7015/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7015/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;telomerase reverse transcriptase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TERT gene in 9 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19815709&#34; target=&#34;_blank&#34;&gt;19815709&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A human mesothelial cell line (LP9/TERT-1) and isolated human pleural mesothelial cells showed rapid and protracted asbestos-induced cAMP response element binding protein (CREB1) phosphorylation, which was inhibited in LP9/TERT-1 cells by small molecule inhibitors of epidermal growth factor receptor phosphorylation and protein kinase A.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20831825&#34; target=&#34;_blank&#34;&gt;20831825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Affymetrix microarray/GeneSifter analysis was used to determine alterations in gene expression of a human mesothelial cell line (LP9/TERT-1) by a non-toxic concentration (15×10(6) μm2/cm2) of unprocessed Libby six-mix and negative (glass beads) and positive (crocidolite asbestos) controls. […] Dichlorodihydrofluorescein diacetate (DCFDA) fluorescence staining and flow cytometry revealed a dose- and time-dependent increase in reactive oxygen species (ROS) production by LP9/TERT-1 cells exposed to Libby six-mix. […] Both Libby six-mix and crocidolite asbestos at 75×10(6) μm2/cm2 caused transient decreases (p &amp;lt; 0.05) in GSH for up to 24 h and increases in gene expression of heme oxygenase 1 (HO-1) in LP9/TERT-1 and HKNM-2 cells. […] Libby six-mix causes multiple gene expression changes in LP9/TERT-1 human mesothelial cells, as well as increases in SOD2, increased production of oxidants, and transient decreases in intracellular GSH.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21454801&#34; target=&#34;_blank&#34;&gt;21454801&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both isolated HKNM-2 mesothelial cells and a telomerase-immortalized mesothelial line (LP9/TERT-1) were more sensitive to crocidolite asbestos toxicity than an SV40 Tag-immortalized mesothelial line (MET5A) and malignant mesothelioma cell lines (HMESO and PPM Mill). […] Whereas increases in phosphorylation of AKT (pAKT) were observed in MET5A cells in response to asbestos, LP9/TERT-1 cells exhibited dose-related decreases in pAKT levels. […] Pretreatment with an EGFR phosphorylation or mitogen-activated protein kinase kinase 1/2 inhibitor abrogated asbestos-induced phosphorylated ERK (pERK) 1/2 levels in both LP9/TERT-1 and MET5A cells as well as increases in pAKT levels in MET5A cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23595591&#34; target=&#34;_blank&#34;&gt;23595591&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Downregulation of CR in immortalized mesothelial cells LP9/TERT-1 strongly blocked proliferation and caused a G1 block without decreasing viability or activating apoptosis pathways.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/23975423&#34; target=&#34;_blank&#34;&gt;23975423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For this reason, we focused on the key catalytic enzyme, TERT (telomerase reverse transcriptase), by analyzing its gene expression in MPM and by studying the mechanism underlying its upregulation. […] Evaluation of TERT mRNA expression by quantitative RT-PCR showed overexpression in MPM in culture compared with normal mesothelial cells, and in MPM tumor samples compared with normal pleura. […] We identified a ‘hot spot’ of mutations in the TERT gene core promoter in both MPM in culture and in MPM tumor samples with an overall frequency of 15%. […] Furthermore, data clearly identified mutation in the TERT promoter as a mechanism of TERT mRNA upregulation in MPM. […] In contrast, gene copy number amplification was not associated with TERT overexpression. […] Then, we analyzed the clinicopathological, etiological and genetic characteristics of MPM with mutations in the TERT promoter. […] TERT promoter mutations were more frequent in MPM with sarcomatoid histologic subtype (P&amp;lt;0.01), and they were frequently associated with CDKN2A gene inactivation (P=0.03). […] In conclusion, a subgroup of MPM presents TERT promoter mutations, which lead to TERT mRNA upregulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29371938&#34; target=&#34;_blank&#34;&gt;29371938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, four cancer-associated genes showed a high frequency of copy number gain in both datasets (i.e. &lt;i&gt;TERT&lt;/i&gt;, &lt;i&gt;FCGR2B&lt;/i&gt;, &lt;i&gt;CD79B&lt;/i&gt; and &lt;i&gt;PRKAR1A&lt;/i&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32083805&#34; target=&#34;_blank&#34;&gt;32083805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Targeted next-generation sequencing was performed focusing on the major MPM mutated genes and the TERT promoter. […] The mutation frequencies are consistent with literature data, but this study emphasized that TERT promoter, not considered by previous large sequencing studies, was the third locus most affected by mutations in MPM. […] Mutations in TERT promoter, NF2, and LATS2 were more frequent in nonepithelioid MPM and positively associated with the S.score. […] BAP1, NF2, TERT promoter, TP53, and SETD2 mutations were enriched in some molecular subtypes. […] TERT promoter, NF2, and TP53 mutations were associated with a poorer overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32317288&#34; target=&#34;_blank&#34;&gt;32317288&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we investigate whether activating mutations in the telomerase reverse transcriptase (&lt;i&gt;TERT&lt;/i&gt;) gene promoter are present in MPM and associated with disease progression, cell immortalization, and genomic alteration patterns. &lt;i&gt;TERT&lt;/i&gt; promoters were sequenced in 182 MPM samples and compared with clinicopathologic characteristics. […] The respective MPM cell models (&lt;i&gt;N&lt;/i&gt; = 22) were analyzed by array comparative genomic hybridization, gene expression profiling, exome sequencing as well as TRAP, telomere length, and luciferase promoter assays. &lt;i&gt;TERT&lt;/i&gt; promoter mutations were detected in 19 of 182 (10.4%) MPM cases and significantly associated with advanced disease and nonepithelioid histology. […] TERT promoter mutations were associated with enforced promoter activity and &lt;i&gt;TERT&lt;/i&gt; mRNA expression, while neither telomerase activity nor telomere lengths were significantly altered. &lt;i&gt;TERT&lt;/i&gt; promoter-mutated MPM cases exhibited distinctly reduced chromosomal alterations and specific mutation patterns. […] While &lt;i&gt;BAP1&lt;/i&gt; mutations/deletions were exclusive with &lt;i&gt;TERT&lt;/i&gt; promoter mutations, homozygous deletions at the &lt;i&gt;RBFOX1&lt;/i&gt; and the &lt;i&gt;GSTT1&lt;/i&gt; loci were clearly enriched in mutated cases. &lt;i&gt;TERT&lt;/i&gt; promoter mutations independently predict a dismal course of disease in human MPM. […] The altered genomic aberration pattern indicates that &lt;i&gt;TERT&lt;/i&gt; promoter mutations identify a novel, highly aggressive MPM subtype presumably based on a specific malignant transformation process.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32369821&#34; target=&#34;_blank&#34;&gt;32369821&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genomic DNA was extracted from formalin-fixed paraffin-embedded tumor tissue blocks, and the TERT promoter region was amplified by PCR followed by direct capillary sequencing. […] We found a TERT promoter mutation in 11.6% of MM, and the c.-146C&amp;gt;T mutation was the most common event.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TERT</title>
+      <link>/mesothelioma/genepanel/7015/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7015/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;telomerase reverse transcriptase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TERT</title>
+      <link>/mesothelioma/genepanel/7015/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/7015/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;telomerase reverse transcriptase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

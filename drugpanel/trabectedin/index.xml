@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/trabectedin/</link>
+      <atom:link href="/mesothelioma/drugpanel/trabectedin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/trabectedin/</link>
+    </image>
+    
+    <item>
+      <title>TRABECTEDIN</title>
+      <link>/mesothelioma/drugpanel/trabectedin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/trabectedin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db05109&#39; target=&#39;_blank&#39;&gt;db05109&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=trabectedin&#34; target=&#34;_blank&#34;&gt;trabectedin&lt;/a&gt; &lt;br&gt;
+Synonymous :ecteinascidin 743 | trabectedin | trabectedina
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;trabectedin&lt;/em&gt; gene in 7 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27512118&#34; target=&#34;_blank&#34;&gt;27512118&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Trabectedin is an antineoplastic agent targeting both the malignant cells and the tumor microenvironment that has been approved for the treatment of advanced soft tissue sarcoma and ovarian cancer. […] In this preclinical study, we evaluated the antineoplastic potential of trabectedin as a single agent and in drug combination approaches in human MPM. […] Trabectedin exerted a dose-dependent cytotoxic effect in all MPM cell cultures in vitro when growing as adherent monolayers or nonadherent spheroids with IC&lt;sub&gt;50&lt;/sub&gt; values ≤ 2.6 nmol/L. […] The activity of trabectedin against MPM cells was synergistically enhanced by coadministration of cisplatin, a drug routinely used for systemic MPM treatment. […] Comparison of gene expression signatures indicated an inverse correlation between trabectedin response and bcl-2 expression. […] Accordingly, bcl-2 inhibitors (Obatoclax, ABT-199) markedly synergized with trabectedin paralleled by deregulated expression of the bcl-2 family members bcl-2, bim, bax, Mcl-1, and bcl-x&lt;sub&gt;L&lt;/sub&gt; as a consequence of trabectedin exposure. […] In addition, trabectedin exerted significant antitumor activity against an intraperitoneal MPM xenograft model. […] Together, these data suggest that trabectedin exerts strong activity in MPM and synergizes with chemotherapy and experimental bcl-2 inhibitors in vitro Thus, it represents a promising new therapeutic option for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32732073&#34; target=&#34;_blank&#34;&gt;32732073&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Trabectedin is an antitumor agent with an effect on cancer cell proliferation and a modulating action on tumor microenvironment. […] The ATREUS study explored the activity and safety of trabectedin in patients with unresectable MPM. […] Epithelioid patients with MPM received trabectedin as second-line while biphasic/sarcomatoid patients with MPM as first- or second-line therapy. […] Trabectedin starting dose was amended due to excess of liver toxicity. […] Trabectedin showed modest clinical activity, at the expense of relevant liver toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

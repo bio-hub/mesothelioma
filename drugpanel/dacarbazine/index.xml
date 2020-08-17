@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/dacarbazine/</link>
+      <atom:link href="/mesothelioma/drugpanel/dacarbazine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/dacarbazine/</link>
+    </image>
+    
+    <item>
+      <title>DACARBAZINE</title>
+      <link>/mesothelioma/drugpanel/dacarbazine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/dacarbazine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00851&#39; target=&#39;_blank&#39;&gt;db00851&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=dacarbazine&#34; target=&#34;_blank&#34;&gt;dacarbazine&lt;/a&gt; &lt;br&gt;
+Synonymous :4-(3,3-dimethyl-1-triazeno)imidazole-5-carboxamide | 4-(5)-(3,3-dimethyl-1-triazeno)imidazole-5(4)-carboxamide | 4-(dimethyltriazeno)imidazole-5-carboxamide | 5-(3,3-dimethyl-1-triazeno)imidazole-4-carboxamide | 5-(3,3-dimethyltriazeno)imidazole-4-carboxamide | 5-(dimethyltriazeno)imidazole-4-carboxamide | biocarbazine | dacarbazin | dacarbazina | dacarbazine | dacarbazinum | dic | dtic | icdmt
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dacarbazine&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1429086&#34; target=&#34;_blank&#34;&gt;1429086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The treatment programs, which can consecutively, were: I, 20 Gy (10 x 2 Gy) to the hemithorax + CYVADIC (cyclophosphamide 500 mg/m2 d 1, vincristine 1 mg/m2 d 1 and 5, adriamycin 40 mg/m2 d 1 and dacarbazine 200 mg/m2 d 1 and 5, several cycles before and after irradiation); II, 55 Gy (25 x 2.2 Gy) to the hemithorax + 15 Gy (6 x 2.5 Gy) to the tumor + CYVADIC (2 cycles before, 1 cycle during, and 2 cycles after irradiation); III, Mitoxantrone (14 mg/m2 q 28 d, &amp;lt; or = 6 cycles) followed by 70 Gy (56 x 1.25 Gy, twice a day); IV, 4-Epirubicin (110-130 mg/m2 q 28 d, &amp;lt; or = 6 cycles) followed by 35 Gy (28 x 1.25 Gy twice a day) to the hemithorax + 36 Gy (9 x 4 Gy every 2 days) to the tumor; V, Etoposide (150 mg/m2 1, 3, 5 q 28 d) followed by 38.5 Gy (11 x 3.5 Gy) to the hemithorax.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3317170&#34; target=&#34;_blank&#34;&gt;3317170&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CYVADIC (cyclophosphamide + vincristine + adriamycin + dacarbazine = DTIC) is frequently used in the treatment of patients with soft tissue sarcomas or malignant mesotheliomas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3753125&#34; target=&#34;_blank&#34;&gt;3753125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The proteinuria then improved during treatment with doxorubicin hydrochloride and dacarbazine, without noticeable improvement in the tumor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

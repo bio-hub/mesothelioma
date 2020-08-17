@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/doxorubicin/</link>
+      <atom:link href="/mesothelioma/drugpanel/doxorubicin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/doxorubicin/</link>
+    </image>
+    
+    <item>
+      <title>DOXORUBICIN</title>
+      <link>/mesothelioma/drugpanel/doxorubicin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/doxorubicin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00997&#39; target=&#39;_blank&#39;&gt;db00997&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=doxorubicin&#34; target=&#34;_blank&#34;&gt;doxorubicin&lt;/a&gt; &lt;br&gt;
+Synonymous :(1s,3s)-3-glycoloyl-3,5,12-trihydroxy-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-α-l-lyxo-hexopyranoside | (8s-cis)-10-((3-amino-2,3,6-trideoxy-α-l-lyxo-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione | 14-hydroxydaunomycin | 14-hydroxydaunorubicine | doxorubicin | doxorubicina | doxorubicine | doxorubicinum | hydroxydaunorubicin
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;doxorubicin&lt;/em&gt; gene in 74 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10476113&#34; target=&#34;_blank&#34;&gt;10476113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Four months after diagnosis the patient commenced chemotherapy with liposomal doxorubicin as part of an EORTC phase II trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10942058&#34; target=&#34;_blank&#34;&gt;10942058&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of doxorubicin has shown some activity in malignant mesothelioma but prolonged administration is hampered by cardiotoxicity. […] Caelyx, a new liposomal and pegylated form of doxorubicin has shown a better pharmacokinetic and toxic profile then doxorubicin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11505411&#34; target=&#34;_blank&#34;&gt;11505411&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The cisplatin-doxorubicin combination has shown moderate activity in malignant pleural mesothelioma (MPM; objective response, 25%), and preclinical studies suggest that interferons (IFNs) may have an antiproliferative effect on mesothelioma cell lines with a marked increase in cisplatin cytotoxicity. […] From December 1995 to June 1999, 37 previously untreated patients with MPM were treated with cisplatin 60 mg/m(2) intravenously on Day 1 plus doxorubicin 60 mg/m(2), recycled every 3-4 weeks and IFN-alpha-2b, 3 x 10((6)) international units subcutaneously 3 times a week for a total of 6 courses or until progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12057157&#34; target=&#34;_blank&#34;&gt;12057157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Doxorubicin has historically been considered the gold-standard chemotherapy, although its true response rate is likely only 15%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12194801&#34; target=&#34;_blank&#34;&gt;12194801&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For advanced or recurrent disease, we suggest local radical resection with chemotherapy, including high-dose cisplatin and doxorubicin for two cycles of 5 days each; add local radiotherapy for uncontrolled locally advanced disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12447185&#34; target=&#34;_blank&#34;&gt;12447185&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When given, chemotherapy consisted of 2 to 3 cycles of cyclophosphamide, doxorubicin (Adriamycin), and cisplatin initiated 1 to 2 months after completion of radiation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12544259&#34; target=&#34;_blank&#34;&gt;12544259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We studied the pharmacokinetics of doxorubicin and cisplatin used during the HITHOC procedure. […] Furthermore, the penetration characteristics of doxorubicin were examined. […] Between 1998 and 2001, 24 perfusions were performed with a solution containing doxorubicin and cisplatin for 90 min at 40-41 degrees C. […] Samples of blood and perfusion fluid were collected for doxorubicin and cisplatin measurements. […] The penetration characteristics of doxorubicin in tissue were determined by fluorescence microscopy. […] The mean AUC(perfusate):AUC(plasma) ratios for doxorubicin and cisplatin (ultrafiltration for plasma) were 99 and 59, respectively. […] During perfusion the concentration in the perfusate declined essentially according to first-order elimination kinetics for both doxorubicin and cisplatin with half-lives of 74 and 138 min, respectively. […] At the end of the perfusion, about 35 and 52% of the dose of doxorubicin and cisplatin, respectively, was recovered in the perfusion fluid. […] Doxorubicin penetrated into the intercostal muscle specimen, albeit that there was considerable variation in distribution throughout the specimen. […] We conclude that HITHOC with doxorubicin and cisplatin is relatively a safe procedure with the advantage of high intrathoracic cytostatic drug concentrations, while having limited systemic side effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12620914&#34; target=&#34;_blank&#34;&gt;12620914&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After cytoreduction, a perfusion was performed with cisplatin and doxorubicin at 40 degrees C to 41 degrees C for 90 minutes. […] A favorable pharmacokinetic ratio was observed for both cisplatin and doxorubicin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14596692&#34; target=&#34;_blank&#34;&gt;14596692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the true impact of chemotherapy in mesothelioma remains to be determined, agents with consistent antitumor activity include doxorubicin, platinum agents, and antimetabolites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15543656&#34; target=&#34;_blank&#34;&gt;15543656&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of the present study was to evaluate the cytotoxic efficacy of the hybrid polar compound hexamethylene bisacetamide(HMBA), either as a single agent or in combination with the anthracycline doxorubicin (DOX), against MM cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15677623&#34; target=&#34;_blank&#34;&gt;15677623&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Early attempts at treatment and palliation with single agents such as doxorubicin met with low response rates and little clinical benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16005104&#34; target=&#34;_blank&#34;&gt;16005104&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The cisplatin plus doxorubicin combination has one of the highest response rates. […] Epirubicin is an anthracyclin, analogous to doxorubicin, with a different toxicologic pattern.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16101199&#34; target=&#34;_blank&#34;&gt;16101199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combination chemotherapy included cisplatin-gemcitabine, cisplatin (or carboplatin) with premetrexed and doxorubicin-cyclophosphamide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18698027&#34; target=&#34;_blank&#34;&gt;18698027&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In colony formation assay, the IC50 of doxorubicin was 33 +/- 3.0 nmol/L in p21 shRNA-transfected cells with respect to 125 +/- 10 nmol/L of control vector-transfected cells. […] This enhancement of growth inhibition was achieved by converting a senescence-like growth arrest to apoptosis in response to doxorubicin, etoposide, and CPT11.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18716551&#34; target=&#34;_blank&#34;&gt;18716551&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After failure of medical therapy, the patient underwent LHIPEC with Cisplatin 25 mg/m/L and Doxorubicin 7 mg/m/L.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18841478&#34; target=&#34;_blank&#34;&gt;18841478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our most recently reported trial included initial laparatomy with omentectomy, resection of peritoneal implants, and placement of bilateral peritoneal Portacath; repeated courses of intraperitoneal chemotherapy with doxorubicin, cisplatin, and interferon gamma; second-look laparotomy; and intraoperative hyperthermic perfusion with mitomycin and cisplatin, followed by whole abdominal radiation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18978569&#34; target=&#34;_blank&#34;&gt;18978569&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Nordic Mesothelioma groups decided in the year 2000 to investigate a combination of liposomized doxorubicin, carboplatin, and gemcitabine for this disease in a phase II study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1898706&#34; target=&#34;_blank&#34;&gt;1898706&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors report a patient with inoperable MPM who achieved complete remission with combination chemotherapy of cyclophosphamide, doxorubicin, and cisplatin. 5-fluorouracil and mitomycin C (FM) induced another remission after recurrence of the tumor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19131921&#34; target=&#34;_blank&#34;&gt;19131921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD-DST using 26 fresh specimens obtained by biopsy or surgery on MPM patients investigated in vitro responses to cisplatin (CDDP), carboplatin (CBDCA), doxorubicin (ADR), etoposide (VP-16), 5-fluoruracil (5-FU), gemcitabine (GEM), vinorelbine (VNR), irinotecan (SN-38), and docetaxel (TXT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1917165&#34; target=&#34;_blank&#34;&gt;1917165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Exposure of PXF1118 to vincristine, vindesine, vinblastine or doxorubicin for 2-3 weeks led to an increase in the MDR cell fraction of up to 15-28% during 2 to 3 weeks. […] For doxorubicin and vindesine, dose-dependence was observed: drug concentrations not capable of eliciting cytotoxicity failed to induce significant P-gp expression. […] After exposure to vindesine for 6 weeks, tumor colonies exhibited highly enhanced resistance to Vinca alkaloids, doxorubicin, etoposide and dacarbacine, whereas their sensitivity to mitomycin, activated cyclophosphamide or cisplatin remained unchanged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19218339&#34; target=&#34;_blank&#34;&gt;19218339&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, Chk1 silencing sensitized p53-null MM cells to both an S phase block and apoptosis in the presence of doxorubicin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19505418&#34; target=&#34;_blank&#34;&gt;19505418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 49-years old woman with malignant ascites, secondary to peritoneal localization of right pleural mesothelioma, underwent, after failure of medical therapy, laparoscopic intraperitoneal chemotherapy (with Cisplatin 25 mg/m2/L and Doxorubicin 7 mg/m2/L).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19815709&#34; target=&#34;_blank&#34;&gt;19815709&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Significantly increased phosphorylated CREB1 and mRNA levels of BCL2, c-FOS, MMP9, and MMP13 were also observed in MM cells in vitro, which were further augmented after addition of Doxorubicin (Dox).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2044044&#34; target=&#34;_blank&#34;&gt;2044044&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty-six symptomatic patients with diffuse malignant pleural mesothelioma (DMPM) were enrolled in a Phase II Italian Lung Cancer Task Force (FONICAP) study to assess the activity and toxicity of doxorubicin and cisplatin combination chemotherapy. […] The drug schedule was as follows; 60 mg/m2 of doxorubicin and 60 mg/m2 of cisplatin both given intravenously (IV) on day 1 every 3 to 4 weeks. […] The combination of doxorubicin and cisplatin is effective and well tolerated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20530048&#34; target=&#34;_blank&#34;&gt;20530048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In vitro data suggested that valproic acid, a histone deacetylase inhibitor (HDACi), had a proapoptotic effect and synergised with doxorubicin to induce apoptosis in MM cells. […] Our primary end-point was to determine response rate of combined valproic acid and doxorubicin in patients with unresectable MM failing after platinum-based chemotherapy. […] Treatment consisted of doxorubicin (60 mg·m⁻²) plus valproic acid. […] Valproic acid, an HDACi, plus doxorubicin appeared an effective chemotherapy regimen in good PS (80-100) patients with refractory or recurrent MM, for which no standard therapy was available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20534685&#34; target=&#34;_blank&#34;&gt;20534685&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The chemotherapeutic agent added to platinum was gemcitabine in one patient, cyclophosphamide-doxorubicin in three patients and pemetrexed in 10 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2072707&#34; target=&#34;_blank&#34;&gt;2072707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Postoperatively 26 patients received cyclophosphamide, doxorubicin, and cis-platinum chemotherapy with or without radiotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21831962&#34; target=&#34;_blank&#34;&gt;21831962&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By contrast, CBP501 does not similarly affect the accumulation of tumor cells at G(2)-M that is induced by radiation, doxorubicin, or 5-fluorouracil treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22104079&#34; target=&#34;_blank&#34;&gt;22104079&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+George hospital, cytoreductive surgery and hyperthermic intraperitoneal chemotherapy (using cisplatin and doxorubicin) resulted in significant survival advantage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22353806&#34; target=&#34;_blank&#34;&gt;22353806&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liposomal doxorubicin (LD) consists of pegylated phospholipid vesicles that encapsulate doxorubicin-enhancing liposome deposition in the tumour.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2250368&#34; target=&#34;_blank&#34;&gt;2250368&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reported is the case of a 66-year-old male with a diffuse, pleural, malignant mesothelioma that has been successfully treated by combining cisplatin and doxorubicin. […] The patient received 100 mg of cisplatin and 50 mg of doxorubicin every 5 weeks, after which a regression of the tumor and a pleural effusion decrease was observed. […] This led to a partial remission of two-years duration and the abatement of a doxorubicin-induced alopecia. […] The authors thus have concluded that a combined therapy of doxorubicin and cisplatin is effective for treating a malignant mesothelioma, and that pirarubicin is superior to doxorubicin with reference to side effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22578202&#34; target=&#34;_blank&#34;&gt;22578202&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the current study, the combination of i.v. topotecan and pegylated liposomal doxorubicin (PLD) in advanced multi-treated MPM was tested.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23055748&#34; target=&#34;_blank&#34;&gt;23055748&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was treated with chemotherapy consisting of etoposide, paclitaxel, and pegylated liposomal doxorubicin hydrochloride.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2386894&#34; target=&#34;_blank&#34;&gt;2386894&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pirarubicin is an active drug in the treatment of pleural mesothelioma with fewer severe side effects than doxorubicin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25572813&#34; target=&#34;_blank&#34;&gt;25572813&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, combination of carboplatin, liposomised doxorubicin (Caelyx) and gemcitabine (CCG regimen) has revealed noteworthy activity when used as first-line treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2608642&#34; target=&#34;_blank&#34;&gt;2608642&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In 32% of the patients, treatment was purely symptomatic, in 42% a palliative surgical procedure with decortication of the tumour and tumour-pleurectomy was performed, while in 26% the palliative procedure was followed by adjuvant chemotherapy using doxorubicin and cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2817912&#34; target=&#34;_blank&#34;&gt;2817912&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 66-year-old male patient with diffuse pleural malignant mesothelioma was successfully treated with cisplatin and doxorubicin. […] He received 100 mg of cisplatin and 50 mg of doxorubicin every 5 weeks. […] Cisplatin and doxorubicin were thought to be the most active cytotoxic agents in the treatment of malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28274663&#34; target=&#34;_blank&#34;&gt;28274663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed an open pleurectomy and partial decortication of any visible lesion on the visceral pleura in all cases and both diaphragm and pericardium were always spared; Hyperthermic IntraTHOracic Chemotherapy was ran using Cisplatin 80 mg/m&lt;sup&gt;2&lt;/sup&gt; and Doxorubicin 25 mg/m&lt;sup&gt;2&lt;/sup&gt; at a target temperature of 42.5 °C for 60 min.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29669524&#34; target=&#34;_blank&#34;&gt;29669524&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a retrospective cohort study of patients with recurrent MM undergoing Pressurized IntraPeritoneal/Thoracal Aerosol Chemotherapy (PIPAC/PITAC) with doxorubicin 1.5 mg/m&lt;sup&gt;2&lt;/sup&gt; and cisplatin 7.5 mg/m&lt;sup&gt;2&lt;/sup&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29753703&#34; target=&#34;_blank&#34;&gt;29753703&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Best investigator choice was decided before random assignment and could be single-agent gemcitabine (1000-1250 mg/m&lt;sup&gt;2&lt;/sup&gt; intravenously), vinorelbine (25 mg/m&lt;sup&gt;2&lt;/sup&gt; intravenously or 60 mg/m&lt;sup&gt;2&lt;/sup&gt; orally), doxorubicin (60-75 mg/m&lt;sup&gt;2&lt;/sup&gt; intravenously), or best supportive care only.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30423827&#34; target=&#34;_blank&#34;&gt;30423827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When treated with pyruvate, both HT29-dx and HMM cells exhibited a re-established accumulation of doxorubicin and a lower survival ability, a decreased activity of multidrug resistance protein 1 (MRP1) and a restored mitochondrial respiratory chain function, improving the effectiveness of the chemotherapeutic agents in these resistant cancer cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3045724&#34; target=&#34;_blank&#34;&gt;3045724&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The effectiveness of combination chemotherapy with doxorubicin and cisplatin was studied in patients with advanced malignant pleuramesothelioma. 19 patients were treated intravenously with cisplatin 60 mg/m2/day on days 1 and 2, and with adriamycin 40 mg/m2 on day 3 every 4 weeks. 8/19 patients (46%) responded to chemotherapy; 2 achieved complete remissions (CR), and 6 went into partial remissions (PR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31285889&#34; target=&#34;_blank&#34;&gt;31285889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From 2009 until 2013, 71 patients with localized pleural mesothelioma underwent pleurectomy and decortication followed by HITHOC with cisplatin and doxorubicin. […] HITHOC was performed in all patients after tumor resection using cisplatin and doxorubicin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31417959&#34; target=&#34;_blank&#34;&gt;31417959&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At the reevaluation, CT - scan and laparoscopy showed a macroscopic response, allowing surgery consisting of cytoreductive surgery and hyperthermic intra peritoneal chemotherapy (Doxorubicin and Cisplatin).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31602673&#34; target=&#34;_blank&#34;&gt;31602673&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the study period, we gradually increased the dosage of cisplatin (100-150 mg/m&lt;sup&gt;2&lt;/sup&gt; BSA n = 36; 175 mg/m&lt;sup&gt;2&lt;/sup&gt; BSA n = 2) and finally added doxorubicin (cisplatin 175 mg/m&lt;sup&gt;2&lt;/sup&gt; BSA/doxorubicin 65 mg; n = 46).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31667333&#34; target=&#34;_blank&#34;&gt;31667333&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, some studies suggest proceeding with a cytoreductive surgery and a hyperthermic intraperitoneal chemotherapy combining CISPLATIN and DOXORUBICIN, due to a high incidence of recurrence rate after medical treatment or surgery alone and potential malignant transformation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32517259&#34; target=&#34;_blank&#34;&gt;32517259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our previous reports nevertheless indicated that a combination of an anthracycline (doxorubicin) and a lysine deacetylase inhibitor (valproic acid, VPA) synergize to induce the apoptosis of MPM cells and reduce tumor growth in mouse models. […] Preclinical efficacy was evaluated in BALB/c and NOD-SCID mice. &lt;i&gt;Results&lt;/i&gt;: To understand the mechanisms involved in chemoresistance, the transcriptomes of two MPM cell lines displaying different responses to VPA-doxorubicin were compared. […] The silencing of TGFα by RNA interference correlated with a significant increase in apoptosis, whereas the overexpression of TGFα desensitized MPM cells to the apoptosis induced by VPA and doxorubicin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3543239&#34; target=&#34;_blank&#34;&gt;3543239&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of the study was to evaluate cyclophosphamide (500 mg/m2 day 1), imidazole carboxamide (250 mg/m2 days 1 through 5), and doxorubicin (Adriamycin; Adria Laboratories, Columbus, OH) (50 mg/m2 day 1) v cyclophosphamide (500 mg/m2) and doxorubicin (50 mg/m2) in a randomized prospective clinical trial involving 76 fully evaluable patients with advanced stages II to IV malignant mesothelioma. […] We conclude, based on the minimal benefit observed, that the combination of cyclophosphamide and doxorubicin with or without imidazole carboxamide does not warrant further investigation in patients with advanced-stage malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3619593&#34; target=&#34;_blank&#34;&gt;3619593&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Doxorubicin was applied in a third group. […] Doxorubicin, linked with a really early diagnosis, seems to be a suitable drug for essentially improving the prognosis of disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3753125&#34; target=&#34;_blank&#34;&gt;3753125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The proteinuria then improved during treatment with doxorubicin hydrochloride and dacarbazine, without noticeable improvement in the tumor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3907825&#34; target=&#34;_blank&#34;&gt;3907825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The effect of doxorubicin and cyclophosphamide in the treatment of diffuse, malignant pleural mesothelioma was evaluated in a randomized study. […] The treatment consisted of doxorubicin at a dose of 60 mg/m2 every 3 weeks, to a total dose of 550 mg/m2, or cyclophosphamide at a dose of 1500 mg/m2 every 3 weeks for 1 year. […] During treatment with doxorubicin, none of the patients developed cardiotoxicity, while one patient developed hemorrhagic cystitis during treatment with cyclophosphamide. […] Thus, the trial showed no antineoplastic activity of either doxorubicin or cyclophosphamide in the treatment of malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6426072&#34; target=&#34;_blank&#34;&gt;6426072&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with doxorubicin, vincristine, and cyclophosphamide (12 patients, with preceding surgery in eight) was without objective benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6467141&#34; target=&#34;_blank&#34;&gt;6467141&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eleven patients were treated with single-agent Adriamycin (doxorubicin) after progression on 5-fluorouracil, and one partial response of 34 months was seen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6684983&#34; target=&#34;_blank&#34;&gt;6684983&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Six patients with unresectable malignant mesothelioma were treated with chemotherapy consisting of doxorubicin and cisplatin every 3 weeks. […] Thus, four of six patients responded to doxorubicin-cisplatin chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6692252&#34; target=&#34;_blank&#34;&gt;6692252&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Doxorubicin-treated patients survived a median of 16 months (range, 2-36 months). […] Malignant mesothelioma is being increasingly recognized in Minnesota and has a grim prognosis in spite of doxorubicin therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6761970&#34; target=&#34;_blank&#34;&gt;6761970&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment modalities including surgical procedures and chemotherapy with doxorubicin and 5-azacytidine offer prospects for palliation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7091938&#34; target=&#34;_blank&#34;&gt;7091938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results of chemotherapy with doxorubicin and 5-azacytidine yielded a somewhat better survival rate than a combined program with doxorubicin and radiotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7092403&#34; target=&#34;_blank&#34;&gt;7092403&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Regimens containing Adriamycin (doxorubicin hydrochloride) appeared to prolong the survival of patients with epithelial-type tumors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7105050&#34; target=&#34;_blank&#34;&gt;7105050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ten patients with histologically confirmed inoperable malignant mesothelioma of the pleura were treated with doxorubicin and fractionated radiotherapy courses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7228311&#34; target=&#34;_blank&#34;&gt;7228311&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the chemotherapeutic agents tested, doxorubicin appears to be the most promising.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7910154&#34; target=&#34;_blank&#34;&gt;7910154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most sensitive (FCCMES-4) and the most resistant (FCCMES-2) mesothelioma cell lines had IC50 of 0.66 and 1.85 microM for doxorubicin in clonogenic assays, respectively. […] In comparison with murine leukemic P388 cells, mesothelioma cell lines were 7.5- to 21-fold more resistant to doxorubicin. […] Co-incubation with verapamil significantly increased doxorubicin retention in one of the cell lines (FCCMES-2) expressing P-glycoprotein in 16.8% of the cells. […] These results indicate that doxorubicin resistance may be intrinsic in refractory mesothelioma patients and P-glycoprotein-mediated drug efflux may be involved in resistance of some of the mesotheliomas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7993844&#34; target=&#34;_blank&#34;&gt;7993844&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study investigated the feasibility and efficacy of doxorubicin dose-escalated chemotherapy in combination with ifosfamide in patients with malignant mesothelioma. […] The chemotherapy regimen consisted of doxorubicin 75 mg/m2 in combination with ifosfamide 5 gr/m2 given as a continuous 24 hour infusion, every 21 days with either rhG-CSF (5 micrograms/kg) or rhGM-CSF (250 micrograms/m2) as haematopoietic support from d3 to d14.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8141698&#34; target=&#34;_blank&#34;&gt;8141698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To assess the anti-tumour effects and toxicity of interferon-alpha combined with doxorubicin in the treatment of pleural mesothelioma. […] Interferon alpha-2a, 9 x 10(6) U sc daily, was administered together with doxorubicin 25 mg per m2 i.v. weekly, for 12 weeks. […] The combination of interferon-alpha and doxorubicin showed only modest activity and was associated with significant toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/81715&#34; target=&#34;_blank&#34;&gt;81715&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A dramatic clinical and radiologic response occurred after treatment with a combination of doxorubicin (Adriamycin) and 5-Azacytidine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8336195&#34; target=&#34;_blank&#34;&gt;8336195&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Cancer and Leukemia Group B (CALGB) conducted a randomized phase II multicenter trial to evaluate the activity of two cisplatin-containing regimens (cisplatin and mitomycin [CM], or cisplatin and doxorubicin [CD]) in patients with malignant pleural or peritoneal mesothelioma (protocol CALGB 8435).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8462328&#34; target=&#34;_blank&#34;&gt;8462328&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with single or multiple agents has thus far been disappointing, but doxorubicin and cisplatin or mitomycin and cisplatin are probably most active with response rates in measurable disease of 25%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8462329&#34; target=&#34;_blank&#34;&gt;8462329&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This technique used in a multimodality approach with CAP chemotherapy (cyclophosphamide 600 mg/m2, doxorubicin 60 mg/m2, cisplatin 75 mg/m2) 5 cycles at 3-week intervals, and radiotherapy (55 Gy radiation to sites of previous bulky disease or residual disease) to treat 44 patients with malignant pleural mesothelioma resulted in improved operative mortality and decreased length of hospital stay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8501504&#34; target=&#34;_blank&#34;&gt;8501504&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with no medical contraindication and potentially resectable mesothelioma on computed tomography (CT) (magnetic resonance imaging [MRI] when it became available) received extrapleural pneumonectomy, cyclophosphamide, doxorubicin, and cisplatin (CAP) chemotherapy, and radiotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8622005&#34; target=&#34;_blank&#34;&gt;8622005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Agents that produce response rates in 10% to 20% of patients include doxorubicin, epirubicin, mitomycin, cyclophosphamide, ifosfamide, cisplatin, and carboplatin. […] However, the combination of doxorubicin, cisplatin, bleomycin, and mitomycin demonstrated a response rate of 44% (95% confidence interval, 27% to 63%), but this remains unconfirmed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8635025&#34; target=&#34;_blank&#34;&gt;8635025&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study was designed to determine the efficacy and side effects of a combination of cyclophosphamide (C), doxorubicin (D), and cisplatin (P) in patients with inoperable, unresectable, or metastatic malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9033296&#34; target=&#34;_blank&#34;&gt;9033296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thirty-five of the surviving patients received adjuvant chemotherapy (32/35 received cyclophosphamide, doxorubicin, and cisplatin) followed by hemithorax radiation therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9149015&#34; target=&#34;_blank&#34;&gt;9149015&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a previous FONICAP trial, the combination of doxorubicin (D) and cisplatin (P) yielded an objective response rate of 25% and a subjective response rate of 50% in patients with mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9352953&#34; target=&#34;_blank&#34;&gt;9352953&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nevertheless, doxorubicin, cisplatin, and ifosfamide and perhaps other agents as well have modest activity. […] In the Cancer and Leukemia Group B study, the response rate in patients with measurable disease was 24% for cisplatin and either mitomycin C and doxorubicin, the highest response rates reported for a cooperative group study. […] Survival was slightly better for the doxorubicin combination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9427783&#34; target=&#34;_blank&#34;&gt;9427783&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From June 1984 to October 1995, forty seven consecutive patients (pts) with a confirmed diagnosis of diffuse malignant mesothelioma (MM) of the pleura (41) and peritoneum (6), were treated with cisplatin (CDDP) (24 pts) (Group A), or Doxorubicin (ADM) (14) based chemotherapy (Group B), or a combination of CDDP and ADM (9 pts) (Group C).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

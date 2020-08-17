@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/silver/</link>
+      <atom:link href="/mesothelioma/drugpanel/silver/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/silver/</link>
+    </image>
+    
+    <item>
+      <title>SILVER</title>
+      <link>/mesothelioma/drugpanel/silver/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/silver/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12965&#39; target=&#39;_blank&#39;&gt;db12965&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=silver&#34; target=&#34;_blank&#34;&gt;silver&lt;/a&gt; &lt;br&gt;
+Synonymous :argentum metallicum | colloidal silver | nanosilver | silver colloidal | silver nanoparticles | silver, colloidal
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;silver&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1409085&#34; target=&#34;_blank&#34;&gt;1409085&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors have evaluated in eight reactive and eight malignant pleural effusions the number of intranuclear dots representing the nucleolar associated proteins stained with silver colloid technique (interphase nucleolar organizer regions-AgNORs).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1609157&#34; target=&#34;_blank&#34;&gt;1609157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The tissue was assessed by routine microscopy, the immunoperoxidase technique for epithelial membrane antigen and silver staining for nucleolar organizer regions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17974153&#34; target=&#34;_blank&#34;&gt;17974153&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleural effusion cell block preparation and pleural biopsies were processed for immunohistochemical analysis of intratumoral CD8+ lymphocytes, cytokeratin and vimentin antigens expression, and modified one step silver stain to identify the Argyrophilic nucleolar organizer regions (AgNors) for evaluation of the proliferative potentiality of the tumor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1866205&#34; target=&#34;_blank&#34;&gt;1866205&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors have evaluated in eight reactive and eight malignant pleural effusions the number of intranucleolar dots representing the nucleolar associated proteins stained with silver colloid technique (interphase nucleolar organizer regions-AgNOR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19274581&#34; target=&#34;_blank&#34;&gt;19274581&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Periodic acid silver methenamine stain revealed unstained bands with periods of 130 nm in FLS fibrils, whereas the usual collagen fibrils showed continuous positive staining.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19727362&#34; target=&#34;_blank&#34;&gt;19727362&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Silver nitrate may be an alternative agent to talc for producing pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19822284&#34; target=&#34;_blank&#34;&gt;19822284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other approaches to multimodality treatment have capitalized on an array of innovative technologies in search of the silver bullet strategy that will ultimately undermine the biological behavior demonstrated by MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2473585&#34; target=&#34;_blank&#34;&gt;2473585&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Visualization of NORs at the light microscopic level was obtained using a silver-staining technique for acidic proteins selectively associated with NORs. […] The quantity of silver-stained NORs was higher in cancer cells (both mesothelioma and adenocarcinoma) than in reactive mesothelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2776597&#34; target=&#34;_blank&#34;&gt;2776597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The application of periodic acid-silver methenamine (PASM) and phosphotungstic acid (PTA) demonstrated a peculiar ultrastructural difference in cell coat staining in the two tumor types: in mesotheliomas, PTA and PASM were consistently negative along the outer surface of the cell aggregates, while carcinomas displayed a positive reaction either on the outer surface or on both inner and outer surfaces of the clusters.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7603742&#34; target=&#34;_blank&#34;&gt;7603742&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previous workers have used counts of colloidal silver-stained nucleolar organizer regions (AgNORs) to help distinguish reactive from malignant mesothelial processes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9452278&#34; target=&#34;_blank&#34;&gt;9452278&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunostaining of epithelial membrane antigen (EMA) and the quantitation of silver stained nucleolar organizer regions (AgNORs) each were applied to benign and malignant histologic sections of pleural and peritoneal biopsies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

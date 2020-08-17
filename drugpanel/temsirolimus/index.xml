@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/temsirolimus/</link>
+      <atom:link href="/mesothelioma/drugpanel/temsirolimus/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/temsirolimus/</link>
+    </image>
+    
+    <item>
+      <title>TEMSIROLIMUS</title>
+      <link>/mesothelioma/drugpanel/temsirolimus/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/temsirolimus/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06287&#39; target=&#39;_blank&#39;&gt;db06287&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=temsirolimus&#34; target=&#34;_blank&#34;&gt;temsirolimus&lt;/a&gt; &lt;br&gt;
+Synonymous :temsirolimus
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;temsirolimus&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19909234&#34; target=&#34;_blank&#34;&gt;19909234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus the introduction of new biologic drugs like vorinostat, bortezomib, everolimus and temsirolimus, in the treatment of MPM finds a strong rationale.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21358348&#34; target=&#34;_blank&#34;&gt;21358348&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we investigated the feasibility of mammalian target of rapamycin (mTOR) inhibition by temsirolimus as an antimesothelioma strategy. […] Activation of mTOR and impact of mTOR inhibition by temsirolimus was determined in MPM cell lines in vitro (n = 6) and in vivo as xenografts in severe combined immunodeficiency mice (n = 2) either as single agent or in combination with cisplatin. […] Temsirolimus potently blocked mTOR-mediated signals and exerted a cytostatic effect on mesothelioma cell lines in vitro cultured both as adherent monolayers and as nonadherent spheroids. […] Mesothelioma cells with intrinsic or acquired cisplatin resistance exhibited hypersensitivity against temsirolimus. […] Accordingly, cisplatin and temsirolimus exerted synergistic inhibition of the mTOR downstream signals and enhanced growth inhibition and/or apoptosis induction in mesothelioma cell lines. […] Finally, temsirolimus was highly active against MPM xenograft models in severe combined immunodeficiency mice both as a single agent and in combination with cisplatin. […] The mTOR inhibitor temsirolimus is active against mesothelioma in vitro and in vivo and synergizes with chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24378576&#34; target=&#34;_blank&#34;&gt;24378576&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mTOR inhibitor temsirolimus has antitumor and antiangiogenic activity against several carcinomas, yet few reports document the efficacy of temsirolimus against malignant pleural mesothelioma (MPM). […] Therefore, we evaluated the efficacy of temsirolimus and the antiangiogenic effect of temsirolimus in the treatment of MPM. […] We examined the efficacy of temsirolimus alone and the efficacy of the combination of temsirolimus and cisplatin or pemetrexed against four MPM cell lines using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide (MTT) assay. […] The effect of temsirolimus on the production of proangiogenic cytokines by MPM cell lines was examined by enzyme-linked immunosorbent assay (ELISA). […] Temsirolimus inhibited cell viability and suppressed cell proliferation of all MPM cell lines. […] Combined treatment with temsirolimus and cisplatin inhibited the viability of all MPM cell lines more effectively than temsirolimus alone. […] Temsirolimus strongly inhibited the phosphorylation of p70s6k, a downstream molecule of mTOR, in all MPM cell lines and led to an increase in the levels of cleaved caspase-3 in the H226 and Y-meso14 cells. […] Temsirolimus also inhibited the production of vascular endothelial growth factor (VEGF) and platelet-derived growth factor-AA (PDGF-AA). […] These results suggest that temsirolimus has activity against MPM cells by inhibition of cell proliferation and angiogenesis, and may be beneficial for a subset of MPM patients with high mTOR expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26245309&#34; target=&#34;_blank&#34;&gt;26245309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hypothesized that temsirolimus, an mTOR inhibitor, would curtail experimental mesothelioma progression in vivo by limiting tumour cell growth, abrogating tumour angiogenesis and modulating immune/inflammatory tumour milieu. […] Animals were given five times/week intraperitoneal injections of 20 mg/kg temsirolimus or vehicle and were sacrificed on day 26 (flank) or on day 15 (pleural) post-tumour cell propagation. […] Temsirolimus limited mesothelioma growth in vivo by stimulating tumour cell apoptosis, inhibiting tumour angiogenesis, enhancing tumour lymphocyte abundance and blocking pro-tumour myeloid cell recruitment. […] In vitro, temsirolimus hindered mesothelioma cell growth, NF-kappaB activation and macrophage migration. […] In conclusion, temsirolimus apart from inducing tumour cell apoptosis, targets tumour angiogenesis and influences inflammatory tumour microenvironment to halt experimental mesothelioma growth in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/erlotinib/</link>
+      <atom:link href="/mesothelioma/drugpanel/erlotinib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/erlotinib/</link>
+    </image>
+    
+    <item>
+      <title>ERLOTINIB</title>
+      <link>/mesothelioma/drugpanel/erlotinib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/erlotinib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00530&#39; target=&#39;_blank&#39;&gt;db00530&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=erlotinib&#34; target=&#34;_blank&#34;&gt;erlotinib&lt;/a&gt; &lt;br&gt;
+Synonymous :[6,7-bis-(2-methoxy-ethoxy)-quinazolin-4-yl]-(3-ethynyl-phenyl)-amine | erlotinib
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;erlotinib&lt;/em&gt; gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16401712&#34; target=&#34;_blank&#34;&gt;16401712&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interesting studies further addressed the correlation between molecular tumor profiling and clinical outcome with molecularly targeted agents in NSCLC, in particular gefitinib and erlotinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16989994&#34; target=&#34;_blank&#34;&gt;16989994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, the targeted agents imatinib, gefitinib, erlotinib and thalidomide have been shown to be ineffective in unselected patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17557954&#34; target=&#34;_blank&#34;&gt;17557954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase II trial of the EGFR TKI erlotinib in previously untreated patients with MPM. […] Patients with measurable and nonmeasurable disease were treated with erlotinib 150 mg/d on days 1 through 28 of each 28-day dosing cycle. […] Single-agent erlotinib was not effective in MPM, despite high expression of EGFR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18543326&#34; target=&#34;_blank&#34;&gt;18543326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase 2, multicenter, open-label study of erlotinib plus bevacizumab in patients with malignant pleural mesothelioma who had previously received 1 prior chemotherapy regimen. […] Eligible patients with mesothelioma who had previously received 1 chemotherapy regimen were treated with erlotinib 150 mg per os daily and bevacizumab 15 mg/kg administered intravenously on Day 1 of a 21-day cycle. […] Twenty-four eligible patients initiated therapy with erlotinib and bevacizumab between February 2004 and October 2006. […] The combination of erlotinib and bevacizumab was tolerated reasonably well, but there was no evidence of radiographic response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21288646&#34; target=&#34;_blank&#34;&gt;21288646&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, several agents targeting these processes, including erlotinib, gefitinib, and imatinib, have proven ineffective in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21774103&#34; target=&#34;_blank&#34;&gt;21774103&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The combination of PHA-665752 and the EGFR inhibitor, erlotinib, suppressed cell growth more than either agent alone in three of six cell lines tested.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21787763&#34; target=&#34;_blank&#34;&gt;21787763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We tested the effects of the EGFR TKIs gefitinib and erlotinib and TKIs targeted to other growth factors (VEGFR and PDGFR), in comparison to standard antineoplastic agents, in two human MPM cell lines, IST-Mes2 and ZL55.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21970874&#34; target=&#34;_blank&#34;&gt;21970874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We treated H2052, H2452, H28 and MSTO-211H cells with carboplatin, pemetrexed and targeted compounds (gefitinib, erlotinib, sorafenib, vandetanib, enzastaurin and ZM447439) and evaluated the modulation of pivotal pathways in drug activity and cancer cell proliferation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25670260&#34; target=&#34;_blank&#34;&gt;25670260&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Upon restaging, the patient’s tumor was again determined to be unresectable; therefore, palliative chemotherapy treatments were initiated, which included gemcitabine and erlotinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28715648&#34; target=&#34;_blank&#34;&gt;28715648&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Phase I/II trials are being conducted to evaluate the efficacy of combining TUSC2-nanoparticles with erlotinib, an FDA-approved EGFR inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30485439&#34; target=&#34;_blank&#34;&gt;30485439&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results suggest that erlotinib-enhanced photodynamic therapy could further improve the efficacy of intraoperative light-activation to mop up residual tumor deposits in the clinic following surgical removal of macroscopic mesothelioma metastases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30499112&#34; target=&#34;_blank&#34;&gt;30499112&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously reported that PDT transiently activates EGFR/STAT3 in lung and ovarian cancer cells and inhibiting EGFR via erlotinib can increase PDT sensitivity. […] Since extracellular matrix (ECM) proteins accrued during stroma development can alter EGF signaling within tumors, we have characterized novel 3D models of MPM to determine their response to erlotinib combined with Photofrin-PDT. […] Together with emerging evidence that EGFR inhibition may improve survival of lung cancer patients through immunologic and direct cell killing mechanisms, these results suggest erlotinib-enhanced PDT may significantly improve outcomes for MPM patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

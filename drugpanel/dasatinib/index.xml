@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/dasatinib/</link>
+      <atom:link href="/mesothelioma/drugpanel/dasatinib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/dasatinib/</link>
+    </image>
+    
+    <item>
+      <title>DASATINIB</title>
+      <link>/mesothelioma/drugpanel/dasatinib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/dasatinib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01254&#39; target=&#39;_blank&#39;&gt;db01254&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=dasatinib&#34; target=&#34;_blank&#34;&gt;dasatinib&lt;/a&gt; &lt;br&gt;
+Synonymous :anh. dasatinib | anhydrous dasatinib | bms dasatinib | dasatinib | dasatinib (anh.) | dasatinib (anhydrous) | dasatinib anhydrous | dasatinibum | n-(2-chloro-6-methylphenyl)-2-({6-[4-(2-hydroxyethyl)piperazin-1-yl]-2-methylpyrimidin-4-yl}amino)-1,3-thiazole-5-carboxamide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dasatinib&lt;/em&gt; gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17620427&#34; target=&#34;_blank&#34;&gt;17620427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three of the four cell lines were sensitive by in vitro cytotoxicity assays to the c-Src inhibitor dasatinib, which led to cell cycle arrest and increased apoptosis. […] Dasatinib also inhibited migration and invasion independent of the cytotoxic effects, and led to the rapid and durable inhibition of c-Src and its downstream pathways.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19289370&#34; target=&#34;_blank&#34;&gt;19289370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Systemic treatment options largely consist of neoadjuvant chemotherapy with platinum doublets and most recently novel targeted agents, such as dasatinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19909234&#34; target=&#34;_blank&#34;&gt;19909234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tyrosine kinase inhibitors (TKIs) targeting growth factors like vandetanib, dasatinib, and angiogenesis inhibitors like bevacizumab, are among the most promising agents under evaluation in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21226671&#34; target=&#34;_blank&#34;&gt;21226671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dasatinib (BMS-354825, Sprycel®) is an oral, multitargeted inhibitor of receptor tyrosine kinases (RTKs), including BCR-ABL fusion protein, stem cell factor receptor (c-KIT), platelet-derived growth factor receptor (PDGFR), and Src family kinases (SFKs). […] Several early- and late-phase clinical trials for chronic myelogeneous leukaemia (CML) have demonstrated the direct inhibition of BCR-ABL fusion protein and SFKs, which led to dasatinib approval by the Food and Drug Administration (FDA) and the European Union for the treatment of imatinib-resistant or -intolerant CML, and Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL). […] Phase III dose-optimization study was performed to compare different regimens, stating that dasatinib 100 mg once daily is now the recommended schedule for patients with chronic CML, and 140 mg once daily for patients with accelerated phase or myeloid or lymphoid blast phase CML, and for patients with Ph+ ALL until progression. […] Ongoing clinical trials evaluate dasatinib in the treatment of several solid tumours, including gastrointestinal stromal tumours (GIST), prostate cancer, malignant pleural mesothelioma, sarcomas, NSCLC, colorectal cancer, glioblastoma and other haematologic malignancies as multiple myeloma. […] Ongoing pre-clinical studies assess the therapeutic potential of dasatinib in other solid tumours, including melanoma, head and neck cancer, breast cancer and ovarian cancer. […] Dasatinib is generally well tolerated. […] In respect of these encouraging studies investigating dasatinib in the treatment of patients with GIST, prostate cancer, multiple myeloma and sarcomas, ongoing phase III clinical trials warrant the drug evaluation as recommended agent for the treatment of these diseases, also in association with chemotherapy or other targeted therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22425926&#34; target=&#34;_blank&#34;&gt;22425926&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase II trial of dasatinib in malignant mesothelioma (MM) patients to evaluate its toxicity and efficacy as a second-line treatment. […] Patients with unresectable MM and no symptomatic effusions were given dasatinib 70 mg twice daily as part of a 28-day cycle. […] Single-agent dasatinib has no activity in MM and is associated with pulmonary toxicities that prohibit its use in an unselected MM population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26323315&#34; target=&#34;_blank&#34;&gt;26323315&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dasatinib, an inhibitor of multi-tyrosine kinases including SFK, abolished anoikis resistance in suspension cultures, indicating that SFK activated by spheroid formation are responsible for anoikis resistance. […] Furthermore, a combination of dasatinib and cisplatin induced apoptosis more significantly than either alone in suspension cultures. […] These results suggest that spheroid formation induces resistance to anoikis and to cisplatin through SFK activation and that dasatinib facilitates cisplatin-induced apoptosis in human mesothelioma cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27391433&#34; target=&#34;_blank&#34;&gt;27391433&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+REN cells showed high levels of both TS and SRC: dasatinib inhibited SRC activation and suppressed TS protein expression, starting from 100 nM dose, blocking the PEM-induced up regulation of TS protein levels. […] Dasatinib treatment impaired cells migration, and both sequential and co-administration with PEM significantly increased apoptosis. […] Dasatinib pretreatment improved sensitivity to PEM, downregulated TS promoter activity and, in association with PEM, modulated the downstream PI3K-Akt-mTOR signaling. […] PEM and dasatinib, a SRC inhibitor, were administered as single agents, in combination or sequentially. […] These data indicate that dasatinib sensitizes mesothelioma cells to PEM through TS down-regulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29313814&#34; target=&#34;_blank&#34;&gt;29313814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We treated patients with MPM (N = 24) with 4 weeks of oral dasatinib followed by surgery with or without radiotherapy and then an optional 2 years of maintenance dasatinib. […] No significant responses were seen after 4 weeks of dasatinib therapy; however, modulation of median p-Src&lt;sup&gt;Tyr419&lt;/sup&gt; immunohistochemistry (IHC) scores was seen: the median pretreatment score was 70 (interquartile range 37.5-110), and the median posttreatment score was 41.9 (interquartile range 4.2-60) (p = 0.004). […] A decrease in p-Src&lt;sup&gt;Tyr419&lt;/sup&gt; levels after dasatinib correlated with improved median PFS (6.9 months versus 0.94 months [p = 0.03]), suggesting that p-Src&lt;sup&gt;Tyr419&lt;/sup&gt; is a viable pharmacodynamic biomarker for dasatinib in MPM. […] Low (less than the median) cytoplasmic p-PDGFR alpha IHC levels were predictive of a decrease in positron emission tomography/computed tomography standard uptake values levels after dasatinib therapy (p = 0.04), whereas higher-than-median IHC scores of PDGFRB (cytoplasmic [HR = 2.8, p = 0.03] and nuclear [HR = 6.795, p = 0.02]) were correlated with rising standard uptake values levels. […] In conclusion, there was no significant efficacy signal, and dasatinib monotherapy will not continue to be studied in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

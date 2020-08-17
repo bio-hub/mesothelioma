@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/platinum/</link>
+      <atom:link href="/mesothelioma/drugpanel/platinum/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/platinum/</link>
+    </image>
+    
+    <item>
+      <title>PLATINUM</title>
+      <link>/mesothelioma/drugpanel/platinum/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/platinum/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12257&#39; target=&#39;_blank&#39;&gt;db12257&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=platinum&#34; target=&#34;_blank&#34;&gt;platinum&lt;/a&gt; &lt;br&gt;
+Synonymous :platino
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;platinum&lt;/em&gt; gene in 203 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10096972&#34; target=&#34;_blank&#34;&gt;10096972&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum levels were serially measured by atomic absorption in systemic blood, perfusate, lung, and endothoracic fascia. […] The mean peak platinum plasma levels were reached within 45 to 60 minutes after perfusion was started. […] The local tissue/perfusate ratio of platinum concentrations tended to be higher after hyperthermic perfusion rather than normothermic perfusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10194545&#34; target=&#34;_blank&#34;&gt;10194545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although some activity is proved for anthracyclines, platinum compounds and alkylating substances, no chemotherapeutic regimen has emerged as a standard of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11826504&#34; target=&#34;_blank&#34;&gt;11826504&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cycloplatam, a new platinum derivative, evolved at N.S.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12601280&#34; target=&#34;_blank&#34;&gt;12601280&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Especially pemetrexed has yielded response rates of up to 45% in combination with platinum compounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12610498&#34; target=&#34;_blank&#34;&gt;12610498&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This applies especially to the antimetabolites, and in particular to pemetrexed that produced response rates of up to 45% in combination with platinum compounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14596692&#34; target=&#34;_blank&#34;&gt;14596692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the true impact of chemotherapy in mesothelioma remains to be determined, agents with consistent antitumor activity include doxorubicin, platinum agents, and antimetabolites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15117426&#34; target=&#34;_blank&#34;&gt;15117426&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several phase I/II trials of pemetrexed as a single agent or in combination with a platinum drug have demonstrated considerable activity in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15261443&#34; target=&#34;_blank&#34;&gt;15261443&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This applies especially to the antimetabolites, and in particular to pemetrexed which produced response rates of up to 45% in combination with platinum compounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15818532&#34; target=&#34;_blank&#34;&gt;15818532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed (Alimta; Eli Lilly and Co, Indianapolis, IN) is a novel, multi-targeted antifolate that inhibits several folate-dependent enzymes involved in purine and pyrimidine synthesis, and is active as a single-agent or in combination with a platinum in both non-small cell lung cancer and malignant pleural mesothelioma. […] Pemetrexed/platinum combinations appear active in ES-SCLC based on objective response rates observed in a randomized phase II trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15835625&#34; target=&#34;_blank&#34;&gt;15835625&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+New drugs, including the new antifolates, are being used much more often in the treatment of malignant pleural mesothelioma in combination with a platinum derivative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15902599&#34; target=&#34;_blank&#34;&gt;15902599&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For the majority of our patients we recommend talcum pleurodesis either by medical thoracoscopy or VATS, followed by chemotherapy with platinum/pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15908659&#34; target=&#34;_blank&#34;&gt;15908659&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine pathologic response rates to liposome-entrapped cis-bisneodecanoato-trans-R,R-1,2-diaminocyclohexane platinum(II) (L-NDDP) administered intrapleurally in patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16285225&#34; target=&#34;_blank&#34;&gt;16285225&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent randomized trials have shown significant improvement in time to progression and survival for the addition of new antifolates to platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16291426&#34; target=&#34;_blank&#34;&gt;16291426&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed also has promising activity and acceptable toxicity when combined with platinum compounds or gemcitabine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16317014&#34; target=&#34;_blank&#34;&gt;16317014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received the same platinum-based chemotherapy regimen, MVP [mitomycin C 8 mg/m2 cycles 1, 2, 4 and 6, vinblastine 6 mg/m2, maximum 10 mg, and cisplatin 50 mg/m2 (or carboplatin AUC 5)], every 3 weeks for up to six cycles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16401712&#34; target=&#34;_blank&#34;&gt;16401712&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The final results of the Adjuvant Navelbine International Trialist Association trial add further support to adjuvant platinum-based chemotherapy following radical surgery in early-stage NSCLC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16515926&#34; target=&#34;_blank&#34;&gt;16515926&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum concentrations in serum and tissue and systemic toxicity were analyzed. […] Platinum concentrations in tissue were significantly higher in the gel group (group 1) than in the solution group (group 2) at 1, 3, and 7 days after therapy (1510, 1224, and 1069 pg/mg for group 1 vs 598, 382, and 287 pg/mg for group 2; P = .007, P = .005, and P = .0002, respectively). […] Intrapleural administration of cisplatin with the carrier Vivostat significantly provides sustained higher platinum concentrations up to 1 week in tissue in comparison with application of cisplatin solution without conferring systemic toxicity in this model.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16616827&#34; target=&#34;_blank&#34;&gt;16616827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other cytotoxic agents that have shown to be active in this setting include vinorelbine and gemcitabine, either alone or combined with platinum compounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16807435&#34; target=&#34;_blank&#34;&gt;16807435&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The principal clinical experiences of pemetrexed alone or in combination with other compounds, chiefly platinum and its derivative, are reported.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16969013&#34; target=&#34;_blank&#34;&gt;16969013&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy using new antimetabolite agents in combination with platinum compounds is useful for palliation and can improve both survival and quality of life compared with single-agent cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17203752&#34; target=&#34;_blank&#34;&gt;17203752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this phase I-II study was to evaluate the toxicity profile and efficacy of two different platinum-based combined regimens–cisplatin plus mitomycin-C (MMC) and cisplatin plus melphalan (L-PAM)–administered using TSP technique in patients with advanced or recurrent MPM who had refractory disease after systemic first line chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17400330&#34; target=&#34;_blank&#34;&gt;17400330&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both patients were treated with platinum-based combination chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17410031&#34; target=&#34;_blank&#34;&gt;17410031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients had disease progression of malignant pleural mesothelioma after previous platinum-based regimens without pemetrexed. […] Pemetrexed was generally well tolerated with noteworthy activity in malignant pleural mesothelioma after previous platinum-based treatment and may be considered for second-line treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17673616&#34; target=&#34;_blank&#34;&gt;17673616&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the past few years, there have been several major advances in the management of patients with MPM, including more accurate staging and patient selection, improvements in surgical techniques and postoperative care, novel chemotherapy regimens with definite activity such as antifolate (pemetrexed or raltitrexed)-platinum combinations, and new radiotherapy techniques such as intensity-modulated radiation therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18286536&#34; target=&#34;_blank&#34;&gt;18286536&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From January 2004 to September 2006, 30 consecutive patients who were pretreated with pemetrexed with or without a platinum-derivative were enrolled.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1834113&#34; target=&#34;_blank&#34;&gt;1834113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum plasma pharmacokinetic data measured following intrapleural cisplatin administration (4 patients) were compared with those observed in 7 patients treated intravenously with the same dose of cisplatin (90 mg/m2) under the same modalities of hydration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18577247&#34; target=&#34;_blank&#34;&gt;18577247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Aim of this study was the preclinical evaluation of the combination of piroxicam with platinum-based intracavitary chemotherapy in pets.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18594322&#34; target=&#34;_blank&#34;&gt;18594322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This manuscript reports the safety and efficacy data from the nonrandomized open-label study in chemonaïve patients receiving pemetrexed plus platinum under the EAP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18594323&#34; target=&#34;_blank&#34;&gt;18594323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An International Expanded Access Program provided &amp;gt;3000 mesothelioma patients with access to single-agent pemetrexed or pemetrexed plus platinum analogs (cisplatin or carboplatin) in 13 countries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18640937&#34; target=&#34;_blank&#34;&gt;18640937&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This regimen may provide an alternative to standard therapies, especially for patients who cannot tolerate a platinum-based regimen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19004520&#34; target=&#34;_blank&#34;&gt;19004520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The impact of these platinum-based regimens is assessed in this review of practice in the province of British Columbia. […] The clinical records of individuals referred to the BC Cancer Agency were reviewed, and those treated with a platinum analog plus gemcitabine or pemetrexed as first-line therapy were included in survival analyses. […] During the selected period, 81 patients were treated first-line with a platinum analog plus gemcitabine (n=40) or pemetrexed (n=41). […] No difference is seen combining platinum analogs with gemcitabine or pemetrexed. […] Platinum-based doublets might represent a therapeutic ceiling for cytotoxic chemotherapy in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19118069&#34; target=&#34;_blank&#34;&gt;19118069&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed PK were consistent across doses; pemetrexed did not seem to affect total or free platinum PK.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19269106&#34; target=&#34;_blank&#34;&gt;19269106&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We detailed pemetrexed studies in the first-line setting of NSCLC treatment, in monotherapy, in combination with platinum and also, with other agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19289370&#34; target=&#34;_blank&#34;&gt;19289370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Systemic treatment options largely consist of neoadjuvant chemotherapy with platinum doublets and most recently novel targeted agents, such as dasatinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19362954&#34; target=&#34;_blank&#34;&gt;19362954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the past 15-20 years, many phase II and a few phase III clinical trials have studied a large variety of drugs such as anthracyclines, alkylating agents, platinum compounds, taxanes, vinka alkaloids, and antifolates as single agents and in combination, with the aim to increase responses and survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19380173&#34; target=&#34;_blank&#34;&gt;19380173&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We discovered a close relation between gene profile and resistance towards topoisomerase poisons, alkylating agents, antitubulines, antifolates, platinum compounds and radiation therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19482372&#34; target=&#34;_blank&#34;&gt;19482372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Forty-one patients with proven MPM and treated with palliative pemetrexed and platinum-based chemotherapy were included.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19661833&#34; target=&#34;_blank&#34;&gt;19661833&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All received platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19818589&#34; target=&#34;_blank&#34;&gt;19818589&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment of pleural MM with pemetrexed alone or in combination with platinum was safe and active as first and second-line therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19853261&#34; target=&#34;_blank&#34;&gt;19853261&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although platinum-based chemotherapy is widely used in malignant pleural mesothelioma, its modest therapeutic effect warrants identification of enhancing agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19908112&#34; target=&#34;_blank&#34;&gt;19908112&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 16 patients with resectable malignant pleural mesothelioma were intended to treat with extra-pleural pneumonectomy followed by platinum-based chemotherapy and external beam radiation therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20051956&#34; target=&#34;_blank&#34;&gt;20051956&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The standard treatment of choice for malignant pleural mesothelioma is chemotherapy with pemetrexed and platinum, but the clinical outcome is poor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20104527&#34; target=&#34;_blank&#34;&gt;20104527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In relapsed ovarian cancer, this is associated with platinum refractoriness. […] In contrast, several platinum sensitive tumours, including primary ovarian, stomach and colorectal cancer, are characterised by ASS1 overexpression, which is regulated by proinflammatory cytokines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20142415&#34; target=&#34;_blank&#34;&gt;20142415&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) is an aggressive tumor with poor prognosis and limited response to platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20153664&#34; target=&#34;_blank&#34;&gt;20153664&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients underwent pulmonary function test before (in the absence of pleural effusion) and after chemotherapy (platinum-based agent plus pemetrexed); 23 out of 36 patients also performed a cardiopulmonary incremental exercise test.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20177021&#34; target=&#34;_blank&#34;&gt;20177021&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sixty histologically confirmed patients with MPM previously treated with P and platinum (45 of 60) or as single agent (15 of 60) were retrospectively considered. […] In platinum-treated patients (n = 45), no correlation was found with survival according to ERCC1 median H-score, but patients in the lower tertile had a significantly shorter survival (HR, 3.06; 95% CI, 1.08 to 8.69; P = .035).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A number of platinum-based combination chemotherapy regimens show similar activities, but none has been compared with another combination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20530048&#34; target=&#34;_blank&#34;&gt;20530048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our primary end-point was to determine response rate of combined valproic acid and doxorubicin in patients with unresectable MM failing after platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20534685&#34; target=&#34;_blank&#34;&gt;20534685&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The chemotherapeutic agent added to platinum was gemcitabine in one patient, cyclophosphamide-doxorubicin in three patients and pemetrexed in 10 patients. […] There was significant differences for progression free survival (P = 0.031) according to the different chemotherapeutic agents (pemetrexed versus non-pemetrexed agents) added to platinum. […] The platinum-based combination chemotherapy showed moderate activity and a favorable toxicity profile as a frontline treatment for patients with malignant peritoneal mesothelioma. […] Pemetrexed in combination with platinum showed improved survival outcomes as compared with other combination regimens combined with platinum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2072707&#34; target=&#34;_blank&#34;&gt;2072707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Postoperatively 26 patients received cyclophosphamide, doxorubicin, and cis-platinum chemotherapy with or without radiotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21036600&#34; target=&#34;_blank&#34;&gt;21036600&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to assess the induction of senescence markers versus apoptosis pathways in malignant pleural mesothelioma (MPM) tumour samples before and after neo-adjuvant platinum-based chemotherapy and to investigate their relationship with clinical outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21114785&#34; target=&#34;_blank&#34;&gt;21114785&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During this period, 62 patients received pemetrexed-based chemotherapy for MPM, most of whom were male (87%), treated in the palliative setting (84%) and received pemetrexed in combination with a platinum agent (95%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21216487&#34; target=&#34;_blank&#34;&gt;21216487&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fifteen patients were re-treated with pemetrexed alone, and 16 with a pemetrexed/platinum combination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21262916&#34; target=&#34;_blank&#34;&gt;21262916&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pemetrexed/platinum agent combination represents the standard of care in first-line treatment for malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21296448&#34; target=&#34;_blank&#34;&gt;21296448&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, after the first-line standard pemetrexed/platinum combination there is not a defined regimen for the second line treatment of MPM, and the clinical benefits in fit patients are uncertain. […] We analyzed the feasibility of gemcitabine/platinum chemotherapy in pretreated MPM patients. […] Chemotherapy was gemcitabine 1000 mg/m(2) days 1, 8 associated to the alternative platinum compound respect to 1st line, i.e. cisplatin 75 mg/m(2) or carboplatin AUC 5 day 1 every 3 weeks, for 3-6 cycles. […] Gemcitabine-platinum regimens are able to control symptoms and disease progression with a modest toxicity profile.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21334282&#34; target=&#34;_blank&#34;&gt;21334282&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We synthesised dinuclear platinum(II) complexes containing a n-BP moiety as bridging ligand and am(m)ines as terminal ligands (Pt-n-BP)s, with the aim of obtaining bifunctional mesothelioma-targeted drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21468683&#34; target=&#34;_blank&#34;&gt;21468683&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With that said, the standard frontline therapy for fit MPM patients remains an antifolate/platinum doublet, based on large, well powered randomized clinical trials that showed not only a survival benefit for antifolate/platinum regimens but also improvements in quality of life and/or symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21594647&#34; target=&#34;_blank&#34;&gt;21594647&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although, platinum-based agents are the first line of therapy, there is an urgent need for second-line therapies to treat the drug-resistant MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21620489&#34; target=&#34;_blank&#34;&gt;21620489&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Phase II/III studies have identified pemetrexed, a multitarget folate pathway inhibitor in combination with platinum derivatives, and the cisplatin/gemcitabine association as front-line chemotherapy for hMPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21723781&#34; target=&#34;_blank&#34;&gt;21723781&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a prerandomisation registration phase, all patients underwent induction platinum-based chemotherapy followed by clinical review.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21821492&#34; target=&#34;_blank&#34;&gt;21821492&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In patients with no resectable disease, chemotherapy is the best option with platinum and pemetrexed or raltitrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21831962&#34; target=&#34;_blank&#34;&gt;21831962&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The enhanced accumulation of tumor cells at G(2)-M upon combined treatment with cisplatin and CBP501 results from an increase in intracellular platinum concentrations, which leads to increased binding of platinum to DNA. […] The observed CBP501-enhanced platinum accumulation is negated in the presence of excess Ca(2+).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21937142&#34; target=&#34;_blank&#34;&gt;21937142&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In pemetrexed pre-treated patients, re-treatment with a pemetrexed/platinum combination significantly reduced the risk-of-death than pemetrexed alone (HR: 0.11; p&amp;lt;0.001). […] In selected patients, re-challenge with pemetrexed-based regimens, preferentially associated with platinum-compound, appears to be an option for SL-setting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21961533&#34; target=&#34;_blank&#34;&gt;21961533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Loss of protein expression on immunohistochemistry is predictive for platinum-based chemotherapy response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21964533&#34; target=&#34;_blank&#34;&gt;21964533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase II study of the oral pan-VEGF receptor tyrosine kinase inhibitor, cediranib, in patients with MPM after platinum-based systemic chemotherapy. […] Patients with MPM previously treated with a platinum-containing chemotherapy regimen and a performance status 0 to 2 were eligible for enrollment. […] Cediranib monotherapy has modest single-agent activity in MPM after platinum-based therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21970874&#34; target=&#34;_blank&#34;&gt;21970874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although pemetrexed, a potent thymidylate synthase (TS) inhibitor, enhances the cytoytoxic effect of platinum compounds against malignant pleural mesothelioma (MPM), novel combinations with effective targeted therapies are warranted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21999120&#34; target=&#34;_blank&#34;&gt;21999120&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After promising Phase II trials exploring the activity of raltitrexed either as a single agent or in combination with a platinum agent, a Phase III randomized study demonstrated that the combination of raltitrexed and cisplatin improves overall survival in malignant pleural mesothelioma (MPM) and is superior compared with cisplatin alone, without harmful effect on health-related quality of life.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22025407&#34; target=&#34;_blank&#34;&gt;22025407&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the aim of obtaining active bifunctional drugs, a Pt(II) complex containing two EA moieties as leaving groups, namely cis-diamminobis(ethacrynato)platinum(II), was synthesized, characterized, and tested on four MPM cell lines. […] The resulting antiproliferative activity was compared with that elicited by the analogue Pt(IV) complex, cis,cis,trans-diamminodichloridobis(ethacrynato)platinum(IV) (ethacraplatin) and by the co-administration of free EA and cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22104079&#34; target=&#34;_blank&#34;&gt;22104079&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most promising non-surgical approach today in the management of peritoneal mesothelioma is the use of the combination chemotherapy regime of an antifolate (pemetrexed and raltitrexed) and a platinum based (cisplatin) agent with a median survival of about 12-14 months.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22287752&#34; target=&#34;_blank&#34;&gt;22287752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, other regimens, with or without a platinum agent, are reported to be effective in the treatment of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22289125&#34; target=&#34;_blank&#34;&gt;22289125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nevertheless, large phase II/III trials support the combination of platinum derivatives and pemetrexed or raltitrexed, as preferred first-line schedule.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22345416&#34; target=&#34;_blank&#34;&gt;22345416&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current standard of first-line chemotherapy for MPM is cisplatin or carboplatin in combination with pemetrexed, an antifolate compound that has been shown to increase the cytotoxic effects of platinum-based drugs. […] MPM carries a poor prognosis, but recent studies of pemetrexed and platinum analogue combination therapies have demonstrated improved response rates over other treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22352060&#34; target=&#34;_blank&#34;&gt;22352060&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We gave the patient two cycles of chemotherapy, including pemetrexed and platinum, but his condition did not improve and he died 3 months after onset.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22353806&#34; target=&#34;_blank&#34;&gt;22353806&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy based on platinum is the standard treatment for unresectable malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22459200&#34; target=&#34;_blank&#34;&gt;22459200&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum-based chemotherapy plus gemcitabine or pemetrexed for 3-4 cycles followed by surgery and postoperative high-dose radiotherapy showed the best results in terms of overall and progression free survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22584322&#34; target=&#34;_blank&#34;&gt;22584322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It was found through a case-series study that platinum pharmaceutical plus antimetabolite are effective against peritoneal malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22704893&#34; target=&#34;_blank&#34;&gt;22704893&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PFSRs for platinum-based combination therapies were consistent with published significant clinical activity ranges.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22722923&#34; target=&#34;_blank&#34;&gt;22722923&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median survival in patients who were administered adjuvant therapy after surgery was 24 months, while the median survival in patients who had only surgery was 6 months (p = 0.029). 106 patients were administered pemetrexed-platinum combination and 35 patients were administered gemcitabine-platinum combination as front-line chemotherapy. […] Median survival, 1- and 2-year survival rates in patients who received platinum analogues and pemetrexed or gemcitabine combinations were found statistically similar (p = 0.15). […] Survival rates in patients who received combining platinum analogues with pemetrexed or gemcitabine as front-line chemotherapy were found similar.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22895141&#34; target=&#34;_blank&#34;&gt;22895141&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pretreatment tumor samples from 84 patients with histologically confirmed MPM, who received pemetrexed combined with platinum (79 of 84) or single-agent pemetrexed (5 of 84) as first-line treatment, were retrospectively analyzed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22905093&#34; target=&#34;_blank&#34;&gt;22905093&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed, a multi-folate inhibitor combined with a platinum compound is the first-line treatment of malignant mesothelioma, but median survival is still one year. […] Proteins and genes related to DNA damage response, elongation and telomere extension and repair related directly and indirectly to platinum resistance were overexpressed, as the CHK1 protein and the genes CHEK2, LIG3, POLD1, POLA2, FANCD2, PRPF19, RECQ5 respectively, the last two not previously described in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22982660&#34; target=&#34;_blank&#34;&gt;22982660&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, the aim of our study was to evaluate the influence of genetic variability in DNA repair genes on treatment outcome in patients with malignant mesothelioma (MM) treated with gemcitabine-platinum combination chemotherapy. […] Our results support the hypothesis that DNA repair gene polymorphisms, particularly XRCC1 Arg399Gln, may modify the response to gemcitabine-platinum combination chemotherapy and, for the first time, show this effect in patients with MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23121163&#34; target=&#34;_blank&#34;&gt;23121163&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma is a poorly responsive tumor known to overexpress the phase II detoxification enzyme glutathione-S-transferase, which catalyzes the conjugation between glutathione and platinum(II)-containing drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23135895&#34; target=&#34;_blank&#34;&gt;23135895&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neoadjuvant chemotherapy consisted of a combination of platinum based agents (n = 19) with gemcitabine (n = 15) or pemetrexed (n = 4).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23136224&#34; target=&#34;_blank&#34;&gt;23136224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We carried out high-resolution CT (HRCT) and FDG-PET/CT before and after neoadjuvant platinum-based chemotherapy on 50 patients with clinical T1-3 N0-2 M0 MPM who underwent EPP ± postoperative hemithoracic radiotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23276688&#34; target=&#34;_blank&#34;&gt;23276688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In advanced disease, chemotherapy is the cornerstone of treatment, especially platinum-containing regimens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23317248&#34; target=&#34;_blank&#34;&gt;23317248&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One hundred-thirteen (66%) patients were treated with platinum-based combination chemotherapy (PBCT) plus supportive care (SC) and 67 (34%) patients received SC alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23349323&#34; target=&#34;_blank&#34;&gt;23349323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients underwent pulmonary function tests before and after three cycles of platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23571475&#34; target=&#34;_blank&#34;&gt;23571475&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eligible patients had received platinum combination chemotherapy earlier. […] Sorafenib is well tolerated in patients with mesothelioma after completion of platinum-containing chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23787063&#34; target=&#34;_blank&#34;&gt;23787063&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Participants had progressive MPM after first line pemetrexed/platinum chemotherapy, ECOG PS 0-1, adequate organ function, and measurable disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23810210&#34; target=&#34;_blank&#34;&gt;23810210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum-based chemotherapy is besides the standard antifolate therapy with pemetrexed, the cornerstone for treatment of patients with malignant pleural mesothelioma (MPM), and its efficacy depends on several DNA repair enzymes. […] This study evaluated enzymes involved in repair of platinum-caused DNA damage, potentially resulting in a biomarker panel associated with patient response and outcome to platinum-based chemotherapy. […] Enzymes involved in DNA repair mechanisms are associated with patient response and outcome to platinum-based chemotherapy. […] Their assessment may be a helpful tool to tailor platinum-based chemotherapy of MPM patients who might expect the largest clinical benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23860535&#34; target=&#34;_blank&#34;&gt;23860535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 50% improvement in median PFS in comparison with standard pemetrexed/platinum combinations (from 6 to 9 months) was postulated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24023280&#34; target=&#34;_blank&#34;&gt;24023280&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As yet platinum-doublet therapy is the most effective palliative treatment of MPM. […] To provide a more cost-effective treatment approach for advanced MPM, further research should include randomized controlled trials comparing the recommended pemetrexed-cisplatin directly with platinum doublets with raltitrexed, gemcitabine, or vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24035405&#34; target=&#34;_blank&#34;&gt;24035405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In our open-label, single-arm, phase 2 study, we enrolled patients aged 18 years or older with measurable, unresectable malignant mesothelioma and progressive disease after a first-line platinum-based regimen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24080480&#34; target=&#34;_blank&#34;&gt;24080480&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The bifunctional Pt(IV) conjugate cis,cis,trans-diamminedichloridobis(valproato)platinum(IV), based on the cisplatin square-plane with two axial valproato (2-propylpentanoate, VPA) ligands, has been re-synthesized with a modified procedure and its biological activity was compared with that of its isomer cis,cis,trans-diamminedichloridobis(n-octanoato)platinum(IV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24149776&#34; target=&#34;_blank&#34;&gt;24149776&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These analyses were adjusted for patient age, gender, smoking habits, dyspnea, chest pain, weight loss, primary site of tumor, histology, platinum-based systemic chemotherapy, hospital and stage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24158772&#34; target=&#34;_blank&#34;&gt;24158772&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Between March 2008 and October 2011, 17 consecutive Japanese patients pretreated with at least one regimen of platinum plus pemetrexed chemotherapy received gemcitabine and vinorelbine. […] Combination chemotherapy using gemcitabine with vinorelbine was shown to have moderate activity in Japanese MPM patients pretreated with platinum plus pemetrexed chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24269017&#34; target=&#34;_blank&#34;&gt;24269017&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eighty six percent of the patients were treated by extrapleural pneumonectomy and 35 % received neoadjuvant chemotherapy with platinum and pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24321581&#34; target=&#34;_blank&#34;&gt;24321581&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed-platinum chemotherapy is the standard first-line treatment of unresectable malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24403465&#34; target=&#34;_blank&#34;&gt;24403465&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed and platinum have been used for advanced PM following malignant pleural mesothelioma (PLM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24419422&#34; target=&#34;_blank&#34;&gt;24419422&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biomarker expression was assessed in samples of two independent cohorts of 107 (cohort 1) and 46 (cohort 2) MPM cases uniformly treated with platinum-based induction chemotherapy followed by extrapleural pneumonectomy from two different institutions, assembled on tissue microarrays.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24645844&#34; target=&#34;_blank&#34;&gt;24645844&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum-based combination chemotherapy in combination with supportive care was used in the treatment of 68.6% of the patients, while supportive treatment alone was used in the others.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24649221&#34; target=&#34;_blank&#34;&gt;24649221&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This regimen may offer an alternative to platinum-based chemotherapy and a prospective trial including a larger cohort of patients is recommended to confirm these results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24659659&#34; target=&#34;_blank&#34;&gt;24659659&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Survival rates in patients who received a combination of platinum analogues with pemetrexed or gemcitabine as front-line chemotherapy were similar.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24690410&#34; target=&#34;_blank&#34;&gt;24690410&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eighty-three percent initially received pemetrexed-platinum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24872472&#34; target=&#34;_blank&#34;&gt;24872472&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median amount of platinum [nmol cisplatin/g lung tissue] decreased significantly (P ≤ 0.05) depending on the penetration depth: 32 nmol/g (1 mm), 20 nmol/g (2 mm) and 6.8 nmol/g (4 mm).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24882384&#34; target=&#34;_blank&#34;&gt;24882384&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After failure of first line platinum-based chemotherapy, there is no widely approved salvage regimen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24934863&#34; target=&#34;_blank&#34;&gt;24934863&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eight patients treated with a 500 mg/m(2) PEM combined with platinum salt were examined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24958517&#34; target=&#34;_blank&#34;&gt;24958517&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to our results, we may consider gemcitabine-based regimens as second-line chemotherapy after treatment with pemetrexed plus platinum in patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25026285&#34; target=&#34;_blank&#34;&gt;25026285&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In these cells, CD157 expression was associated with increased activation of the mTOR signaling pathway, resulting in decreased platinum sensitivity. […] Moreover, a trend towards reduced survival was observed in patients with biphasic MPM receiving postoperative platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25051913&#34; target=&#34;_blank&#34;&gt;25051913&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our aim was to evaluate the prognostic role of the pretreatment serum albumin level in patients with malignant pleural mesothelioma (MPM) receiving platinum-based systemic chemotherapy. […] From 1995 to 2013, a total of 97 patients receiving platinum-based systemic chemotherapy for newly diagnosed MPM were enrolled. […] The pretreatment serum albumin level is a simple, inexpensive and easily measurable marker with prognostic significance in MPM patients treated with platinum-based systemic chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25053821&#34; target=&#34;_blank&#34;&gt;25053821&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty-eight NSCLC cell lines were classified into two subgroups, CBP501-sensitive and -insensitive, by quantitatively analyzing the cis-diamminedichloro-platinum (II) (CDDP)-enhancing activity of CBP501 through treatments with short-term (1 hour) coexposure to CDDP and CBP501 or to either alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25059587&#34; target=&#34;_blank&#34;&gt;25059587&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In cases in which surgery is not feasible, chemotherapy (a combination of pemetrexed and platinum-derived compounds, in most cases) with pleurodesis or a tunneled pleural drainage catheter, if control of pleural effusion is required, can be considered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25061089&#34; target=&#34;_blank&#34;&gt;25061089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed and platinum combination chemotherapy has become the cornerstone of therapy for patients with unresectable disease because the combination is associated with improved survival and quality of life in treated patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25110339&#34; target=&#34;_blank&#34;&gt;25110339&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+251 MPM patients completed EPP after platinum-based induction chemotherapy at three institutions for thoracic surgery over more than 10 years.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25246386&#34; target=&#34;_blank&#34;&gt;25246386&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The combination of pemetrexed and platinum compound represents the standard regimen for first-line chemotherapy in malignant pleural mesothelioma patients. […] Fifty-nine mesothelioma patients (31 men with a median age of 62 years) treated in first-line chemotherapy with platinum in combination with pemetrexed or pemetrexed monotherapy were enrolled.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25467107&#34; target=&#34;_blank&#34;&gt;25467107&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prognosis of MPM patients is modest since the vast majority of patients are diagnosed at advanced stage and because platinum-based chemotherapy remains the cornerstone of treatment, with no standard second line treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25572813&#34; target=&#34;_blank&#34;&gt;25572813&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were unresectable, PS 0-2, and had previously received a first-line platinum-based regimen and either vinorelbine or pemetrexed as second line. […] First-line treatment was platinum and pemetrexed in 42 cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25611229&#34; target=&#34;_blank&#34;&gt;25611229&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MPM patients who had received at least one but no more than two prior chemotherapy regimens, which must have been platinum-based, were treated with 10 mg of everolimus daily.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25722383&#34; target=&#34;_blank&#34;&gt;25722383&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum-based combination chemotherapy with pemetrexed is the established standard of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25772281&#34; target=&#34;_blank&#34;&gt;25772281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most chemotherapy regimens included platinum or pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25819643&#34; target=&#34;_blank&#34;&gt;25819643&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this open-label, single-arm, phase 2 study, participants aged 18 years or older with unresectable, advanced malignant mesothelioma (measurable in accordance with the Response Evaluation Criteria in Solid Tumors [RECIST]), a life expectancy of 3 months or more, an Eastern Cooperative Oncology Group performance status of 2 or less, and who had failed a first-line platinum-based regimen were enrolled at the University Hospital of Siena, Siena, Italy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25838292&#34; target=&#34;_blank&#34;&gt;25838292&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On multivariate analysis, regimen including platinum plus pemetrexed, a performance status &amp;gt;0, non-epithelial histological type and Stage IV disease predicted poor overall survival in chemotherapy patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25840756&#34; target=&#34;_blank&#34;&gt;25840756&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Survival and response to platinum-based induction chemotherapy are heterogeneous among patients with malignant pleural mesothelioma. […] Tumor tissue of a malignant pleural mesothelioma cohort (n = 107) treated with platinum/gemcitabine (n = 46) or platinum/pemetrexed (n = 61) induction chemotherapy followed by extrapleural pneumonectomy was assembled on a tissue microarray. […] When specifically analyzed in the subgroup of patients receiving platinum/gemcitabine followed by extrapleural pneumonectomy, high nuclear ribonucleotide reductase M1 was associated with prolonged freedom from recurrence (P = .03) and overall survival (P = .02).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25979846&#34; target=&#34;_blank&#34;&gt;25979846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Putative predictive markers for pemetrexed-platinum are tumor TS and TYMS, for vinorelbine the ERCC1, beta-tubuline class III and BRCA1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26029542&#34; target=&#34;_blank&#34;&gt;26029542&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the case of a biopsy proven Malignant Pleural Mesothelioma (MPM) presenting as an anterior mediastinal mass in a platinum miner.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26156324&#34; target=&#34;_blank&#34;&gt;26156324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The study indicates that platinum-based gemcitabine is effective and a safe schema in malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26162564&#34; target=&#34;_blank&#34;&gt;26162564&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the implementation of standard first line chemotherapy with platinum and antifolates in pleural mesothelioma, patients are confronted with a need for second line treatment at relapse or progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26316950&#34; target=&#34;_blank&#34;&gt;26316950&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Palliative platinum-based chemotherapy may help to improve symptoms and prolong life. […] Since 2004, the platinum is commonly partnered with a folate antimetabolite. […] Specifically receiving combined platinum-based/folate antimetabolite chemotherapy did not improve overall survival compared to all other chemotherapy regimens: 14.1 versus 13.6 months (P = 0.97).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26421614&#34; target=&#34;_blank&#34;&gt;26421614&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CT included platinum/gemcitabine (Pla/Gem) or platinum/pemetrexed (Pla/Pem).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26433514&#34; target=&#34;_blank&#34;&gt;26433514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum-based palliative chemotherapy is the only treatment with proven benefit on outcome, resulting in selected patients in a median overall survival of about 1 year.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26526504&#34; target=&#34;_blank&#34;&gt;26526504&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The combination of pemetrexed with a platinum compound is the standard of care in the first-line setting, while no established treatment exists in the second and beyond-line setting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26546402&#34; target=&#34;_blank&#34;&gt;26546402&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First line regimens consisted mainly of platinum + pemetrexed (91 %) or pemetrexed alone (7 %).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26638920&#34; target=&#34;_blank&#34;&gt;26638920&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, thymidylate synthase protein cutoffs may predict mesothelioma response to the association of pemetrexed with a platinum derivative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26680633&#34; target=&#34;_blank&#34;&gt;26680633&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No relevant phase III trials have specifically analysed the benefit from adding bevacizumab to platinum-based chemotherapy in lung cancer-related MPE. […] In MM, the addition of bevacizumab to platinum-based chemotherapy did not meet primary endpoints in two phase II trials. […] However, the beneficial results on OS reported in comparison with historical cohorts and the statistically significant benefit on PFS and OS observed in the phase III MAPS trial foretell an eventual role for the combination of platinum/pemetrexed/bevacizumab as front-line systemic therapy for pleural MM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26873306&#34; target=&#34;_blank&#34;&gt;26873306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with cisplatin and pemetrexed is considered the standard of care, though the addition of bevacizumab to the platinum doublet may be the new standard of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27055148&#34; target=&#34;_blank&#34;&gt;27055148&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The standard of care is still chemotherapy with platinum derivates and antifolate agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27127763&#34; target=&#34;_blank&#34;&gt;27127763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Stratification by regimen (platinum-based vs. non platinum-based) and patient origin (Asian vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27286996&#34; target=&#34;_blank&#34;&gt;27286996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reportedly, PEM has higher efficacy and safety when used in combination with platinum-based agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27325859&#34; target=&#34;_blank&#34;&gt;27325859&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients received up to four cycles of pemetrexed plus platinum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27449804&#34; target=&#34;_blank&#34;&gt;27449804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a multicenter, open label, single-arm, two-stage phase II study of PF-03446962 in patients with MPM and progressive disease after platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27457872&#34; target=&#34;_blank&#34;&gt;27457872&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A combination of an antifolate and platinum-based CHT is the only approved standard of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27597274&#34; target=&#34;_blank&#34;&gt;27597274&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further analysis of 169 patients receiving platinum/pemetrexed as first line treatment, showed similar results; there was no effect of the timing of chemotherapy on OS or PFS (p=0.80 and p=0.53 respectively) and an improved OS in patients with non-epithelioid disease, and improved PFS in those with lymph node metastases, if chemotherapy was given in the immediate adjuvant setting (p=0.001 and 0.038) when therapy was not delayed until disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27698933&#34; target=&#34;_blank&#34;&gt;27698933&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multimodality therapy consisting of platinum-based chemotherapy is the treatment of choice. […] The reasons for the rather poor efficacy of platinum compounds remain largely unknown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27755841&#34; target=&#34;_blank&#34;&gt;27755841&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other factors that affected the survival negatively were: non-epithelial pathology (P= 0.001); age &amp;gt;50 years (P= 0.012); bad performance status (P= 0.001); non-platinum based chemotherapy (P= 0.0001); and progressive disease (P= 0.000).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27774043&#34; target=&#34;_blank&#34;&gt;27774043&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Phenanthriplatin, that is, (&lt;i&gt;SP&lt;/i&gt;-4-3)-diamminechlorido(phenanthridine)platinum(II) nitrate, an effective antitumor cationic Pt(II) complex, was loaded on negatively charged dextran sulfate (&lt;b&gt;DS&lt;/b&gt;) as a model vector for drug delivery &lt;i&gt;via&lt;/i&gt; electrostatic interactions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27823648&#34; target=&#34;_blank&#34;&gt;27823648&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most active first-line regimens are platinum compounds and pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27853379&#34; target=&#34;_blank&#34;&gt;27853379&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this cohort study (NCT02269878), 68 epithelioid MPM Egyptian patients treated with first-line platinum-based chemotherapy were recruited in the period between April 2014 and May 2015. […] The median age of patients was 55 years and 45.6% of them received platinum in combination with pemetrexed, while 54.4% received platinum in combination with gemcitabine. […] Also, the number of platinum-based cycles and tumor stage were found to be significant variables for PFS by univariate analysis (&lt;i&gt;P&lt;/i&gt;≤0.001 and &lt;i&gt;P&lt;/i&gt;=0.006, respectively). […] The results of this study suggest that FASL-844 C/T polymorphism could predict PFS in MPM patients receiving platinum-based chemotherapy; therefore, this should be further evaluated as a potential marker for the prediction of clinical outcome in patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28153512&#34; target=&#34;_blank&#34;&gt;28153512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A platinum-based doublet containing a third-generation antifolate is the front-line standard of care whilst there are no approved second-line treatments for MPM which remains a disease setting to test the efficacy of new therapeutic agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28210162&#34; target=&#34;_blank&#34;&gt;28210162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Curative therapy for MPM remains elusive, and the primary treatment option for fit patients is platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28213002&#34; target=&#34;_blank&#34;&gt;28213002&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following failure of a platinum-antifolate combination regimen, there is no standard therapy for advanced malignant pleural mesothelioma (MPM). […] This open-label multicentre phase II trial [NCT01769547] enrolled fit, consenting adult patients with advanced MPM who had previously received platinum-antifolate combination chemotherapy and up to one additional line of systemic therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28213004&#34; target=&#34;_blank&#34;&gt;28213004&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Perfusion solution and plasma samples were periodically collected, and concentrations of protein-unbound (free) platinum, which was the active derivative of cisplatin, and total platinum were determined by flameless atomic absorption spectrometry. […] Rate of free platinum concentration relative to total platinum concentration in perfusion solution after 1hr IPHC at 43°C was 61.1±12.9%. […] Area under curve (AUC) of free platinum in the pleural space was calculated to be 26.3μg/mLxh, resulting in complete control of pleural effusion for 3 months after IHPC in all cases (95% confidence interval: 83-100%). […] While, absorption rate of total platinum from the pleural space was 33.8±17.0% (27.4±13.6mg/m&lt;sup&gt;2&lt;/sup&gt;), and the maximum concentration of total platinum in serum was low, 0.66±0.31μg/mL, resulting in controllable side effects; grade 1 renal toxicity: 6 patients, grade 1 emesis: 7 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28291584&#34; target=&#34;_blank&#34;&gt;28291584&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma is a highly aggressive cancer with poor prognosis and few treatment options following progression on platinum-containing chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28337371&#34; target=&#34;_blank&#34;&gt;28337371&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The majority of patients are diagnosed in advanced stages so patients neither benefit from chemotherapy (e.g. pemetrexed-platinum combination) nor from surgery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28713675&#34; target=&#34;_blank&#34;&gt;28713675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Standard first-line systemic treatment consists of a platinum analog, an anti-metabolite, and sometimes anti-angiogenic therapy, but there is currently no well-established standard therapy for refractory or relapsed disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28800871&#34; target=&#34;_blank&#34;&gt;28800871&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum-based chemotherapy in association with a third-generation antifolate is the front-line standard of care whereas any second-line treatment was approved for MPM thus making it a pathology that evokes the need for new therapeutic agents. […] Different platinum-drugs were synthesised and tested as an option for patients who are not candidates to cisplatin-based therapy. […] Among these, monofunctional cationic antineoplastic platinum compounds received a special attention in the last decade.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28838403&#34; target=&#34;_blank&#34;&gt;28838403&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our analysis of 58 patients with MPM treated with platinum-based chemotherapy showed 4 patients (7%) attained pathological CR at subsequent extrapleural pneumonectomy (EPP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28843224&#34; target=&#34;_blank&#34;&gt;28843224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Methods: Weretrospectively reviewed our database and enrolled patients with MPM who received platinum containing chemotherapy(2012-2014). […] Some 65 had asbestosis, 23 had chronic disease,55 (67.1%) were responders to platinum containing first line chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28918032&#34; target=&#34;_blank&#34;&gt;28918032&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) is associated with an extremely poor prognosis, and most patients initially are or rapidly become unresponsive to platinum-based chemotherapy. […] Although miR-31 re-expression increased chemoresistance, paradoxically, a higher relative intracellular accumulation of platinum was detected. […] This was coupled to a significantly decreased intranuclear concentration of platinum. […] Linked with a downregulation of OCT1, a bipotential transcriptional regulator with multiple miR-31 target binding sites, we subsequently identified an indirect miR-31-mediated upregulation of ABCB9, a transporter associated with drug accumulation in lysosomes, and increased uptake of platinum to lysosomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28920322&#34; target=&#34;_blank&#34;&gt;28920322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These patients received platinum-based systemic chemotherapy for their recurrence.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29092096&#34; target=&#34;_blank&#34;&gt;29092096&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to identify the characteristics of hypersensitivity reactions and to assess the value of skin tests for platinum salts and pemetrexed in the treatment of patients with non-small cell lung cancers or malignant pleural mesothelioma. […] Skin tests were positive in three patients, but only for platinum salts. […] The outcome after reintroduction of a negatively tested platinum salt allowed us to calculate a negative predictive value for platinum salt skin tests of 100%. […] Skin tests could be used to diagnose hypersensitivity reactions with platinum salts or to evaluate the possibility of cross-reactions between two platinum salts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29309720&#34; target=&#34;_blank&#34;&gt;29309720&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma is an almost always fatal tumour, for which palliative platinum-based chemotherapy is currently the standard treatment. […] One trial compared combined extrapleural pneumonectomy (EPP) plus neoadjuvant platinum-based chemotherapy plus postoperative high-dose hemithoracic radiotherapy with combined EPP plus platinum-based chemotherapy. […] The other trial compared EPP plus postoperative hemithoracic radiotherapy with standard (non-radical) therapy alone following platinum-based chemotherapy (patients in the standard therapy arm received continued oncological management according to local policy, which could include further chemotherapy or palliative radiotherapy).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29507800&#34; target=&#34;_blank&#34;&gt;29507800&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other first-line options are currently available, including the use of raltitrexed instead of pemetrexed combined with platinum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29961333&#34; target=&#34;_blank&#34;&gt;29961333&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While LA-ICPMS was able to provide quantitative information on the platinum distribution along with the distribution of other elemental analytes in the tissue sample, MALDI MS could reveal full information on lipid distributions, as both modes of polarity, negative and positive, were used for measurements. […] Correlations between platinum, phosphorus, and lipid distributions were found by the use of advanced statistics.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30053976&#34; target=&#34;_blank&#34;&gt;30053976&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Advanced malignant pleural mesothelioma (MPM) is generally treated with platinum/pemetrexed-based first-line therapy. […] Once the disease progresses, evidence for the efﬁcacy of palliative treatments is lacking, and platinum re-challenge or single-agent chemotherapy are commonly used. […] Median pooled OS with platinum- and pemetrexed-based chemotherapy were 7.93 and 7.78 months, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30112000&#34; target=&#34;_blank&#34;&gt;30112000&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, the effects of MDM2 inhibition in MPM via Nutlin-3A and standard platinum based chemotherapeutic agents were comparatively tested in three MPM cell lines (NCI-H2052, MSTO-211H, and NCI-H2452) showing different expression profiles of TP53, MDM2, and its physiological inhibitor of MDM2-P14/ARF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30410726&#34; target=&#34;_blank&#34;&gt;30410726&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy usually consists of a platinum-based chemotherapy, such as cisplatin, often combined with a folate antimetabolite, such as pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30450296&#34; target=&#34;_blank&#34;&gt;30450296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The only registered therapy for MPM is platinum-pemetrexed doublet therapy, although only up to half of patients have clinical benefit from this palliative treatment. […] Of the anti-angiogenesis agents, only bevacizumab and nintedanib have shown activity with platinum-pemetrexed doublet therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30605211&#34; target=&#34;_blank&#34;&gt;30605211&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with malignant mesothelioma whose disease has progressed after platinum and pemetrexed treatment have limited options. […] Phase 1b open-label study (JAVELIN Solid Tumor) in patients with unresectable mesothelioma that progressed after platinum and pemetrexed treatment, enrolled at 25 sites in 3 countries between September 9, 2014, and July 22, 2015.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30660511&#34; target=&#34;_blank&#34;&gt;30660511&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with malignant pleural mesothelioma who progressed after at least one line of platinum-containing chemotherapy were enrolled.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30660609&#34; target=&#34;_blank&#34;&gt;30660609&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is no recommended therapy for malignant pleural mesothelioma that has progressed after first-line pemetrexed and platinum-based chemotherapy. […] Eligible patients were aged 18 years or older with an Eastern Cooperative Oncology Group performance status of 0-1, histologically proven malignant pleural mesothelioma progressing after first-line or second-line pemetrexed and platinum-based treatments, measurable disease by CT, and life expectancy greater than 12 weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30679948&#34; target=&#34;_blank&#34;&gt;30679948&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The standard treatment remains platinum-based chemotherapy with pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30706690&#34; target=&#34;_blank&#34;&gt;30706690&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 49 patients (16.2%) underwent pleurectomy, 57 (18.9%) received radiotherapy, and 279 patients received first-line platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30790063&#34; target=&#34;_blank&#34;&gt;30790063&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First-line combination therapy with pemetrexed and a platinum analog allows a modest survival benefit, while no clear therapeutic options exist for the second-line therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30809599&#34; target=&#34;_blank&#34;&gt;30809599&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum(II) complexes such as cisplatin and carboplatin are clinically approved for the therapy of mesothelioma often in combination with antimetabolites such as pemetrexed or gemcitabine. […] It was observed that pathogenic properties of mesothelioma cells and the response of mesothelioma tumors towards platinum-based drugs are strongly influenced by non-coding RNAs, in particular, by small microRNAs (miRNAs) and long non-coding RNAs (lncRNAs). […] These non-coding RNAs controlled drug sensitivity and the development of tumor resistance towards platinum drugs. […] An overview of the interactions between platinum drugs and non-coding RNAs is given and the influence of non-coding RNAs on platinum drug efficacy in mesothelioma is discussed. […] The understanding of mesothelioma diseases concerning the interactions of non-coding RNAs and platinum drugs will optimize existing therapy schemes and pave the way to new treatment options in future.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30809600&#34; target=&#34;_blank&#34;&gt;30809600&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These drugs are often applied in combination with platinum complexes and other drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30975761&#34; target=&#34;_blank&#34;&gt;30975761&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For patients with breast, ovarian, or prostate cancers, overall survival is associated with increased sensitivity to platinum chemotherapy due to loss-of-function mutations in DNA repair genes. […] The goal of this project was to evaluate, in patients with malignant mesothelioma, the relationship between inherited loss-of-function mutations in DNA repair and other tumor suppressor genes and overall survival following platinum chemotherapy. […] Among 385 patients treated with platinum chemotherapy, median overall survival was significantly longer for patients with loss-of-function mutations in any of the targeted genes compared with patients with no such mutation (&lt;i&gt;P&lt;/i&gt; = 0.0006). […] Patients with pleural mesothelioma with inherited mutations in DNA repair and other tumor suppressor genes appear to particularly benefit from platinum chemotherapy compared with patients without inherited mutations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31212997&#34; target=&#34;_blank&#34;&gt;31212997&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our exploratory analysis revealed a potential value of circulating non-coding RNA for selection of patients likely to benefit from surgery after platinum-based adjuvant chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31229434&#34; target=&#34;_blank&#34;&gt;31229434&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Surprisingly, the use of a combination of a cationic lipid and HAL had a synergistic effect on cellular uptake in MPM and consequently permitted an anti-cancer drug such as cis-diamminedichloro-platinum(II) (CDDP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31367541&#34; target=&#34;_blank&#34;&gt;31367541&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current treatment, consisting of antifolate and platinum-based chemotherapy, improves the median overall survival with only 3 months.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31386610&#34; target=&#34;_blank&#34;&gt;31386610&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SWOG S0905 (ClinicalTrials.gov identifier: NCT01064648) randomly assigned cediranib or placebo with platinum-pemetrexed for six cycles followed by maintenance cediranib or placebo in unresectable chemotherapy-naïve patients with MPM of any histologic subtype. […] The addition of cediranib to platinum-pemetrexed improved PFS by RECIST v1.1 and response rate by modified RECIST in patients with unresectable MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31424688&#34; target=&#34;_blank&#34;&gt;31424688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No severe perfusion-related toxicity was reported, with grade 3 haematological toxicity and platinum-induced neurotoxicity in less than 8% of the patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31546009&#34; target=&#34;_blank&#34;&gt;31546009&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since 2003, combined treatment with a platinum-based agent and pemetrexed has been the first-line therapy and no effective or approved second-line treatments have emerged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31628016&#34; target=&#34;_blank&#34;&gt;31628016&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients received continuous TTFields at a frequency of 150 kHz to the thorax and concomitant chemotherapy with intravenous pemetrexed (500 mg/m&lt;sup&gt;2&lt;/sup&gt; on day 1) plus intravenous platinum (either cisplatin 75 mg/m&lt;sup&gt;2&lt;/sup&gt; on day 1 or carboplatin area under the curve 5 on day 1) every 21 days for up to six cycles. […] TTFields (150 kHz) delivered to the thorax concomitant with pemetrexed and platinum was an active and safe combination for front-line treatment of unresectable malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31734071&#34; target=&#34;_blank&#34;&gt;31734071&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previous preclinical studies have shown that activin A is overexpressed in malignant pleural mesothelioma (MPM), associates with cancer cachexia, and is observed in in vitro resistance to platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31825692&#34; target=&#34;_blank&#34;&gt;31825692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Introduction&lt;/b&gt;: Platinum-based chemotherapy is the current first-line standard therapy for unresectable malignant pleural mesothelioma (MPM). […] Several trials with monotherapy or cotherapy with nivolumab have commenced, including randomized trials of nivolumab monotherapy vs. placebo in the salvage setting, and cotherapy with nivolumab and ipilimumab vs. the platinum doublet in the frontline setting.&lt;b&gt;Expert opinion&lt;/b&gt;: Nivolumab seems like a reasonable option for unresectable, relapsed MPM despite the lack of randomized trial data.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31833271&#34; target=&#34;_blank&#34;&gt;31833271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum-based chemotherapy in association with pemetrexed is the frontline standard of care and provides a 12-month overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31901768&#34; target=&#34;_blank&#34;&gt;31901768&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The FGFR 1-3 inhibitor AZD4547 did not demonstrate efficacy in patients with MPM who had progressed after first line treatment with platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31929796&#34; target=&#34;_blank&#34;&gt;31929796&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multimodal therapy consisting of platinum-based chemotherapy is the treatment of choice. […] The reasons underlying the rather poor efficacy of platinum compounds remain largely unknown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32085891&#34; target=&#34;_blank&#34;&gt;32085891&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pts with progressing MPM treated with first-line platinum-pemetrexed chemotherapy with or without immunotherapy received lurbinectedin monotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32102735&#34; target=&#34;_blank&#34;&gt;32102735&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This phase II study evaluates the antitumor activity of a combination of IM and GEM in platinum-pemetrexed-pretreated MPM patients expressing PDGFR-β and/or cKIT by immunohistochemistry (IHC). […] The combination of IM and GEM is well tolerated in platinum-pemetrexed-pretreated MPM patients expressing PDGFR-β and/or cKIT by IHC, but it does not show a significant PFS benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32154179&#34; target=&#34;_blank&#34;&gt;32154179&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The only registered systemic treatment for malignant pleural mesothelioma (MPM) is platinum based chemotherapy combined with pemetrexed, with or without bevacizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32156681&#34; target=&#34;_blank&#34;&gt;32156681&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In advanced disease, the combination of pemetrexed and platinum remains the only established treatment, while efficacy evidence of second line chemotherapy is lacking.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32420076&#34; target=&#34;_blank&#34;&gt;32420076&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant pleural mesothelioma (MPM) remains a deadly disease with limited therapeutic options beyond platinum/pemetrexed chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32481365&#34; target=&#34;_blank&#34;&gt;32481365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Malignant peritoneal mesothelioma is a rare tumor with a poor prognosis and has no recommended therapy after first-line pemetrexed and platinum-based chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32530527&#34; target=&#34;_blank&#34;&gt;32530527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We further performed immunohistochemical analysis using clinical MPM samples obtained from patients who were treated with the combination of platinum plus pemetrexed, and found that the overexpression of IL-1R tended to correlate with poor overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32669375&#34; target=&#34;_blank&#34;&gt;32669375&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ganetespib, a highly potent, small-molecule Heatshock protein 90 inhibitor, has potential efficacy in malignant pleural mesothelioma (MPM) via activity on critical survival pathways and known synergies with antifolates and platinum chemotherapy. […] Ganetespib can be combined safely with pemetrexed and platinum chemotherapy to treat patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32682189&#34; target=&#34;_blank&#34;&gt;32682189&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nearly two-thirds of patients (71 %) received chemotherapy, mainly platinum-pemetrexed combination, as part of their treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32727707&#34; target=&#34;_blank&#34;&gt;32727707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a randomized phase II trial to determine if continuation of pemetrexed after first-line pemetrexed and platinum would improve progression-free survival (PFS). […] Eligible patients with unresectable MPM, without disease progression following 4 to 6 cycles of pemetrexed and platinum were randomized 1:1 to observation or continuation of pemetrexed until progression, stratified by number of cycles (&amp;lt; 6 or 6), cis- or carboplatin containing regimen, and histology. […] Maintenance pemetrexed following initial pemetrexed and platinum chemotherapy does not improve PFS in patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3542271&#34; target=&#34;_blank&#34;&gt;3542271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The platinum analogues JM8 and JM9 were assigned randomly to 16 patients with pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8275441&#34; target=&#34;_blank&#34;&gt;8275441&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Total and filterable platinum in pleural effusion and in plasma were monitored for two intrapleural courses of 120 mg/m2 cisplatin, and a weekly schedule was adopted. […] Platinum concentrations in pleural effusion, plasma, and urine were determined by flameless atomic absorption spectroscopy. […] A lower peak of filterable platinum in plasma, a decrease in systemic filterable platinum exposure (AUC [area under the concentration-time curve]), and a greater pleural exposure to filterable platinum were observed after Course 2 compared with Course 1. […] After the second cycle of intrapleural treatment, the systemic AUC for filterable platinum was reduced by 40%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8625674&#34; target=&#34;_blank&#34;&gt;8625674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine the efficacy of methotrexate, vinblastine, and platinum chemotherapy in patients with diffuse unresectable malignant mesothelioma. […] Six patients received weekly methotrexate and vinblastine at the same doses without platinum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9438693&#34; target=&#34;_blank&#34;&gt;9438693&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A review of the literature reveals that small activity against this disease has been shown by the anthracyclines, platinum compounds, and alkylating agents, whereas higher activity has been reported with the antimetabolites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9815694&#34; target=&#34;_blank&#34;&gt;9815694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cis-Bis-neodecanoato-trans-R,R-1,2-diaminocyclohexane platinum(II) (NDDP) is a lipophilic non-cross-resistant platinum compound formulated in large multilamellar liposomes (1-3 micrometer). […] Plasma pharmacokinetic studies showed that the absorption of L-NDDP from the pleural cavity was rapid during the first 2 h, with levels becoming steady (bioavailable or free platinum) or increasing slowly (total plasma platinum) between 6 and 24 h after administration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

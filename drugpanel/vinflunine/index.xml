@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/vinflunine/</link>
+      <atom:link href="/mesothelioma/drugpanel/vinflunine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/vinflunine/</link>
+    </image>
+    
+    <item>
+      <title>VINFLUNINE</title>
+      <link>/mesothelioma/drugpanel/vinflunine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/vinflunine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11641&#39; target=&#39;_blank&#39;&gt;db11641&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=vinflunine&#34; target=&#34;_blank&#34;&gt;vinflunine&lt;/a&gt; &lt;br&gt;
+Synonymous :20’,20’-difluoro-3’,4’-dihydrovinorelbine | 4’-deoxy-20’,20’-difluoro-5’-norvincaleukoblastine | 4’-deoxy-20’,20’-difluoro-8’-norvincaleukoblastine | vinflunina | vinflunine | vinfluninum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;vinflunine&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17947722&#34; target=&#34;_blank&#34;&gt;17947722&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study reports the clinical efficacy data for vinflunine, a novel microtubule inhibitor, in MPM. […] Vinflunine 320 mg/m2 by 10-minute intravenous infusion was administered on day 1 of 21-day cycles. […] Vinflunine can be delivered with high-dose intensity in patients with MPM. […] These data suggest that vinflunine should be further evaluated in the management of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18538178&#34; target=&#34;_blank&#34;&gt;18538178&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vinflunine is a novel microtubule inhibitor of the vinca alkaloid class currently in development for the treatment of advanced transitional cell carcinoma of the urothelium (TCCU) and other solid tumors. […] This review summarizes the clinical activity of vinflunine as a single agent or in combination with other antineoplastic drugs. […] Vinflunine is active against a variety of tumor types, including advanced TCCU, metastatic breast cancer, advanced non-small cell lung cancer, and malignant pleural mesothelioma. […] Phase 3 trials are underway to further define the extent of clinical benefit provided by vinflunine in patients with advanced solid malignancies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20584744&#34; target=&#34;_blank&#34;&gt;20584744&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To review the pharmacology, pharmacokinetics, in vitro and in vivo efficacy, and safety profile of vinflunine in the treatment of various solid tumors. […] A literature search was conducted using keywords included vinflunine, vinca alkaloid, Javlor, and solid tumor in PubMed/MEDLINE (1950-January 2009) and International Pharmaceutical Abstracts (1950-January 2009). […] Published studies, posters, and meeting abstracts evaluating the in vitro and in vivo efficacy of vinflunine were reviewed. […] Vinflunine is the newest member of the vinca alkaloid family. […] Phase II/III trials reported activities of vinflunine in advanced stage nonsmall-cell lung cancer, metastatic breast cancer, metastatic renal cell carcinoma, transitional cell carcinomas of the urothelium, small-cell lung cancer, and malignant pleural mesothelioma as monotherapy and in combination with other chemotherapy agents. […] Vinflunine is a new vinca alkaloid for the treatment of advanced staged solid tumors. […] Further studies are needed to further define vinflunine’s role in oncology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26526504&#34; target=&#34;_blank&#34;&gt;26526504&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vinflunine is a derivative of vinorelbine that has been studied in MPM as first-line agent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

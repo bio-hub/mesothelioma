@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/ganciclovir/</link>
+      <atom:link href="/mesothelioma/drugpanel/ganciclovir/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/ganciclovir/</link>
+    </image>
+    
+    <item>
+      <title>GANCICLOVIR</title>
+      <link>/mesothelioma/drugpanel/ganciclovir/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/ganciclovir/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01004&#39; target=&#39;_blank&#39;&gt;db01004&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ganciclovir&#34; target=&#34;_blank&#34;&gt;ganciclovir&lt;/a&gt; &lt;br&gt;
+Synonymous :2-(6-amino-purin-9-ylmethoxy)-propane-1,3-diol | 2-amino-9-((1,3-dihydroxypropan-2-yloxy)methyl)-1h-purin-6(9h)-one | 2-amino-9-((1,3-dihydroxypropan-2-yloxy)methyl)-3h-purin-6(9h)-one | 2-amino-9-((1,3-dihydroxypropan-2-yloxy)methyl)-9h-purin-6-ol | 2-amino-9-(2-hydroxy-1-hydroxymethyl-ethoxymethyl)-1,9-dihydro-purin-6-one | 2-amino-9-(2-hydroxy-1-hydroxymethylethoxymethyl)-6,9-dihydro-1h-6-purinone | 9-((2-hydroxy-1-(hydroxymethyl)ethoxy)methyl)guanine | 9-[(1,3-dihydroxy-2-propoxy)methyl]guanine | ga2 | ganciclovir | ganciclovirum | gancyclovir
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ganciclovir&lt;/em&gt; gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11156085&#34; target=&#34;_blank&#34;&gt;11156085&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene therapy using adenovirus to deliver herpes simplex virus thymidine kinase (Ad.HSVtk) followed by the administration of the prodrug ganciclovir has been an effective anticancer therapy in models of localized tumor (including malignant mesothelioma) and is currently being evaluated in clinical trials. […] Immunocompetent animals with established abdominal tumor were treated with either one or three (given weekly) intraperitoneal injections of Ad.HSVtk (10(9) plaque-forming units) followed by daily ganciclovir and monitored for survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11713768&#34; target=&#34;_blank&#34;&gt;11713768&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The National Cancer Institute is sponsoring a phase I clinical trial by the University of Pennsylvania involving administration of recombinant adenovirus containing the HSV-tk gene and subsequent tumor kill by ganciclovir, for the gene therapy of malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15474666&#34; target=&#34;_blank&#34;&gt;15474666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vectors were constructed containing a fusion gene, consisting of the Herpes simplex virus thymidine kinase (HSV-TK) and the green fluorescent protein (GFP) genes; the former serving as suicide gene by converting the prodrug ganciclovir (GCV) into a toxic agent, thereby killing infected cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16243818&#34; target=&#34;_blank&#34;&gt;16243818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Delineation of the long-term follow-up data on a series of patients with malignant mesothelioma, who received a single intrapleural dose of a nonreplicative adenoviral (Ad) vector encoding the herpes simplex virus thymidine kinase “suicide gene” (Ad.HSVtk) in combination with systemic ganciclovir. […] Intrapleural Ad.HSVtk/ganciclovir is safe and well tolerated in mesothelioma patients and resulted in long-term durable responses in two patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7618973&#34; target=&#34;_blank&#34;&gt;7618973&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Introduction of the HSVtk gene into tumor cells renders them sensitive to the antiviral drug ganciclovir (GCV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8788165&#34; target=&#34;_blank&#34;&gt;8788165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previously, we have treated malignant mesothelioma (MM) growing in the peritoneal cavity of immunodeficient mice utilizing a recombinant adenovirus vector carrying the herpes simplex virus-thymidine kinase gene (Ad.RSVtk) followed by administration of the anti-viral drug ganciclovir (GCV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8953313&#34; target=&#34;_blank&#34;&gt;8953313&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+H5.010RSVtk was delivered at high dose (10(12) pfu) into the pleural cavity of three non-human primates followed by systemic administration of ganciclovir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9176512&#34; target=&#34;_blank&#34;&gt;9176512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In vitro experiments with rat (II-45) and human (MERO 25) mesothelioma cell lines revealed that the CMV promoter was stronger than the MLP promoter regarding levels of expression of the luciferase reporter gene and ganciclovir (GCV) killing efficiency after tk gene transfer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9607419&#34; target=&#34;_blank&#34;&gt;9607419&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase I dose-escalation clinical trial of adenoviral (Ad)-mediated intrapleural herpes simplex virus thymidine kinase (HSVtk)/ganciclovir (GCV) gene therapy in patients with mesothelioma as a model for treatment of a localized malignancy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9610071&#34; target=&#34;_blank&#34;&gt;9610071&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By virtue of their expression of HSV-TK, the transduced cells are rendered susceptible to the antiviral drug, ganciclovir (GCV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9684098&#34; target=&#34;_blank&#34;&gt;9684098&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article reports the results of a phase I clinical trial assessing the safety of intrapleural delivery and efficacy of intratumoral gene transfer of recombinant adenovirus (rAd) containing herpes simplex virus thymidine kinase (HSVtk) gene into the pleural space of patients with MM, followed by systematic treatment with the antiviral drug ganciclovir (GCV) for 14 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9853530&#34; target=&#34;_blank&#34;&gt;9853530&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By virtue of their expression of HSV-tk, the transduced cells are rendered susceptible to the antiviral drug, ganciclovir (GCV). and nearby tumor cells are killed by a phenomenon termed the bystander effect. […] In this protocol we propose a Phase I trial to study the safety and determine the maximal tolerated dose of an HSV-tk-transduced ovarian cancer cell line (PA1-STK cells) infused into the pleural cavities of patients with malignant pleural mesothelioma, followed by systemic administration of ganciclovir. […] The hope is that administration of ganciclovir will result in killing of the HSV-tk transduced ovarian cancer cells as well as the nearby malignant mesothelioma cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

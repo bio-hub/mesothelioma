@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/crizotinib/</link>
+      <atom:link href="/mesothelioma/drugpanel/crizotinib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/crizotinib/</link>
+    </image>
+    
+    <item>
+      <title>CRIZOTINIB</title>
+      <link>/mesothelioma/drugpanel/crizotinib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/crizotinib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db08865&#39; target=&#39;_blank&#39;&gt;db08865&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=crizotinib&#34; target=&#34;_blank&#34;&gt;crizotinib&lt;/a&gt; &lt;br&gt;
+Synonymous :(r)-crizotinib | crizotinib | crizotinibum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;crizotinib&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27623107&#34; target=&#34;_blank&#34;&gt;27623107&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we studied the combinatorial therapeutic efficacy of the MET/ALK inhibitor crizotinib, with either a pan-class I PI3K inhibitor, BKM120, or with a PI3K/mTOR dual inhibitor, GDC-0980, in mesothelioma. […] Cell viability results showed that MPM cells were highly sensitive to crizotinib, BKM120 and GDC-0980 when used individually and their combination was more effective in suppressing growth. […] Treatment with BKM120 alone or in combination with crizotinib induced G2-M arrest and apoptosis. […] Both crizotinib and BKM120 strongly inhibited the activity of MET and PI3K as evidenced by the decreased phosphorylation of MET, AKT and ribosomal S6 kinase. […] Using a PDX mouse model, we showed that a combination of crizotinib with BKM120 was highly synergetic in inhibiting MPM tumor growth.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28337371&#34; target=&#34;_blank&#34;&gt;28337371&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, treatment with combination of crizotinib and afatinib showed stronger inhibition on cell proliferation of MPM than the treatment by either one in vitro and in vivo. […] In conclusion, our data illustrated that crizotinib combined with afatinib may be a potentially effective strategy for treating MPM patients with over-expression of MET and EGFR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29755689&#34; target=&#34;_blank&#34;&gt;29755689&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ALK/MET inhibitor crizotinib enhanced the anti-tumor effect of the mTOR-inhibitor rapamycin in a patient-derived MPM xenograft with co-activated ALK/mTOR: combined therapy achieved tumor shrinkage in 4/5 tumors and growth stagnation in one tumor. […] Rapamycin/crizotinib simultaneously inhibited mTORC1 (evidenced by S6 kinase and RPS6 dephosphorylation) and ALK signaling (ALK, AKT, STAT3 dephosphorylation), and crizotinib suppressed the adverse AKT activation induced by rapamycin. […] In conclusion, co-treatment with rapamycin and crizotinib is effective in suppressing MPM tumor growth and should be further explored as a therapeutic alternative in mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32181989&#34; target=&#34;_blank&#34;&gt;32181989&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 13 patients who were treated with CT-707 from 450 to 600 mg (in the dose increasing phase) were enrolled in this trial (two patients were previously treated with crizotinib). […] Among all patients, four of the five patients who did not receive any treatment, one of the two patients who had received treatments with crizotinib, and five of the six patients who received standard chemotherapy achieved partial response (PR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

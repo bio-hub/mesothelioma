@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/naftopidil/</link>
+      <atom:link href="/mesothelioma/drugpanel/naftopidil/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/naftopidil/</link>
+    </image>
+    
+    <item>
+      <title>NAFTOPIDIL</title>
+      <link>/mesothelioma/drugpanel/naftopidil/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/naftopidil/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12092&#39; target=&#39;_blank&#39;&gt;db12092&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=naftopidil&#34; target=&#34;_blank&#34;&gt;naftopidil&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;naftopidil&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24754309&#34; target=&#34;_blank&#34;&gt;24754309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The newly synthesized naftopidil analogue HUHS1015 reduced cell viability in malignant pleural mesothelioma cell lines MSTO-211H, NCI-H28, NCI-H2052, and NCI-H2452, with the potential greater than that for the anticancer drugs paclitaxel or cisplatin at concentrations higher than 30 μM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25301502&#34; target=&#34;_blank&#34;&gt;25301502&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Naftopidil, an α1-adrenoceptor blocker, induced apoptosis of human malignant pleural mesothelioma NCI-H2052 cells. […] Naftopidil upregulated the expression of tumor necrosis factor-α (TNF-α) mRNA in these cells. […] Naftopidil, alternatively, increased FasL secretion from NCI-H2052 cells, without affecting the expression of FasL mRNA and protein, and activated caspase-3 and -8 in NCI-H2052 cells. […] Naftopidil drastically suppressed tumor growth in mice inoculated with these cells. […] The results of the present study indicate that naftopidil induces apoptosis of NCI-H2052 cells by upregulating the expression of TNF-α and stimulating the secretion of FasL, a ligand for the death receptor Fas, both to activate caspase-8 and the effector caspase-3, leading to the suppression of NCI-H2052 cell proliferation in vivo. […] This raises the possibility that naftopidil could be developed as an effective drug for the treatment of malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25532843&#34; target=&#34;_blank&#34;&gt;25532843&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We have originally synthesized the naftopidil analogue 1-[2-(2-methoxyphenylamino)ethylamino]-3-(naphthalene-1-yloxy)propan-2-ol (HUHS 1015) as a new anticancer drug.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

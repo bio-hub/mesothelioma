@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/vinblastine/</link>
+      <atom:link href="/mesothelioma/drugpanel/vinblastine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/vinblastine/</link>
+    </image>
+    
+    <item>
+      <title>VINBLASTINE</title>
+      <link>/mesothelioma/drugpanel/vinblastine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/vinblastine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00570&#39; target=&#39;_blank&#39;&gt;db00570&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=vinblastine&#34; target=&#34;_blank&#34;&gt;vinblastine&lt;/a&gt; &lt;br&gt;
+Synonymous :vinblastin | vinblastina | vinblastine | vinblastinum | vincaleukoblastine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;vinblastine&lt;/em&gt; gene in 29 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11836674&#34; target=&#34;_blank&#34;&gt;11836674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We therefore plan to conduct a multicenter randomized controlled trial comparing (1) ASC alone, (2) ASC plus mitomycin vinblastine and cisplatin (MVP), and (3) ASC plus vinorelbine (N; Navelbine, Pierre Fabre Oncology, Winchester, UK).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11875694&#34; target=&#34;_blank&#34;&gt;11875694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objectives of this study were to determine the toxicity of intratumoural/intrapleural SRL172 in addition to intradermal SRL172 and standard chemotherapy (mitomycin-C, vinblastine and cisplatin) in patients with malignant mesothelioma. […] Patients received chemotherapy (mitomycin-C: 8 mg m(-2), vinblastine: 6 mg m(-2), cisplatin 50 mg m(-2)) on a 3-weekly basis for up to six courses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14760156&#34; target=&#34;_blank&#34;&gt;14760156&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Palliation as recorded by patients has been fully reported for only two regimens: mitomycin, vinblastine, and cisplatin (MVP), and vinorelbine (N).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15319247&#34; target=&#34;_blank&#34;&gt;15319247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Between October 1986 and May 2002 all patients with inoperable pleural mesothelioma were considered for treatment with MVP (mitomycin C 8 mg/m2 every 6 weeks, vinblastine 6 mg/m2 every 3 weeks and cisplatin 50 mg/m2 every 3 weeks) chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16143373&#34; target=&#34;_blank&#34;&gt;16143373&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review highlights the discovery and development of chemotherapy at Eli Lilly &amp;amp; Company over the past 30 years from the Vinca alkaloids-vincristine, vinblastine, and vindesine-to targeted therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16317014&#34; target=&#34;_blank&#34;&gt;16317014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received the same platinum-based chemotherapy regimen, MVP [mitomycin C 8 mg/m2 cycles 1, 2, 4 and 6, vinblastine 6 mg/m2, maximum 10 mg, and cisplatin 50 mg/m2 (or carboplatin AUC 5)], every 3 weeks for up to six cycles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18237355&#34; target=&#34;_blank&#34;&gt;18237355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A second cost-effectiveness analysis then compared the mean costs and outcomes associated with pemetrexed/cisplatin with the most commonly used (unlicensed) regimens in the United Kingdom-mitomycin-C, vinblastine, and cisplatin (MVP); vinorelbine; and active symptom control-using trial-based data and data extrapolated from a review of the literature.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18486741&#34; target=&#34;_blank&#34;&gt;18486741&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated whether the addition of chemotherapy to ASC improved survival and quality of life. 409 patients with malignant pleural mesothelioma, from 76 centres in the UK and two in Australia, were randomly assigned to ASC alone (treatment could include steroids, analgesic drugs, bronchodilators, palliative radiotherapy [n=136]); to ASC plus MVP (four cycles of mitomycin 6 mg/m2, vinblastine 6 mg/m2, and cisplatin 50 mg/m2 every 3 weeks [n=137]); or to ASC plus vinorelbine (one injection of vinorelbine 30 mg/m2 every week for 12 weeks [n=136]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1917165&#34; target=&#34;_blank&#34;&gt;1917165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Exposure of PXF1118 to vincristine, vindesine, vinblastine or doxorubicin for 2-3 weeks led to an increase in the MDR cell fraction of up to 15-28% during 2 to 3 weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21345818&#34; target=&#34;_blank&#34;&gt;21345818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Active symptom control (ASC) alone had lower symptom control rates than the combination of ASC plus MVP (mitomycin+vinblastine+cisplatin) (7% vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7812707&#34; target=&#34;_blank&#34;&gt;7812707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From June 1985 to March 1993, 20 consecutive patients with histologically proven malignant mesothelioma were treated with cisplatin 100 mg/m2 i.v. infusion on day 1 and vinblastine 6 mg/m2 i.v. on day 1 and 8. […] We conclude that for this small group of patients, the combination cisplatin-vinblastine is effective, with acceptable toxicity in malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8625674&#34; target=&#34;_blank&#34;&gt;8625674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine the efficacy of methotrexate, vinblastine, and platinum chemotherapy in patients with diffuse unresectable malignant mesothelioma. […] Patients with histologically confirmed malignant mesothelioma were evaluated for treatment with methotrexate, vinblastine, and cisplatin chemotherapy. […] Ten patients received cisplatin, 100 mg/m2 IV on day 1, methotrexate, 30 mg/m2 IV on days 8, 15, and 22, and vinblastine, 3 mg/m2 IV on days 8, 15, and 22, in 28-day cycles. […] Six patients received weekly methotrexate and vinblastine at the same doses without platinum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

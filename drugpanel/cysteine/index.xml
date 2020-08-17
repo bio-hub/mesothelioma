@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/cysteine/</link>
+      <atom:link href="/mesothelioma/drugpanel/cysteine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/cysteine/</link>
+    </image>
+    
+    <item>
+      <title>CYSTEINE</title>
+      <link>/mesothelioma/drugpanel/cysteine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/cysteine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00151&#39; target=&#39;_blank&#39;&gt;db00151&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cysteine&#34; target=&#34;_blank&#34;&gt;cysteine&lt;/a&gt; &lt;br&gt;
+Synonymous :(2r)-2-amino-3-mercaptopropanoic acid | (2r)-2-amino-3-sulfanylpropanoic acid | (r)-2-amino-3-mercaptopropanoic acid | cisteina | cisteinum | cys | cysteine | cysteinum | free cysteine | l-2-amino-3-mercaptopropionic acid | l-cys | l-cystein | l-zystein
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cysteine&lt;/em&gt; gene in 5 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14617514&#34; target=&#34;_blank&#34;&gt;14617514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In common with other asbestos-induced events, this was shown to be an oxidative stress-sensitive effect, inasmuch as preincubation with N-acetyl-L-cysteine or -tocopherol (vitamin E) ameliorated the effect.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17383050&#34; target=&#34;_blank&#34;&gt;17383050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, both taurolidine and PVP-I induced the production of reactive oxygen intermediates and decreased mitochondrial membrane permeability, and cell death was inhibited by the oxygen scavenger N-acetyl cysteine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21364680&#34; target=&#34;_blank&#34;&gt;21364680&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Apoptotic cysteine-aspartate proteases (caspases) are essential for the progression and execution of apoptosis, and detection of caspase fragmentation or activity is often used as markers of apoptosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22751990&#34; target=&#34;_blank&#34;&gt;22751990&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mice bearing human MPM subcutaneous flank xenografted tumors were imaged with ProSense 680, an optical imaging agent of extracellular cysteine protease activity. […] The relative contribution of extracellular cysteine proteases to the ProSense tumor signal was estimated using RT-PCR quantitation of cysteine protease RNA expression of the MPM cell lines and compared to ArrayExpress microarray RNA expression data from human MPM tumors. […] Optical imaging of extracellular cysteine protease activity is useful for tracking MPM tumor cell mass in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26889976&#34; target=&#34;_blank&#34;&gt;26889976&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The significance of secreted protein acidic and rich in cysteine (SPARC) was examined in sera from a Dutch series (n=97). […] Secreted protein acidic and rich in cysteine was identified as a putative prognostic marker in plasma. […] Secreted protein acidic and rich in cysteine was present in both tumour cells and stromal fibroblasts; and our in vitro and in vivo experiments suggest that stromal fibroblasts are a potential source of circulating SPARC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

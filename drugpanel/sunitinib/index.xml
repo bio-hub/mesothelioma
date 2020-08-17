@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/sunitinib/</link>
+      <atom:link href="/mesothelioma/drugpanel/sunitinib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/sunitinib/</link>
+    </image>
+    
+    <item>
+      <title>SUNITINIB</title>
+      <link>/mesothelioma/drugpanel/sunitinib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/sunitinib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01268&#39; target=&#39;_blank&#39;&gt;db01268&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sunitinib&#34; target=&#34;_blank&#34;&gt;sunitinib&lt;/a&gt; &lt;br&gt;
+Synonymous :sunitinib | sunitinibum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sunitinib&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17710208&#34; target=&#34;_blank&#34;&gt;17710208&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sunitinib (SU11248) is an orally bioavailable inhibitor that affects the receptor tyrosine kinases involved in tumour proliferation and angiogenesis, including vascular endothelial growth factor (VEGF) receptors 1, 2, 3, and platelet-derived growth factor receptors alpha (PDGFRA) and beta (PDGFRB). […] Because angiogenesis is necessary for the growth and metastasis of solid tumours, and VEGF is believed to have a pivotal role in that process, SUNITINIB treatment may have broad-spectrum clinical utility.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21553148&#34; target=&#34;_blank&#34;&gt;21553148&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The tyrosine kinase inhibitor sunitinib induced partial response in 10% and stable disease in 66% of MPM patients as second-line treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22005473&#34; target=&#34;_blank&#34;&gt;22005473&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This open-labeled phase II trial evaluated single-agent sunitinib, an inhibitor of multiple receptor tyrosine kinases including the vascular endothelial growth factor receptors, given at 50 mg daily orally for 4 weeks followed by a 2-week rest, in patients with advanced MPM. […] Observed toxicity was within that expected for sunitinib. […] Sunitinib, similar to other angiogenesis inhibitors, has limited activity in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22895142&#34; target=&#34;_blank&#34;&gt;22895142&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The multitargeted tyrosine kinase inhibitor sunitinib malate targets several pathways overexpressed in mesothelioma. […] This phase II study assessed objective response to sunitinib and correlative biomarkers in patients with progressive pretreated MPM. […] Patients received oral sunitinib 50 mg daily for 28 of every 42 days. […] Fifty-three patients received sunitinib between July 2006 and December 2009; 51 were assessable for response. […] Sunitinib has activity in a subset of patients with pretreated MPM. […] Consideration should be given to different treatment schedules and examination of other biomarkers for further study of sunitinib in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

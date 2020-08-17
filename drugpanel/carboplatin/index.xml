@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/carboplatin/</link>
+      <atom:link href="/mesothelioma/drugpanel/carboplatin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/carboplatin/</link>
+    </image>
+    
+    <item>
+      <title>CARBOPLATIN</title>
+      <link>/mesothelioma/drugpanel/carboplatin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/carboplatin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00958&#39; target=&#39;_blank&#39;&gt;db00958&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=carboplatin&#34; target=&#34;_blank&#34;&gt;carboplatin&lt;/a&gt; &lt;br&gt;
+Synonymous :carboplatin | carboplatine | carboplatino | cbdca | cis-(1,1-cyclobutanedicarboxylato)diammineplatinum(ii) | cis-diammine(1,1-cyclobutanedicarboxylato)platinum | cis-diammine(1,1-cyclobutanedicarboxylato)platinum(ii)
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;carboplatin&lt;/em&gt; gene in 94 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10761473&#34; target=&#34;_blank&#34;&gt;10761473&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient received ifosfamide (5 g/m2, day 1), carboplatin (300 mg/m2, day 1), etoposide (150 mg/m2, days 2-3) combined with WBH at 41.8 degrees C (for 60 minutes).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11130573&#34; target=&#34;_blank&#34;&gt;11130573&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient was successfully treated with local and systemic administration of carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11836672&#34; target=&#34;_blank&#34;&gt;11836672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In two phase I trials with pemetrexed combined with either cisplatin or carboplatin responses occurred in five of 11 and nine of 29 patients, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12177114&#34; target=&#34;_blank&#34;&gt;12177114&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine the maximum tolerated dose (MTD) of pemetrexed and carboplatin given in combination, to derive a recommended dose for phase II studies, and to explore its efficacy. […] Doses ranged from pemetrexed 400 mg/m(2) (as a 10-minute intravenous infusion), followed by carboplatin area under the plasma concentration-time curve (AUC) 4 mg/mL.min (as a 30-minute intravenous infusion) to pemetrexed 500 mg/m(2), carboplatin AUC 6 mg/mL.min. […] The MTD was pemetrexed 500 mg/m(2), carboplatin AUC 6, because three of the five patients treated at this dose level experienced a dose-limiting toxicity. […] The MTD was pemetrexed 500 mg/m(2) and carboplatin AUC 6 mg/mL.min. […] The recommended phase II dose of the combination is pemetrexed 500 mg/m(2) and carboplatin AUC 5 mg/mL.min.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12405438&#34; target=&#34;_blank&#34;&gt;12405438&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After decortication, chemotherapy with ICE (ifosfamide, carboplatin, etoposide) - VAC (vincristine, adriamycin, cyclophosphamide) combination was started.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12609573&#34; target=&#34;_blank&#34;&gt;12609573&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a phase II study combining 41.8 degrees C whole body hyperthermia with ICE chemotherapy, i.e. ifosfamide (5 g/m(2)), carboplatin (300 mg/m(2)) and etoposide (150 mg/m(2) on days 2 and 3), administered every 4 weeks, for patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12767092&#34; target=&#34;_blank&#34;&gt;12767092&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy was comprised of carboplatin area under the concentration-time curve 5 on Day 1 and gemcitabine 1000 mg/m(2) on Days 1, 8, and 15. […] For carboplatin, the delivered dose intensity was 80 mg/m(2) per week. […] The gemcitabine/carboplatin combination is a valid option in the treatment of MPM due to its acceptable toxicity profile, the good response rate, and the clinical benefit to patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/14725755&#34; target=&#34;_blank&#34;&gt;14725755&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study describes the therapeutic effect of carboplatin and gemcitabine in combination for malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15098157&#34; target=&#34;_blank&#34;&gt;15098157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a phase-II-study combining 41.8 degrees C whole body hyperthermia with ICE chemotherapy, i. e., ifosfamide (5 g/m (2) on day 1), carboplatin (300 mg/m (2) on day 1) and etoposide (150 mg/m (2) on days 2 and 3), administered every 4 weeks, to assess the treatment benefit for patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15818532&#34; target=&#34;_blank&#34;&gt;15818532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The toxicity profile of both cisplatin and carboplatin in combination with pemetrexed was extremely favorable, as was the ability to deliver full doses of each of the component drugs. […] Also, preliminary data indicates that full doses of carboplatin/pemetrexed can be administered with thoracic radiation therapy, supporting a future clinical trial initiative in LS-SCLC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15914055&#34; target=&#34;_blank&#34;&gt;15914055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following complete drainage of the thoracic cavity under ultrasound guidance, 180 mg/m2 carboplatin diluted in 60 ml sterile water was infused into the pleural space (30 ml in each hemithorax). […] The procedure was repeated using 200 mg/m2 carboplatin, and there was a further 20-day period where the cat was free of clinical signs. […] This is the first report of successful palliative chemotherapy for suspected feline mesothelioma and suggests that intracavitary carboplatin could be considered in tumours affecting the pleural cavity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15950791&#34; target=&#34;_blank&#34;&gt;15950791&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most widespread study treatment in Europe is an ‘Extended Access Program (EAP)’ evaluating pemetrexed alone or combined with cisplatin or carboplatin with about 1500 enrolled patients. […] In Italy, 2 phase II trials of neoadjuvant chemotherapy (pemetrexed plus cisplatin in Rome, pemetrexed plus carboplatin in Padua) followed by surgery and radiotherapy are active.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16101199&#34; target=&#34;_blank&#34;&gt;16101199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combination chemotherapy included cisplatin-gemcitabine, cisplatin (or carboplatin) with premetrexed and doxorubicin-cyclophosphamide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16317014&#34; target=&#34;_blank&#34;&gt;16317014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received the same platinum-based chemotherapy regimen, MVP [mitomycin C 8 mg/m2 cycles 1, 2, 4 and 6, vinblastine 6 mg/m2, maximum 10 mg, and cisplatin 50 mg/m2 (or carboplatin AUC 5)], every 3 weeks for up to six cycles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16401712&#34; target=&#34;_blank&#34;&gt;16401712&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Eastern Cooperative Oncology Group 4599 phase III trial showed superior survival in patients with advanced nonsquamous NSCLC when the angiogenesis inhibitor bevacizumab was added to standard first-line chemotherapy with carboplatin and paclitaxel, compared with the same chemotherapy alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16549838&#34; target=&#34;_blank&#34;&gt;16549838&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This multicenter, phase II clinical study was conducted to evaluate the activity of the combination of pemetrexed and carboplatin in patients with malignant pleural mesothelioma (MPM). […] Chemotherapy-naive patients with measurable disease and adequate organ function, who were not eligible for curative surgery, received pemetrexed 500 mg/m2 and carboplatin area under the plasma concentration-time curve of 5 mg/mL/min, administered intravenously every 21 days. […] Compliance to treatment was excellent, with a relative dose-intensity of 97% for pemetrexed and 98% for carboplatin. […] Treatment with pemetrexed and carboplatin was active and well tolerated in patients with MPM. […] Disease control rate, time to disease progression, and overall survival were similar to the results achieved with the standard regimen of pemetrexed and cisplatin, suggesting that the carboplatin combination could be an alternative option for these patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16978119&#34; target=&#34;_blank&#34;&gt;16978119&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Carboplatin was administered via intracavitary instillation, and prednisone was administered orally.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17033611&#34; target=&#34;_blank&#34;&gt;17033611&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fifty-four patients with MPM have been judged candidable to extended pleuropneumonectomy (EPP), to be followed by chemotherapy (paclitaxel+carboplatin) and radiotherapy (50 Gy).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17403553&#34; target=&#34;_blank&#34;&gt;17403553&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Induction chemotherapy consisted of Carboplatin (AUC 5mg/mL/min on Day 1) and Gemcitabine (1000mg/m(2) on Days 1, 8, 15) for three to four cycles. […] In MPM, the combined modality approach using the Carboplatin/Gemcitabine combination as induction chemotherapy is feasible, with good results in terms of survival and morbidity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17410031&#34; target=&#34;_blank&#34;&gt;17410031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment was pemetrexed alone or pemetrexed combined with carboplatin. […] Pemetrexed dosing was 500 mg/m and carboplatin was AUC (area under the curve) 5 once every 3 weeks. […] Thirty-nine patients were included: 28 Danish patients received pemetrexed (three patients received pemetrexed as third-line treatment), whereas 11 Norwegian patients received pemetrexed plus carboplatin. […] Common Toxicity Criteria grade 3 to 4 toxicity occurred only with respect to leukocytopenia (pemetrexed: 14% of patients; pemetrexed plus carboplatin: 9%) and thrombocytopenia (pemetrexed: 7%; pemetrexed plus carboplatin: 18%). […] Partial response rates were 21% and 18%, the median time to progression was 21 weeks (range, 4-92) and 32 weeks (range, 4-128+), and the median survival was 42 weeks (range, 4-99) and 39 weeks (range, 10-128+) with pemetrexed and pemetrexed plus carboplatin, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17909365&#34; target=&#34;_blank&#34;&gt;17909365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the tumor was pressing against the large vessels and heart, a debulking was performed, followed by Pemetrexed and Carboplatin treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18156144&#34; target=&#34;_blank&#34;&gt;18156144&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to evaluate the activity and toxicity of pemetrexed and carboplatin combination as first-line chemotherapy in malignant pleural mesothelioma (MPM). […] The schedule was pemetrexed 500 mg/m(2) in combination with carboplatin area under the curve 5, every 21 days. […] This combination of carboplatin and pemetrexed is moderately active and the toxicity is acceptable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18280176&#34; target=&#34;_blank&#34;&gt;18280176&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with pemetrexed and carboplatin was given.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18542071&#34; target=&#34;_blank&#34;&gt;18542071&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, pooled data from two phase II trials of pemetrexed and carboplatin (PC) as first-line therapy were retrospectively analysed for comparisons between age groups. […] Patients received pemetrexed 500 mg m(-2) and carboplatin AUC 5 mg ml(-1) min(-1) intravenously every 21 days with standard vitamin supplementation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18577247&#34; target=&#34;_blank&#34;&gt;18577247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After drainage of the malignant effusion from the affected cavity, the patients received four cycles of intracavitary CDDP at the dose of 50 mg/m2 every three weeks if dogs or four cycles of intracavitary carboplatin at the dose of 180 mg/m2 (every 3 weeks) if cats, coupled with daily administration of piroxicam at the dose of 0.3 mg/kg.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18594322&#34; target=&#34;_blank&#34;&gt;18594322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although pemetrexed was under review by regulatory agencies, an International Expanded Access Program (EAP) provided more than 3000 mesothelioma patients with access to single-agent pemetrexed or pemetrexed in combination with cisplatin or carboplatin in 13 countries. […] Patients with histologically confirmed MPM, not amenable to curative surgery, received pemetrexed 500 mg/m in combination with either cisplatin 75 mg/m or carboplatin AUC 5, once every 21 days with standard premedication. […] A total of 1704 chemonaïve patients received pemetrexed plus cisplatin (n = 843) or pemetrexed plus carboplatin (n = 861) and were evaluated for safety. […] The efficacy evaluable population consisted of 745 patients in the pemetrexed plus cisplatin group and 752 patients in the pemetrexed plus carboplatin group for whom physician-reported tumor response was available. […] The pemetrexed plus cisplatin group demonstrated a response rate of 26.3% compared with 21.7% for the pemetrexed plus carboplatin group, with similar 1-year survival rates (63.1% versus 64.0%) and median time to progressive disease (7 months versus 6.9 months). […] The most common grade 3/4 hematologic toxicity was neutropenia in 23.9% of the pemetrexed plus cisplatin group and 36.1% of the pemetrexed plus carboplatin group. […] This large EAP confirmed the activity of pemetrexed plus cisplatin and pemetrexed plus carboplatin in chemonaïve patients with MPM, demonstrating clinically similar time to progressive disease and 1-year survival rates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18594323&#34; target=&#34;_blank&#34;&gt;18594323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An International Expanded Access Program provided &amp;gt;3000 mesothelioma patients with access to single-agent pemetrexed or pemetrexed plus platinum analogs (cisplatin or carboplatin) in 13 countries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18839036&#34; target=&#34;_blank&#34;&gt;18839036&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate the efficacy, safety, and clinical benefit of combined gemcitabine and carboplatin in patients with previously untreated malignant pleural mesothelioma (MPM). […] They were assigned to receive combined gemcitabine (1250mg/m2) on days, 1 and 8 and carboplatin (AUC 6) on day 1. […] The combination of gemcitabine and carboplatin is a safe and tolerable treatment with reasonable response rate, OS, and PFS compared with the historical phase II single agents and combined chemotherapy studies in patients with MPM. […] Key Words: Mesothelioma , Gemcitbine , Carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18926592&#34; target=&#34;_blank&#34;&gt;18926592&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Substitution of cisplatin with carboplatin may avoid some potential side-effects. […] Therefore, we undertook a retrospective review to assess the effectiveness and tolerability of carboplatin and pemetrexed in patients with malignant pleural mesothelioma in clinical practice. […] Patients with malignant pleural mesothelioma who had been treated with carboplatin and pemetrexed were retrospectively identified from pharmacy databases. […] The combination of carboplatin and pemetrexed may be a viable option in the treatment of malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18978569&#34; target=&#34;_blank&#34;&gt;18978569&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Nordic Mesothelioma groups decided in the year 2000 to investigate a combination of liposomized doxorubicin, carboplatin, and gemcitabine for this disease in a phase II study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19131921&#34; target=&#34;_blank&#34;&gt;19131921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD-DST using 26 fresh specimens obtained by biopsy or surgery on MPM patients investigated in vitro responses to cisplatin (CDDP), carboplatin (CBDCA), doxorubicin (ADR), etoposide (VP-16), 5-fluoruracil (5-FU), gemcitabine (GEM), vinorelbine (VNR), irinotecan (SN-38), and docetaxel (TXT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19514499&#34; target=&#34;_blank&#34;&gt;19514499&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient received first-line chemotherapy with carboplatin plus gemcitabine, and underwent pleurodesis with carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19514505&#34; target=&#34;_blank&#34;&gt;19514505&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He received the combination chemotherapy with pemetrexed and carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19736192&#34; target=&#34;_blank&#34;&gt;19736192&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Carboplatin is often substituted, with similar results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19818589&#34; target=&#34;_blank&#34;&gt;19818589&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Investigators could choose between three treatments: Pemetrexed 500 mg/m(2) alone (P) or in combination with cisplatin 75 mg/m(2) (PC) or carboplatin AUC 5 (PCb).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19879055&#34; target=&#34;_blank&#34;&gt;19879055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following the results of a large phase III trial, the combination of cisplatin and pemetrexed has become the preferred first-line chemotherapy, although there is also evidence for the activity of the combination with carboplatin based on phase II studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19900274&#34; target=&#34;_blank&#34;&gt;19900274&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a sixty one year-old man with a history of malignant pleural epithelioid mesothelioma treated with six cycles of Pemetrexed and Carboplatin completed 03/11/04 followed by radiotherapy to the drain site 250 Kv/TD20Gy/5F completed 13/12/2004.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20085865&#34; target=&#34;_blank&#34;&gt;20085865&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this phase II study was to evaluate the activity of the carboplatin/pemetrexed combination as first-line chemotherapy in patients with unresectable MPM. […] Treatment consisted of pemetrexed 500 mg/m2 and carboplatin area under the concentration-time curve of 5 mg/mL/min, both administered on day 1 of a 21-day cycle. […] This study confirmed the activity of the carboplatin/ pemetrexed combination in the first-line treatment of patients with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20163019&#34; target=&#34;_blank&#34;&gt;20163019&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We diagnosed pulmonary sarcomatoid carcinoma and started chemotherapy with carboplatin and paclitaxel, but it was ineffective. […] We diagnosed pulmonary sarcomatoid carcinoma and started chemotherapy with carboplatin and paclitaxel.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Carboplatin and cisplatin have an overall RR of 11% in three studies and 17% in four studies, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20603247&#34; target=&#34;_blank&#34;&gt;20603247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although two cycles of carboplatin plus pemetrexed chemotherapy were administered, she had progressive disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21262916&#34; target=&#34;_blank&#34;&gt;21262916&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This retrospective study aimed to assess the role of excision repair cross-complementing group-1 (ERCC1) and thymidylate synthase (TS) in tumors, and correlate expression levels and polymorphisms of these key determinants of drug activity with the outcome of MPM patients treated with carboplatin/pemetrexed in first-line setting. […] Analysis of TS and ERCC1 polymorphisms, mRNA and protein expression was done by PCR and immunohistochemistry [with the H-score (histologic score)] in tumor specimens from 126 MPM patients, including 99 carboplatin-/pemetrexed-treated patients. […] A significant correlation between low TS protein expression and disease control (DC) to carboplatin/pemetrexed therapy (P = 0.027), longer progression-free survival (PFS; P = 0.017), and longer overall survival (OS; P = 0.022) was found when patients were categorized according to median H-score. […] In our series of carboplatin-/pemetrexed-treated MPM patients, low TS protein and mRNA levels were significantly associated to DC, improved PFS, and OS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21296448&#34; target=&#34;_blank&#34;&gt;21296448&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eligible patients should have relapsed after first-line chemotherapy with pemetrexed plus cisplatin (24%) or carboplatin (76%); 53% of the patients had previously received trimodality treatment, 18% neoadjuvant chemotherapy followed by pleurectomy/decortication, 29% were inoperable. […] Chemotherapy was gemcitabine 1000 mg/m(2) days 1, 8 associated to the alternative platinum compound respect to 1st line, i.e. cisplatin 75 mg/m(2) or carboplatin AUC 5 day 1 every 3 weeks, for 3-6 cycles. […] The combination of gemcitabine with carboplatin/cisplatin was administered as second line treatment in 13 (76%) patients, as third line in 4 (24%) patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21368492&#34; target=&#34;_blank&#34;&gt;21368492&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy with carboplatin, gemcitabine and radiation therapy was performed, but the patient died from deterioration of his systemic condition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21388071&#34; target=&#34;_blank&#34;&gt;21388071&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we report the case of a 41-year-old female patient with epithelioid malignant pleural mesothelioma who was treated with carboplatin and pemetrexed despite her critical condition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21594471&#34; target=&#34;_blank&#34;&gt;21594471&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since multimodality therapy initially showed promising results, we tested the feasibility of a new approach consisting of pleurectomy, immediately followed by intrapleural chemotherapy with cisplatin (100 mg/m(2) day 1) and alpha-interferon (12x10(6) U/m(2) days 1 and 2), followed by 4 cycles of carboplatin, 350 mg/m(2), repeated every 3 weeks and associated to alpha-interferon (3x10(6) U/x3/week).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21645831&#34; target=&#34;_blank&#34;&gt;21645831&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seven patients received neoadjuvant chemotherapy (cisplatin or carboplatin, and pemetrexed).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21970874&#34; target=&#34;_blank&#34;&gt;21970874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To this end, the current study evaluates new targeted agents and their pharmacological interaction with carboplatin-pemetrexed in human MPM cell lines. […] We treated H2052, H2452, H28 and MSTO-211H cells with carboplatin, pemetrexed and targeted compounds (gefitinib, erlotinib, sorafenib, vandetanib, enzastaurin and ZM447439) and evaluated the modulation of pivotal pathways in drug activity and cancer cell proliferation. […] Vandetanib emerged as the compound with the most potent cytotoxic activity, which interacted synergistically with carboplatin and pemetrexed. […] Finally, most MPM samples displayed detectable levels of EGFR and TS, the variability of which could be used for patients’ stratification in future trials with vandetanib-pemetrexed-carboplatin combination. […] Vandetanib markedly enhances pemetrexed-carboplatin activity against human MPM cells. […] Induction of apoptosis, modulation of EGFR/Akt/Erk phosphorylation and expression of key determinants for pemetrexed and carboplatin activity contribute to this synergistic interaction, and, together with the expression of these determinants in MPM samples, warrant further clinical investigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22262998&#34; target=&#34;_blank&#34;&gt;22262998&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In recent years, selected patients received adjuvant radiotherapy and pemetrexed combined with cisplatin or carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22263055&#34; target=&#34;_blank&#34;&gt;22263055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multimodality treatment based on preoperative chemotherapy, surgery and adjuvant radiotherapy seems to be a feasible and effective therapeutic option in selected patients.We report on a case of pathological complete response in a patient affected by malignant pleural mesothelioma who was treated with four cycles of preoperative chemotherapy based on carboplatin plus pemetrexed followed by parietal pleurectomy and lung decortication. […] Carboplatin plus pemetrexed was a well tolerated regimen without grade 3-4 haematological toxicity, and this confirm the feasibility of such a treatment as an alternative to the current golden standard based on cisplatin plus pemetrexed.Complete resection allows the pathologist to better describe biological markers of mesothelioma cells, in order to select patients with different treatment outcome and prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22345416&#34; target=&#34;_blank&#34;&gt;22345416&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current standard of first-line chemotherapy for MPM is cisplatin or carboplatin in combination with pemetrexed, an antifolate compound that has been shown to increase the cytotoxic effects of platinum-based drugs. […] In Phase II and III clinical trials, combination therapy with pemetrexed and either cisplatin or carboplatin yielded some of the highest rates of tumor response (21-41%) and overall survival (about 12-14 months) reported to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22352064&#34; target=&#34;_blank&#34;&gt;22352064&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy using carboplatin and pemetrexed reduced the size of tumor and left pleural effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22409465&#34; target=&#34;_blank&#34;&gt;22409465&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In elderly patients with comorbidities cisplatin may be replaced by carboplatin because of a lesser burden of toxicities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22584322&#34; target=&#34;_blank&#34;&gt;22584322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Also, carboplatin(CBDCA)is effective as an alternative therapy of the CDDP against renal disorder case, but hematotoxicity requires attention.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22905093&#34; target=&#34;_blank&#34;&gt;22905093&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we report for the first time a genome-wide profile of acquired resistance in the tumour from an exceptional case with advanced pleural mesothelioma and almost six years survival after 39 cycles of second-line pemetrexed/carboplatin treatment. […] Genome-wide microarray of mesothelioma pre- and post-resistance biopsies indicated a novel resistance signature to pemetrexed/carboplatin that deserve validation in a larger cohort.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23225442&#34; target=&#34;_blank&#34;&gt;23225442&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objective of this study was the retrospective evaluation of tolerability and activity of pemetrexed with carboplatin (AC) or cisplatin (AP) as neoadjuvant chemotherapy in a consecutive series of patients with malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23276688&#34; target=&#34;_blank&#34;&gt;23276688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review focuses on the systemic management of MPM in patients who are not considered suitable for surgical approaches, and it discusses some questions that remain open such as the benefits of administering a maintenance treatment, whether it is better to give cisplatin or carboplatin as first-line therapy, the role of new drugs as second-line therapy, and the treatment of the elderly population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23408040&#34; target=&#34;_blank&#34;&gt;23408040&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this prospective, phase II clinical study is to evaluate the activity of gemcitabine and cisplatin in comparison to pemetrexed and carboplatin in patients with malignant pleural mesothelioma. […] The other group included 19 cases who received pemetrexed and carboplatin. […] Cumulative survival at 1.5 years was 57.8 % for the pemetrexed carboplatin group. […] Pemetrexed plus carboplatin are a step forward in the treatment of mesothelioma, the prognosis for these patients remains poor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23583604&#34; target=&#34;_blank&#34;&gt;23583604&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this open-label, multicentre, randomised phase 3 study, eligible patients had proven malignant pleural or peritoneal mesothelioma and had received a minimum of four cycles of first-line treatment containing at least pemetrexed, with or without cisplatin or carboplatin, and had not progressed on this treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23621229&#34; target=&#34;_blank&#34;&gt;23621229&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combination chemotherapy included cisplatin-gemcitabine, cisplatin-navelbine and cisplatin (or carboplatin) with premetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23860535&#34; target=&#34;_blank&#34;&gt;23860535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this open label phase II study (NCT00407459) was to assess the activity of the vascular endothelial growth factor (VEGF) inhibitor bevacizumab combined with pemetrexed and carboplatin in patients with previously untreated, unresectable malignant pleural mesothelioma (MPM). […] Eligible patients received pemetrexed 500 mg m(-2), carboplatin area under the plasma concentration-time curve (AUC) 5 mg ml(-1) per minute and bevacizumab 15 mg kg(-1), administered intravenously every 21 days for six cycles, followed by maintenance bevacizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24028146&#34; target=&#34;_blank&#34;&gt;24028146&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immediately after intra-thoracic administration of cisplatin or carboplatin, hyperthermia was performed by using an 8.00 MHz radiofrequency capacitive heating device for 1 to 4 courses in each patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24403465&#34; target=&#34;_blank&#34;&gt;24403465&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatments with reduced cisplatin or carboplatin for patients with massive ascites were safely performed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24507393&#34; target=&#34;_blank&#34;&gt;24507393&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Those who survived longer than 24 months received chemotherapy with pemetrexed and cisplatin/carboplatin or pleurectomy. […] Malignant pleural mesothelioma had poor prognosis, chemotherapy with pemetrexed and cisplatin/carboplatin could prolong the survival time of the patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24922007&#34; target=&#34;_blank&#34;&gt;24922007&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present studies, we employed a panel of MPM cell lines to test the antitumor activity of recombinant human Apo2L/TRAIL (T) in combination with carboplatin and pemetrexed (CP) in vitro and SCID mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25253633&#34; target=&#34;_blank&#34;&gt;25253633&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with malignant mesothelioma have a poor prognosis and only 40% respond to first line treatment; a combination of pemetrexed and cisplatin or carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25572813&#34; target=&#34;_blank&#34;&gt;25572813&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, combination of carboplatin, liposomised doxorubicin (Caelyx) and gemcitabine (CCG regimen) has revealed noteworthy activity when used as first-line treatment. […] Carboplatin (AUC 5), Caelyx (30 mg/m(2)) and Gemcitabine (1,000 mg/m(2)) day 1, together with Gemcitabine (800 mg/m(2)) day 8, were given in up to six cycles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25586574&#34; target=&#34;_blank&#34;&gt;25586574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed and Carboplatin are two well-known chemioterapic agents used for the treatment of many tumors, especially for lung cancer and mesothelioma. […] Peripheral ischemic events related to Pemetrexed and Carboplatin are rarely reported. […] We herein report a case of lower limb acute ischemia related to combined treatment of Pemetrexed and Carboplatin. […] A 68-year-old woman was given the chemiotherapic treatment with combination of Pemetrexed and Carboplatin after pleural resection for a malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25756395&#34; target=&#34;_blank&#34;&gt;25756395&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Consecutive patients with MPM who were fit for first-line chemotherapy with pemetrexed and cisplatinwere recruited and followed up for a minimum of 12 months.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26156324&#34; target=&#34;_blank&#34;&gt;26156324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to evaluate the efficiency and safety of cis/carboplatin plus gemcitabine, which was previously used for mesothelioma but with no recorded proof of its efficiency, compared with cis/carboplatin plus pemetrexed, which is known to be effective in mesothelioma, in comparable historical groups of malignant pleural mesothelioma. […] One hundred and sixteen patients received cis/carboplatin plus pemetrexed (group 1), while 30 patients received cis/carboplatin plus gemcitabine (group 2) between June 1999 and June 2012.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26637889&#34; target=&#34;_blank&#34;&gt;26637889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seventy-one patients with MPM receiving first-line chemotherapy with cisplatin-vinorelbine (CiV group, n=54) or carboplatin-pemetrexed (CaP group, n=17) were included.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26715491&#34; target=&#34;_blank&#34;&gt;26715491&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy regimens included Cisplatin/Pemetrexed, Carboplatin/Pemetrexed and Cisplatin/Gemcitabine, followed by EPP. 62 patients completed the adjuvant radiotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26839699&#34; target=&#34;_blank&#34;&gt;26839699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we report the first case of an MPM patient for whom the combination of nanoparticle albumin-bound paclitaxel and carboplatin (nabPC) repetitively achieved tumor regression. […] One cycle of carboplatin plus pemetrexed and two cycles of gemcitabine were administered but failed to inhibit tumor progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27287512&#34; target=&#34;_blank&#34;&gt;27287512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this preclinical study, we evaluated the antineoplastic activity of combination treatment with SoC chemotherapy (Pemetrexed, Cisplatin, Carboplatin) and ONCOS-102 in xenograft BALB/c model of human malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27325859&#34; target=&#34;_blank&#34;&gt;27325859&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 26 patients received pemetrexed plus cisplatin, 18 received pemetrexed plus carboplatin, and four received a combination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27422678&#34; target=&#34;_blank&#34;&gt;27422678&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Her lacrimal and lung tumours showed a marked regression following palliative chemo (carboplatin) and radiation therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27822122&#34; target=&#34;_blank&#34;&gt;27822122&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among chemotherapy patients, the most commonly (67%) prescribed regimen for first-line therapy was cisplatin or carboplatin (Ca/Ci) combined with pemetrexed (Pe).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27900083&#34; target=&#34;_blank&#34;&gt;27900083&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the patient’s condition temporarily improved, with decreased levels of serum mesothelin during chemotherapy with carboplatin and pemetrexed, she succumbed to cardiac tamponade 18 months after the initial onset of the symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28027772&#34; target=&#34;_blank&#34;&gt;28027772&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Histologically confirmed MPM patients (N=82) who were treated with three cycles of cisplatin and pemetrexed, or carboplatin and pemetrexed, were included. mRECIST and integrated 18F-FDG-PET/CT were used to evaluate MPM tumor response to chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28031827&#34; target=&#34;_blank&#34;&gt;28031827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, a diagnosis of epithelioid hemangioendothelioma (EHE) was made, and chemotherapy with carboplatin, pemetrexed, and bevacizumab was initiated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28918032&#34; target=&#34;_blank&#34;&gt;28918032&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reintroduction of miR-31 into miR-31 null NCI-H2452 cells significantly enhanced clonogenic resistance to cisplatin and carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29854276&#34; target=&#34;_blank&#34;&gt;29854276&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cisplatin is the drug of choice for the treatment of MPM, and carboplatin seems to have comparable efficacy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30809599&#34; target=&#34;_blank&#34;&gt;30809599&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platinum(II) complexes such as cisplatin and carboplatin are clinically approved for the therapy of mesothelioma often in combination with antimetabolites such as pemetrexed or gemcitabine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31562297&#34; target=&#34;_blank&#34;&gt;31562297&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, PFK158 alone and in combination with carboplatin-inhibited tumorigenesis of EMMeso xenografts in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31563545&#34; target=&#34;_blank&#34;&gt;31563545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On multivariate analysis, the administration of carboplatin- instead of cisplatin-based chemotherapy (hazard ratio, 2.97; 95% CI, 1.22-7.26; P = .017) and R2 resection (hazard ratio, 1.95; 95% CI, 1.27-2.99; P = .002) showed a negative correlation with overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31628016&#34; target=&#34;_blank&#34;&gt;31628016&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients received continuous TTFields at a frequency of 150 kHz to the thorax and concomitant chemotherapy with intravenous pemetrexed (500 mg/m&lt;sup&gt;2&lt;/sup&gt; on day 1) plus intravenous platinum (either cisplatin 75 mg/m&lt;sup&gt;2&lt;/sup&gt; on day 1 or carboplatin area under the curve 5 on day 1) every 21 days for up to six cycles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32088605&#34; target=&#34;_blank&#34;&gt;32088605&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient underwent pleural decortication but rapidly progressed and thus started chemotherapy with carboplatin and gemcitabine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32148838&#34; target=&#34;_blank&#34;&gt;32148838&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite treatment with carboplatin and pemetrexed, the primary lesion rapidly progressed and new multiple pleural metastases were observed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32669375&#34; target=&#34;_blank&#34;&gt;32669375&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MESO-02 (ClinicalTrials.gov: NCT01590160) was a nonrandomized, multicenter, phase Ib trial of 3-weekly ganetespib (100 mg/m&lt;sup&gt;2&lt;/sup&gt;, 150 mg/m&lt;sup&gt;2&lt;/sup&gt;, 200 mg/m&lt;sup&gt;2&lt;/sup&gt;; days 1 and 15) with pemetrexed (500 mg/m&lt;sup&gt;2&lt;/sup&gt;; day 1) and cisplatin (75 mg/m&lt;sup&gt;2&lt;/sup&gt;; day 1) or carboplatin (area under concentration-time curve 5; day 1) in patients with MPM. […] Dose escalation was performed using the 3 + 3 design (cisplatin) and accelerated titration design (carboplatin). […] Of 27 patients enrolled (cisplatin, &lt;i&gt;n&lt;/i&gt; = 16; carboplatin, &lt;i&gt;n&lt;/i&gt; = 11), 3 experienced dose-limiting toxicities: grade 3 nausea (cisplatin, &lt;i&gt;n&lt;/i&gt; = 1; carboplatin, &lt;i&gt;n&lt;/i&gt; = 1) and grade 2 infusion-related reaction (carboplatin, &lt;i&gt;n&lt;/i&gt; = 1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32727707&#34; target=&#34;_blank&#34;&gt;32727707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eligible patients with unresectable MPM, without disease progression following 4 to 6 cycles of pemetrexed and platinum were randomized 1:1 to observation or continuation of pemetrexed until progression, stratified by number of cycles (&amp;lt; 6 or 6), cis- or carboplatin containing regimen, and histology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3542270&#34; target=&#34;_blank&#34;&gt;3542270&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seventeen patients with malignant mesothelioma were treated in a phase II study with carboplatin, a cisplatin analogue without significant nephrotoxicity or neurotoxicity. […] Carboplatin, like most other cytotoxic drugs, is active only in a small minority of patients with mesothelioma, but its ability to achieve occasional good responses and frequent symptomatic relief, combined with low toxicity, may justify a short therapeutic trial in patients whose tumour is symptomatic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8622005&#34; target=&#34;_blank&#34;&gt;8622005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Agents that produce response rates in 10% to 20% of patients include doxorubicin, epirubicin, mitomycin, cyclophosphamide, ifosfamide, cisplatin, and carboplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8625674&#34; target=&#34;_blank&#34;&gt;8625674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One patient had carboplatin substituted for cisplatin due to preexisting hearing loss.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9063523&#34; target=&#34;_blank&#34;&gt;9063523&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 55-year-old male suffering from malignant mesothelioma and pretreated with intracavitary chemotherapy and radiotherapy was submitted to systemic chemotherapy including lomustine, carboplatin, vinorelbine, fluorouracil and folates after diagnosis of bilateral cerebral deposits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

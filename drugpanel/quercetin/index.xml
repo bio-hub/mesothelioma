@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/quercetin/</link>
+      <atom:link href="/mesothelioma/drugpanel/quercetin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/quercetin/</link>
+    </image>
+    
+    <item>
+      <title>QUERCETIN</title>
+      <link>/mesothelioma/drugpanel/quercetin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/quercetin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04216&#39; target=&#39;_blank&#39;&gt;db04216&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=quercetin&#34; target=&#34;_blank&#34;&gt;quercetin&lt;/a&gt; &lt;br&gt;
+Synonymous :2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-4h-1-benzopyran-4-one | 3,3’,4’,5,7-pentahydroxyflavone | 3,5,7,3’,4’-pentahydroxyflavone | sophoretin | xanthaurine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;quercetin&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22842769&#34; target=&#34;_blank&#34;&gt;22842769&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Quercetin (Qu) is found in plants, including red onions and in the skins of red apples, and induces the apoptosis of certain malignant cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27514524&#34; target=&#34;_blank&#34;&gt;27514524&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previously, we reported that Quercetin in combination with Cisplatin inhibits cell proliferation and activates caspase-9 and -3 enzymes in different malignant mesothelioma cell lines. […] Moreover, Quercetin + Cisplatin lead to accumulation of both SPC111 and SPC212 cell lines in S phase. […] Our results showed that Quercetin and Quercetin + Cisplatin modulated gene expression of cyclins, cyclin dependent kinases and cyclin dependent kinases inhibitors. […] Moreover, while p38 and JNK phosphorylations were increased, ERK phosphorylations were decreased after using Quercetin + Cisplatin. […] This research has clarified our previous results and detailed mechanism of anti-carcinogenic potential of Quercetin alone and incombination with Cisplatin on malignant mesothelioma cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

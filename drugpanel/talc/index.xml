@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/talc/</link>
+      <atom:link href="/mesothelioma/drugpanel/talc/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/talc/</link>
+    </image>
+    
+    <item>
+      <title>TALC</title>
+      <link>/mesothelioma/drugpanel/talc/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/talc/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09511&#39; target=&#39;_blank&#39;&gt;db09511&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=talc&#34; target=&#34;_blank&#34;&gt;talc&lt;/a&gt; &lt;br&gt;
+Synonymous :talco
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;talc&lt;/em&gt; gene in 114 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10596319&#34; target=&#34;_blank&#34;&gt;10596319&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed 36 partial diathermic abrasions on pleura combined with talc insufflation, and in 39 cases only talc poudrage. […] Videothoracoscopic pleurodesis (talc poudrage) as a simple and efficient procedure seems to be the best alternative treatment regimen for the management of MPE in a group of selected patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10673205&#34; target=&#34;_blank&#34;&gt;10673205&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleurodesis with talc is an accepted method for the treatment of symptomatic pleural effusions secondary to mesotheliomas. […] Patients with mesothelioma who have talc-induced pleurodesis have a lower morbidity than do those who do not have pleurodesis. […] The mechanisms whereby talc mediated these effects were considered to be secondary to a decrease or absence of a pleural effusion. […] The possibility that talc may directly affect malignant cells was not considered. […] The present study was designed to evaluate if talc directly effects cell death of malignant mesothelioma cells (MMC) or normal pleural mesothelial cells (PMC). […] Three confluent MMC and PMC were exposed to talc for 24, 48, and 72 h. […] In parallel experiments, glass beads similar in size to talc were included as control. […] Our results demonstrated that talc at a therapeutically achievable concentration (6 microg/cm(2)) induces significant apoptosis in MMC. […] Talc-induced maximum apoptosis in MMC (39.50 +/- 2.55%, 31.87 +/- 4.69%, and 15.10 +/- 3.93% in CRL-2081, CRL-5820, and CRL-5915, respectively) at 48 h, which was significantly (p &amp;lt; 0.05) greater than that in control cells. […] Electrophoresis of DNA isolated from talc-exposed MMC demonstrated the typical ladder pattern of internucleosomal DNA cleavage. […] Talc did not induce apoptosis in PMC, and glass beads did not cause significant apoptosis in either MMC or PMC. […] The present study has demonstrated that talc induces apoptosis in MMC without affecting normal mesothelial cells of the pleura.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10678010&#34; target=&#34;_blank&#34;&gt;10678010&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis was performed for all the cases, and 18 patients gained lasting pleurodesis and the other 2 patients did not.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10786419&#34; target=&#34;_blank&#34;&gt;10786419&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracoscopy has the additional advantage of allowing pleurodesis with talc poudrage if clear tumour lesions are found in the pleura. […] In cases of malignant effusion which are not sensitive to chemotherapy, pleurodesis is the treatment of choice for palliation of symptoms, and talc is the most effective agent. […] It can be used either in suspension (“slurry”) or in dry aerosolized form (“talc poudrage”), but it seems that this last technique achieves the best effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10925221&#34; target=&#34;_blank&#34;&gt;10925221&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Over the last 15 years we have managed patients with malignant pleural effusion, using a single procedure with thoracoscopy and talc pleurodesis or shunt as appropriate. […] Talc pleurodesis remains our primary treatment option but in those patient shown to have the ‘trapped lung syndrome’, in whom pleurodesis would fail, we have been using a pleuroperitoneal shunt.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11190547&#34; target=&#34;_blank&#34;&gt;11190547&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The main therapeutic option for palliative purposes in these cases is chemical pleurodesis with talc. […] The aims of this study were to report on our experience with the use of pleurodesis with talc in the treatment of patients affected by malignant pleural effusions and to analyse the results in the short and mean term. […] We treated 14 of these patients with talc poudrage and 2 patients with talc slurry. […] The talc was applied under video-assisted thorascopic management in 15 patients, while in 1 patient the talc was injected via the thoracic drainage tube.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11745800&#34; target=&#34;_blank&#34;&gt;11745800&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis was performed in 70 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12560629&#34; target=&#34;_blank&#34;&gt;12560629&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Insufflation of talc was performed in 6 pts. […] In cases of pleural effusion of diffuse pleural mesothelioma insufflation of talc or other chemical substances into pleural cavity is recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12854383&#34; target=&#34;_blank&#34;&gt;12854383&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracoscopy confirmed the histologic diagnosis and allowed simultaneous talc pleurodesis in 9 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15469478&#34; target=&#34;_blank&#34;&gt;15469478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty-eight of 48 (58%) had received chemical (talc) pleurodesis, 30/48 (63%) palliative localized radiotherapy, 6/48 (13%) chemotherapy, and 14/48 (30%) surgery [12/48 (26%) pleural decortication and 2/48 (4%) pleuropneumonectomy]. […] Talc pleurodesis induces a marked pseudosarcomatous fibroblastic proliferation which may impart a biphasic pattern to the neoplasm. […] The talc is polarizable and deposited in linear fashion within the tumour. […] Talc could be identified by transmission electron microscopic mineral analysis in 5/15 (33%) cases examined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1569770&#34; target=&#34;_blank&#34;&gt;1569770&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This prospective study was designed to determine the efficacy of iodized talc pleurodesis in patients with pleural effusions. […] A slurry containing 5 gm of talc and 3 gm of thymol iodide was instilled into the pleural space through the chest tube. […] These observations indicate that intrapleural instillation of a slurry of iodized talc is a safe, adequate, and effective treatment for control of neoplastic or benign pleural effusions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15724226&#34; target=&#34;_blank&#34;&gt;15724226&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleurodesis is the most important therapeutic modality, today preferably via thoracoscopic talc poudrage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15928495&#34; target=&#34;_blank&#34;&gt;15928495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc remains the most efficacious pleurodesis agent. […] A recent trial showed that using calibrated talc particles reduced the risk of morbidity from this procedure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16012365&#34; target=&#34;_blank&#34;&gt;16012365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracoscopy-talc led to the diagnosis of epithelial pleural mesothelioma in a 58-year-old man who presented with pleurisy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16162739&#34; target=&#34;_blank&#34;&gt;16162739&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to determine the long-term efficacy and safety of pleurodesis by thoracoscopic talc poudrage (TTP) in malignant pleural effusions (MPEs). […] For pleurodesis, an average of 8 g of sterile talc powder was used. […] No episode of talc-induced ARDS was observed. […] Thoracoscopic talc pleurodesis is a safe and effective method to stop recurrent MPEs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16268920&#34; target=&#34;_blank&#34;&gt;16268920&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since 1982, we have performed thoracoscopic talc poudrage (TTP) as a primary therapy in mesothelioma patients presenting with pleural effusion. […] As the survival data for our patients surpassed that of many published series, the patient data was analyzed to determine whether talc poudrage can be considered as a contemporary palliative option. […] Prospective randomized studies are needed to compare quality of life and survival after talc poudrage and other therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16612848&#34; target=&#34;_blank&#34;&gt;16612848&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In our study, the talc powder (5g) was successfully as sclerosing agent. […] For statistical analysis, the success of talc pleurodesis was defined as the absence of pleural fluid on the follow-up chest radiographs. […] Thoracoscopic talc pleurodesis is a safe, economical and effective treatment for malignant pleural effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16679752&#34; target=&#34;_blank&#34;&gt;16679752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We reviewed survival data in patients treated with thoracoscopic talc pleurodesis whose final diagnosis was epithelial malignant pleural mesothelioma and whose chart recorded a ppH determination performed just before thoracoscopy. […] Baseline ppH correlates with survival in epithelial mesothelioma patients treated palliatively with pleurodesis by thoracoscopic talc poudrage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17251235&#34; target=&#34;_blank&#34;&gt;17251235&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc remains the most effective sclerosing agent for pleurodesis. […] The present study evaluated the angiogenic balance in the pleural space in patients with malignant pleural effusions (MPE) following talc insufflation. […] Patient pleural fluid samples were collected both before and after talc insufflation. […] The biological effects of pleural fluids and conditioned media from talc-activated PMC on endothelial cells were evaluated by performing proliferation, invasion, tube formation and apoptosis assays. […] Pleural fluids from patients with MPE who received thoracoscopic talc insufflation contained significantly higher levels of endostatin (median 16.75 ng.mL(-1)) compared with pre-talc instillation (1.06 ng.mL(-1)). […] Talc-activated PMC released significantly greater amounts of endostatin (mean+/-SEM 1052.39+/-38.66 pg.mL(-1)) when compared with a MMC line (134.73+/-8.72 pg.mL(-1)). […] In conclusion, talc alters the angiogenic balance in the pleural space from a biologically active and angiogenic environment to an angiostatic milieu. […] Functional improvement following talc poudrage in patients with malignant pleural effusions may, in part, reflect these alterations in the pleural space.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17388830&#34; target=&#34;_blank&#34;&gt;17388830&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study was aimed to investigate whether systemic inflammatory reaction induced by insuflation of talc into the pleura can predict the outcome of pleurodesis. […] Four grammes of asbestos-free and sterile talc were insuflated into the pleural space under direct vision. […] Serum levels of inflammatory parameters (C-reactive protein and erythrocyte sedimentation rate) may be used to predict the success of pleurodesis in patients with malign mesothelioma who underwent thoracoscopic talc poudrage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17388868&#34; target=&#34;_blank&#34;&gt;17388868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pleurodesis was carried out with instillation of dry sterile talc in 67 cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17583136&#34; target=&#34;_blank&#34;&gt;17583136&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In both cases, thoracoscopy is useful for histological biopsies and sclerotherapy by talc poudrage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17669981&#34; target=&#34;_blank&#34;&gt;17669981&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fifteen patients received only diagnostic direct pleural biopsy, 40 had video-assisted thoracoscopic, pleural biopsy and talc pleurodesis while 15 patients underwent thoracotomy and pleurectomy for disease confined to the pleura.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17952507&#34; target=&#34;_blank&#34;&gt;17952507&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objective of this study was to investigate the relationship between pleural fluid adenosine deaminase (Pf-ADA) levels and talc pleurodesis outcomes, and to compare Pf-ADA levels to various other biochemical variables with respect to predicting talc pleurodesis outcome in patients with MPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18450462&#34; target=&#34;_blank&#34;&gt;18450462&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the preoperative workup for radical surgery for malignant pleural mesothelioma (MPM), mediastinal lymph node staging, diagnostic pleural biopsies and effusion control with talc pleurodesis are required. […] Pleural biopsies were taken followed by talc insufflation and cervical tube drainage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18523361&#34; target=&#34;_blank&#34;&gt;18523361&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Diagnosis and staging of the disease was done by medical thoracoscopy with biopsies of the right pleura in December 2003, when he was treated with talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18644696&#34; target=&#34;_blank&#34;&gt;18644696&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis using talc slurry via chest tube is a primary option in malignant pleural effusion, since life expectancy is short and surgical decortication is hazardous. […] Between March 2004 and September 2005, 51 consecutive patients with malignant pleural effusion, and clinically considered unsuitable for talc pleurodesis, received an indwelling pleural catheter (Denver PleurX). […] An indwelling pleural catheter is a safe alternative for patients with malignant pleural effusion unsuitable for talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18758965&#34; target=&#34;_blank&#34;&gt;18758965&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Physicians who see few numbers of patients tend to treat based on symptoms alone by drainage of the pleural effusion and talc pleurodesis, while physicians at several tertiary referral centers tend to take an aggressive multimodality approach incorporating surgical resection, chemotherapy, and radiation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18770063&#34; target=&#34;_blank&#34;&gt;18770063&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients underwent surgery and/or thoracoscopy for diagnosis, staging or talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19088831&#34; target=&#34;_blank&#34;&gt;19088831&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate the efficacy and safety of talc poudrage pleurodesis via semi-rigid medical thoracoscopy in the treatment of malignant pleural effusions, as well as the factors that may influence the outcomes. […] A series of 27 patients with malignant pleural effusion underwent medical thoracoscopic talc poudrage pleurodesis between July 2005 and September 2007 in Peking University First Hospital. […] Medical thoracoscopic talc poudrage pleurodesis is a safe and effective method for the treatment of malignant pleural effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19533434&#34; target=&#34;_blank&#34;&gt;19533434&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In feasible patients, a successful pleurodesis with talc increases the survival of patients with MPM, and it can be safely administered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19650163&#34; target=&#34;_blank&#34;&gt;19650163&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracoscopy is a useful tool to obtain tissue biopsy to establish a definitive diagnosis and to perform talc poudrage of the pleural cavity in order to prevent reaccumulation of fluid.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19727362&#34; target=&#34;_blank&#34;&gt;19727362&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Silver nitrate may be an alternative agent to talc for producing pleurodesis. […] Routine use of graded talc (50% particles greater than 25 microns) is recommended to reduce the morbidity associated with talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19843550&#34; target=&#34;_blank&#34;&gt;19843550&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The algorithm included computed tomography (CT), thoracoscopy with multiple pleural biopsies and talc pleurodesis, EBUS/EUS and one-stage TEMLA and laparoscopy/peritoneal lavage and cytology of the fluid.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20122610&#34; target=&#34;_blank&#34;&gt;20122610&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The 30-day response rate of talc pleurodesis was investigated. […] Sixty-two patients (63%) underwent talc pleurodesis, which prevented the fluid reaccumulation (p=0.04). […] Talc pleurodesis prevents the fluid reaccumulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2026232&#34; target=&#34;_blank&#34;&gt;2026232&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pneumothorax persisted, even after chest drainage and pleurodesis with talc powder and tetracycline.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20306906&#34; target=&#34;_blank&#34;&gt;20306906&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of the current study was to analyse the results of video assisted thoracoscopic (VATS) talc pleurodesis for malignant pleural effusion. […] Early talc pleurodesis via VATS is a safe technique for successfully treating pleural effusion and preventing recurrence in palliative patients with a symptomatic malignant pleural effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20403196&#34; target=&#34;_blank&#34;&gt;20403196&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Aim of our study is to analyze morbidity, mortality and life expectancy following videothoracoscopic talc poudrage. […] Video-assisted thoracoscopic talc poudrage is an effective and safe procedure that yields a high rate of successful pleurodesis and achieves long-term control with marked dyspnea decrease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20427324&#34; target=&#34;_blank&#34;&gt;20427324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He worked in the plastic manufacturing industry and was exposed to talc and asbestos blankets that were used to insulate machinery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20465088&#34; target=&#34;_blank&#34;&gt;20465088&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracoscopic talc poudrage is one of the most effective pleurodesis technique in patients with malignant pleural effusions. […] The P-CRP/S-CRP ratio as a promising marker of talc pleurodesis effectiveness and monitoring both P-CRP and S-CRP levels is inexpensive and acceptable method for clinical practice. […] The pleural effusion caused by malignant mesothelioma appeares to be resistant to talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20514576&#34; target=&#34;_blank&#34;&gt;20514576&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PET-CT was performed a median of 119 days (range 2-229) prior to EPP. 16 scans were performed after talc pleurodesis. […] Previous talc pleurodesis did not alter the accuracy of PET-CT staging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20541834&#34; target=&#34;_blank&#34;&gt;20541834&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The prognostic value of FDG-PET was not confounded by prior talc pleurodesis, despite the inflammatory response associated with the procedure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20802350&#34; target=&#34;_blank&#34;&gt;20802350&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were 195 thoracoscopic talc pleurodesis, 39 pleuroperitoneal shunts, 38 pleurodesis by an intercostal drain, 29 pleural biopsies alone, and nine long-term drains.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20887499&#34; target=&#34;_blank&#34;&gt;20887499&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients underwent surgery or thoracoscopy and/or talc pleurodesis, for diagnosis, staging procedures or as a treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21331598&#34; target=&#34;_blank&#34;&gt;21331598&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study investigates the impact of tumor type on the efficacy of bedside doxycycline and thoracoscopic talc poudrage pleurodesis in order to determine which patients may benefit most from these procedures. […] A retrospective study of 138 and 450 doxycycline and talc poudrage pleurodesis procedures, respectively, evaluated their overall successes and failures, according to primary tumor types. […] In the talc group, patients with lung cancer and mesothelioma had significantly lower complete response rates (63 and 61%, respectively) as compared with breast (77%) and other metastatic effusions (74%, p = 0.012). […] The regression analysis showed pleural burden and tumor type as independent predictors of pleurodesis failure in the talc group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22286268&#34; target=&#34;_blank&#34;&gt;22286268&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is general agreement that talc obtains the best results, and there are also preliminary experimental studies suggesting that it can induce apoptosis in tumor cells and inhibit angiogenesis, thus contributing to a better control of the malignant pleural effusion. […] There is concern about complications (possibly associated with talc but other agents as well) related to systemic inflammation and possible activation of the coagulation cascade. […] In order to prevent extrapleural talc dissemination, large-particle talc is recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22493390&#34; target=&#34;_blank&#34;&gt;22493390&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the diagnosis of pleural mesothelioma by thoracoscopic talc insufflation, combined with pleural biopsy, and total body computed tomographic scan, the patient underwent two cycles of neoadjuvant chemotherapy with pemetrexed (500 mg/m(2)) and cisplatin (75 mg/m(2)), followed by an extra-pleural pneumonectomy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22670158&#34; target=&#34;_blank&#34;&gt;22670158&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis (TP) is employed worldwide for the management of persistent pneumothorax or pleural effusion, particularly of malignant origin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2272325&#34; target=&#34;_blank&#34;&gt;2272325&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Consideration of the human epidemiology of diseases arising from exposure to naturally occurring and man-made mineral fibers encompasses the several forms of asbestos (chrysotile, crocidolite, amosite, anthophyllite, tremolite-actinolite), other naturally occurring silicates (talc, sepiolite, erionite, attapulgite, vermiculite, and wollastonite), and man-made mineral fibers (glass continuous filament, glass/rock/slag insulation wools, ceramic and other refractory fibers, and glass microfibers).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22879552&#34; target=&#34;_blank&#34;&gt;22879552&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis was performed in 59 patients, and 17 had surgical interventions (2 chest wall resections, 2 extrapleural pneumonectomies, and 13 decortications). […] Cox regression analysis identified talc pleurodesis (p=0.04), chemotherapy (p&amp;lt;0.001), port-site radiation (p&amp;lt;0.001), and combined chemotherapy and port-site radiation (p&amp;lt;0.006) as favorable prognostic factors after adjusting for age, sex, histologic subtype, smoking, and performance status. […] Talc pleurodesis was an independent determinant of survival, but further studies are warranted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23155281&#34; target=&#34;_blank&#34;&gt;23155281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In patients with MPE, several interventions have been shown to be useful for palliation of the symptoms, including talc pleurodesis. […] The aim of this study was to evaluate prognostic factors for survival of patients with symptomatic MPE who underwent palliative video-assisted thoracoscopic (VATS) talc pleurodesis. […] Thirty-five patients with MPE underwent VATS, evacuation of the pleural fluid and talc pleurodesis with large-particle talc. […] Our results show that the prognosis of patients after talc pleurodesis is independent of age, gender, type of malignancy and amount of pleural effusion, thus, suggesting the utility of treating all patients with symptomatic MPE early.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23155293&#34; target=&#34;_blank&#34;&gt;23155293&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The best treatment is still debated, but talc remains the agent of choice to achieve pleurodesis. […] Forty-six patients (28 men and 18 women; median age 67 years, range 47-82 years) with MPE related to different malignancies underwent video-assisted thoracoscopy talc pleurodesis. […] In conclusion, thoracoscopic large-particle talc pleurodesis is a feasible and effective treatment for MPE, significantly improving quality of life of patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23450672&#34; target=&#34;_blank&#34;&gt;23450672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The United States is second only to the People’s Republic of China in annual talc production. […] U.S. talc is used in the production of ceramics, paint, paper, plastics, roofing, rubber, cosmetics, flooring, caulking, and agricultural applications. […] A number of U.S. talc deposits consistently contain talc intergrown with amphiboles such as tremolite and/or anthophyllite. […] It has long been recognized that miners and millers of talc deposits are at risk for pneumoconiosis and it has recently been reported that it is prudent, on the balance of probabilities, to conclude that dusts from New York State talc ores are capable of causing mesothelioma in exposed workers. […] This is a report of the diagnosis of pneumoconiosis and mesothelioma in a husband and wife who operated a small metal casting business that used industrial talc from New York as a parting agent. […] Case reports, including medical records and exposure histories, were provided by an attorney who had also commissioned laboratory investigation of the industrial talc product used in the factory. […] Samples of the industrial talc contained fibrous tremolite and anthophyllite. […] The author concludes that end users of industrial talc from New York State may be at risk of pneumoconiosis and malignant disease. […] End users of talcs from other regions of the United States, where talc formation arose from processes driven by regional metamorphism, might also be at risk.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23483811&#34; target=&#34;_blank&#34;&gt;23483811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+She underwent repeated thoracentesis, transbronchial lung biopsy, bronchoalveolar lavage, and thoracoscopic pleural biopsy with talc pleurodesis, but diagnosis of her was uncertain.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23687495&#34; target=&#34;_blank&#34;&gt;23687495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 69-year-old man with histologically proven pleural mesothelioma on the right side and no past medical history of asbestos exposure received palliative treatment consisting of a talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23887083&#34; target=&#34;_blank&#34;&gt;23887083&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unfortunately, insurance companies in the Netherlands do not reimburse these catheters in either first-line treatment or following failed talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/2411478&#34; target=&#34;_blank&#34;&gt;2411478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The modalities employed in local treatment consisted of thoracocentesis in 62 patients, tube thoracotomy in 111 cases with local instillation of adriamycin, MMC, CQ, 5FU, OK432 or talc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24118858&#34; target=&#34;_blank&#34;&gt;24118858&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the case of a 79-year-old man with a history of right pleural WDPM at age 64, which was successfully treated with chemotherapy, radiotherapy and talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24587782&#34; target=&#34;_blank&#34;&gt;24587782&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Semirigid thoracoscopy is an accurate and safe method for evaluation of pleural diseases and useful for therapeutic talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24942631&#34; target=&#34;_blank&#34;&gt;24942631&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to compare efficacy in terms of overall survival, and cost, of VAT-PP and talc pleurodesis in patients with malignant pleural mesothelioma. […] Eligible patients were randomly assigned (1:1) to either VAT-PP or talc pleurodesis by computer-generated random numbers, stratified by European Organisation for Research and Treatment of Cancer risk category (high vs low). […] Between Oct 24, 2003, and Jan 24, 2012, we randomly assigned 196 patients, of whom 175 (88 assigned to talc pleurodesis, 87 assigned to VAT-PP) had confirmed mesothelioma. […] Overall survival at 1 year was 52% (95% CI 41-62) in the VAT-PP group and 57% (46-66) in the talc pleurodesis group (hazard ratio 1·04 [95% CI 0·76-1·42]; p=0·81). […] Surgical complications were significantly more common after VAT-PP than after talc pleurodesis, occurring in 24 (31%) of 78 patients who completed VAT-PP versus ten (14%) of 73 patients who completed talc pleurodesis (p=0·019), as were respiratory complications (19 [24%] vs 11 [15%]; p=0·22) and air-leak beyond 10 days (five [6%] vs one [1%]; p=0·21), although not significantly so. […] Median hospital stay was longer at 7 days (IQR 5-11) in patients who received VAT-PP compared with 3 days (2-5) for those who received talc pleurodesis (p&amp;lt;0·0001). […] VAT-PP is not recommended to improve overall survival in patients with pleural effusion due to malignant pleural mesothelioma, and talc pleurodesis might be preferable considering the fewer complications and shorter hospital stay associated with this treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24947955&#34; target=&#34;_blank&#34;&gt;24947955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the efficacy and safety of talc pleurodesis has been challenged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25059234&#34; target=&#34;_blank&#34;&gt;25059234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One option for the palliative treatment of recurrent malignant pleural effusion is powdered talc using thoracoscopy. […] This paper presents the results of selected systemic and local manifestations of the talc-induced inflammatory reaction using a videothoracoscope. […] In Group B the local inflammatory reaction was slower and the rise was only observed 24 h after talc application.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25403555&#34; target=&#34;_blank&#34;&gt;25403555&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ΔSUVmax was significantly correlated with PFS in the entire population (p = 0.02) and with both PFS and OS in patients not undergoing talc pleurodesis (n = 65; p &amp;lt; 0.01 for PFS, p = 0.03 for OS), and in patients without pleurodesis presenting a SD and/or PR at CT after two cycles. […] In particular, metabolic response evaluated using ΔSUVmax can be used to predict outcome in MPM patients not undergoing talc pleurodesis who achieve SD and/or PR at the interim CT evaluation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25463163&#34; target=&#34;_blank&#34;&gt;25463163&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cumulating evidence for the benefits of indwelling pleural catheters (IPCs) has led some centers to adopt this approach as first-line definitive management for MPE over conventional talc pleurodesis. […] The optimal technique of talc pleurodesis is still debated despite its use for many decades.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25669666&#34; target=&#34;_blank&#34;&gt;25669666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All consecutive patients submitted to video-assisted thoracoscopic (VAT) pleurodesis by talc poudrage for MPM between 2006 and 2011 were studied. […] Persistent lung expansion after pleural talc poudrage and absence of fluid recurrence is demonstrated to be a stronger factor in predicting survival rather than clinical stage and other clinical variables in not surgically resected MPM patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25690520&#34; target=&#34;_blank&#34;&gt;25690520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemical pleurodesis using videothoracoscopically applied powdered talc under general anaesthesia and selective pulmonary ventilation is the most effective method of palliative therapy for malign pleural exudate. […] Talc produces an intense systemic inflammatory reaction with the development of aseptic pleurisy. […] To evaluate the course of local inflammatory changes in the pleural cavity following application of talc and to quantify their dynamics.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26034319&#34; target=&#34;_blank&#34;&gt;26034319&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aimed to assess the effectiveness of medical thoracoscopy (MT) and thoracoscopic talc poudrage (TTP) in patients with exudative pleural effusion. […] Among the 41 patients, 36 underwent MT with the intent of biopsy and talc pleurodesis, 2 underwent MT for pleurodesis only and 3 had failed MT.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26638917&#34; target=&#34;_blank&#34;&gt;26638917&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The MesoVATS trial was a multicenter randomized controlled trial that examined the role of video-assisted thoracoscopic partial pleurectomy (VAT-PP) versus talc pleurodesis in patients with malignant pleural mesothelioma. […] Overall there was no difference in survival between VAT-PP and talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26770519&#34; target=&#34;_blank&#34;&gt;26770519&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to assess the efficacy and complications and compare the efficacy of medical thoracoscopic talc pleurodesis among patients with different types of tumors and different pathological classifications of lung cancer as well as to evaluate the role of postoperative negative pressure chest tube drainage. […] In conclusion, medical thoracoscopic talc pleurodesis is a palliative and effective treatment for malignant pleural effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27015029&#34; target=&#34;_blank&#34;&gt;27015029&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subsequent SEM analysis showed: i) chrysotile fibres were found in an old and unused pack of DAS paste; ii) a lung burden of 1,400 asbestos bodies, 310.000 total asbestos fibres (33% chrysotile, 67% amphibole) and 210.000 talc fibre per gr/dry lung tissue was detected from necropsies performed on the subject.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27015594&#34; target=&#34;_blank&#34;&gt;27015594&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nodal involvement can be assessed by mediastinoscopy and either talc pleurodesis or partial pleurectomy can be used for symptom control in advanced stage disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27413774&#34; target=&#34;_blank&#34;&gt;27413774&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median time with chest drain after procedure was 7.0 (range, 0.0-47.0) days and cases with talc poudrage were 30 (23.6%). […] 21 (16.5%) patients suffered from complications including lung laceration in 3 (2.4%), fever in 5 (3.9%) (due to hospital acquired infection (HAI) in 2, talc poudrage in 2, and malignancy in 1), HAI in 2 (1.6%), prolonged air-leak in 14 (11.0%), and subcutaneous emphysema in 1 (0.8%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28271362&#34; target=&#34;_blank&#34;&gt;28271362&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis is a well-established procedure performed to obliterate the pleural space to prevent recurrent pleural effusion and/or recurrent pneumothorax. […] The reported complications of talc pleurodesis are hypoxemia, hypotension, tachycardia, dyspnea, chest pain, and fever. […] Herein, we present a case of a 43-year-old female patient who developed an intense mesothelioid reaction which occurred 7 years following talc pleurodesis. […] This case represents a unique mesothelioid reaction which became manifested several years after recurrent talc pleurodesis. […] We conclude that Talc pleurodesis played a causative role in this patient developing an intense mesothelioid reaction. […] A mesothelioid reaction should be included in the differential diagnosis in patients with pleural thickening/pleural plaque formation who have previously been treated with talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28941158&#34; target=&#34;_blank&#34;&gt;28941158&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Overall, 142 patients were enrolled; 77 (54%) received talc pleurodesis before chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29111830&#34; target=&#34;_blank&#34;&gt;29111830&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three RCTs have failed to show benefits of VATS talc poudrage over bedside talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29164255&#34; target=&#34;_blank&#34;&gt;29164255&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Indwelling pleural catheter and talc pleurodesis are established treatments for malignant pleural effusions among patients with poor prognosis. […] To determine whether indwelling pleural catheters are more effective than talc pleurodesis in reducing total hospitalization days in the remaining lifespan of patients with malignant pleural effusion. […] Participants were randomized (1:1) to indwelling pleural catheter (n = 74) or talc pleurodesis (n = 72), minimized by malignancy (mesothelioma vs others) and trapped lung (vs not), and stratified by region (Australia vs Asia). […] There were no significant differences in improvements in breathlessness or quality of life offered by indwelling pleural catheter or talc pleurodesis. […] Among patients with malignant pleural effusion, treatment with an indwelling pleural catheter vs talc pleurodesis resulted in fewer hospitalization days from treatment to death, but the magnitude of the difference is of uncertain clinical importance.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29225889&#34; target=&#34;_blank&#34;&gt;29225889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis remains one of the most popular methods for fluid control. […] Participants will be randomised (1:1) to undergo either chest drain insertion followed by instillation of sterile talc, or medical thoracoscopy and simultaneous poudrage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29312753&#34; target=&#34;_blank&#34;&gt;29312753&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, new palliative treatments, such as talc pleurodesis, are being explored besides traditional surgery. […] This review reports survival rates after talc pleurodesis in comparison to surgery in patients with malignant pleural mesothelioma. […] The mean survival in the talc pleurodesis group was 14 months compared to 17 and 24 months for the pleurectomy decortication (P/D) group and extrapleural pneumonectomy (EPP) group, respectively. […] Few studies reported on the 1-, 2-year overall survival for the talc pleurodesis group and the results were very heterogeneous. […] This review shows that there is limited research on the survival rate after talc pleurodesis compared to surgery in the treatment of malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29320805&#34; target=&#34;_blank&#34;&gt;29320805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The identification of clinical and endoscopic features that determine the success of talc pleurodesis in malignant pleurisy could guide clinical decision-making. […] All symptomatic patients with malignant pleurisy subjected to talc pleurodesis through medical thoracoscopy between January 2012 and December 2015 were included.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29359509&#34; target=&#34;_blank&#34;&gt;29359509&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In patients with malignant pleural effusion, we sought to investigate the changes in pleural fluid survivin concentrations induced by talc instillation into the pleural space. […] We investigated 84 patients with malignant pleural effusion who underwent talc pleurodesis. […] Survivin levels were successfully quantified in all pleural fluid samples, and they were significantly higher in samples obtained after thoracoscopic talc poudrage compared with baseline (P &amp;lt; .001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29629675&#34; target=&#34;_blank&#34;&gt;29629675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis was performed in 81 of 194 patients (41.8%) referred to our division, and was radiologically successful in 22 of 25 (88.0%) followed up to 3 months.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30037711&#34; target=&#34;_blank&#34;&gt;30037711&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Indwelling pleural catheters are an established management option for malignant pleural effusion and have advantages over talc slurry pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30054348&#34; target=&#34;_blank&#34;&gt;30054348&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The European Respiratory Society (ERS) and the European Association for Cardio-Thoracic Surgery (EACTS) established a multidisciplinary collaboration of clinicians with expertise in the management of MPE with the aim of producing a comprehensive review of the scientific literature.Six areas of interest were identified, including the optimum management of symptomatic MPE, management of trapped lung in MPE, management of loculated MPE, prognostic factors in MPE, whether there is a role for oncological therapies prior to intervention for MPE and whether a histological diagnosis is always required in MPE.The literature revealed that talc pleurodesis and indwelling pleural catheters effectively manage the symptoms of MPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30060030&#34; target=&#34;_blank&#34;&gt;30060030&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The literature revealed that talc pleurodesis and indwelling pleural catheters effectively manage the symptoms of MPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30253920&#34; target=&#34;_blank&#34;&gt;30253920&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eighteen patients had pleurectomy/decortication, and 33 had talc pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30704703&#34; target=&#34;_blank&#34;&gt;30704703&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We believe that optical biopsies could help clinicians to make an early diagnosis, thereby allowing rapid therapeutic intervention (talc pleurodesis for example).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30723653&#34; target=&#34;_blank&#34;&gt;30723653&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis has been reported to increase fluorodeoxyglucose (FDG) uptake in the high attenuation areas of pleural thickening, making it difficult to distinguish between benign granulomatous inflammatory processes and malignancies, which may therefore interfere with the post-chemotherapy disease evaluation on FDG-positron emission tomography/computed tomography (PET/CT). […] We present two cases of malignant pleural mesothelioma treated with talc pleurodesis and neoadjuvant chemotherapy (NAC) before pleurectomy/decortication in which post-NAC FDG-PET/CT showed intense FDG uptakes in the high attenuation areas of pleural thickening with false positive result, whereas post-NAC &lt;sup&gt;11&lt;/sup&gt;C-choline PET/CT showed mild choline uptake of pleural talc deposit, which did not interfere with the post-chemotherapy disease evaluation. […] Thus we suggest choline-PET/CT may show little choline uptake to granulomatous inflammation and evaluate treatment response in malignant pleural mesothelioma patients treated with talc pleurodesis and NAC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31057996&#34; target=&#34;_blank&#34;&gt;31057996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He underwent partial right pleurectomy, pleural biopsy, and talc pleurodesis, with pathology revealing epithelioid MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31084758&#34; target=&#34;_blank&#34;&gt;31084758&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All 6 subjects with prior talc pleurodesis demonstrated mismatch between elevated FDG uptake and restricted diffusion in areas of visible talc deposition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31521977&#34; target=&#34;_blank&#34;&gt;31521977&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aimed to explore this observation using two datasets of patients with MPE undergoing talc pleurodesis. […] Dataset 1 comprised patients who underwent talc pleurodesis at Oxford Pleural Unit for MPE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31812210&#34; target=&#34;_blank&#34;&gt;31812210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From ages 7 to 24 years, he frequently visited pottery studios where talc-containing products were used.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32175619&#34; target=&#34;_blank&#34;&gt;32175619&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some cosmetic talc products have been shown to contain asbestos. […] Recently, repeated exposures to cosmetic talc have been implicated as a cause of mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32183579&#34; target=&#34;_blank&#34;&gt;32183579&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently there has been interest in the role of talc exposure in the pathogenesis of mesothelioma. […] Among 609 patients with mesothelioma, talc fibers were detected in 375 (62%) and exceeded our control values in 65 (11%). […] Elevated talc levels were found in 48/524 men (9.2%) and 17/85 women (20%). […] We conclude that among patients with mesothelioma, the vast majority have talc levels indistinguishable from background. […] Of the remaining 11% with elevated talc levels, the vast majority (80%) have elevated levels of commercial amphibole fibers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32213100&#34; target=&#34;_blank&#34;&gt;32213100&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thirty-four studies involving 4626 patients were included in the systematic review.&lt;b&gt;Results&lt;/b&gt;: The most common pleurodesis agent used was talc which was used in 27 studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32524317&#34; target=&#34;_blank&#34;&gt;32524317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both talc pleurodesis (TP) and indwelling pleural catheter (IPC) improve MPE symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32633902&#34; target=&#34;_blank&#34;&gt;32633902&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prior to eventual cytoreductive surgery, surgical intervention can provide histopathological proof of disease, and symptoms can be controlled with talc pleurodesis. […] We present the case of a 67-year-old patient with malignant pleural mesothelioma who underwent video-assisted thoracoscopic biopsy and talc pleurodesis, and demonstrate our technique with a video tutorial showing how we performed the procedure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/3335148&#34; target=&#34;_blank&#34;&gt;3335148&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, there was no significant difference in survival with respect to the type of treatment given: surgery, chemotherapy, talc poudrage or their combination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7091938&#34; target=&#34;_blank&#34;&gt;7091938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other associated exposure or diseases included talc, mica, familial Mediterranean fever, and diffuse lymphocytic lymphoma (one patient each).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7302349&#34; target=&#34;_blank&#34;&gt;7302349&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc pleurodesis in the treatment of chronic recurrent malignant pleural effusions is successful in 80%. […] In the treatment of spontaneous pneumothorax with a mean follow up of 10 years, only 6.6% recurred after talc poudrage, and functional sequelae were minimal; no talcomas induced mesotheliomas were seen in a review of 151 cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7312760&#34; target=&#34;_blank&#34;&gt;7312760&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Intrapleural talc poudrage was carried out at the end of thoracoscopy in 77 patients after complete aspiration of fluid with uniform insufflation over the whole surface area of the pleura of 4 to 5 ml of pure talc, asbestos free. […] Fourteen mesotheliomas in which talc was used were compared with 14 further cases operated upon by pleurectomy. […] In the talc series, there were 11 excellent results, 2 moderate and 1 nil. […] Survival of the patients was 395 +/- 55 days after the application of talc and 315 +/- 65 days after pleurectomy. […] There was thus a slight benefit in favour of the talc technique but this was not statistically significant. […] A figure of approximately 90% of satisfactory results is found in other series of the use of intrapleural talc published.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7892832&#34; target=&#34;_blank&#34;&gt;7892832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tremolite asbestos is not mined or used commercially but is a frequent contaminant of chrysotile asbestos, vermiculite, and talc. […] Three patients were occupationally exposed to chrysotile asbestos; two patients had environmental exposures (one to vermiculite and one to chrysotile and talc) and one was a household contact of a shipyard worker.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7953479&#34; target=&#34;_blank&#34;&gt;7953479&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In cases of metastatic disease or inoperable malignant mesothelioma, treatment of the effusion by talc poudrage can be combined with a diagnostic procedure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8112139&#34; target=&#34;_blank&#34;&gt;8112139&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracoscopic talc poudrage followed by chemotherapy was used for on diffuse malignant mesothelioma with pleural effusion to improve survival and prevent recurrent effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8219174&#34; target=&#34;_blank&#34;&gt;8219174&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It can be achieved by talc poudrage but other methods are available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8242812&#34; target=&#34;_blank&#34;&gt;8242812&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We recommend that thoracoscopic talc poudrage followed by chemotherapy on diffuse malignant mesothelioma with pleural effusion could be used to improve the survival rate and to prevent the recurrent effusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8521705&#34; target=&#34;_blank&#34;&gt;8521705&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several studies demonstrate that thoracoscopic talc pleurodesis is more frequently successful than other methods of pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8989050&#34; target=&#34;_blank&#34;&gt;8989050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To assess the efficacy, permanence, and safety of thoracoscopic talc poudrage (TTP) for pleurodesis in malignant effusions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9089969&#34; target=&#34;_blank&#34;&gt;9089969&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients were treated thoracoscopically by talc pleurodesis. […] We suggest talc instillation as the sole therapeutic maneuver in evolutioned cases, since the literature and our own experience indicate that survival is not significantly prolonged by more aggressive surgical approaches.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9206045&#34; target=&#34;_blank&#34;&gt;9206045&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The efficacy of the talc poudrage is better than tetracycline and Corynebacterium parvum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9363074&#34; target=&#34;_blank&#34;&gt;9363074&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The substance that will “win” is not yet clear, but the two leading contestants are talc and doxycycline.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9543295&#34; target=&#34;_blank&#34;&gt;9543295&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Talc poudrage, as the best conservative method for pleurodesis in 1998, can also be performed with medical thoracoscopy. […] In spontaneous pneumothorax it allows staging, thereby facilitating treatment decisions, and in addition coagulation of eventual blebs and talc poudrage for efficient pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9545840&#34; target=&#34;_blank&#34;&gt;9545840&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By thoracoscopic talc pleurodesis, we were able to control the pleural effusion in all patients with suppression of dyspnea (11).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9687848&#34; target=&#34;_blank&#34;&gt;9687848&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In 7 patients (21%), iodised talc was insufflated at the same time to create pleurodesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9864779&#34; target=&#34;_blank&#34;&gt;9864779&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our purpose was to assess the efficacy, permanence and safety of thoracoscopic talc poudrage (TTP) for pleurodesis in malignant effusions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

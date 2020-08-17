@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/genepanel/10232/</link>
+      <atom:link href="/mesothelioma/genepanel/10232/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/genepanel/10232/</link>
+    </image>
+    
+    <item>
+      <title>MSLN</title>
+      <link>/mesothelioma/genepanel/10232/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/10232/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;mesothelin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/10232&#34; target=&#34;_blank&#34;&gt;10232&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=10232&#34; target=&#34;_blank&#34;&gt; 16p13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/601051&#39; target=&#39;_blank&#39;&gt;601051&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a preproprotein that is proteolytically processed to generate two protein products, megakaryocyte potentiating factor and mesothelin. Megakaryocyte potentiating factor functions as a cytokine that can stimulate colony formation of bone marrow megakaryocytes. Mesothelin is a glycosylphosphatidylinositol-anchored cell-surface protein that may function as a cell adhesion protein. This protein is overexpressed in epithelial mesotheliomas, ovarian cancers and in specific squamous cell carcinomas. Alternative splicing results in multiple transcript variants, at least one of which encodes an isoform that is proteolytically processed. [provided by RefSeq, Feb 2016] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSLN</title>
+      <link>/mesothelioma/genepanel/10232/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/10232/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;mesothelin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; MSLN expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+nasopharynx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+oral mucosa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+105.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+445.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000102854
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSLN</title>
+      <link>/mesothelioma/genepanel/10232/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/10232/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;mesothelin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MSLN gene in 20 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/18394747&#34; target=&#34;_blank&#34;&gt;18394747&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Megakaryocyte potentiating factor (MPF) and mesothelin variants (MSLN), members of the mesothelin gene family, have been studied as candidate serum markers for MPM. […] We developed a novel enzyme-linked immunosorbent assay (ELISA) system to compare the diagnostic efficacy of MPF and MSLN in MPM and control groups. […] MPF and MSLN were assayed with ELISA in 27 consecutive MPM patients and 129 controls including patients with lung cancer and asymptomatic asbestos-exposed subjects. […] Statistically significant elevation of serum MPF and MSLN levels was noted in MPM patients in comparison with every control group. […] While the AUC for serum MPF was 0.879, cut-off=19.1ng/ml (sensitivity=74.1%, specificity=90.4%), the AUC for serum MSLN was 0.713, cut-off=93.5ng/ml (sensitivity=59.3%, specificity=86.2%). […] Comparison between AUC for MPF and MSLN values shows that MPF is significantly superior to MSLN (p=0.025). […] Finally, there was a significant correlation between MPF and MSLN values for MPM (Pearson’s correlation coefficient=0.77; p&amp;lt;0.001). […] These findings suggest that diagnostic value of MPF for MPM was better than that of MSLN although both markers showed almost equal specificity for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/19858537&#34; target=&#34;_blank&#34;&gt;19858537&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aimed to investigate whether single nucleotide polymorphisms in the 3’untranslated region (3’UTR) of the mesothelin-encoded gene (MSLN) are associated with the SMRP levels measured in serum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20175889&#34; target=&#34;_blank&#34;&gt;20175889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By real time PCR we found that our cell lines expressed high mRNA levels of typical mesothelioma markers as mesothelin (MSLN) and calretinin (CALB2), and of BMI-1, a stemness marker, and DKK1, a potent Wingless [WNT] inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/20573372&#34; target=&#34;_blank&#34;&gt;20573372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we studied the expression of mesothelin by immunohistochemistry along with the methylation status of 20 CpG sites in the promoter of the mesothelin gene (MSLN) in 118 lung specimens, including 39 MM, 41 lung carcinoma, 26 nonneoplastic pulmonary lesions, and 12 normal lung tissue samples by the methylation-sensitive single nucleotide primer extension technique. […] Surprisingly, the MSLN promoter was significantly hypomethylated in the MM cases regardless of its subtype, compared with the other pulmonary lesions and normal lung tissue samples. […] These findings suggested that hypomethylation of the MSLN promoter may be specifically associated with the formation of MM, regardless of its expression status, and that the expression of mesothelin protein was lost in the sarcomatoid type by some unknown posttranscriptional regulatory mechanism.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/21775819&#34; target=&#34;_blank&#34;&gt;21775819&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using a case series of MPM patients from the International Mesothelioma Program at the Brigham and Women’s hospital, we sought to determine whether epigenetic change at the MSLN gene in patient tumors is responsible for the poor sensitivity of SMRP. […] We identified three potential target regions for CpG methylation silencing in the MSLN promoter, one of which was amenable to bisulfite pyrosequencing and located 214 bp upstream of the transcription start site. […] MSLN promoter methylation was significantly higher in normal pleura than tumor tissue (P &amp;lt; 6.0x10-9). […] Next, we compared cases according to serum SMRP status and observed that MSLN methylation was significantly higher among tumors from patients testing negative for SMRP (&amp;lt; 1.5nM) versus those that were SMRP positive (P &amp;lt; 0.03). […] These results demonstrate that MSLN is normally methylated in the pleura, and that methylation is lost in most tumors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22198210&#34; target=&#34;_blank&#34;&gt;22198210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A list of MGs was thus produced, including PTGS2, BIRC5, ASS1, JUNB, MCM2, AURKA, FGF2, MKI67, CAV1, SFRP1, CCNB1, CDK4, and MSLN that might represent potential novel biomarkers or therapeutic targets for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/22371455&#34; target=&#34;_blank&#34;&gt;22371455&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesothelin (MSLN) is a tumor-associated antigen, being investigated as a biomarker and therapeutic target in malignant pleural mesothelioma (MPM). […] The biologic function of MSLN overexpression in MPM is unknown. […] We hypothesized that MSLN may promote tumor invasion in MPM, a tumor characterized primarily by regional aggressiveness and rare distant metastases. […] Human and murine MPM cells with MSLN forced expression and short hairpin RNA knockdown were examined for proliferation, invasion, and matrix metalloproteinase (MMP) secretion. […] The influence of MSLN overexpression on MPM cell invasion was assessed in an orthotopic mouse model and in patient samples. […] MSLN expression promotes MPM cell invasion and MMP secretion in both human and murine MPM cells. […] In an orthotopic MPM mouse model characterized by our laboratory, MPM cells with MSLN overexpression preferentially localized to the tumor invading edge, colocalized with MMP-9 expression, and promoted decreased survival without an increase in tumor burden progression. […] In a tissue microarray from epithelioid MPM patients (n = 139, 729 cores), MSLN overexpression correlated with higher MMP-9 expression at individual core level. […] Among stage III MPM patients (n = 72), high MSLN expression was observed in 26% of T2 tumors and 51% of T3 tumors. […] Our data provide evidence elucidating a biologic role for MSLN as a factor promoting tumor invasion and MMP-9 expression in MSLN expressing MPM. […] As regional invasion is the characteristic feature in MSLN expressing solid cancers (MPM, pancreas, and ovarian), our observations add rationale to studies investigating MSLN as a therapeutic target.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24167356&#34; target=&#34;_blank&#34;&gt;24167356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The MSLN gene products, soluble mesothelin and megakaryocyte potentiating factor (MPF), are being investigated as biomarkers for the asbestos-related cancer malignant mesothelioma (MM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/24465798&#34; target=&#34;_blank&#34;&gt;24465798&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+So far, mesothelin (MSLN) has aroused the most interest. […] However, an alternative therapeutic approach seems to rise, whereby synthetic molecules, such as antisense oligonucleotides, could be used to inhibit MSLN activity. […] With regard to MPM, only one cell line (H2373) has been employed to study the effects of MSLN depletion. […] Indeed, the knowledge on the role of MSLN in MPM needs expanding. […] Accordingly, we investigated the expression of MSLN in a panel of three MPM cell lines, i.e., NCI-H28, Mero-14, and IstMes2; one non-MPM cell line was used as reference (Met5A). […] MSLN knock-down experiments on MSLN-overexpressing cells were also performed through silencing RNA (siRNA) to verify whether previous findings could be generalized to a different set of cell cultures. […] In agreement with previous studies, transient MSLN-silencing caused decreased proliferation rate and reduced invasive capacity and sphere formation in MSLN-overexpressing Mero-14 cells. […] Moreover, MSLN-siRNA combined with cisplatin, triggered a marked increase in apoptosis and a decrease in proliferation as compared to cells treated with each agent alone, thereby suggesting a sensitizing effect of siRNA towards cisplatin. […] In summary, our findings confirm that MSLN should be considered a key molecular target for novel gene-based targeted therapies of cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25436799&#34; target=&#34;_blank&#34;&gt;25436799&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a previous study, we found that rs1057147 within the 3’ untranslated region of MSLN gene was associated with SMRP levels. […] Transfection of these miRNAs into Mero-14 cells significantly reduced endogenous MSLN protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/25771974&#34; target=&#34;_blank&#34;&gt;25771974&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nine genes (ACSL1, CCNO, CFB, PDGFRB, SULF1, TACC1, THBS2, TIMP3, XPOT) were deregulated with statistical significance in both cell lines, 12 (ASS1, CCNB1, CDH11, COL1A1, CXADR, EIF4G1, GALNT7, ITGA4, KRT5, PTGIS, RAN, SOD1) in at least one cell line, whereas 7 (DSP, HEG1, MCM4, MSLN, NME2, NMU, TNPO2) were close but did not reach the statistical significance in any of the cell line.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28125734&#34; target=&#34;_blank&#34;&gt;28125734&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, the miR-CATCH technique was applied to the mesothelin (MSLN) gene and coupled with next generation sequencing (NGS), to identify miRNAs that regulate MSLN mRNA and that may be responsible for its increased protein levels found in malignant pleural mesothelioma (MPM). […] Biotinylated MSLN oligos were employed to isolate miRNA::MSLN mRNA complexes from a normal cell line (Met-5A) which expresses low levels of MSLN. […] MiRNAs targeting the MSLN mRNA were identified by NGS and miR-21-5p and miR-100-5p were selected for further validation analyses. […] MiR-21-5p was shown to be able to modulate MSLN expression in miRNA mimic experiments in a panel of malignant and non-malignant cell lines. […] Further miRNA inhibitor experiments and luciferase assays in Mero-14 cells validated miR-21-5p as a true regulator of MSLN. […] MiR-21-5p is suggested as novel regulator of MSLN with a possible functional role in cellular growth.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28288645&#34; target=&#34;_blank&#34;&gt;28288645&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesothelin (MSLN), a plasma membrane differentiation antigen, is expressed at a high level in many human solid tumors, including 70% of lung cancer and nearly all mesotheliomas. […] However, the role of MSLN in the disease process and underlying mechanisms is largely unknown. […] ShRNA knockdown and overexpression of MSLN were performed in human cancer cell lines and corresponding normal cells, respectively. […] Tumorigenic and metastatic effects of MSLN were examined by tumor sphere formation, migration, and invasion assays in vitro, as well as xenograft tumor assay in vivo. […] MSLN plays a key role in controlling epithelial-to-mesenchymal transition (EMT) and stem properties of human lung cancer and mesothelioma cells that control their tumorigenicity and metastatic potential. […] Firstly, MSLN was found to be highly upregulated in non-small cell lung cancer (NSCLC) patient tissues and in lung carcinoma and mesothelioma cell lines. […] Secondly, genetic knockdown of MSLN significantly reduced anchorage-independent cell growth, tumor sphere formation, cell adhesion, migration and invasion in vitro, as well as tumor formation and metastasis in vivo. […] Thirdly, ectopic overexpression of MSLN induced the malignant phenotype of non-cancerous cells, supporting its role as an oncogene. […] Finally, mechanistic studies revealed that knockdown of MSLN reversed EMT and attenuated stem cell properties, in addition to inhibiting tumor growth and metastasis. […] These results indicate an essential role of MSLN in controlling EMT and stem cell properties of human lung cancer and mesothelioma cells. […] Since EMT is an important process in tumor progression and metastasis, and MSLN is nonessential in most normal tissue, our findings on MSLN may provide new insights into the disease mechanisms and may aid in the development of novel targeted therapy for lung cancer and mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28343162&#34; target=&#34;_blank&#34;&gt;28343162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously showed that a single nucleotide polymorphism (SNP) within the 3’untranslated region (3’UTR) of the &lt;i&gt;mesothelin&lt;/i&gt; (&lt;i&gt;MSLN&lt;/i&gt;) gene could affect the levels of SMRP. […] To focus on SNPs located within &lt;i&gt;MSLN&lt;/i&gt; promoter as possible critical genetic variables in determining SMRP levels. […] These data support the suggestion that SMRP performance is affected by individual (ie, genetic) variables and that &lt;i&gt;MSLN&lt;/i&gt; expression is influenced by SNPs located within the promoter regulatory region.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28460459&#34; target=&#34;_blank&#34;&gt;28460459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesothelin (MSLN) is a glycophosphatidylinositol (GPI)-linked cell surface protein highly expressed in several types of malignant tumors sometimes in association with increased tumor aggressiveness and poor clinical outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/28964420&#34; target=&#34;_blank&#34;&gt;28964420&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Radiologic 3-dimensional tumor volume and tumor mesothelin gene (MSLN) expression correlated with preoperative SMRP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/29100432&#34; target=&#34;_blank&#34;&gt;29100432&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To develop cancer antigen-targeted immunotherapeutic strategies for malignant pleural mesothelioma (MPM), we investigated the individual and coexpressions of the cancer-associated antigens mesothelin (MSLN), cancer antigen 125 (CA125), and Wilms tumor 1 (WT1) in both epithelioid and non-epithelioid MPM. […] Positive expression of MSLN, CA125, and WT1 were demonstrated in 93%, 75%, and 97% of epithelioid MPM cases, and 57%, 33%, and 98% of non-epithelioid MPM cases, respectively. […] More than two-thirds of MPM cases had ≥50% distribution of MSLN-positive cells and, among the remaining third, half had ≥50% distribution of WT1-positive cells. […] CA125/MSLN coexpression was observed in more than two-thirds of epithelioid MPM cases and one-third of non-epithelioid MPM cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/30888083&#34; target=&#34;_blank&#34;&gt;30888083&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In responding to Japan’s asbestos crisis in the mid-2000s, we have developed and improved ERC/MSLN-based serum and radiological markers and pioneered the use of an N-ERC ELISA kit for screening populations at risk for asbestos exposure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/31921422&#34; target=&#34;_blank&#34;&gt;31921422&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we found that the LOX family and ZFPM2 showed comparable diagnostic ability to Fibulin-3 or mesothelin (MSLN) and would be better potential biomarkers than Sulfatase 1 (SULF1), Thrombospondin 2 (THBS2) and Cadherin 11 (CDH11).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/mesothelioma/publication/32194667&#34; target=&#34;_blank&#34;&gt;32194667&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesothelin (MSLN) is a glycophosphatidylinositol (GPI)-linked cell surface protein that is highly expressed in several types of malignant tumor, including malignant pleural mesothelioma, ovarian cancer and pancreatic adenocarcinoma. […] Recently, a comprehensive immunohistochemical study using MN-1 monoclonal antibody identified a significant number of colorectal tumors in which MSLN was expressed. […] However, the clinicopathological profiles and survival of patients with MSLN-positive colorectal cancer have not been fully analyzed. […] In the current study, the expression of MSLN in 270 primary and 44 metastatic colorectal tumors was immunohistochemically analyzed to determine the clinical usefulness of MSLN immunohistochemistry and to identify potential candidates for future anti-MSLN therapy. &lt;i&gt;In vitro&lt;/i&gt; experiments using colon cancer cell lines were performed to investigate the biological significance of MSLN expression in tumors. […] The results of univariate analyses identified a significant correlation between MSLN expression and females (P=0.0042). […] Furthermore, an inverse correlation between MSLN expression and solid/sheet-like proliferation (P=0.014) was also revealed. […] Additionally, overall survival was significantly shorter in patients with diffuse luminal/membranous expression of MSLN (P=0.018). […] Multivariable Cox hazards regression analysis revealed diffuse MSLN expression (hazard ratio, 2.26; 95% confidence interval, 1.04-4.91; P=0.039) as a potential risk factor. […] When comparing primary CRCs and the metastasis of each, a weakly positive correlation was identified for MSLN positivity (% positive cells; R=0.484; P&amp;lt;0.0001). […] The &lt;i&gt;in vitro&lt;/i&gt; experiments revealed a positive role for MSLN in colon cancer cell proliferation. […] Thus, MSLN immunohistochemistry may be useful in the prognostication of patients with CRC. […] The results demonstrated that significant numbers of patients with MSLN-positive CRC exhibiting metastasis could be targeted by anti-MSLN therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSLN</title>
+      <link>/mesothelioma/genepanel/10232/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/10232/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;mesothelin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSLN</title>
+      <link>/mesothelioma/genepanel/10232/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/genepanel/10232/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;mesothelin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

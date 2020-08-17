@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/vorinostat/</link>
+      <atom:link href="/mesothelioma/drugpanel/vorinostat/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/vorinostat/</link>
+    </image>
+    
+    <item>
+      <title>VORINOSTAT</title>
+      <link>/mesothelioma/drugpanel/vorinostat/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/vorinostat/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db02546&#39; target=&#39;_blank&#39;&gt;db02546&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=vorinostat&#34; target=&#34;_blank&#34;&gt;vorinostat&lt;/a&gt; &lt;br&gt;
+Synonymous :octanedioic acid hydroxyamide phenylamide | saha | shh | suberanilohydroxamic acid | suberoylanilide hydroxamic acid | vorinostat | vorinostatum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;vorinostat&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18758312&#34; target=&#34;_blank&#34;&gt;18758312&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vorinostat, a small molecule inhibitor of HDAC, which targets select members of class I and II HDACs, has shown early evidence of activity and is currently being evaluated in a randomized study for patients who progress with standard therapy for advanced mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19909234&#34; target=&#34;_blank&#34;&gt;19909234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus the introduction of new biologic drugs like vorinostat, bortezomib, everolimus and temsirolimus, in the treatment of MPM finds a strong rationale.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20035240&#34; target=&#34;_blank&#34;&gt;20035240&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results of these efforts have led to a multicenter, randomized, placebo-controlled phase III study of the histone deacetylase inhibitor vorinostat in patients with advanced MPM, offering hope for a new and effective therapy in patients with this disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22154545&#34; target=&#34;_blank&#34;&gt;22154545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The histone deacetylase (HDAC) inhibitor Vorinostat (SAHA) is currently being evaluated in relapsed mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22223868&#34; target=&#34;_blank&#34;&gt;22223868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article describes several ongoing or recently completed phase II and III trials using novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine, bevacizumab, cediranib, and thalidomide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23868066&#34; target=&#34;_blank&#34;&gt;23868066&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We have previously reported that FLIP expression is potently downregulated in MPM cells in response to the histone deacetylase inhibitor (HDACi) Vorinostat (SAHA).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24980825&#34; target=&#34;_blank&#34;&gt;24980825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These effects were compared with those of vorinostat, an HDACi approved for cancer treatments. […] This was particularly evident for NODH compound (pan-HDACi) which had similar effects at nanomolar concentrations as micromolar concentrations of vorinostat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25231602&#34; target=&#34;_blank&#34;&gt;25231602&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on relative sensitivities to pemetrexed (PEM) and the histone deacetylase (HDAC) inhibitor, vorinostat (SAHA), 211H cells were determined to be the only sensitive MPM cell line out of the 6 tested.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25800891&#34; target=&#34;_blank&#34;&gt;25800891&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vorinostat is a histone deacetylase inhibitor that changes gene expression and protein activity. […] On the basis of the clinical benefit reported in patients with malignant pleural mesothelioma treated in a phase 1 study of vorinostat, we designed this phase 3 trial to investigate whether vorinostat given as a second-line or third-line therapy improved patients’ overall survival. […] After stratification for Karnofsky performance status, histology, and number of previous chemotherapy regimens, patients were randomly assigned (1:1) by use of an interactive voice response system with a block size of four to either treatment with vorinostat or placebo. […] Patients received oral vorinostat 300 mg (or matching placebo) twice daily on days 1, 2, 3, 8, 9, 10, 15, 16, and 17 of a 21-day cycle. […] The primary endpoints were overall survival and safety and tolerability of vorinostat. […] From July 12, 2005, to Feb 14, 2011, 661 patients were enrolled and randomly assigned to receive either vorinostat (n=329) or placebo (n=332) and included in the intention-to-treat analysis. […] Median overall survival for vorinostat was 30·7 weeks (95% CI 26·7-36·1) versus 27·1 weeks (23·1-31·9) for placebo (hazard ratio 0·98, 95% CI 0·83-1·17, p=0·86). […] The most common grade 3 or worse adverse events for patients treated with vorinostat were fatigue or malaise (51 [16%] patients in the vorinostat group vs 25 [8%] in the placebo group]) and dyspnoea (35 [11%] vs 45 [14%]). […] In this randomised trial, vorinostat given as a second-line or third-line therapy did not improve overall survival and cannot be recommended as a therapy for patients with advanced malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26870271&#34; target=&#34;_blank&#34;&gt;26870271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+None of the established MPM cell lines demonstrated significant responses to the drugs tested, including NVP-AUY922, 17-DMAG, Trichostatin A, and Vorinostat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

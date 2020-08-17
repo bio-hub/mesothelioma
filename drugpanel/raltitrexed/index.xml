@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/raltitrexed/</link>
+      <atom:link href="/mesothelioma/drugpanel/raltitrexed/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/raltitrexed/</link>
+    </image>
+    
+    <item>
+      <title>RALTITREXED</title>
+      <link>/mesothelioma/drugpanel/raltitrexed/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/raltitrexed/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00293&#39; target=&#39;_blank&#39;&gt;db00293&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=raltitrexed&#34; target=&#34;_blank&#34;&gt;raltitrexed&lt;/a&gt; &lt;br&gt;
+Synonymous :raltitrexed
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;raltitrexed&lt;/em&gt; gene in 39 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11836672&#34; target=&#34;_blank&#34;&gt;11836672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently two antifolate-based combinations with apparently higher efficacy than older regimens have emerged: the pemetrexed/cisplatin regimen and the raltitrexed/oxaliplatin regimen. […] In a phase I trial of raltitrexed/oxaliplatin, six of 17 patients (35%) with mesothelioma achieved a partial response. […] In a phase II trial of raltitrexed/oxaliplatin, 14 objective responses were confirmed in 72 patients (25%) with malignant pleural mesothelioma. […] The second trial is being conducted by the European Organization for the Research and Treatment of Cancer (EORTC) and compares cisplatin with or without raltitrexed with planned accrual of 240 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11989592&#34; target=&#34;_blank&#34;&gt;11989592&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a phase I study, the combination of oxaliplatin and raltitrexed was shown to be active against malignant pleural mesothelioma. […] From April 1999 to June 2000, we enrolled 11 chemotherapy-naïve patients with inoperable malignant pleural mesothelioma suitable to receive the following combination chemotherapy: raltitrexed, 3 mg/m2 iv, and oxaliplatin, 130 mg/m2, as a 2-hr infusion every 3 weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12023790&#34; target=&#34;_blank&#34;&gt;12023790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, a renewed interest in MPM led to clinical trials with promising preliminary results for several agents alone or in combination, including gemcitabine, raltitrexed, vinorelbine, and pemetrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12525529&#34; target=&#34;_blank&#34;&gt;12525529&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this open-label phase II study was to evaluate the activity of raltitrexed (Tomudex; AstraZeneca, Cergy, France) and oxaliplatin combination therapy in patients with diffuse malignant pleural mesothelioma. […] Patients received raltitrexed 3 mg/m2 followed by oxaliplatin 130 mg/m2 every 3 weeks. […] The raltitrexed and oxaliplatin combination is an active outpatient regimen in malignant mesothelioma and has an acceptable tolerability profile.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12565988&#34; target=&#34;_blank&#34;&gt;12565988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We investigated the activity and toxicity of raltitrexed (Tomudex) as a single agent treatment in patients with Malignant Pleural Mesothelioma (MPM) in a multicentre phase II European Organization for Research and Treatment of Cancer (EORTC) study. […] Raltitrexed was administered at the dose of 3 mg/m(2) intravenous (i.v.) bolus on an outpatient basis every 3 weeks. […] We conclude that raltitrexed has activity as a single agent in the treatment of MPM, and that further studies with this drug in MPM are warranted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12601280&#34; target=&#34;_blank&#34;&gt;12601280&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, raltitrexed-oxaliplatin has shown promising activity and gemcitabine was found to improve quality of life in patients with malignant pleural mesothelioma when applied as a single agent or in combination with cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12610498&#34; target=&#34;_blank&#34;&gt;12610498&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Raltitrexed combined with oxaliplatin has also been shown to be effective, and gemcitabine-applied as a single agent or in combination with cisplatin-as well as vinorelbine appear to improve the quality of life in patients presenting with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12795087&#34; target=&#34;_blank&#34;&gt;12795087&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The novel antifolates pemetrexed and raltitrexed are promising agents and undergoing 3 phase III studies. […] Another of these studies is currently being conducted to compare cisplatin with or without raltitrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12845210&#34; target=&#34;_blank&#34;&gt;12845210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment with oxaliplatin plus raltitrexed has demonstrated an encouraging therapeutic index in patients with advanced colorectal cancer and malignant pleural mesothelioma. […] They received raltitrexed 3,0 mg/m(2) and oxaliplatin 130 mg/m(2) both given intravenously on day 1 every 3 weeks. […] Despite reproducibility of a favorable toxicity profile of oxaliplatin + raltitrexed, our data suggest that this combination regimen has no substantial antitumor activity in patients with progressive, chemotherapeutically pretreated metastatic gastric cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15261443&#34; target=&#34;_blank&#34;&gt;15261443&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Raltitrexed combined with oxaliplatin has also been shown to be effective, and gemcitabine–applied as a single agent or in combination with cisplatin–as well as vinorelbine appear to improve quality of life in patients presenting with MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15677623&#34; target=&#34;_blank&#34;&gt;15677623&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the recently reported clinical benefits of pemetrexed and raltitrexed in combination with cisplatin are changing the perception about the ability of chemotherapy to affect the natural history of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15835625&#34; target=&#34;_blank&#34;&gt;15835625&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cytostatics such as pemetrexed, an antifolate, and to a lesser extent raltitrexed, have shown good response rates and increased survival in phase III studies, but the survival benefit evaporates within 2 years.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15893013&#34; target=&#34;_blank&#34;&gt;15893013&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Within a single-institution phase II trial, we investigated the antitumor activity of the Raltitrexed-Oxaliplatin combination as second-line therapy for malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15928495&#34; target=&#34;_blank&#34;&gt;15928495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With regard to mesothelioma, recent chemotherapy trials with pemetrexed/cisplatin and raltitrexed/cisplatin are encouraging and appear, for the first time, to offer a small but real survival advantage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15950791&#34; target=&#34;_blank&#34;&gt;15950791&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among chemotherapeutic agents only vinorelbine, edatrexate, gemcitabine and raltitrexed have demonstrated response rates &amp;gt;20%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16192580&#34; target=&#34;_blank&#34;&gt;16192580&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase III trial to determine whether first-line treatment with raltitrexed, a thymidine synthase inhibitor, and cisplatin results in superior outcome compared with cisplatin alone in patients with malignant pleural mesothelioma (MPM). […] Eligible patients with histologically proven advanced MPM, not pretreated with chemotherapy, WHO performance status (PS) 0 to 2, and adequate hematological, renal, and hepatic function were randomly assigned to receive cisplatin 80 mg/m2 IV on day 1, alone (arm A) or combined with raltitrexed 3 mg/m2 (arm B). […] A combination of raltitrexed and cisplatin improves overall survival compared with cisplatin alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16446322&#34; target=&#34;_blank&#34;&gt;16446322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article compares the impact on HRQOL of first-line treatment with cisplatin versus raltitrexed and cisplatin. […] Patients with histologically-proven unresectable MPM, not pretreated with chemotherapy were randomly assigned to receive cisplatin 80 mg/m2 intravenously on day 1, with or without preceding infusion of raltitrexed 3 mg/m2. […] The clinical results found raltitrexed and cisplatin to be superior to cisplatin with regard to overall survival (P = .048). […] This effect is an important clinically meaningful reduction from baseline in the cisplatin/raltitrexed arm.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16616827&#34; target=&#34;_blank&#34;&gt;16616827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preliminary results also suggest a possible survival advantage for a combination of cisplatin and raltitrexed as compared to cisplatin alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16989994&#34; target=&#34;_blank&#34;&gt;16989994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite some definite activity of the novel antifolates such as pemetrexed and raltitrexed, the results, even in combination with platinating agents, are still modest, with a median survival of approximately one year.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17333344&#34; target=&#34;_blank&#34;&gt;17333344&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, the novel antifolates raltitrexed and pemetrexed that target thymidylate synthase (TS) and glycineamide ribonucleotide transformylase (GARTF) were introduced for the treatment of colorectal cancer and malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17409924&#34; target=&#34;_blank&#34;&gt;17409924&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A second trial demonstrated cisplatin and raltitrexed significantly improved median survival compared to single-agent cisplatin (11.4 months versus 8.8 months; hazard ratio = 0.76, p = 0.0483). […] If pemetrexed is not available, cisplatin plus raltitrexed is a reasonable alternative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17673616&#34; target=&#34;_blank&#34;&gt;17673616&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the past few years, there have been several major advances in the management of patients with MPM, including more accurate staging and patient selection, improvements in surgical techniques and postoperative care, novel chemotherapy regimens with definite activity such as antifolate (pemetrexed or raltitrexed)-platinum combinations, and new radiotherapy techniques such as intensity-modulated radiation therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18089874&#34; target=&#34;_blank&#34;&gt;18089874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were randomly assigned to receive cisplatin 80 mg/m2 intravenously on day 1, without or with preceding infusion of raltitrexed 3 mg/m2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18971845&#34; target=&#34;_blank&#34;&gt;18971845&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, based on two randomised trials, the most efficacious chemotherapy regimen consists in a combination of cisplatin and an antifolate agent, pemetrexed or raltitrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19224855&#34; target=&#34;_blank&#34;&gt;19224855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chemotherapy regimens included cisplatin/vinorelbine (n = 26), cisplatin/pemetrexed (n = 24), cisplatin/raltitrexed (n = 6), or cisplatin/gemcitabine (n = 4).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19736192&#34; target=&#34;_blank&#34;&gt;19736192&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other active agents include raltitrexed, gemcitabine, and vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antimetabolites were active, including methotrexate (37%), raltitrexed (21%), edatrexate (16%-25%) and pemetrexed (15%). […] With respect to combination chemotherapy regimens, only cisplatin with either pemetrexed or raltitrexed has been compared with other substances, in both cases to cisplatin monotherapy. […] Cisplatin with either raltitrexed or pemetrexed has improved survival compared with cisplatin alone, and may be used as a reference treatment in randomized trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21821492&#34; target=&#34;_blank&#34;&gt;21821492&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In patients with no resectable disease, chemotherapy is the best option with platinum and pemetrexed or raltitrexed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21937141&#34; target=&#34;_blank&#34;&gt;21937141&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subsequent to this appraisal, randomised controlled trial (RCT) data for raltitrexed plus cisplatin and comparing chemotherapy to active symptom control (ASC) has become available, allowing a more complete analysis of the comparative efficacy and cost-effectiveness of first-line chemotherapy in MPM. […] An adjusted indirect comparison is used to estimate the relative efficacy of raltitrexed plus cisplatin and pemetrexed plus cisplatin. […] Raltitrexed plus cisplatin and pemetrexed plus cisplatin were not found to be statistically significantly different with respect to overall response, progression free survival or overall survival. […] The cost-effectiveness analysis found raltitrexed plus cisplatin to be cost-effective at a cost per quality adjusted life year of £13,454 compared to cisplatin and £27,360 compared to ASC. […] Pemetrexed plus cisplatin is dominated by raltitrexed plus cisplatin as the raltitrexed combination offers marginally higher quality adjusted life years (QALYs) and life years (LYs) at a substantially lower total cost. […] Raltitrexed plus cisplatin is a cost-effective first-line treatment for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21999120&#34; target=&#34;_blank&#34;&gt;21999120&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Raltitrexed is a cytotoxic agent, rationally designed to inhibit a specific molecular target, thymidylate synthase. […] In contrast to other agents, raltitrexed inhibits thymidylate synthase directly and specifically in a mixed, noncompetitive manner, which may lead to an improved toxicity profile. […] After promising Phase II trials exploring the activity of raltitrexed either as a single agent or in combination with a platinum agent, a Phase III randomized study demonstrated that the combination of raltitrexed and cisplatin improves overall survival in malignant pleural mesothelioma (MPM) and is superior compared with cisplatin alone, without harmful effect on health-related quality of life. […] Moreover, the cost-effectiveness analysis found raltitrexed plus cisplatin to be cost effective compared with cisplatin and compared with active supportive care. […] Based on these results, raltitrexed is registered for the treatment of MPM in several European countries. […] New treatment options, such as a combination of cisplatin and raltitrexed, which improve patient outcomes with no detrimental effect on quality of life, are a welcome addition to our therapeutic portfolio.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22104079&#34; target=&#34;_blank&#34;&gt;22104079&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most promising non-surgical approach today in the management of peritoneal mesothelioma is the use of the combination chemotherapy regime of an antifolate (pemetrexed and raltitrexed) and a platinum based (cisplatin) agent with a median survival of about 12-14 months.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22289125&#34; target=&#34;_blank&#34;&gt;22289125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nevertheless, large phase II/III trials support the combination of platinum derivatives and pemetrexed or raltitrexed, as preferred first-line schedule.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22409465&#34; target=&#34;_blank&#34;&gt;22409465&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Randomized evidence supports the use of cisplatin in combination with pemetrexed or raltitrexed as first-line treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24023280&#34; target=&#34;_blank&#34;&gt;24023280&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cisplatin in combination with pemetrexed or raltitrexed increased survival in MPM, whereas vinorelbine and gemcitabine have led to good response rates. […] The cost-effectiveness of pemetrexed-cisplatin was found to be acceptable in advanced MPM compared with cisplatin, but raltitrexed-cisplatin was found to be a more cost-effective treatment option. […] To provide a more cost-effective treatment approach for advanced MPM, further research should include randomized controlled trials comparing the recommended pemetrexed-cisplatin directly with platinum doublets with raltitrexed, gemcitabine, or vinorelbine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25316393&#34; target=&#34;_blank&#34;&gt;25316393&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They received cisplatin and raltitrexed for a maximum of 6 cycles. […] Both cisplatin/pemetrexed and cisplatin/ raltitrexed are effective and safe regimens in the treatment of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26780987&#34; target=&#34;_blank&#34;&gt;26780987&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current standard of care for patients suffering from MPM is a combination of cisplatin and pemetrexed (or alternatively cisplatin and raltitrexed).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28197626&#34; target=&#34;_blank&#34;&gt;28197626&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current standard of care for patients suffering from MPM is a combination of cisplatin and pemetrexed (or alternatively cisplatin and raltitrexed).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28697647&#34; target=&#34;_blank&#34;&gt;28697647&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An indirect comparison of cisplatin-pemetrexed (CP) and cisplatin-raltitrexed (CR) was performed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29507800&#34; target=&#34;_blank&#34;&gt;29507800&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other first-line options are currently available, including the use of raltitrexed instead of pemetrexed combined with platinum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

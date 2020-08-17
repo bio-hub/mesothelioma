@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/cediranib/</link>
+      <atom:link href="/mesothelioma/drugpanel/cediranib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/cediranib/</link>
+    </image>
+    
+    <item>
+      <title>CEDIRANIB</title>
+      <link>/mesothelioma/drugpanel/cediranib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/cediranib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04849&#39; target=&#39;_blank&#39;&gt;db04849&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cediranib&#34; target=&#34;_blank&#34;&gt;cediranib&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cediranib&lt;/em&gt; gene in 6 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21964533&#34; target=&#34;_blank&#34;&gt;21964533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase II study of the oral pan-VEGF receptor tyrosine kinase inhibitor, cediranib, in patients with MPM after platinum-based systemic chemotherapy. […] Cediranib 45 mg/d was administered until progression or unacceptable toxicity. […] Cediranib monotherapy has modest single-agent activity in MPM after platinum-based therapy. […] However, some patient tumors were highly sensitive to cediranib. […] This study provides a rationale for further testing of cediranib plus chemotherapy in MPM and highlights the need to identify a predictive biomarker for cediranib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22152931&#34; target=&#34;_blank&#34;&gt;22152931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, bevacizumab is the only drug that has demonstrated an impact on overall survival in first line treatment for stage IV non-squamous NSCLC, but VEGFR-TKI such as cediranib, aflibercept, vandetanib, pazopanib have shown encouraging results in phase II or III clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22223868&#34; target=&#34;_blank&#34;&gt;22223868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article describes several ongoing or recently completed phase II and III trials using novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine, bevacizumab, cediranib, and thalidomide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28599887&#34; target=&#34;_blank&#34;&gt;28599887&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In malignant pleural mesothelioma, targeting angiogenesis with cediranib, a vascular endothelial growth factor receptor and platelet-derived growth factor receptor inhibitor, may have therapeutic potential. […] S0905 phase I combined cediranib (two dose cohorts [30 mg and 20 mg daily]) with cisplatin-pemetrexed for six cycles followed by maintenance cediranib in unresectable chemonaive patients with malignant pleural mesothelioma of any histologic subtype. […] In the cediranib 30-mg cohort, two of the initial six patients reported dose-limiting toxicities and the dose was deemed too toxic to continue. […] In the next cohort, two patients experienced dose-limiting toxicities, and thus, the maximum tolerated dose of cediranib was established as 20 mg. […] During the six cycles of cisplatin-pemetrexed-cediranib, 20 mg, there were grade 3 toxicities (neutropenia and gastrointestinal) and grade 4 thrombocytopenia. […] Cediranib combined with cisplatin-pemetrexed has a reasonable toxicity profile and preliminary promising efficacy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31280996&#34; target=&#34;_blank&#34;&gt;31280996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review examines the scientific rationale for targeting angiogenesis in the treatment of unresectable MPM and analyzes recent clinical results with antiangiogenic agents in development (bevacizumab, nintedanib, and cediranib) for the management of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31386610&#34; target=&#34;_blank&#34;&gt;31386610&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cediranib (AstraZeneca, Cheshire, United Kingdom), a vascular endothelial growth factor receptor and platelet-derived growth factor receptor inhibitor, demonstrated therapeutic potential in a prior phase I trial. […] SWOG S0905 (ClinicalTrials.gov identifier: NCT01064648) randomly assigned cediranib or placebo with platinum-pemetrexed for six cycles followed by maintenance cediranib or placebo in unresectable chemotherapy-naïve patients with MPM of any histologic subtype. […] The cediranib arm had more grade 3 and 4 diarrhea, dehydration, hypertension, and weight loss. […] Cediranib improved PFS by RECIST v1.1 (hazard ratio, 0.71; 80% CI, 0.54 to 0.95; &lt;i&gt;P&lt;/i&gt; = .062; 7.2 months &lt;i&gt;v&lt;/i&gt; 5.6 months) and increased modified RECIST v1.1 response (50% &lt;i&gt;v&lt;/i&gt; 20%; &lt;i&gt;P&lt;/i&gt; = .006). […] By modified RECIST v1.1, cediranib numerically increased PFS (hazard ratio, 0.77; 80% CI, 0.59 to 1.02; &lt;i&gt;P&lt;/i&gt; = .12; median, 6.9 months &lt;i&gt;v&lt;/i&gt; 5.6 months). […] The addition of cediranib to platinum-pemetrexed improved PFS by RECIST v1.1 and response rate by modified RECIST in patients with unresectable MPM. […] Whereas adding antiangiogenics to chemotherapy has been a successful strategy for some patients, the cediranib toxicity profile and small incremental survival benefit precludes additional development in MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

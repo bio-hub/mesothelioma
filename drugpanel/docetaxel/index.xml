@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/docetaxel/</link>
+      <atom:link href="/mesothelioma/drugpanel/docetaxel/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/docetaxel/</link>
+    </image>
+    
+    <item>
+      <title>DOCETAXEL</title>
+      <link>/mesothelioma/drugpanel/docetaxel/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/docetaxel/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01248&#39; target=&#39;_blank&#39;&gt;db01248&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=docetaxel&#34; target=&#34;_blank&#34;&gt;docetaxel&lt;/a&gt; &lt;br&gt;
+Synonymous :docetaxel | docetaxel anhydrous | n-debenzoyl-n-(tert-butoxycarbonyl)-10-deacetylpaclitaxel | n-debenzoyl-n-(tert-butoxycarbonyl)-10-deacetyltaxol | txl
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;docetaxel&lt;/em&gt; gene in 15 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10898540&#34; target=&#34;_blank&#34;&gt;10898540&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We chose to treat malignant pleural mesothelioma with a combination of docetaxel and irinotecan (CPT-11), because there have been preliminary reports that CPT-11 is active against mesothelioma, and docetaxel and CPT-11 were the most active agents in our in vitro experiments in human mesothelioma cell lines. […] Fifteen previously untreated patients with pleural mesothelioma (IMIG Stage III-IV) were given docetaxel 60 mg/m2 followed by CPT-11 190 mg/m2 on day 1, repeated every 3 weeks. […] We do not recommend the combination of docetaxel and CPT-11 using the schedule presented here for further investigation in malignant mesothelioma. […] However, CPT-11 and docetaxel, individually, still warrant further study in this disease, especially in combination with cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11996472&#34; target=&#34;_blank&#34;&gt;11996472&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Docetaxel, an effective taxane in the treatment of advanced breast cancer and non-small-cell lung cancer, was administered intravenously at a dose of 100 mg/m2 every 3 weeks to 30 chemotherapy naive patients with malignant pleural mesothelioma in a prospective multi-institutional phase II clinical trial. […] In this phase II clinical trial, docetaxel proved to be mildly effective in the treatment of patients with malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12892825&#34; target=&#34;_blank&#34;&gt;12892825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to examine the antiproliferative potentialities of a pool of new generation compounds (Paclitaxel, Docetaxel, Gemcitabine, Topotecan, SN-38) together with fenretinide, a synthetic derivative of retinoic acid, in comparison with the current first choice treatment cisplatin molecule, on a pool of human malignant pleural mesothelioma cell lines derived from either bioptic and pleural effusions samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15270656&#34; target=&#34;_blank&#34;&gt;15270656&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, pemetrexed was recently shown to be as efficacious as docetaxel (Taxotere, Aventis) in the second-line treatment of non-small cell lung cancer, and its toxicity profile was preferable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15510812&#34; target=&#34;_blank&#34;&gt;15510812&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In those, we experienced a case of malignant mesothelioma with excellent reduction by induction therapy of cisplatin+docetaxel hydrate, who underwent the extrapleural pneumonectomy continuously.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16291410&#34; target=&#34;_blank&#34;&gt;16291410&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One international, multicenter, randomized Phase III trial in patients with NSCLC compared single-agent pemetrexed versus docetaxel in patients previously treated with chemotherapy. […] Overall response rates (9.1% and 8.8%) and median survival (8.3 months and 7.9 months) did not differ between pemetrexed and docetaxel (P = 0.105 and P = 0.226, respectively). […] Hematologic adverse effects-grade 3/4 neutropenia (40.2% vs 5.3%; P &amp;lt; 0.001), febrile neutropenia (12.7% vs 1.9%; P &amp;lt; 0.001), and neutropenic infections (3.3% vs 0%; P = 0.004)-were significantly greater in the docetaxel-treated patients than in the pemetrexed-treated patients, as was alopecia (37.7% vs 6.4%; P &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17845984&#34; target=&#34;_blank&#34;&gt;17845984&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In non small cell lung cancer, pemetrexed has been compared as second line chemotherapy to docetaxel : efficacy was comparable (median survival of 8.3 months with pemetrexed and 7.9 months with docetaxel) but significant less hematological toxicity was observed in the pemetrexed arm compared to the docetaxel arm, especially grade 3-4 neutropenia (respectively 5.3 and 40.2%) and febrile neutropenia (1.9 versus 12.7%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18633241&#34; target=&#34;_blank&#34;&gt;18633241&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, in a phase III trial of pemetrexed versus docetaxel in patients with NSCLC previously treated with chemotherapy, treatment with pemetrexed resulted in clinically equivalent efficacy outcomes, but with significantly fewer side effects including grade 3 or 4 neutropenia , neutropenic fever, and alopecia, compared with docetaxel.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19131921&#34; target=&#34;_blank&#34;&gt;19131921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD-DST using 26 fresh specimens obtained by biopsy or surgery on MPM patients investigated in vitro responses to cisplatin (CDDP), carboplatin (CBDCA), doxorubicin (ADR), etoposide (VP-16), 5-fluoruracil (5-FU), gemcitabine (GEM), vinorelbine (VNR), irinotecan (SN-38), and docetaxel (TXT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19661370&#34; target=&#34;_blank&#34;&gt;19661370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to examine the efficacy of gemcitabine plus docetaxel in the first-line setting, as this combination has not been investigated in mesothelioma before. […] They received 80 mg/m(2) of docetaxel and 1,000 mg/m(2) of gemcitabine on days 1 and 14 of a 28-day cycle.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20142722&#34; target=&#34;_blank&#34;&gt;20142722&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of the present study is to evaluate the efficacy, safety, and clinical benefit of the gemcitabine plus docetaxel regimen in the second-line treatment of this disease. […] A total of 37 patients with MPM were treated with the combination of docetaxel (80 mg/m) and gemcitabine (1000 mg/m) on day 1 and 14 of a 28-day cycle. […] The biweekly administration of docetaxel and gemcitabine, along with granulocyte colony-stimulating factor support, constitutes a safe, tolerable, and convenient regimen for the treatment of MPM, suggesting that this combination may be a viable option, especially in previously treated patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20298310&#34; target=&#34;_blank&#34;&gt;20298310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Detorubicin and pirarubicin have response rates (RRs) of 22%-26%, epirubicin of 5%-15%, docetaxel of 5%-23% and vinorelbine of 24%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26108172&#34; target=&#34;_blank&#34;&gt;26108172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fever on posttreatment days 3 and 4 was most commonly observed in patients treated with gemcitabine (20 %) or docetaxel (18 %).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27127763&#34; target=&#34;_blank&#34;&gt;27127763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Involved agents included paclitaxel, docetaxel and vinorelbine; Malignancies included non-small cell lung cancer, gastric cancer, esophageal carcinoma, ovarian carcinoma, malignant pleural mesothelioma, breast cancer, and small cell lung cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30944296&#34; target=&#34;_blank&#34;&gt;30944296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient received cisplatin and 5-FU combination chemotherapy as first-line treatment, and docetaxel chemotherapy as second-line treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

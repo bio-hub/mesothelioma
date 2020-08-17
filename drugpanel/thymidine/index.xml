@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/thymidine/</link>
+      <atom:link href="/mesothelioma/drugpanel/thymidine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/thymidine/</link>
+    </image>
+    
+    <item>
+      <title>THYMIDINE</title>
+      <link>/mesothelioma/drugpanel/thymidine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/thymidine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04485&#39; target=&#39;_blank&#39;&gt;db04485&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=thymidine&#34; target=&#34;_blank&#34;&gt;thymidine&lt;/a&gt; &lt;br&gt;
+Synonymous :2’-deoxy-5-methyluridine | 2’-deoxythymidine | 2’-thymidine | deoxyribosylthymine | deoxythymidine | dthd | thymidine | thymine 2’-deoxyriboside | thymine deoxyriboside
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;thymidine&lt;/em&gt; gene in 13 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10969653&#34; target=&#34;_blank&#34;&gt;10969653&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene-modified ovarian cancer cells expressing the thymidine-kinase gene (PA1-STK) were radiolabeled with 99Tc and infused into the pleural space of 4 patients with malignant pleural mesothelioma, then scanned to determine distribution of the cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11156085&#34; target=&#34;_blank&#34;&gt;11156085&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene therapy using adenovirus to deliver herpes simplex virus thymidine kinase (Ad.HSVtk) followed by the administration of the prodrug ganciclovir has been an effective anticancer therapy in models of localized tumor (including malignant mesothelioma) and is currently being evaluated in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/11228529&#34; target=&#34;_blank&#34;&gt;11228529&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a previous phase I clinical trial, we demonstrated that Ad-mediated intrapleural delivery of the herpes simplex virus thymidine kinase gene (HSVtk) to patients with mesothelioma resulted in significant, but relatively superficial, HSVtk gene transfer and marked anti-Ad humoral and cellular immune responses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15474666&#34; target=&#34;_blank&#34;&gt;15474666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vectors were constructed containing a fusion gene, consisting of the Herpes simplex virus thymidine kinase (HSV-TK) and the green fluorescent protein (GFP) genes; the former serving as suicide gene by converting the prodrug ganciclovir (GCV) into a toxic agent, thereby killing infected cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16192580&#34; target=&#34;_blank&#34;&gt;16192580&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase III trial to determine whether first-line treatment with raltitrexed, a thymidine synthase inhibitor, and cisplatin results in superior outcome compared with cisplatin alone in patients with malignant pleural mesothelioma (MPM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16243818&#34; target=&#34;_blank&#34;&gt;16243818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Delineation of the long-term follow-up data on a series of patients with malignant mesothelioma, who received a single intrapleural dose of a nonreplicative adenoviral (Ad) vector encoding the herpes simplex virus thymidine kinase “suicide gene” (Ad.HSVtk) in combination with systemic ganciclovir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1735731&#34; target=&#34;_blank&#34;&gt;1735731&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Proliferation markers were demonstrated by peroxidase/anti-peroxidase staining using specific monoclonal antibodies, and their expression was compared to results obtained from [3H]-thymidine incorporation assays and cell counting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18754710&#34; target=&#34;_blank&#34;&gt;18754710&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+GLV-1h68 is a replication-competent engineered vaccinia virus carrying transgenes encoding Renilla luciferase, green fluorescent protein (both inserted at the F14.5L locus), beta-galactosidase (inserted at the J2R locus, which encodes thymidine kinase), and beta-glucuronidase (at the A56R locus, which encodes hemagglutinin).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1917165&#34; target=&#34;_blank&#34;&gt;1917165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As determined by [3H]-thymidine uptake and proliferation antigen expression, induction of MDR phenotype was observed at minimal proliferative activity with no change in cell count during exposure to anti-cancer drugs, thus suggesting that the drug treatments changed the phenotype of the cells rather than selecting for a resistant sub-population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19423005&#34; target=&#34;_blank&#34;&gt;19423005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In vitro cellular uptake of [(14)C]FDG and [(3)H]FLT and thymidine kinase 1 (TK(1)) activity in both cell lines were measured.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19635932&#34; target=&#34;_blank&#34;&gt;19635932&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+REN cells exhibited increased thymidine incorporation, which was attenuated in uPAR-silenced cells (P &amp;lt; 0.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20088784&#34; target=&#34;_blank&#34;&gt;20088784&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cell proliferation, DNA synthesis and apoptosis were measured by MTT, thymidine incorporation and FACS analysis; EGFR, ERK1/2 and Akt expression and phosphorylation by Western blot, whereas receptor sites were analyzed by binding studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21079960&#34; target=&#34;_blank&#34;&gt;21079960&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This combination was most effective in Y-MESO-14 cells, which co-expressed high protein level of dihydropyrimidine dehydrogenase (DPD) and thymidine phosphorylase (TP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22905093&#34; target=&#34;_blank&#34;&gt;22905093&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Proposed resistance markers are TS, KRT7/ CK7, TYMP/ thymidine phosphorylase and down-regulated SPARCL1 and CDKN1B.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25335113&#34; target=&#34;_blank&#34;&gt;25335113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In general, thymidine kinase 1, ribonucleotide reductase M1, c-myc and skp2 were downregulated by ATO. p-c-Jun was downregulated in H28 cells while upregulated in 211H cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27274438&#34; target=&#34;_blank&#34;&gt;27274438&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined the protein levels of 5-FU metabolism-related enzymes (TS, DPD, OPRT, and thymidine phosphorylase [TP]) in 14 cases High TS, DPD, OPRT, and TP expressions were seen in 28.6%, 71.4%, 85.7%, and 35.7% of patients, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27391433&#34; target=&#34;_blank&#34;&gt;27391433&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thymidylate synthase (TS), one of the key enzymes for thymidine synthesis, is a target of pemetrexed (PEM), a key agent for the systemic therapy of malignant pleural mesothelioma (MPM) and its overexpression has been correlated to PEM-resistance.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29550074&#34; target=&#34;_blank&#34;&gt;29550074&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene-mediated cytotoxic immunotherapy (GMCI) is an immune strategy implemented through local delivery of an adenovirus-based vector expressing the thymidine kinase gene (aglatimagene besadenovec, AdV-tk) followed by anti-herpetic prodrug valacyclovir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30369878&#34; target=&#34;_blank&#34;&gt;30369878&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We show that pemetrexed susceptibility could be reversed and DNA synthesis rescued in drug-treated cells by the exogenous addition of the nucleotide precursors hypoxanthine and thymidine (HT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30685089&#34; target=&#34;_blank&#34;&gt;30685089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Proliferation was measured by tritiated thymidine incorporation, and inflammatory cell influx, proliferation, apoptosis and angiogenesis in tumors examined by immunohistochemical labelling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/7618973&#34; target=&#34;_blank&#34;&gt;7618973&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors demonstrate the ability of an adenovirus vector expressing the herpes simplex thymidine kinase (HSVtk) gene to treat human malignant mesothelioma growing within the peritoneal cavity of severe combined immunodeficient (SCID) mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8788165&#34; target=&#34;_blank&#34;&gt;8788165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previously, we have treated malignant mesothelioma (MM) growing in the peritoneal cavity of immunodeficient mice utilizing a recombinant adenovirus vector carrying the herpes simplex virus-thymidine kinase gene (Ad.RSVtk) followed by administration of the anti-viral drug ganciclovir (GCV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/8953313&#34; target=&#34;_blank&#34;&gt;8953313&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preclinical safety and toxicity studies of intrapleural administration of recombinant adenovirus carrying the herpes simplex thymidine kinase gene (H5.010RSVtk) were performed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9176512&#34; target=&#34;_blank&#34;&gt;9176512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results confirm and extend earlier findings with the same model and demonstrate the potential of the herpes simplex virus thymidine kinase suicide gene therapy as a local treatment for malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9607419&#34; target=&#34;_blank&#34;&gt;9607419&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a phase I dose-escalation clinical trial of adenoviral (Ad)-mediated intrapleural herpes simplex virus thymidine kinase (HSVtk)/ganciclovir (GCV) gene therapy in patients with mesothelioma as a model for treatment of a localized malignancy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9610071&#34; target=&#34;_blank&#34;&gt;9610071&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent studies have demonstrated the utility of exposing tumor cells to cells transduced to express the Herpes simplex virus gene for thymidine kinase (HSV-TK).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9684098&#34; target=&#34;_blank&#34;&gt;9684098&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article reports the results of a phase I clinical trial assessing the safety of intrapleural delivery and efficacy of intratumoral gene transfer of recombinant adenovirus (rAd) containing herpes simplex virus thymidine kinase (HSVtk) gene into the pleural space of patients with MM, followed by systematic treatment with the antiviral drug ganciclovir (GCV) for 14 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9853530&#34; target=&#34;_blank&#34;&gt;9853530&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent studies have demonstrated the utility of exposing tumor cells to cells transduced to express the Herpes simplex virus gene for thymidine kinase (HSV-tk).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9927048&#34; target=&#34;_blank&#34;&gt;9927048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The proliferative activity was determined by thymidine ([3H]thymidine) incorporation and also by direct cell counts after incubation with varying concentrations of IL-8 in the presence/absence of specific polyclonal IL-8 antibody. […] In MM-1 and MM-2 cells, IL-8 caused a dose-dependent increase of [3H]thymidine incorporation to maximal levels of 46.3 +/- 3.6% and 12.3 +/- 1.6% (P &amp;lt; 0.001), respectively, when compared with serum-free medium as control.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

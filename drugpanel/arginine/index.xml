@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/arginine/</link>
+      <atom:link href="/mesothelioma/drugpanel/arginine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/arginine/</link>
+    </image>
+    
+    <item>
+      <title>ARGININE</title>
+      <link>/mesothelioma/drugpanel/arginine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/arginine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00125&#39; target=&#39;_blank&#39;&gt;db00125&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=arginine&#34; target=&#34;_blank&#34;&gt;arginine&lt;/a&gt; &lt;br&gt;
+Synonymous :(2s)-2-amino-5-(carbamimidamido)pentanoic acid | (2s)-2-amino-5-guanidinopentanoic acid | (s)-2-amino-5-guanidinopentanoic acid | (s)-2-amino-5-guanidinovaleric acid | arg | arginina | arginine | l-(+)-arginine | l-arg | l-arginin | l-arginine | r
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;arginine&lt;/em&gt; gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17145837&#34; target=&#34;_blank&#34;&gt;17145837&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we investigated the expression and biological significance of argininosuccinate synthetase (AS), a rate-limiting enzyme in arginine production. […] To investigate the use of AS negativity as a therapeutic target, arginine was removed from the culture medium of the MPM cell lines. […] Arginine depletion induced BAX conformation change and mitochondrial inner membrane depolarization selectively in AS-negative MPM cells. […] In summary, we have identified AS negativity as a frequent event in MPM in vivo, leading to susceptibility to cytotoxicity following restriction of arginine. […] A phase II clinical trial is planned to evaluate the role of arginine depletion in patients with AS-negative MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19528482&#34; target=&#34;_blank&#34;&gt;19528482&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As expected, these enhancements were markedly suppressed with the addition of anti-alphavbeta3 antibody or arginine-glycine-aspartic acid serine (RGDS) peptide to the medium.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20104527&#34; target=&#34;_blank&#34;&gt;20104527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Arginine, a semi-essential amino acid in humans, is critical for the growth of human cancers, particularly those marked by de novo chemoresistance and a poor clinical outcome. […] In addition to protein synthesis, arginine is involved in diverse aspects of tumour metabolism, including the synthesis of nitric oxide, polyamines, nucleotides, proline and glutamate. […] Tumoural downregulation of the enzyme argininosuccinate synthetase (ASS1), a recognised rate-limiting step in arginine synthesis, results in an intrinsic dependence on extracellular arginine due to an inability to synthesise arginine for growth. […] This dependence on extracellular arginine is known as arginine auxotrophy. […] Several tumours are arginine auxotrophic, due to variable loss of ASS1, including hepatocellular carcinoma, malignant melanoma, malignant pleural mesothelioma, prostate and renal cancer. […] Importantly, targeting extracellular arginine for degradation in the absence of ASS1 triggers apoptosis in arginine auxotrophs. […] Several phase I/II clinical trials of the arginine-lowering drug, pegylated arginine deiminase, have shown encouraging evidence of clinical benefit and low toxicity in patients with ASS1-negative tumours. […] In part, ASS1 loss is due to epigenetic silencing of the ASS1 promoter in various human cancer cell lines and tumours, and it is this silencing that confers arginine auxotrophy. […] This review examines the prospects for novel approaches in the prevention, diagnosis and treatment of malignant disease based on ASS1 pathophysiology and its rate-limiting product, arginine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20406925&#34; target=&#34;_blank&#34;&gt;20406925&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NGR-hTNF consists of human tumor necrosis factor alpha (hTNF-alpha) fused to the tumor-homing peptide asparagine-glycine-arginine (NGR) able to selectively bind an aminopeptidase N isoform overexpressed on tumor blood vessels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25503125&#34; target=&#34;_blank&#34;&gt;25503125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study we present data to show that certain tumor cells including malignant pleural mesothelioma (MPM) cells do not express argininosuccinate synthetase (ASS), and thus are unable to synthesize arginine from citrulline. […] Exposure of these ASS-negative cells to the arginine degrading enzyme, arginine deiminase (ADI-PEG20), for 72 h results in significant increases in cleaved caspase-3.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27452468&#34; target=&#34;_blank&#34;&gt;27452468&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Argininosuccinate synthase 1 (ASS1) is the rate-limiting enzyme for arginine biosynthesis. […] Starving ASS1-deficient cells of arginine with arginine blockers such as ADI-PEG20 can induce selective lethality and has shown great promise in the clinical setting. […] Upon arginine deprivation, polyamine metabolites are decreased in the ASS1-deficient cells and in plasma isolated from ASS1-deficient mesothelioma patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27584578&#34; target=&#34;_blank&#34;&gt;27584578&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preclinical studies show that arginine deprivation is synthetically lethal in argininosuccinate synthetase 1 (ASS1)-negative cancers, including mesothelioma. […] The role of the arginine-lowering agent pegylated arginine deiminase (ADI-PEG20) has not been evaluated in a randomized and biomarker-driven study among patients with cancer. […] To assess the clinical impact of arginine depletion in patients with ASS1-deficient malignant pleural mesothelioma. […] A multicenter phase 2 randomized clinical trial, the Arginine Deiminase and Mesothelioma (ADAM) study, was conducted between March 2, 2011, and May 21, 2013, at 8 academic cancer centers. […] Randomization 2:1 to arginine deprivation (ADI-PEG20, 36.8 mg/m2, weekly intramuscular) plus best supportive care (BSC) or BSC alone. […] We measured plasma arginine and citrulline levels, anti-ADI-PEG20 antibody titer, ASS1 methylation status, and metabolic response by 18F-fluorodeoxyglucose positron-emission tomography. […] Differential ASS1 gene-body methylation correlated with ASS1 immunohistochemistry, and longer arginine deprivation correlated with improved PFS. […] In this trial, arginine deprivation with ADI-PEG20 improved PFS in patients with ASS1-deficient mesothelioma. […] Targeting arginine is safe and warrants further clinical investigation in arginine-dependent cancers. clinicaltrials.gov Identifier: NCT01279967.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28388291&#34; target=&#34;_blank&#34;&gt;28388291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Purpose Pegylated arginine deiminase (ADI-PEG 20) depletes essential amino acid levels in argininosuccinate synthetase 1 (ASS1) -negative tumors by converting arginine to citrulline and ammonia. […] Circulating arginine concentrations declined rapidly, and citrulline levels increased; both changes persisted at 18 weeks. […] Conclusion Target engagement with depletion of arginine was maintained throughout treatment with no dose-limiting toxicities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28464918&#34; target=&#34;_blank&#34;&gt;28464918&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Protein expression (argininosuccinate synthetase, ornithine transcarbamylase, cleaved PARP, cleaved caspase 3, cyclins (A2, D3, E1 and H), CDK4 and Ki67) and arginine concentration were evaluated by Western blot and ELISA respectively. […] Serum and intratumoral arginine levels were effectively decreased by BCT-100, associated with cytosolic accumulation of BCT-100 within tumor cells. […] BCT-100 suppressed tumor growth with prolonged median survival partially mediated by intratumoral arginine depletion resulting in apoptosis and G1 arrest in mesothelioma xenograft models.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28713675&#34; target=&#34;_blank&#34;&gt;28713675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review focuses on efforts to develop improved systemic therapy for the treatment of malignant pleural mesothelioma (MPM) including cytotoxic systemic therapy, a variety of tyrosine kinase inhibitors and their downstream effector pathways, pharmacologic targeting of the epigenome, novel approaches to target proteins expressed on mesothelioma cells (such as mesothelin), arginine depletion therapy, and the emerging role of immunotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29330439&#34; target=&#34;_blank&#34;&gt;29330439&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Citrullination, or the post-translational deimination of polypeptide-bound arginine, is involved in several pathological processes in the body, including autoimmunity and tumorigenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/646225&#34; target=&#34;_blank&#34;&gt;646225&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Arginine vasopressin concentrations were increased in serum and urine. […] It is suggested that the syndrome might have been mediated by secretion of antidiuretic hormone from the posterior pituitary, because arginine vasopressin was not detected in the patient’s tumor using a sensitive radioimmunoassay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

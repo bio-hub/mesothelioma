@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/cotton/</link>
+      <atom:link href="/mesothelioma/drugpanel/cotton/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/cotton/</link>
+    </image>
+    
+    <item>
+      <title>COTTON</title>
+      <link>/mesothelioma/drugpanel/cotton/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/cotton/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10707&#39; target=&#39;_blank&#39;&gt;db10707&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cotton&#34; target=&#34;_blank&#34;&gt;cotton&lt;/a&gt; &lt;br&gt;
+Synonymous :cotton fiber
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cotton&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/10703192&#34; target=&#34;_blank&#34;&gt;10703192&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Occupational exposure to asbestos had occurred in work on the production of crocidolite and chrysotile ropes and gaskets (6 males); in work in a textile factory producing cotton garments that was adjacent to and polluted by the former, where, in addition, chrysotile blankets were used for fireproofing in the weaving area and pipes were insulated using amosite-containing materials (10 cases, 6 among females); 5 cases occurred among women working in silk factories, where asbestos exposure was possible because of the presence of pipes insulated with asbestos and because women were handling temperature-controlled trays insulted with asbestos.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15595200&#34; target=&#34;_blank&#34;&gt;15595200&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Various patients had been exposed in non-asbestos text industries (cotton mills).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17009671&#34; target=&#34;_blank&#34;&gt;17009671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Investigations were conducted in textile machinery manufacturing plants in order to collect information regarding the possible use of asbestos parts; at the same time, the use of asbestos friction materials and the use of sprayed asbestos for noise abatement purposes or thermal insulation was checked in the cotton industry by interviewing the management of two companies where a cluster of MM was observed. […] The Mesothelioma Registry of Brescia retrieved and collected 15 MM cases with past work in the cotton spinning industry, 4 of them employed in the same company. […] Further search of asbestos use gave positive results as the use of friction materials has been widespread since the fifties, while sprayed asbestos was not found anywhere in the cotton industry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18050853&#34; target=&#34;_blank&#34;&gt;18050853&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From 1977 to august 2006, 45 cases of mesothelioma were detected among the workers of 3 textile industries located in 3 little villages: 14 cases occurred working crocidolite and chrysotile rope and gasket; 20 cases in a textile factory producing cotton garments, that was adjacent to and polluted by the farmer and were asbestos insulation and blankets used for fireproofing are present; 11 cases occurred among women working in silk factories.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20812661&#34; target=&#34;_blank&#34;&gt;20812661&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The total fibre concentration in the other 4 non-asbestos textile workers (silk and cotton production workers) ranged from 0.33 to 1.2 million/g of dried lung tissue. […] We detected amphibole fibres in all the “non-asbestos” textile workers and for two of them a higher concentration of tremolite. i) Among textile workers using asbestos or jute recycling, the asbestos fibre burden is as high as that found in other high risk jobs (e.g. asbestos-cement workers); ii) among non-asbestos textile workers, employed in cotton and silk production, the fibre content in lung tissue was much lower and it was nonetheless above the occupational cut-off for one of them; iii) tremolite found in lung tissue of non-asbestos textile workers with MM could be a contaminant of chrysotile friction materials or originate, with other amphiboles, from some other source as yet to be investigated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28272659&#34; target=&#34;_blank&#34;&gt;28272659&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient had been exposed to asbestos having worked in a cotton mill and in a distillery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

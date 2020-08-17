@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/atp/</link>
+      <atom:link href="/mesothelioma/drugpanel/atp/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/atp/</link>
+    </image>
+    
+    <item>
+      <title>ATP</title>
+      <link>/mesothelioma/drugpanel/atp/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/atp/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00171&#39; target=&#39;_blank&#39;&gt;db00171&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=atp&#34; target=&#34;_blank&#34;&gt;atp&lt;/a&gt; &lt;br&gt;
+Synonymous :adenosine 5’-triphosphate | adenosine triphosphate | adenosine-5’-triphosphate | atp
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;atp&lt;/em&gt; gene in 17 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17333344&#34; target=&#34;_blank&#34;&gt;17333344&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, it has been recently shown that members of the ATP-binding cassette (ABC) superfamily including multidrug resistance proteins (MRP/ABCC) and breast cancer resistance protein (BCRP/ABCG2) are low affinity, high capacity ATP-driven (anti)folate efflux transporters.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19414371&#34; target=&#34;_blank&#34;&gt;19414371&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because cancer cells are partly or mainly dependent on glycolysis to generate ATP (Warburg effect), any inhibition of glycolysis may slow down their proliferation or kill them. […] Depletion of ATP, diminution of the expression of the anti-apoptotic proteins and inhibition of hexokinase secondary to inhibition of phosphofructokinase by citrate may explain the cytotoxic activity of this molecule and its synergistic effect with cisplatin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19414400&#34; target=&#34;_blank&#34;&gt;19414400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most cancer cells exhibit increased anaerobic glycolysis and use this metabolic pathway for the generation of ATP as a main source of energy. […] Because cancer cells are partly or mainly dependent on such a pathway to generate ATP, inhibition of glycolysis may slow down the proliferation or kill cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20616036&#34; target=&#34;_blank&#34;&gt;20616036&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Asbestos-exposed HM activate poly(ADP-ribose) polymerase, secrete H(2)O(2), deplete ATP, and translocate high-mobility group box 1 protein (HMGB1) from the nucleus to the cytoplasm, and into the extracellular space.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22394205&#34; target=&#34;_blank&#34;&gt;22394205&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed whether loss of methylthioadenosine phosphorylase (MTAP), a key enzyme in the intracellular recycling of adenosine triphosphate (ATP) often deleted in MPM, could be detected with immunohistochemistry (IHC) and used as a diagnostic marker for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23018647&#34; target=&#34;_blank&#34;&gt;23018647&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Live cell ratiometric imaging with a redox-responsive green fluorescent protein targeted to mitochondria (mito-roGFP) showed that MCP and MT, but not CP, TEMPOL, or TPP, rapidly induced mitochondrial fragmentation and swelling, morphological transitions that were associated with diminished ATP levels and increased production of mitochondrial oxidants.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23911347&#34; target=&#34;_blank&#34;&gt;23911347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We disclose a novel mechanism by which EGCG induces apoptosis through the impairment of mitochondrial respiratory chain complexes, particularly of complex I, II and ATP synthase. […] This induces a strong reduction in ATP production by OXPHOS, that is not adequately counterbalanced by glycolytic shift, resulting in cell energy deficit, cell cycle arrest and apoptosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24061575&#34; target=&#34;_blank&#34;&gt;24061575&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This resulted in reduced mitochondrial ATP production, increased glycolysis dependence and impaired cell proliferation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26004138&#34; target=&#34;_blank&#34;&gt;26004138&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+DAPE significantly decreased intracellular ATP concentrations in NCI-H28 cells. […] Overall, the results of the present study indicate that DAPE induces necroptosis and necrosis of MPM cells; the former is mediated by RIP1 kinase and the latter is caused by generating ROS and opening CypD-dependent mitochondrial permeability transition pore, to reduce intracellular ATP concentrations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26462016&#34; target=&#34;_blank&#34;&gt;26462016&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Less glycolysis and less ATP content are evident in REN cells depleted for eIF6 or treated with Enzastaurin (Anti-Warburg effect).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28960945&#34; target=&#34;_blank&#34;&gt;28960945&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Comparison of IC&lt;sub&gt;50&lt;/sub&gt; values of the Akt inhibitors showed that afuresertib, an ATP-competitive specific Akt inhibitor, exerted tumor-specific effects on MPM cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29399399&#34; target=&#34;_blank&#34;&gt;29399399&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Importantly, BBIs primed MPM cells for immunogenic cell death, by increasing extracellular release of ATP and HMGB1, and by promoting membrane exposure of calreticulin and ERp57.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30157247&#34; target=&#34;_blank&#34;&gt;30157247&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We demonstrated by quantitative PCR that ATP synthase is downregulated in mesothelioma cells in response to regular dosing with BAMLET.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31355131&#34; target=&#34;_blank&#34;&gt;31355131&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cell cycle, calreticulin expression, and high mobility group box protein 1 (HMGB1) secretion were determined by flow cytometry, whereas ATP content was determined by a luminescence-based bioassay. […] The modulation of angiogenic factors in MPM-infected cells was evaluated through ELISA. &lt;b&gt;Results:&lt;/b&gt; We found that &lt;i&gt;dl&lt;/i&gt;922-947 infection exhibits cytotoxic effects in MPM cell lines, affecting cell viability, cell cycle progression, and regulating main hallmarks of immunogenic cell death inducing calreticulin surface exposure, HMGB1 and ATP release.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31562297&#34; target=&#34;_blank&#34;&gt;31562297&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pharmacological (PFK158 treatment) and genetic inhibition of 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 (PFKFB3), a critical control point in the glycolytic pathway, decreases glucose uptake, ATP production, and lactate dehydrogenase activity and arrests malignant pleural mesothelioma (MPM) cells in the G0/G1 phase to induce cell death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31819191&#34; target=&#34;_blank&#34;&gt;31819191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A subset of MPM tumours show loss of the methyladenosine phosphorylase (MTAP) locus, resulting in profound alterations in polyamine metabolism, ATP and methionine salvage pathways, as well as changes in epigenetic control of gene expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/9533946&#34; target=&#34;_blank&#34;&gt;9533946&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The M38K mesothelioma cells were most resistant to menadione and epirubicin when assessed by LDH release or by adenine nucleotide (ATP, ADP, and AMP) depletion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

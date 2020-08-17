@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/cetuximab/</link>
+      <atom:link href="/mesothelioma/drugpanel/cetuximab/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/cetuximab/</link>
+    </image>
+    
+    <item>
+      <title>CETUXIMAB</title>
+      <link>/mesothelioma/drugpanel/cetuximab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/cetuximab/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00002&#39; target=&#39;_blank&#39;&gt;db00002&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cetuximab&#34; target=&#34;_blank&#34;&gt;cetuximab&lt;/a&gt; &lt;br&gt;
+Synonymous :cetuximab | cétuximab | cetuximabum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cetuximab&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22922885&#34; target=&#34;_blank&#34;&gt;22922885&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cetuximab is a chimeric mouse-human antibody targeted against EGFR and induces potent antibody-dependent cellular cytotoxicity (ADCC). […] The action of cetuximab against MPM cells has not been well studied. […] Therefore, in this study, we investigated the antitumor activity of cetuximab against MPM cell lines, particularly with respect to ADCC activity in vitro and in vivo. […] The effect of cetuximab on growth inhibition was assessed using a modified MTT assay. […] In vivo antitumor activity of cetuximab was evaluated using an orthotopic implantation mouse model. […] Cetuximab-mediated ADCC activity against MPM cells was observed at low concentration (0.25 mg/ml) and was enhanced by IL-2, whereas no direct effect on growth inhibition was detected. […] In the mouse model, cetuximab treatment with or without IL-2 significantly inhibited intrathoracic tumor growth and prolonged their survival. […] Our study shows that cetuximab has potent anti-MPM activity both in vitro and in vivo, mainly through the immunologic mechanism of ADCC. […] Cetuximab has the potential to be used as a novel therapy for MPM patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26503698&#34; target=&#34;_blank&#34;&gt;26503698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, MPM cells were isolated from patients and evaluated for lapatinib-induced upregulation of HER family receptors and trastuzumab- or cetuximab‑mediated ADCC. […] In patient-derived MPM cells, both HER2 and EGFR were upregulated by lapatinib, resulting in the enhancement of both trastuzumab- and cetuximab-mediated ADCC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31424688&#34; target=&#34;_blank&#34;&gt;31424688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the last ITP, 14 patients received further therapies, including targeted therapy with cetuximab or bevacizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/metformin/</link>
+      <atom:link href="/mesothelioma/drugpanel/metformin/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/metformin/</link>
+    </image>
+    
+    <item>
+      <title>METFORMIN</title>
+      <link>/mesothelioma/drugpanel/metformin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/metformin/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00331&#39; target=&#39;_blank&#39;&gt;db00331&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=metformin&#34; target=&#34;_blank&#34;&gt;metformin&lt;/a&gt; &lt;br&gt;
+Synonymous :1,1-dimethylbiguanide | dimethylbiguanid | metformin | metformina | metformine | metforminum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;metformin&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22427958&#34; target=&#34;_blank&#34;&gt;22427958&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metformin and an mTor inhibitor, Everolimus, effectively suppressed nanotube formation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27565939&#34; target=&#34;_blank&#34;&gt;27565939&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aimed to investigate the effect of metformin on survival of people with type 2 diabetes and pleural mesothelioma. […] Kaplan-Meier plots, log-rank tests, and Cox proportional hazards regression models were used to describe the association between use of metformin and all-cause mortality following diagnosis of pleural mesothelioma. […] There were 300 people with type 2 diabetes and pleural or unspecified mesothelioma of whom 148 had ever used metformin and 290 died during follow up. […] The median survival time was 8.8 months and 6.5 months for metformin users and non-users respectively (p=0.37, log-rank test). […] After adjusting for age, sex, diabetes duration, socio-economic status, and other anti-diabetic medications the hazard ratio for mortality associated with metformin was 0.99 (95% confidence intervals: 0.76-1.28; p=0.92). […] Similar non-statistically significant associations were obtained in sensitivity analyses based on metformin use in year prior to diagnosis of mesothelioma, use of metformin for more than one year, in people below the mean age at diagnosis of mesothelioma (74 years) and 74 years of age or older, limitation to pleural mesothelioma and following further adjustment for body mass index and smoking. […] There was no evidence that metformin improved survival among people with type 2 diabetes and pleural mesothelioma or to support trials of metformin in people with mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32445818&#34; target=&#34;_blank&#34;&gt;32445818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to design and evaluate chitosan dispersed lipid vesicles (chitosomes) as potential delivery carriers for repurposing metformin (Met) against malignant pleural mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/glycinamide/</link>
+      <atom:link href="/mesothelioma/drugpanel/glycinamide/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/glycinamide/</link>
+    </image>
+    
+    <item>
+      <title>GLYCINAMIDE</title>
+      <link>/mesothelioma/drugpanel/glycinamide/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/glycinamide/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db03636&#39; target=&#39;_blank&#39;&gt;db03636&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=glycinamide&#34; target=&#34;_blank&#34;&gt;glycinamide&lt;/a&gt; &lt;br&gt;
+Synonymous :aminomethylamide | glycine amide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;glycinamide&lt;/em&gt; gene in 14 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12720495&#34; target=&#34;_blank&#34;&gt;12720495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed (Alimta); Eli Lilly and Co., Indianapolis, IN, USA) is a unique multitargeted antifolate that inhibits at least three enzymes, thymidylate synthase, dihydrofolate reductase and glycinamide ribonucleotide formyltransferase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15477632&#34; target=&#34;_blank&#34;&gt;15477632&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It inhibits thymidylate synthase, glycinamide ribonucleotide formyltransferase, and dihydrofolate reductase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16472713&#34; target=&#34;_blank&#34;&gt;16472713&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alimta (pemetrexed) is a novel multitargeted antifolate that inhibits several enzymes in the de novo pathways of pyrimidine and purine biosynthesis, including thymidylate synthase, dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17465208&#34; target=&#34;_blank&#34;&gt;17465208&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed (Alimta) is a new-generation multitargeted antifolate that inhibits several key enzymes in the de novo pathways of pyrimidine and purine biosynthesis, including thymidylate synthase (TS), dihydrofolate reductase (DHFR) and glycinamide ribonucleotide formyltransferase (GARFT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18633241&#34; target=&#34;_blank&#34;&gt;18633241&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed inhibits several enzymes in the folate pathway including thymidylate synthase, dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21036757&#34; target=&#34;_blank&#34;&gt;21036757&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Real-time PCR and immunohistochemical (IHC) staining of the primary tumor were used to analyze the mRNA and protein expressions of thymidylate synthase (TS)/dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), and to compare the expression status and clinical outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23412628&#34; target=&#34;_blank&#34;&gt;23412628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inhibition of glycinamide ribonucleotide formyltransferase (GARFTase) was assayed by nucleoside protection assays and in situ GARFTase assays with [(14)C]glycine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23449276&#34; target=&#34;_blank&#34;&gt;23449276&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pemetrexed is an antifolate inhibiting different folate pathway genes (thymidylate synthase [TS], dihydrofolate reductase, glycinamide ribonucleotide formyltransferase [GARFT], and aminoimidazole carboxamide ribonucleotide formyltransferase, [AICARFT]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28140044&#34; target=&#34;_blank&#34;&gt;28140044&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alimta (pemetrexed) is a novel multitargeted antifolate that inhibits several enzymes in the de novo pathways of pyrimidine and purine biosynthesis, including thymidylate synthase, dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30369878&#34; target=&#34;_blank&#34;&gt;30369878&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The majority of antifolates inhibit enzymes involved in purine and pyrimidine synthesis such as dihydrofolate reductase (DHFR), thymidylate synthase (TYMS), and glycinamide ribonucleotide formyltransferase (GART).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

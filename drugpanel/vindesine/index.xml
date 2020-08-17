@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/vindesine/</link>
+      <atom:link href="/mesothelioma/drugpanel/vindesine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/vindesine/</link>
+    </image>
+    
+    <item>
+      <title>VINDESINE</title>
+      <link>/mesothelioma/drugpanel/vindesine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/vindesine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00309&#39; target=&#39;_blank&#39;&gt;db00309&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=vindesine&#34; target=&#34;_blank&#34;&gt;vindesine&lt;/a&gt; &lt;br&gt;
+Synonymous :3-(aminocarbonyl)-o4-deacetyl-3-de(methoxycarbonyl)vincaleukoblastine | 3-carbamoyl-4-deacetyl-3-de(methoxycarbonyl)vincaleukoblastine | desacetylvinblastine amide | vindesina | vindesine | vindesinum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;vindesine&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1288739&#34; target=&#34;_blank&#34;&gt;1288739&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The drugs tested were etoposide, cisplatin, mitoxantrone, 4-epirubicin and vindesine. […] The cell lines were most sensitive to mitoxantrone, 4-epirubicin and vindesine (TC50 &amp;lt; or = 0.001 micrograms/ml), and least sensitive to etoposide and cisplatin (TC50 &amp;gt; or = 0.1 micrograms/ml) used singly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1297232&#34; target=&#34;_blank&#34;&gt;1297232&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twelve patients with malignant pleural mesothelioma were subjected to mitomycin C (MMC) and vindesine (VDS) chemotherapy (MMC 10 mg/m2, i.v., d 1; VDS, 3 mg/m2, i.v., d 1-8, every 4 weeks).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16143373&#34; target=&#34;_blank&#34;&gt;16143373&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review highlights the discovery and development of chemotherapy at Eli Lilly &amp;amp; Company over the past 30 years from the Vinca alkaloids-vincristine, vinblastine, and vindesine-to targeted therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/1917165&#34; target=&#34;_blank&#34;&gt;1917165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Exposure of PXF1118 to vincristine, vindesine, vinblastine or doxorubicin for 2-3 weeks led to an increase in the MDR cell fraction of up to 15-28% during 2 to 3 weeks. […] For doxorubicin and vindesine, dose-dependence was observed: drug concentrations not capable of eliciting cytotoxicity failed to induce significant P-gp expression. […] After exposure to vindesine for 6 weeks, tumor colonies exhibited highly enhanced resistance to Vinca alkaloids, doxorubicin, etoposide and dacarbacine, whereas their sensitivity to mitomycin, activated cyclophosphamide or cisplatin remained unchanged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/6883358&#34; target=&#34;_blank&#34;&gt;6883358&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vindesine (VDS) is a new semisynthetic vinca alkaloid which has demonstrated therapeutic activity against a variety of solid tumors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

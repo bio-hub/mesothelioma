@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/argininosuccinate/</link>
+      <atom:link href="/mesothelioma/drugpanel/argininosuccinate/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/argininosuccinate/</link>
+    </image>
+    
+    <item>
+      <title>ARGININOSUCCINATE</title>
+      <link>/mesothelioma/drugpanel/argininosuccinate/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/argininosuccinate/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db02267&#39; target=&#39;_blank&#39;&gt;db02267&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=argininosuccinate&#34; target=&#34;_blank&#34;&gt;argininosuccinate&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;argininosuccinate&lt;/em&gt; gene in 5 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17145837&#34; target=&#34;_blank&#34;&gt;17145837&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we investigated the expression and biological significance of argininosuccinate synthetase (AS), a rate-limiting enzyme in arginine production.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20104527&#34; target=&#34;_blank&#34;&gt;20104527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tumoural downregulation of the enzyme argininosuccinate synthetase (ASS1), a recognised rate-limiting step in arginine synthesis, results in an intrinsic dependence on extracellular arginine due to an inability to synthesise arginine for growth.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25503125&#34; target=&#34;_blank&#34;&gt;25503125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study we present data to show that certain tumor cells including malignant pleural mesothelioma (MPM) cells do not express argininosuccinate synthetase (ASS), and thus are unable to synthesize arginine from citrulline.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26982031&#34; target=&#34;_blank&#34;&gt;26982031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, only three genes were increased in both 3D spheroids and human tumors: argininosuccinate synthase 1 (ASS1), annexin A4 (ANXA4) and major vault protein (MVP); of these, ASS1 was the only consistently upregulated of the three genes by qRT-PCR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27452468&#34; target=&#34;_blank&#34;&gt;27452468&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Argininosuccinate synthase 1 (ASS1) is the rate-limiting enzyme for arginine biosynthesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27584578&#34; target=&#34;_blank&#34;&gt;27584578&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preclinical studies show that arginine deprivation is synthetically lethal in argininosuccinate synthetase 1 (ASS1)-negative cancers, including mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28388291&#34; target=&#34;_blank&#34;&gt;28388291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Purpose Pegylated arginine deiminase (ADI-PEG 20) depletes essential amino acid levels in argininosuccinate synthetase 1 (ASS1) -negative tumors by converting arginine to citrulline and ammonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28464918&#34; target=&#34;_blank&#34;&gt;28464918&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Protein expression (argininosuccinate synthetase, ornithine transcarbamylase, cleaved PARP, cleaved caspase 3, cyclins (A2, D3, E1 and H), CDK4 and Ki67) and arginine concentration were evaluated by Western blot and ELISA respectively. […] Argininosuccinate synthetase was expressed in H28, H226, and H2452 cells as well as 211H and H266 xenografts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29524617&#34; target=&#34;_blank&#34;&gt;29524617&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, other promising targeted therapies, including pegylated adenosine deiminase (ADI-PEG20), which focuses on argininosuccinate synthase 1-deficient tumors, and tazemetostat, an enhancer of zeste 2 polycomb repressive complex 2 subunit inhibitor of BRCA1 associated protein 1 gene (BAP1)-deficient tumors, are currently being explored.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/decitabine/</link>
+      <atom:link href="/mesothelioma/drugpanel/decitabine/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/decitabine/</link>
+    </image>
+    
+    <item>
+      <title>DECITABINE</title>
+      <link>/mesothelioma/drugpanel/decitabine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/decitabine/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01262&#39; target=&#39;_blank&#39;&gt;db01262&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=decitabine&#34; target=&#34;_blank&#34;&gt;decitabine&lt;/a&gt; &lt;br&gt;
+Synonymous :4-amino-1-(2-deoxy-β-d-erythro-pentofuranosyl)-s-triazin-2(1h)-one | 5-aza-2’-deoxycytidine | 5-azadeoxycytidine | dac | decitabina | decitabine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;decitabine&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19233506&#34; target=&#34;_blank&#34;&gt;19233506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, we compared two experimental strategies, DNMT1 silencing and usage of a demethylating agent (5-aza-2’-deoxycytidine or Decitabine), both theoretically able to revert the locally hypermethylated phenotype and considered potential future therapeutic approaches for MPM. […] Interestingly, both strategies substantially decrease cell survival of MPM cells but the antitumor activity of Decitabine, differently from DNMT1 silencing, is mediated, at least in part, by a p53-independent p21 upregulation, and is characterized by the arrest of MPM cells at the G2/M phase of the cell cycle. […] These results indicate that the two approaches act probably through different mechanisms and, thus, that DNMT1 silencing can be considered an effective alternative to Decitabine for cancer treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21095037&#34; target=&#34;_blank&#34;&gt;21095037&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+DNA demethylating agents recently introduced in clinical trials, such as 5-aza-cytidine (Decitabine) and its derivatives, have been extensively characterized in recent years as antiproliferative compounds that act through multiple mechanisms, which have not yet been fully clarified. […] We recently analyzed the introduction of Decitabine in therapy for malignant pleural mesothelioma (MPM) observing that, despite the ability to induce profound biological effects in MPM cells, the drug failed to generate a massive apoptotic response. […] Since one of the most intriguing aspects of DNA demethylating agents is the possibility to accelerate the senescent response of tumor cells, we investigated the hypothesis of Decitabine inducing, in vitro, the premature aging of MPM cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24457242&#34; target=&#34;_blank&#34;&gt;24457242&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ZIC1 expression was low in MPM cells, and was correlated with ZIC1 promoter methylation and reversed upon decitabine treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29946373&#34; target=&#34;_blank&#34;&gt;29946373&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously showed that a hypomethylating agent (decitabine) and a histone deacetylase inhibitor (HDACi) (valproic acid (VPA)) combination was immunogenic and led to the induction of an anti-tumor immune response in a mice model of mesothelioma. […] We evaluated their toxicity on immune cells and their immunogenicity on MPM cells in combination with decitabine. […] Combination with decitabine increased toxicity of HDACi only towards T-cell clone. […] Decitabine-induced anti-viral response seemed to be inhibited in the presence of HDACi. […] This work shows that the combination of decitabine and HDACi could be of interest for MPM immunotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31289611&#34; target=&#34;_blank&#34;&gt;31289611&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epigenetic control of microRNA expression was inferred following decitabine and Trichostatin A (TSA) treatment which did not substantially affect microRNA expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

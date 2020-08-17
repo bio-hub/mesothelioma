@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/tremelimumab/</link>
+      <atom:link href="/mesothelioma/drugpanel/tremelimumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/tremelimumab/</link>
+    </image>
+    
+    <item>
+      <title>TREMELIMUMAB</title>
+      <link>/mesothelioma/drugpanel/tremelimumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/tremelimumab/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11771&#39; target=&#39;_blank&#39;&gt;db11771&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tremelimumab&#34; target=&#34;_blank&#34;&gt;tremelimumab&lt;/a&gt; &lt;br&gt;
+Synonymous :ticilimumab
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tremelimumab&lt;/em&gt; gene in 7 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24035405&#34; target=&#34;_blank&#34;&gt;24035405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to investigate the efficacy, safety, and immunological activity of the anti-CTLA4 monoclonal antibody, tremelimumab, in advanced malignant mesothelioma. […] Patients received tremelimumab 15 mg/kg intravenously once every 90 days until progressive disease or severe toxicity. […] All patients received at least one dose of tremelimumab (median two doses, range one to nine). […] Although the effect size was small in our phase 2 trial, tremelimumab seemed to have encouraging clinical activity and an acceptable safety and tolerability profile in previously treated patients with advanced malignant mesothelioma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24615668&#34; target=&#34;_blank&#34;&gt;24615668&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The monoclonal antibodies ipilimumab and tremelimumab that block CTLA-4 can stimulate immune response and thus increase the number of tumor-infiltrating lymphocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25819643&#34; target=&#34;_blank&#34;&gt;25819643&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CTLA4 blockade by tremelimumab 15 mg/kg every 90 days provided preliminary evidence of activity in patients with pretreated malignant mesothelioma; however, retrospective exposure-response analysis of data from patients with melanoma suggested that this schedule could result in underexposure to tremelimumab. […] We therefore investigated the efficacy and safety of an intensified schedule of tremelimumab in patients with advanced malignant mesothelioma. […] Participants received tremelimumab 10 mg/kg once every 4 weeks for six doses, then every 12 weeks until disease progression, unacceptable toxic effects, or refusal to continue treatment. […] Patients received a median of six doses of tremelimumab (range 1-13). […] Our results suggest that the intensified schedule of tremelimumab investigated seems to have clinical and immunological activity in patients with advanced malignant mesothelioma, and a good safety profile.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26560442&#34; target=&#34;_blank&#34;&gt;26560442&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tremelimumab demonstrated therapeutic activity in different malignancies, including malignant pleural mesothelioma (MPM); however, continued research could improve the therapeutic index of this agent. […] This review describes tremelimumab’s clinical efficacy, administration and safety in patients affected with MPM and reports the state of the art clinical trials of tremelimumab. […] A literature search using the PubMed database was conducted using the search terms tremelimumab, MPM, current therapy, immune checkpoint blockage and cytotoxic T lymphocyte-associated antigen-4. […] Among these drugs, tremelimumab has been attracting attention as a potential new treatment for MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28729154&#34; target=&#34;_blank&#34;&gt;28729154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the DETERMINE study, we investigated the effects of the cytotoxic-T-lymphocyte-associated antigen 4 (CTLA-4) monoclonal antibody tremelimumab in patients with previously treated advanced malignant mesothelioma. […] Patients were randomly assigned (2:1) in blocks of three, stratified by European Organisation for Research and Treatment of Cancer status (low risk vs high risk), line of therapy (second line vs third line), and anatomic site (pleural vs peritoneal), by use of an interactive voice or web system, to receive intravenous tremelimumab (10 mg/kg) or placebo every 4 weeks for 7 doses and every 12 weeks thereafter until a treatment discontinuation criterion was met. […] Between May 17, 2013, and Dec 4, 2014, 571 patients were randomly assigned to receive tremelimumab (n=382) or placebo (n=189), of whom 569 patients received treatment (two patients in the tremelimumab group were excluded from the safety population because they did not receive treatment). […] At the data cutoff date (Jan 24, 2016), 307 (80%) of 382 patients had died in the tremelimumab group and 154 (81%) of 189 patients had died in the placebo group. […] Median overall survival in the intention-to-treat population did not differ between the treatment groups: 7·7 months (95% CI 6·8-8·9) in the tremelimumab group and 7·3 months (5·9-8·7) in the placebo group (hazard ratio 0·92 [95% CI 0·76-1·12], p=0·41). […] Treatment-emergent adverse events of grade 3 or worse occurred in 246 (65%) of 380 patients in the tremelimumab group and 91 (48%) of 189 patients in the placebo group; the most common were dyspnoea (34 [9%] patients in the tremelimumab group vs 27 [14%] patients in the placebo group), diarrhoea (58 [15%] vs one [&amp;lt;1%]), and colitis (26 [7%] vs none). […] The most common serious adverse events were diarrhoea (69 [18%] patients in the tremelimumab group vs one [&amp;lt;1%] patient in the placebo group), dyspnoea (29 [8%] vs 24 [13%]), and colitis (24 [6%] vs none). […] Treatment-emergent events leading to death occurred in 36 (9%) of 380 patients in the tremelimumab group and 12 (6%) of 189 in the placebo group; those leading to the death of more than one patient were mesothelioma (three [1%] patients in the tremelimumab group vs two [1%] in the placebo group), dyspnoea (three [1%] vs two [1%]); respiratory failure (one [&amp;lt;1%] vs three [2%]), myocardial infarction (three [1%] vs none), lung infection (three [1%] patients vs none), cardiac failure (one [&amp;lt;1%] vs one [&amp;lt;1%]), and colitis (two [&amp;lt;1%] vs none). […] Treatment-related adverse events leading to death occurred in five (1%) patients in the tremelimumab group and none in the placebo group. […] Tremelimumab did not significantly prolong overall survival compared with placebo in patients with previously treated malignant mesothelioma. […] The safety profile of tremelimumab was consistent with the known safety profile of CTLA-4 inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29773326&#34; target=&#34;_blank&#34;&gt;29773326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tremelimumab, an anti-CTLA4 monoclonal antibody, initially showed good activity when used alone in patients with mesothelioma, but did not improve the overall survival of patients who failed on first-line or second-line chemotherapy compared with placebo in the DETERMINE study. […] We aimed to investigate the efficacy and safety of first-line or second-line tremelimumab combined with durvalumab, an anti-PD-L1 monoclonal antibody, in patients with malignant mesothelioma. […] In this open-label, non-randomised, phase 2 trial, patients with unresectable pleural or peritoneal mesothelioma received intravenous tremelimumab (1 mg/kg bodyweight) and durvalumab (20 mg/kg bodyweight) every 4 weeks for four doses, followed by maintenance intravenous durvalumab at the same dose and schedule for nine doses. […] From Oct 30, 2015, to Oct 12, 2016, 40 patients with mesothelioma were enrolled and received at least one dose each of tremelimumab and durvalumab. […] The combination of tremelimumab and durvalumab appeared active, with a good safety profile in patients with mesothelioma, warranting further exploration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32682370&#34; target=&#34;_blank&#34;&gt;32682370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A multicenter, randomized trial (DETERMINE) proved that immune checkpoint inhibition using tremelimumab, an anti-cytotoxic T lymphocyte-associated protein 4 (CTLA-4) antibody, failed to improve median overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

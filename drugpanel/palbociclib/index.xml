@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesothelioma</title>
+    <link>/mesothelioma/drugpanel/palbociclib/</link>
+      <atom:link href="/mesothelioma/drugpanel/palbociclib/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesothelioma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>mesothelioma</title>
+      <link>/mesothelioma/drugpanel/palbociclib/</link>
+    </image>
+    
+    <item>
+      <title>PALBOCICLIB</title>
+      <link>/mesothelioma/drugpanel/palbociclib/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/mesothelioma/drugpanel/palbociclib/info/</guid>
+      <description>
+&lt;script src=&#34;/mesothelioma/mesotheliomarmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09073&#39; target=&#39;_blank&#39;&gt;db09073&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=palbociclib&#34; target=&#34;_blank&#34;&gt;palbociclib&lt;/a&gt; &lt;br&gt;
+Synonymous :6-acetyl-8-cyclopentyl-5-methyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrido[2,3-d]pyrimidin-7(8h)-one | palbociclib
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;palbociclib&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28704762&#34; target=&#34;_blank&#34;&gt;28704762&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Considering the high frequency of alterations of this gene, we tested in MPM cells the efficacy of palbociclib (PD-0332991), a highly selective inhibitor of cyclin-dependent kinase (CDK) 4/6. […] All the MPM cell lines, as well as the primary cultures, were sensitive to palbociclib with a significant blockade in G0/G1 phase of the cell cycle and with the acquisition of a senescent phenotype. […] Palbociclib reduced the phosphorylation levels of CDK6 and Rb, the expression of myc with a concomitant increased phosphorylation of AKT. […] Based on these results, we tested the efficacy of the combination of palbociclib with the PI3K inhibitors NVP-BEZ235 or NVP-BYL719. […] After palbociclib treatment, the sequential association with PI3K inhibitors synergistically hampered cell proliferation and strongly increased the percentage of senescent cells. […] These findings suggest that the sequential association of palbociclib with PI3K inhibitors may represent a valuable therapeutic option for the treatment of MPM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32708306&#34; target=&#34;_blank&#34;&gt;32708306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In MPM cells, we previously demonstrated the therapeutic efficacy of targeting this signaling with the CDK4/6 inhibitor palbociclib in combination with PI3K/mTOR inhibitors. […] Independently of these differences, combined treatments with palbociclib and PI3K/mTOR inhibitors inhibited cell proliferation more efficaciously than single agents. […] These metabolic effects were mediated by the concomitant inhibition of Rb/E2F/&lt;i&gt;c&lt;/i&gt;-myc and PI3K/AKT/mTOR signaling. &lt;b&gt;Conclusions&lt;/b&gt;: Dual blockade of glycolysis and respiration contributes to the anti-tumor efficacy of palbociclib-PI3K/mTOR inhibitors combination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
