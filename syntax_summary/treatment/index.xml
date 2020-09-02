@@ -7,7 +7,7 @@
     <description>Treatment</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mesothelioma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <url>/mesothelioma/images/icon_hu3365e08ad5ef6cb6d886bc511b9ad2b3_313689_512x512_fill_lanczos_center_2.png</url>
       <title>Treatment</title>
       <link>/mesothelioma/syntax_summary/treatment/</link>
     </image>
@@ -28940,7 +28940,7 @@ The surgical treatment comprises a radical pleuropneumonectomy with resection of
 
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; 27 terms used to create the Treatment Category and its counts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; 26 terms used to create the Treatment Category and its counts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -28954,14 +28954,6 @@ Count
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-All (sum)
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3044
-&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 treatment
